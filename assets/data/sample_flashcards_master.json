@@ -1,0 +1,3798 @@
+{
+  "topic-cog-bolgeler-kalkinma": [
+    {
+      "card_number": 1,
+      "title": "GAP (Güneydoğu Anadolu Projesi)",
+      "body": "Fırat ve Dicle nehirleri üzerindeki barajlarla sulama ve enerji projesidir. Pamuk ve mısır üretimi patlamıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "DOKAP (Doğu Karadeniz Projesi)",
+      "body": "Ulaşım, yayla turizmi (Yeşil Yol), balıkçılık ve arıcılığı geliştirmeyi hedefler. Taş kömürü çıkarımı içermez!"
+    },
+    {
+      "card_number": 3,
+      "title": "ZBK (Zonguldak-Bartın-Karabük Projesi)",
+      "body": "Kömür ve demir-çelik sanayisine bağımlılığı azaltmak, ekonomik çeşitlilik ve yeni iş alanları yaratmak projesidir."
+    },
+    {
+      "card_number": 4,
+      "title": "KOP (Konya Ovası Projesi)",
+      "body": "Göksu Nehri'nin sularını Mavi Tünel ile Konya Ovası'na aktararak yeraltı su çekimini ve obruk oluşumunu engelleme projesidir."
+    },
+    {
+      "card_number": 5,
+      "title": "DAP (Doğu Anadolu Projesi)",
+      "body": "Hayvancılığı geliştirmek, mera ıslahı yapmak ve et-süt entegre tesislerini artırmak ana hedefidir."
+    },
+    {
+      "card_number": 6,
+      "title": "YHGP (Yeşilırmak Havzası Gelişim Projesi)",
+      "body": "Amasya, Çorum, Samsun, Tokat illerinde erozyon, su kirliliği ve taşkınları önleme odaklı projedir."
+    },
+    {
+      "card_number": 7,
+      "title": "Serbest Ticaret Bölgeleri",
+      "body": "Gümrük ve vergi muafiyeti sağlayan alanlardır. Mersin, Ege (İzmir), Trabzon, Mardin serbest bölgeleri örnektir."
+    },
+    {
+      "card_number": 8,
+      "title": "Karstik Arazi Bölgemiz",
+      "body": "Akdeniz Bölgesi (Teke ve Taşeli Platoları). Kireçtaşı yaygındır, su yer altına sızar, tarım zordur."
+    },
+    {
+      "card_number": 9,
+      "title": "Güneş Enerjisi Potansiyeli En Yüksek",
+      "body": "Güneydoğu Anadolu ve Akdeniz bölgeleridir (Yıllık güneşlenme süresi 3000 saatin üstündedir)."
+    },
+    {
+      "card_number": 10,
+      "title": "Rüzgar Enerjisi Potansiyeli En Yüksek",
+      "body": "Marmara (Çanakkale, Balıkesir) ve Ege (İzmir, Alaçatı) bölgeleridir."
+    }
+  ],
+  "topic-cog-cografi-konum": [
+    {
+      "card_number": 1,
+      "title": "Türkiye'nin Matematiksel (Mutlak) Konumu",
+      "body": "Türkiye 36° - 42° Kuzey Paralelleri ile 26° - 45° Doğu Meridyenleri arasında yer alır."
+    },
+    {
+      "card_number": 2,
+      "title": "En Doğu ve En Batı Uçları",
+      "body": "En doğusu Iğdır (Dilucu), en batısı Çanakkale (Gökçeada - Avlaka Burnu)'dur. Aralarında 19 meridyen (76 dakika) fark vardır."
+    },
+    {
+      "card_number": 3,
+      "title": "En Kuzey ve En Güney Uçları",
+      "body": "En kuzeyi Sinop (İnceburun), en güneyi Hatay (Beysun köyü)'dur. Aralarında 6 paralellik (666 km) kuş uçuşu mesafe vardır."
+    },
+    {
+      "card_number": 4,
+      "title": "Orta Kuşakta Olmanın Sonuçları (AABC)",
+      "body": "Akdeniz iklimi görülür, Batı rüzgarları etkilidir, Dört mevsim belirgin yaşanır, Cephesel yağışlar görülür."
+    },
+    {
+      "card_number": 5,
+      "title": "Yengeç Dönencesi ve Bakı Etkisi",
+      "body": "Türkiye Yengeç Dönencesi'nin kuzeyinde olduğu için Güneş ışınları asla 90 dereceyle düşmez, dağların güney yamacı (bakı) daha sıcaktır."
+    },
+    {
+      "card_number": 6,
+      "title": "Gölge Boyu ve Yönü",
+      "body": "Türkiye'de yatay düzlemdeki cisimlerin gölge boyu asla sıfır olmaz. Gölge yönü yıl boyunca daima KUZEYİ gösterir."
+    },
+    {
+      "card_number": 7,
+      "title": "En Uzun Sınırımız ve Komşumuz",
+      "body": "En uzun kara sınırımız Suriye (911 km), en kısa kara sınırımız Nahçıvan (Azerbaycan - 18 km) ile olan sınırdır."
+    },
+    {
+      "card_number": 8,
+      "title": "En Eski ve Değişmeyen Sınırımız",
+      "body": "İran ile olan sınırımız 1639 Kasr-ı Şirin Antlaşması ile çizilmiş olup en eski ve hemen hemen hiç değişmeyen sınırımızdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Demiryolu Bağlantısı Olmayan Komşular",
+      "body": "Irak ve Nahçıvan (Azerbaycan) ile demiryolu sınır kapımız yoktur. Diğer komşularla demiryolu bağlantısı mevcuttur."
+    },
+    {
+      "card_number": 10,
+      "title": "Ulusal Saat (Yerel Saat) Kuralı",
+      "body": "Türkiye'de 2016'dan beri yıl boyunca 45° Doğu (Iğdır) meridyeninin yerel saati (+3 GMT) ortak ulusal saat olarak kullanılır."
+    }
+  ],
+  "topic-cog-iklim-bitki": [
+    {
+      "card_number": 1,
+      "title": "Akdeniz İklimi Özellikleri",
+      "body": "Yazları sıcak ve kurak, kışları ılık ve yağışlıdır. En fazla yağışı KIŞIN alır. Karakteristik bitki örtüsü MAKİ (Zeytin, zakkum, defne)'dir."
+    },
+    {
+      "card_number": 2,
+      "title": "Karadeniz İklimi Özellikleri",
+      "body": "Her mevsim yağışlı ve ılımandır. En fazla yağışı SONBAHARDA alır. Yağış rejimi en düzenli iklimdir. Bitki örtüsü ORMAN'dır."
+    },
+    {
+      "card_number": 3,
+      "title": "Karasal İklim Özellikleri",
+      "body": "Yazları sıcak ve kurak, kışları soğuk ve kar yağışlıdır. En fazla yağışı İLKBAHARDA alır (Kırkikindi yağışları). Bitki örtüsü BOZKIR'dır."
+    },
+    {
+      "card_number": 4,
+      "title": "Sert Karasal İklim (Erzurum-Kars)",
+      "body": "Yazları kısa ve serin, kışları çok soğuk geçer. En fazla yağışı YAZIN alır. Bitki örtüsü ALPIN ÇAYIR (Çernozom toprakları) dır."
+    },
+    {
+      "card_number": 5,
+      "title": "Türkiye'nin En Yağışlı Yeri",
+      "body": "Doğu Karadeniz (Rize çevreleri - 2400 mm üzeri) dağların kıyıya dik ve hemen gerisinde yükselmesi nedeniyle en çok yağış alan yerdir."
+    },
+    {
+      "card_number": 6,
+      "title": "Türkiye'nin En Az Yağış Alan Yeri",
+      "body": "Tuz Gölü çevresi (İç Anadolu) ve Iğdır Ovası etrafı dağlarla çevrili kuytu çöküntü alanları olduğu için en az yağış alan yerlerdir."
+    },
+    {
+      "card_number": 7,
+      "title": "Yerli (Zonal) Toprak Türleri",
+      "body": "Terra-Rossa (Akdeniz Kireçtaşı üzeri kiremit kırmızısı), Çernozom (Erzurum-Kars Kara toprak - En verimli), Podzol (Batı Karadeniz Soğuk nemli)."
+    },
+    {
+      "card_number": 8,
+      "title": "Taşınmış (Azonal) Toprak Türleri",
+      "body": "Alüvyal (Akarsu), Kolüvyal (Dağ etegi), Regosol (Volkanik), Moren (Buzul), Rüzgar (Lös). Mineralce verimlidir ancak katmanlaşma yoktur."
+    },
+    {
+      "card_number": 9,
+      "title": "Endemik Bitki Tanımı ve Örnekleri",
+      "body": "Dünyada sadece belirli bir yörede yetişen bitkilerdir. Sığla Ağacı (Muğla/Köyceğiz), Datça Hurması, Kasnak Meşesi (Isparta), Kazdağı Göknarı."
+    },
+    {
+      "card_number": 10,
+      "title": "Relikt (Kalıntı) Bitki Tanımı",
+      "body": "Geçmiş jeolojik dönem iklimlerinden günümüze ulaşmayı başarmış kalıntı bitkilerdir (Örn: Kelkit Vadisi'nde zeytin yetişmesi)."
+    }
+  ],
+  "topic-cog-madenler-enerji": [
+    {
+      "card_number": 1,
+      "title": "Demir Madeni Çıkarım Yerleri",
+      "body": "Sivas (Divriği, Kangal) ve Malatya (Hekimhan, Hasançelebi) ana çıkarım alanlarıdır. Karabük ve Ereğli'de işlenir (Kömüre yakınlık)."
+    },
+    {
+      "card_number": 2,
+      "title": "Bakır Madeni Çıkarım Yerleri (KADER)",
+      "body": "Kastamonu (Küre), Artvin (Murgul), Elazığ (Maden), Rize (Çayeli). Samsun'da işlenir (Ulaşım kolaylığı)."
+    },
+    {
+      "card_number": 3,
+      "title": "Krom Madeni Çıkarım Yerleri",
+      "body": "Paslanmaz çelik yapımında kullanılır. Elazığ (Guleman) ve Muğla (Fethiye-Dalaman). Antalya ve Elazığ Ferro-Krom tesislerinde işlenir."
+    },
+    {
+      "card_number": 4,
+      "title": "Bor Mineralleri Rezervi",
+      "body": "Dünya rezervinin %70'inden fazlası Türkiye'dedir. Balıkesir (Bandırma), Eskişehir (Kırka), Kütahya (Emet), Bursa (Mustafakemalpaşa)."
+    },
+    {
+      "card_number": 5,
+      "title": "Boksit (Alüminyum) Madeni",
+      "body": "Hafif ve dayanıklıdır. Konya (Seydişehir) ve Antalya (Akseki). Seydişehir Alüminyum Tesisleri tek entegre tesistir."
+    },
+    {
+      "card_number": 6,
+      "title": "Mermer Yatakları",
+      "body": "Türkiye'nin ihraç ettiği en önemli madendir. Afyonkarahisar, Balıkesir (Marmara Adası), Denizli, Bilecik ön sıradadır."
+    },
+    {
+      "card_number": 7,
+      "title": "Taş Kömürü (I. Jeolojik Zaman)",
+      "body": "Kalorisi yüksektir, demir-çelik sanayinde kullanılır. Zonguldak ve çevresinde çıkarılır."
+    },
+    {
+      "card_number": 8,
+      "title": "Linyit (III. Jeolojik Zaman)",
+      "body": "Türkiye'nin hemen her bölgesinde çıkarılır. Manisa (Soma), Kütahya (Tunçbilek, Seyitömer), Kahramanmaraş (Afşin-Elbistan)."
+    },
+    {
+      "card_number": 9,
+      "title": "Doğal Gaz Santrallerimiz (O H A)",
+      "body": "Ovaakça (Bursa), Hamitabat (Kırklareli), Ambarlı (İstanbul). Kırklareli (Hamitabat) ve Mardin (Çamurlu)'da çıkarılır."
+    },
+    {
+      "card_number": 10,
+      "title": "Jeotermal Enerji Santralleri",
+      "body": "Yeraltı sıcak su kaynaklarıdır (Fay hatları). Denizli (Sarayköy) ve Aydın (Germencik) santralleri meşhurdur."
+    }
+  ],
+  "topic-cog-nufus-yerlesme": [
+    {
+      "card_number": 1,
+      "title": "Türkiye Nüfus Sayımları",
+      "body": "Cumhuriyet tarihinin ilk nüfus sayımı 1927 yılında yapılmıştır. 2007'den beri Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS) kullanılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Nüfus Piramidimizin Özellikleri",
+      "body": "Türkiye nüfus piramidi arı kovanı şekline yaklaşmaktadır. Doğum oranları azalmakta, yaşlı nüfus oranı ve ortalama yaşam süresi artmaktadır."
+    },
+    {
+      "card_number": 3,
+      "title": "Nüfusun Yoğun Olduğu Yerler",
+      "body": "Marmara (Çatalca-Kocaeli), Kıyı Ege, Çukurova, Doğu Karadeniz Kıyıları, Gaziantep-Doğu Güneydoğu SANAYİ ve TARIM merkezleridir."
+    },
+    {
+      "card_number": 4,
+      "title": "Nüfusun Seyrek Olduğu Yerler",
+      "body": "Taşeli ve Teke Platoları (Karstik arazi), Menteşe Yöresi (Engebeli), Tuz Gölü Çevresi (Kurak), Erzurum-Kars (Soğuk), Yıldız Dağları (Sapa)."
+    },
+    {
+      "card_number": 5,
+      "title": "Aritmetik Nüfus Yoğunluğu",
+      "body": "Toplam Nüfus / Toplam Yüzölçümü. En yüksek olduğu bölge MARMARA, en düşük olduğu bölge DOĞU ANADOLU'dur."
+    },
+    {
+      "card_number": 6,
+      "title": "Fizyolojik Nüfus Yoğunluğu",
+      "body": "Toplam Nüfus / Tarım Alanları. Tarım alanlarının dar, nüfusun fazla olduğu Rize ve Doğu Karadeniz'de çok yüksektir."
+    },
+    {
+      "card_number": 7,
+      "title": "Toplu Yerleşme Şartları",
+      "body": "Yerşekillerinin düz, su kaynaklarının kısıtlı olduğu İç ve Güneydoğu Anadolu'da evler birbirine yakın toplu yerleşmedir."
+    },
+    {
+      "card_number": 8,
+      "title": "Dağınık Yerleşme Şartları",
+      "body": "Yerşekillerinin engebeli, su kaynaklarının bol olduğu Karadeniz Bölgesi'nde evler birbirinden uzak dağınık yerleşmedir."
+    },
+    {
+      "card_number": 9,
+      "title": "Kırsal Konut Malzemesi",
+      "body": "Karadeniz'de Ahşap; İç/Güneydoğu Anadolu'da Kerpiç (Toprak); Akdeniz ve Doğu Anadolu'da Taş malzeme yaygındır."
+    },
+    {
+      "card_number": 10,
+      "title": "Geçici Kırsal Yerleşmeler",
+      "body": "Yayla, Kom, Oba, Ağıl, Dam, Güzle. (Divan, Mezra, Mahalle ise SÜREKLİ kırsal yerleşmelerdir)."
+    }
+  ],
+  "topic-cog-sanayi-ulasim-ticaret": [
+    {
+      "card_number": 1,
+      "title": "Sanayinin Kuruluşunda Ham Maddeye Yakınlık",
+      "body": "Çabuk bozulan ürünlerde fabrika hammadde yanına kurulur. Çay (Rize), Şeker pancarı (İç Anadolu), Konserve/Zeytinyağı (Ege)."
+    },
+    {
+      "card_number": 2,
+      "title": "Sanayide Enerji Kaynağına Yakınlık",
+      "body": "Karabük ve Ereğli Demir-Çelik Fabrikaları taş kömürüne (enerjiye) yakınlık nedeniyle buraya kurulmuştur."
+    },
+    {
+      "card_number": 3,
+      "title": "Sanayide Ulaşıma Yakınlık",
+      "body": "Samsun Bakır İşletmesi ve İzmit İpraş Petrol Rafinerisi hammaddesi dışarıdan geldiği için ULAŞIM/LİMAN kolaylığıyla kurulmuştur."
+    },
+    {
+      "card_number": 4,
+      "title": "Petrol Rafinerilerimiz",
+      "body": "İzmit (İpraş), İzmir (Aliağa), Mersin (Ataş), Kırıkkale (Orta Anadolu) ve Batman (Hammaddeye yakın tek rafineri)."
+    },
+    {
+      "card_number": 5,
+      "title": "Pamuklu Dokuma Sanayii",
+      "body": "Adana, İzmir, Aydın, Denizli, Gaziantep, Kayseri ve İstanbul ön plandadır."
+    },
+    {
+      "card_number": 6,
+      "title": "Otomotiv Sanayii Merkezleri",
+      "body": "Bursa, Kocaeli, Sakarya, İzmir, Aksaray ve Adana ana üretim merkezleridir."
+    },
+    {
+      "card_number": 7,
+      "title": "Demiryolu Ulaşımı Olmayan İllerimiz",
+      "body": "Doğu Karadeniz (Trabzon, Rize, Artvin), Antalya, Muğla, Sinop, Kastamonu, Çanakkale, Hakkari'ye demiryolu ULAŞMAZ."
+    },
+    {
+      "card_number": 8,
+      "title": "En Gelişmiş ve Ucuz Taşıma Türü",
+      "body": "Uluslararası ticarette en ucuz taşıma türü DENİZ YOLU, en pahalı taşıma türü HAVA YOLU'dur."
+    },
+    {
+      "card_number": 9,
+      "title": "Türkiye'nin İhracat (Dış Satım) Ürünleri",
+      "body": "Motorlu kara taşıtları, beyaz eşya, tekstil, fındık, bor, mermer, çimento, krom, kablo."
+    },
+    {
+      "card_number": 10,
+      "title": "Türkiye'nin İthalat (Dış Alım) Ürünleri",
+      "body": "Ham petrol, doğal gaz, ham demir-çelik, elektronik cihazlar, ilaç, iş makinesi, uçak."
+    }
+  ],
+  "topic-cog-su-kaynaklari": [
+    {
+      "card_number": 1,
+      "title": "Türkiye Akarsularının Genel Özellikleri",
+      "body": "Debileri (akımları) düşüktür, rejimleri düzensizdir, rekreasyon ve hidroelektrik potansiyelleri yüksek, ULAŞIMA ELVERİŞSİZDİR (Bartın Çayı hariç)."
+    },
+    {
+      "card_number": 2,
+      "title": "Açık Havza ve Kapalı Havza Farkı",
+      "body": "Sularını denize ulaştırabilen akarsular Açık Havza; ulaştıramayıp gölde/bataklıkta sonlananlar Kapalı Havzadır (Tuz Gölü, Van Gölü, Göller Yöresi)."
+    },
+    {
+      "card_number": 3,
+      "title": "En Uzun Akarsuyumuz (Sınırlarımız İçi)",
+      "body": "Sınırlarımız içinde doğup yine sınırlarımız içinde denize dökülen en uzun akarsumuz KIZILIRMAK'tır (Sivas'tan doğar, Bafra'dan Karadeniz'e)."
+    },
+    {
+      "card_number": 4,
+      "title": "Sınırlarımız Dışında Denize Dökülenler",
+      "body": "Fırat ve Dicle (Basra Körfezi'ne), Aras ve Kura (Hazar Denizi'ne - Kapalı Havza) dökülür."
+    },
+    {
+      "card_number": 5,
+      "title": "Sınırlarımız Dışından Doğup Gelenler",
+      "body": "Meriç (Bulgaristan'dan doğar Ege'de dökülür) ve Asi (Lübnan'dan doğar Hatay'da dökülür)."
+    },
+    {
+      "card_number": 6,
+      "title": "En Büyük Doğal Gölümüz",
+      "body": "Van Gölü'dür. Suları sodalıdır (Karma oluşumlu: Tektonik + Volkanik set). Taşımacılık yapılan tek gölümüzdür."
+    },
+    {
+      "card_number": 7,
+      "title": "En Büyük Tatlı Su Gölümüz",
+      "body": "Beyşehir Gölü'dür. Gideğeni (ayağı) olduğu için suları tatlıdır ve içme suyu kaynağı olarak kullanılır."
+    },
+    {
+      "card_number": 8,
+      "title": "Tektonik Göllerimiz (Şifre: BAZİT KÖŞE)",
+      "body": "Beyşehir, Eğirdir, Burdur, Acıgöl, İznik, Sapanca, Ulubat, Manyas (Kuş Gölü), Tuz Gölü, Seyfe, Akşehir."
+    },
+    {
+      "card_number": 9,
+      "title": "Heyelan Set Göllerimiz (Karadeniz)",
+      "body": "Tortum (Erzurum), Sera (Trabzon), Abant ve Golcük (Bolu), Yedigöller, Borabay (Amasya)."
+    },
+    {
+      "card_number": 10,
+      "title": "En Büyük Baraj Göllerimiz",
+      "body": "Atatürk Barajı (Fırat üzeri - En büyük), Karakaya, Keban, Altınkaya, Deriner (En yüksek gövdeli baraj Çoruh üzeri)."
+    }
+  ],
+  "topic-cog-tarim-hayvancilik": [
+    {
+      "card_number": 1,
+      "title": "Intansif (Modern) Tarım",
+      "body": "Sulama, gübreleme, kaliteli tohum ve makine kullanımının yüksek olduğu, birim alandan en yüksek verimin alındığı gelişmiş tarımdır."
+    },
+    {
+      "card_number": 2,
+      "title": "Ekstansif (Geleneksel) Tarım",
+      "body": "Doğa koşullarına bağımlı, sulama ve teknolojinin az olduğu tarımdır. Yıldan yıla üretim dalgalanması fazladır."
+    },
+    {
+      "card_number": 3,
+      "title": "Nadas Tarımı ve Çözümü",
+      "body": "Toprağın nem ve mineral kazanması için bir yıl boş bırakılmasıdır. Sulamanın gelişmesi ve nöbetleşe ekim nadası azaltır."
+    },
+    {
+      "card_number": 4,
+      "title": "Devlet Kontrolünde Olan Ürünler",
+      "body": "Pirinç (Sıtma riski), Kenevir ve Haşhaş (Uyuşturucu), Tütün (Kalite kontrolü), Çay (Kota sınırlaması)."
+    },
+    {
+      "card_number": 5,
+      "title": "Cumhuriyetin Üretim Birincisi Ürünler",
+      "body": "Fındık, İncir, Kayısı, Kiraz, Antep Fıstığı ve Ayva üretiminde Türkiye dünya birincisidir."
+    },
+    {
+      "card_number": 6,
+      "title": "Zeytin ve İklim Seçiciliği",
+      "body": "Zeytin kış ılıklığı ister. Ege, Akdeniz ve Marmara ana üretim alanıdır. Doğu Karadeniz'de (Artvin/Mikroklima) yetişir."
+    },
+    {
+      "card_number": 7,
+      "title": "Büyükbaş Hayvancılık (Mera)",
+      "body": "Yaz yağışlarıyla gür yaz çayırlarının yetiştiği Erzurum-Kars ve Ardahan yöresinde mera büyükbaş hayvancılığı yaygındır."
+    },
+    {
+      "card_number": 8,
+      "title": "Küçükbaş Hayvancılık (Koyun/Keçi)",
+      "body": "Bozkır ikliminin görüldüğü İç ve Güneydoğu Anadolu'da Koyun; Taşeli ve Teke platolarında Kıl Keçisi yaygındır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kümes Hayvancılığı Yayılışı",
+      "body": "İklimden etkilenmez! Tüketici nüfusa yakınlık nedeniyle İstanbul, Bursa, Bolu, Manisa gibi büyükşehir çevrelerinde yoğunlaşmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Arıcılıkta Önde Gelen İller",
+      "body": "Bitki çeşitliliğinin fazla olduğu Muğla (Çam balı), Ordu, Rize (Anzer balı), Kars ve Hakkari ön sıradadır."
+    }
+  ],
+  "topic-cog-turizm-unesco": [
+    {
+      "card_number": 1,
+      "title": "UNESCO Dünya Miras Listesi İlk Eserimiz",
+      "body": "Türkiye'den UNESCO Dünya Miras Listesi'ne giren ilk alan Divriği Ulu Camii ve Darüşşifası'dır (Sivas - 1985)."
+    },
+    {
+      "card_number": 2,
+      "title": "UNESCO Listesindeki En Son Eserimiz",
+      "body": "2023 yılında eklenen Ankara (Gordion Antik Kenti) ve 2023'te eklenen Ahşap Direkli ve Kirişli Camilerdir."
+    },
+    {
+      "card_number": 3,
+      "title": "Hem Doğal Hem Kültürel Varlıklarımız",
+      "body": "Karma Miras Alanları: Pamukkale - Hierapolis (Denizli) ve Göreme Milli Parkı - Kapadokya (Nevşehir)."
+    },
+    {
+      "card_number": 4,
+      "title": "Göbeklitepe (Şanlıurfa)",
+      "body": "Tarihin sıfır noktası kabul edilen, bilinen en eski tapınak kompleksidir (UNESCO 2018)."
+    },
+    {
+      "card_number": 5,
+      "title": "Çatalhöyük (Konya)",
+      "body": "İnsanlık tarihinin ilk yerleşik kent modellerinden biri olan Neolitik kentin adıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Kış (Kayak) Turizmi Merkezleri",
+      "body": "Bursa (Uludağ), Erzurum (Palandöken), Kayseri (Erciyes), Bolu (Kartalkaya), Kars (Sarıkamış - Kristal kar)."
+    },
+    {
+      "card_number": 7,
+      "title": "Inanç Turizmi Merkezleri",
+      "body": "Meryem Ana Evi (İzmir/Efes), Sumela Manastırı (Trabzon), Saint Pierre Kilisesi (Hatay), Akdamar Kilisesi (Van)."
+    },
+    {
+      "card_number": 8,
+      "title": "Cittaslow (Sakin Şehir) İlk Kenti",
+      "body": "Türkiye'nin ilk sakin şehri (Cittaslow) İzmir - SEFERİHİSAR'dır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kruvaziyer Turizmi Limanları",
+      "body": "Lüks dev yolcu gemilerinin yanaştığı ana limanlarımız: Kuşadası (Aydın - En çok yanaşan), İstanbul ve İzmir'dir."
+    },
+    {
+      "card_number": 10,
+      "title": "Yayla Turizmi Merkezi",
+      "body": "Doğu Karadeniz (Rize Ayder Yaylası, Trabzon Uzungöl) ve Akdeniz Toros yaylaları en gelişmiş alanlardır."
+    }
+  ],
+  "topic-cog-yer-sekilleri": [
+    {
+      "card_number": 1,
+      "title": "Türkiye'nin Ortalama Yükseltisi",
+      "body": "Türkiye'nin ortalama yükseltisi 1132 metredir. Yükselti genel olarak batıdan doğuya doğru gidildikçe artar."
+    },
+    {
+      "card_number": 2,
+      "title": "Orojenez (Dağ Oluşumu) Türleri",
+      "body": "Kıvrım Dağlar (Toroslar ve Kuzey Anadolu Dağları) ve Kırık Dağlar (Ege'deki Kaz, Yunt, Bozdağlar, Aydın, Menteşe - Horst/Graben)."
+    },
+    {
+      "card_number": 3,
+      "title": "Volkanik Dağlarımız (Şifre: KEK - SAN)",
+      "body": "Doğu Anadolu: Ağrı, Tendürek, Süphan, Nemrut. İç Anadolu: Erciyes, Hasan Dağ, Melendiz, Karadağ, Karacadağ."
+    },
+    {
+      "card_number": 4,
+      "title": "Epirojenez (Kıta Oluşumu) Örnekleri",
+      "body": "Türkiye Alp-Himalaya orojenezi sonrası III. ve IV. Jeolojik zamanda toptan yükselmiştir. Çukurova ve Ergene çöküntü alanlarıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Karstik Aşınım ve Birikim Şekilleri",
+      "body": "Kireç taşı (Kalker), Jips ve Kaya tuzu arazilerde görülür. Lapya -> Dolin -> Uvala -> Polye (En büyük aşınım) ve Traverten (Birikim)."
+    },
+    {
+      "card_number": 6,
+      "title": "Rüzgarların En Etkili Olduğu Bölgeler",
+      "body": "Bitki örtüsünün cılız, iklimin kurak olduğu İç Anadolu ve Güneydoğu Anadolu'da rüzgar aşınım (Mantar kaya) ve birikim (Kumul) şekilleri görülür."
+    },
+    {
+      "card_number": 7,
+      "title": "Buzul (Glasyal) Şekilleri Yükseltisi",
+      "body": "Türkiye'de buzul şekilleri 2000-2200 metrenin üzerindeki yüksek dağlarda (Hakkari Cilo, Kaçkarlar, Erciyes, Ağrı, Uludağ) görülür."
+    },
+    {
+      "card_number": 8,
+      "title": "Delta Ovalarımızın Oluşum Şartları",
+      "body": "Kıyıda derinliğin az olması (sığ kıyı), kıyı akıntısının zayıf olması ve akarsuyun bol alüvyon taşıması gerekir."
+    },
+    {
+      "card_number": 9,
+      "title": "Önemli Delta Ovalarımız",
+      "body": "Karadeniz: Bafra (Kızılırmak), Çarşamba (Yeşilırmak). Akdeniz: Çukurova (Seyhan-Ceyhan), Silifke (Göksu). Ege: Dikili, Menemen, Selçuk, Balat."
+    },
+    {
+      "card_number": 10,
+      "title": "Fay Hatlarımız ve Deprem Risk Alanları",
+      "body": "Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay hatları aktiftir. Tuz Gölü çevresi, Taşeli ve Ergene deprem riski düşük alanlardır."
+    }
+  ],
+  "topic-gun-bilim-teknoloji": [
+    {
+      "card_number": 1,
+      "title": "James Webb Uzay Teleskobu (JWST)",
+      "body": "NASA, ESA ve CSA ortaklığıyla fırlatılan, Hubble'ın halefi kızılötesi uzay teleskobudur; evrenin ilk galaksilerini gözlemler."
+    },
+    {
+      "card_number": 2,
+      "title": "Büyük Hadron Çarpıştırıcısı (LHC)",
+      "body": "CERN (İsviçre-Fransa sınırı) altında yer alan dünyanın en büyük parçacık hızlandırıcısıdır (Higgs Bozonu keşfedilmiştir)."
+    },
+    {
+      "card_number": 3,
+      "title": "CRISPR-Cas9 Gen Düzenleme",
+      "body": "Genom üzerinde hassas kesme ve düzenleme yapmayı sağlayan moleküler makas genetik teknolojisidir (Nobel Kimya ödülü almıştır)."
+    },
+    {
+      "card_number": 4,
+      "title": "Mars Drone'u Ingenuity",
+      "body": "NASA'nın Perseverance uzay aracıyla Mars'a gönderilen ve başka bir gezegende uçan ilk motorlu hava aracıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Yapay Zeka Turing Testi",
+      "body": "Alan Turing tarafından önerilen, bir makinenin insan zekasından ayırt edilemeyecek şekilde yanıt verip veremediğini ölçen klasik testtir."
+    },
+    {
+      "card_number": 6,
+      "title": "Kuantum Bilgisayar ve Kubit",
+      "body": "Klasik bilgisayarlardaki 0 ve 1 bitleri yerine süperpozisyon özelliğine sahip 'Kubit' (Qubit) birimini kullanan kuantum sistemleridir."
+    },
+    {
+      "card_number": 7,
+      "title": "Nesnelerin İnterneti (IoT)",
+      "body": "Günlük hayattaki tüm cihazların (akıllı ev, araçlar) internet üzerinden birbirleriyle veri paylaşımı yapması teknolojisidir."
+    },
+    {
+      "card_number": 8,
+      "title": "Lidar Sensör Teknolojisi",
+      "body": "Otonom (sürücüsüz) araçlarda ve haritalamada kullanılan, lazer ışınları ile 3D çevre taraması yapan sensör sistemidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Kötü Amaçlı Yazılım (Malware)",
+      "body": "Bilgisayar sistemlerine sızmak, zarar vermek veya veri çalmak için tasarlanmış virüs, trojan ve fidye yazılımlarının genel adıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Ay'a Ayak Basan İlk İnsan",
+      "body": "Neil Armstrong, 1969 yılında Apollo 11 misyonu ile Ay yüzeyine ayak basan ilk insandır ('İnsan için küçük, insanlık için büyük bir adım')."
+    }
+  ],
+  "topic-gun-dunya-ve-nobel": [
+    {
+      "card_number": 1,
+      "title": "2024 Nobel Barış Ödülü Sahibi",
+      "body": "Japonya merkezli 'Nihon Hidankyo' örgütü, nükleer silahsızlanma çabaları nedeniyle 2024 Nobel Barış Ödülü'nü kazanmıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "2024 Nobel Edebiyat Ödülü Sahibi",
+      "body": "Güney Koreli yazar 'Han Kang', tarihsel travmalarla yüzleşen ve insan hayatının kırılganlığını gözler önüne seren düzyazılarıyla ödülü kazanmıştır."
+    },
+    {
+      "card_number": 3,
+      "title": "2023 Nobel Barış Ödülü Sahibi",
+      "body": "İranlı insan hakları savunucusu ve aktivist 'Nergis Muhammedi', kadın hakları mücadelesi nedeniyle ödülü almıştır."
+    },
+    {
+      "card_number": 4,
+      "title": "Nobel Ödülü Kazanan Türkler",
+      "body": "Orhan Pamuk (2006 Nobel Edebiyat Ödülü) ve Prof. Dr. Aziz Sancar (2015 Nobel Kimya Ödülü)."
+    },
+    {
+      "card_number": 5,
+      "title": "Birleşmiş Milletler (BM) Genel Sekreteri",
+      "body": "Antonio Guterres (Portekizli diplomat), 2017'den beri BM Genel Sekreterliği görevini yürütmektedir."
+    },
+    {
+      "card_number": 6,
+      "title": "Avrupa Birliği (AB) Komisyonu Başkanı",
+      "body": "Ursula von der Leyen (Alman siyasetçi), AB Komisyonu'nun ilk kadın başkanıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "NATO'ya Katılan Son Ülkeler",
+      "body": "Finlandiya (31. üye - 2023) ve İsveç (32. üye - 2024) NATO'ya katılan en son üye ülkelerdir."
+    },
+    {
+      "card_number": 8,
+      "title": "Euro Bölgesi'ne Katılan Son Ülke",
+      "body": "Hırvatistan, 1 Ocak 2023 itibarıyla Euro para birimine ve Schengen bölgesine resmen katılmıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "G7 ve G20 Liderler Zirvesi",
+      "body": "G7 gelişmiş 7 ülkenin birliğidir (ABD, İngiltere, Fransa, Almanya, İtalya, Kanada, Japonya). Türkiye G20 üyesidir."
+    },
+    {
+      "card_number": 10,
+      "title": "Dünyanın En Kalabalık Ülkesi",
+      "body": "Hindistan, BM verilerine göre Çin'i geride bırakarak dünyanın en kalabalık nüfusuna sahip ülkesi olmuştur."
+    }
+  ],
+  "topic-gun-kultur-sanat-unesco": [
+    {
+      "card_number": 1,
+      "title": "Tutunamayanlar ve Oğuz Atay",
+      "body": "Oğuz Atay'ın 'Tutunamayanlar' romanı Türk edebiyatında modernizm ve bilinç akışı tekniğinin öncü eseridir."
+    },
+    {
+      "card_number": 2,
+      "title": "Kaplumbağa Terbiyecisi Eseri",
+      "body": "Dünyaca ünlü tablo Sanayi-i Nefise Mektebi kurucusu ve arkeolog Osman Hamdi Bey'e aittir."
+    },
+    {
+      "card_number": 3,
+      "title": "Türk Edebiyatında 'Şair-i Azam'",
+      "body": "Abdülhak Hamit Tarhan 'Şair-i Azam' (Büyük Şair) unvanıyla tanınır; en ünlü şiiri eşinin ölümü üzerine yazdığı 'Makber'dir."
+    },
+    {
+      "card_number": 4,
+      "title": "İstiklal Marşı Şairi Mehmet Akif Ersoy",
+      "body": "İstiklal Marşı 12 Mart 1921'de kabul edilmiş, Mehmet Akif şiirini Türk ordusuna ithaf etmiş ve ödülü Darülmesai'ye bağışlamıştır."
+    },
+    {
+      "card_number": 5,
+      "title": "Sinekli Bakkal ve Halide Edip Adıvar",
+      "body": "Kurtuluş Savaşı romanlarıyla tanınan Halide Edip Adıvar'ın en bilinen eserlerinden biridir (Doğu-Batı sentezi)."
+    },
+    {
+      "card_number": 6,
+      "title": "İnce Memed ve Yaşar Kemal",
+      "body": "Yaşar Kemal'in Çukurova insanını, ağalık düzenini ve başkaldırıyı anlattığı 4 ciltlik dünyaca ünlü epic eseridir."
+    },
+    {
+      "card_number": 7,
+      "title": "Türk Edebiyatında İlk Romanlar",
+      "body": "İlk Yerli Roman: Taaşşuk-ı Talat ve Fitnat (Şemsettin Sami); İlk Çeviri Roman: Telemak (Yusuf Kamil Paşa); İlk Tarihi Roman: Cezmi (Namık Kemal)."
+    },
+    {
+      "card_number": 8,
+      "title": "Dünyanın En Eski Tapınağı Göbeklitepe",
+      "body": "Şanlıurfa'da yer alan, Neolitik döneme ait M.Ö. 10.000 yıllarına tarihlenen tarihin sıfır noktası tapınak kompleksidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Mesnevi ve Mevlana Celaleddin-i Rumi",
+      "body": "Tasavvuf düşüncesinin abidesi olan 26 bin beyitlik 'Mesnevi' eseri Mevlana'ya aittir (Şeb-i Arus: Vuslat gecesi ölüm yıldönümü)."
+    },
+    {
+      "card_number": 10,
+      "title": "İstiklal Marşı Bestecisi Zeki Üngör",
+      "body": "İstiklal Marşı'mızın günümüzde kullanılan resmi bestesi Cumhurbaşkanlığı Senfoni Orkestrası şefi Osman Zeki Üngör'e aittir."
+    }
+  ],
+  "topic-gun-spor-basarilari": [
+    {
+      "card_number": 1,
+      "title": "Okçuluk Olimpiyat ve Dünya Şampiyonu",
+      "body": "Mete Gazoz, 2020 Tokyo Olimpiyatları'nda ve 2023 Dünya Okçuluk Şampiyonası'nda altın madalya kazanmıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "Filenin Sultanları 2023 Şampiyonluğu",
+      "body": "Kadın Milli Voleybol Takımımız 2023 Milletler Ligi (VNL) ve 2023 Avrupa Şampiyonası'nda altın madalya alarak Dünya 1.si olmuştur."
+    },
+    {
+      "card_number": 3,
+      "title": "Olimpiyatlarda Atıcılık İkonu (Yusuf Dikeç)",
+      "body": "2024 Paris Olimpiyatları'nda teçhizatsız ve eli cebinde yaptığı atışla gümüş madalya kazanan ve dünya gündemine oturan milli atıcımızdır."
+    },
+    {
+      "card_number": 4,
+      "title": "Dünya ve Avrupa Şampiyonu Güreşçimiz",
+      "body": "Taha Akgül (Serbest stil) ve Rıza Kayaalp (Grekoromen stil) ata sporumuz güreşte tarihe geçen Olimpiyat ve Dünya şampiyonlarımızdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Boks Olimpiyat Şampiyonumuz",
+      "body": "Busenaz Sürmeneli, 2020 Tokyo Olimpiyatları'nda kadınlar boksta Türkiye tarihinin ilk altın madalyasını kazanmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "Dünya Şampiyonu Milli Jimnastikçimiz",
+      "body": "İbrahim Çolak (Halka aleti) ve Adem Asil (Erkekler genel toplam), Dünya Jimnastik Şampiyonası'nda altın madalya kazanmışlardır."
+    },
+    {
+      "card_number": 7,
+      "title": "Şahika Ercümen Serbest Dalış",
+      "body": "Milli sporcumuz Şahika Ercümen, paletsiz değişken ağırlık kategorisinde yüzlerce metreye dalarak dünya rekorları kırmıştır."
+    },
+    {
+      "card_number": 8,
+      "title": "Dünya Ampute Futbol Şampiyonu",
+      "body": "Ampute Futbol Milli Takımımız, 2022 Dünya Kupası ve Avrupa Şampiyonluklarında altın madalya alarak dünya zirvesine çıkmıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "2024 EURO Avrupa Futbol Şampiyonası",
+      "body": "2024 Avrupa Futbol Şampiyonası (EURO 2024) Almanya'nın ev sahipliğinde düzenlenmiş, şampiyon İspanya olmuştur."
+    },
+    {
+      "card_number": 10,
+      "title": "2032 Avrupa Futbol Şampiyonası Ev Sahibi",
+      "body": "EURO 2032 Avrupa Futbol Şampiyonası Türkiye ve İtalya ortak ev sahipliğinde düzenlenecektir."
+    }
+  ],
+  "topic-gun-turkiye-gundemi": [
+    {
+      "card_number": 1,
+      "title": "Türkiye'nin İlk Astronotu",
+      "body": "Alper Gezeravcı, Ocak 2024'te Ax-3 misyonu ile Uluslararası Uzay İstasyonu'na giderek uzaya çıkan ilk Türk astronot olmuştur."
+    },
+    {
+      "card_number": 2,
+      "title": "Türkiye'nin İkinci Uzay Yolcusu",
+      "body": "Tuva Cihangir Atasever, Haziran 2024'te Virgin Galactic firmasının yörünge altı uzay uçuşuyla uzay araştırmalarında yer almıştır."
+    },
+    {
+      "card_number": 3,
+      "title": "Dünyanın İlk SİHA Gemisi",
+      "body": "TCG Anadolu, Türk Deniz Kuvvetleri envanterine giren, üzerine SİHA (Bayraktar TB3, Kızılelma) inip kalkabilen ilk amfibi hücum gemisidir."
+    },
+    {
+      "card_number": 4,
+      "title": "Türkiye'nin İlk Yerli ve Milli Otomobili",
+      "body": "TOGG (Türkiye'nin Otomobili Girişim Grubu), ilk doğuştan elektrikli C-SUV modelini Gemlik tesislerinde üreterek yollara çıkarmıştır."
+    },
+    {
+      "card_number": 5,
+      "title": "Türkiye'nin İlk Muharip Uçağı",
+      "body": "KAAN (TUSAŞ tarafından geliştirilen), 5. nesil milli muharip savaş uçağımız olarak ilk uçuşunu başarıyla gerçekleştirmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Türkiye'nin Yerli Gözlem Uydusu",
+      "body": "İMECE, metre altı yüksek çözünürlüklü ilk yerli ve milli gözlem uydumuzdur (2023'te uzaya fırlatılmıştır)."
+    },
+    {
+      "card_number": 7,
+      "title": "Türkiye'nin İlk Yerli Haberleşme Uydusu",
+      "body": "Türksat 6A, Türk mühendisler tarafından yerli imkanlarla üretilen ilk haberleşme uydumuzdur."
+    },
+    {
+      "card_number": 8,
+      "title": "Türkiye'nin İlk İnsansız Savaş Uçağı",
+      "body": "Bayraktar KIZILELMA, Baykar tarafından geliştirilen jet motorlu insansız otonom savaş uçağıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "2024 Yılı Kültür ve Turizm Başkenti",
+      "body": "Türk Dünyası Kültür Başkenti olarak TÜRKSOY tarafından 2024 yılı için Aşkabat (Türkmenistan) şehri seçilmiştir."
+    },
+    {
+      "card_number": 10,
+      "title": "Türkiye'nin İlk Şehir Hastanesi",
+      "body": "Yozgat Şehir Hastanesi, Türkiye'de kamu-özel iş birliğiyle hizmete giren ilk şehir hastanesidir."
+    }
+  ],
+  "topic-geo-cember": [
+    {
+      "card_number": 1,
+      "title": "Çember Çevresi ve Daire Alanı",
+      "body": "Yarıçapı r olan çemberin Çevresi = 2.pi.r ; Dairenin Alanı = pi.r^2 formülü ile hesaplanır."
+    },
+    {
+      "card_number": 2,
+      "title": "Merkez Açı Özelliği",
+      "body": "Köşesi çemberin merkezinde olan açıdır. Merkez açının ölçüsü gördüğü yayın derece ölçüsüne BİREBİR EŞİTTİR."
+    },
+    {
+      "card_number": 3,
+      "title": "Çevre Açı Özelliği",
+      "body": "Köşesi çember üzerinde olan açıdır. Çevre açının ölçüsü gördüğü yayın derece ölçüsünün YARISINA eşittir."
+    },
+    {
+      "card_number": 4,
+      "title": "Çapı Gören Çevre Açı 90 Derecedir",
+      "body": "Çemberde çapı gören çevre açının ölçüsü daima 90 derecedir (Dik açıdır)."
+    },
+    {
+      "card_number": 5,
+      "title": "Aynı Yayı Gören Açıların Eşitliği",
+      "body": "Çemberde aynı yayı gören çevre açıların ölçüleri birbirine eşittir."
+    },
+    {
+      "card_number": 6,
+      "title": "Teğet - Yarıçap Dikliği",
+      "body": "Çemberin merkezinden teğetin değme noktasına çizilen yarıçap teğete DAİMA DİKTİR (90 derece)."
+    },
+    {
+      "card_number": 7,
+      "title": "Dışarıdaki Noktadan Çizilen Teğetler",
+      "body": "Çemberin dışındaki bir noktadan çembere çizilen iki teğet parçasının uzunlukları birbirine eşittir."
+    },
+    {
+      "card_number": 8,
+      "title": "Kirişler Dörtgeni Özelliği",
+      "body": "Köşeleri çember üzerinde olan dörtgenlerde karşılıklı açıların toplamı 180 derecedir (A + C = 180)."
+    },
+    {
+      "card_number": 9,
+      "title": "Daire Diliminin Alanı",
+      "body": "a derecelik açının gördüğü daire diliminin alanı = (pi . r^2) . (a / 360) formülüyle bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Kirişe İnen Dikme Kuralı",
+      "body": "Çemberin merkezinden kirişe inilen dikme, kirişi ve kirişin yayını iki eşit parçaya böler."
+    }
+  ],
+  "topic-geo-dortgenler": [
+    {
+      "card_number": 1,
+      "title": "Dörtgenin İç Açıları Toplamı",
+      "body": "Bütün konveks dörtgenlerin iç açıları toplamı 360 derece, dış açıları toplamı 360 derecedir."
+    },
+    {
+      "card_number": 2,
+      "title": "Paralelkenar Özellikleri",
+      "body": "Karşılıklı kenarları paralel ve eşittir. Karşılıklı açılar eşit, komşu açılar toplamı 180 derecedir. Köşegenler birbirini ortalar."
+    },
+    {
+      "card_number": 3,
+      "title": "Eşkenar Dörtgen Özellikleri",
+      "body": "Tüm kenarları eşittir. KÖŞEGENLER DİK KESİŞİR ve açıortaydır. Alan = (e . f) / 2 (Köşegenler çarpımının yarısı)."
+    },
+    {
+      "card_number": 4,
+      "title": "Dikdörtgen Özellikleri",
+      "body": "Açıları 90'ar derece olan paralelkenardır. Köşegen uzunlukları birbirine eşittir (e = f). Alan = a . b."
+    },
+    {
+      "card_number": 5,
+      "title": "Kare Özellikleri",
+      "body": "Tüm kenarları eşit, açıları 90 derece olan düzgün dörtgendir. Köşegenler eşit, dik kesişir ve 45 derecelik açıortaydır."
+    },
+    {
+      "card_number": 6,
+      "title": "Yamuk (Trapez) ve Orta Taban",
+      "body": "Alt ve üst tabanı paralel olan dörtgendir. Orta Taban = (Alt Taban + Üst Taban) / 2. Alan = Orta Taban x Yükseklik."
+    },
+    {
+      "card_number": 7,
+      "title": "İkizkenar Yamuk Özellikleri",
+      "body": "Paralel olmayan yan kenarları eşit olan yamuktur. Taban açıları eşittir ve köşegen uzunlukları birbirine eşittir."
+    },
+    {
+      "card_number": 8,
+      "title": "Deltoid Özellikleri",
+      "body": "Tabanları ortak iki ikizkenar üçgenin birleşimidir. KÖŞEGENLER DİK KESİŞİR ve simetri köşegeni açıortaydır."
+    },
+    {
+      "card_number": 9,
+      "title": "Çokgenlerin İç Açıları Toplamı",
+      "body": "n kenarlı bir çokgenin iç açıları toplamı (n - 2) . 180 derece formülüyle bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Düzgün Beşgen ve Altıgen Açısı",
+      "body": "Düzgün beşgenin bir iç açısı 108 derece; Düzgün altıgenin bir iç açısı 120 derecedir (Dış açı = 360 / n)."
+    }
+  ],
+  "topic-geo-kati-cisimler": [
+    {
+      "card_number": 1,
+      "title": "Prizmalarda Hacim Genel Formülü",
+      "body": "Bütün dik prizmaların Hacmi = Taban Alanı x Yükseklik (V = T.A . h) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 2,
+      "title": "Dikdörtgenler Prizması",
+      "body": "Hacim = a . b . c ; Yüzey Alanı = 2(ab + bc + ac) ; Cismin Köşegeni = kök(a^2 + b^2 + c^2)."
+    },
+    {
+      "card_number": 3,
+      "title": "Küp Özellikleri ve Hacmi",
+      "body": "Tüm kenarları a olan küpün Hacmi = a^3 ; Yüzey Alanı = 6.a^2 ; Cisim Köşegeni = a.kök(3)'tür."
+    },
+    {
+      "card_number": 4,
+      "title": "Silindirin Hacmi ve Alanı",
+      "body": "Yarıçapı r, yüksekliği h olan silindirin Hacmi = pi . r^2 . h ; Yanal Alanı = 2.pi.r.h dır."
+    },
+    {
+      "card_number": 5,
+      "title": "Piramit Hacim Formülü (1/3 Kuralı)",
+      "body": "Piramitlerin Hacmi = (Taban Alanı x Yükseklik) / 3 (V = 1/3 . T.A . h) dır."
+    },
+    {
+      "card_number": 6,
+      "title": "Koninin Hacmi ve Yanal Alanı",
+      "body": "Yarıçapı r, ana doğrusu l olan koninin Hacmi = (pi.r^2.h) / 3 ; Yanal Alanı = pi . r . l dır."
+    },
+    {
+      "card_number": 7,
+      "title": "Kürenin Hacmi Formülü",
+      "body": "Yarıçapı R olan kürenin Hacmi = (4/3) . pi . R^3 formülü ile hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "Kürenin Yüzey Alanı Formülü",
+      "body": "Yarıçapı R olan kürenin Yüzey Alanı = 4 . pi . R^2 formülü ile bulunur."
+    },
+    {
+      "card_number": 9,
+      "title": "Benzerlik Oranının Hacme Etkisi",
+      "body": "İki benzer katı cismin alanları oranı benzerlik oranının karesi (k^2); HACİMLERİ ORANI ise benzerlik oranının KÜPÜDÜR (k^3)."
+    },
+    {
+      "card_number": 10,
+      "title": "Silindir Açınımı Yanal Yüzey",
+      "body": "Dik silindir açıldığında yanal yüzeyi bir dikdörtgen olur. Dikdörtgenin kenarları 2.pi.r ve h'dir."
+    }
+  ],
+  "topic-geo-ucgenler": [
+    {
+      "card_number": 1,
+      "title": "Üçgenin İç ve Dış Açıları",
+      "body": "Herhangi bir üçgenin iç açıları toplamı 180 derece, dış açıları toplamı 360 derecedir."
+    },
+    {
+      "card_number": 2,
+      "title": "İki İç Açı Bir Dış Açıya Eşittir",
+      "body": "Bir üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri toplamına eşittir."
+    },
+    {
+      "card_number": 3,
+      "title": "Üçgen Eşitsizliği Kuralı",
+      "body": "Bir üçgende bir kenar uzunluğu diğer iki kenarın toplamından küçük, farkının mutlak değerinden büyüktür: |b-c| < a < b+c."
+    },
+    {
+      "card_number": 4,
+      "title": "Pisagor Teoremi (Dik Üçgen)",
+      "body": "Bir dik üçgende hipotenüsün karesi dik kenarların kareleri toplamına eşittir: a^2 + b^2 = c^2."
+    },
+    {
+      "card_number": 5,
+      "title": "Özel Dik Üçgenler (Kenarlarına Göre)",
+      "body": "3-4-5, 5-12-13, 8-15-17, 7-24-25 ve bunların katları olan üçgenler soru çözdürür."
+    },
+    {
+      "card_number": 6,
+      "title": "30-60-90 Özel Dik Üçgeni",
+      "body": "30 derecenin karşısı x ise; 90 derecenin karşısı 2x, 60 derecenin karşısı x.kök(3) olur."
+    },
+    {
+      "card_number": 7,
+      "title": "45-45-90 İkizkenar Dik Üçgen",
+      "body": "Dik kenarlar x ise hipotenüs kenarların kök(2) katıdır (x.kök(2))."
+    },
+    {
+      "card_number": 8,
+      "title": "Öklid Bağıntıları (Dikine Dik)",
+      "body": "Dik açıdan dik inildiğinde yükseklik h^2 = p . k ; kenarlar b^2 = k . a dır."
+    },
+    {
+      "card_number": 9,
+      "title": "Muhteşem Üçlü Kuralı",
+      "body": "Bir dik üçgende hipotenüse ait kenarortay uzunluğu, hipotenüste böldüğü parçaların uzunluğuna eşittir."
+    },
+    {
+      "card_number": 10,
+      "title": "Üçgende Alan Formülü",
+      "body": "Üçgenin Alanı = (Taban x O Taban Ait Yükseklik) / 2 veya Sinüslü Alan = 1/2 . a . b . sin(C)."
+    }
+  ],
+  "topic-mat-bolunebilme": [
+    {
+      "card_number": 1,
+      "title": "2 İle Bölünebilme Kuralı",
+      "body": "Bir sayının birler basamağı çift (0, 2, 4, 6, 8) ise sayı 2 ile tam bölünür."
+    },
+    {
+      "card_number": 2,
+      "title": "3 İle Bölünebilme Kuralı",
+      "body": "Bir sayının rakamları toplamı 3 veya 3'ün katı ise sayı 3 ile tam bölünür."
+    },
+    {
+      "card_number": 3,
+      "title": "4 İle Bölünebilme Kuralı",
+      "body": "Bir sayının son iki basamağı 00 veya 4'ün katı ise sayı 4 ile tam bölünür. Örnek: 316, 500."
+    },
+    {
+      "card_number": 4,
+      "title": "5 İle Bölünebilme Kuralı",
+      "body": "Bir sayının birler basamağı 0 veya 5 ise sayı 5 ile tam bölünür."
+    },
+    {
+      "card_number": 5,
+      "title": "8 İle Bölünebilme Kuralı",
+      "body": "Bir sayının son üç basamağı 000 veya 8'in katı ise sayı 8 ile tam bölünür."
+    },
+    {
+      "card_number": 6,
+      "title": "9 İle Bölünebilme Kuralı",
+      "body": "Bir sayının rakamları toplamı 9 veya 9'un katı ise sayı 9 ile tam bölünür."
+    },
+    {
+      "card_number": 7,
+      "title": "10 İle Bölünebilme Kuralı",
+      "body": "Bir sayının birler basamağı 0 ise sayı 10 ile tam bölünür. Birler basamağındaki rakam aynı zamanda 10'a bölümünden kalandır."
+    },
+    {
+      "card_number": 8,
+      "title": "11 İle Bölünebilme Testi (+ - +)",
+      "body": "Sayının rakamları sağdan sola doğru sırasıyla +, -, +, - işaretleriyle çarpılıp toplanır. Sonuç 11'in katı olmalıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Aralarında Asal Çarpan Kuralı",
+      "body": "Bir sayı aralarında asal iki sayıya tam bölünüyorsa çarpımlarına da bölünür. Örnek: Hem 3 hem 4'e bölünen sayı 12'ye de bölünür."
+    },
+    {
+      "card_number": 10,
+      "title": "45 İle Bölünebilme Şifresi",
+      "body": "Bir sayının 45 ile bölünebilmesi için aralarında asal olan hem 5'e hem de 9'a tam bölünmesi gerekir. Önce 5 kuralı incelenir."
+    }
+  ],
+  "topic-mat-denklemler-esitsizlikler": [
+    {
+      "card_number": 1,
+      "title": "Birinci Dereceden Denklem",
+      "body": "ax + b = 0 denkleminde x = -b/a çözümdür. a = 0 ve b = 0 ise çözüm kümesi Tüm Reel Sayılardır (R)."
+    },
+    {
+      "card_number": 2,
+      "title": "Çözümsüz Denklem (Boş Küme)",
+      "body": "ax + b = 0 denkleminde a = 0 ve b != 0 ise denklem sağlanmaz, Çözüm Kümesi = Boş Küme (Ø) olur."
+    },
+    {
+      "card_number": 3,
+      "title": "Eşitsizliklerde Yön Değiştirme Kuralı",
+      "body": "Bir eşitsizliğin her iki tarafı negatif (-) bir sayı ile çarpılır veya bölünürse eşitsizlik sembolü yön değiştirir."
+    },
+    {
+      "card_number": 4,
+      "title": "Taraf Tarafa Toplama Eşitsizlik",
+      "body": "Aynı yönlü eşitsizlikler taraf tarafa toplanabilir. Fakat taraf tarafa çıkarma veya bölme YAPILAMAZ."
+    },
+    {
+      "card_number": 5,
+      "title": "Mutlak Değer Tanımı",
+      "body": "Bir sayının başlangıç noktasına (0) olan uzaklığıdır; sonucu asla negatif olamaz (|x| >= 0)."
+    },
+    {
+      "card_number": 6,
+      "title": "|x| = a Denklemi Çözümü",
+      "body": "a > 0 olmak üzere |x| = a ise x = a veya x = -a olmak üzere iki farklı durum incelenir."
+    },
+    {
+      "card_number": 7,
+      "title": "|x| < a Eşitsizliği Çözümü",
+      "body": "a > 0 için |x| < a ifadesi -a < x < a şeklinde aralık olarak çözülür."
+    },
+    {
+      "card_number": 8,
+      "title": "|x| > a Eşitsizliği Çözümü",
+      "body": "a > 0 için |x| > a ifadesi x > a veya x < -a şeklinde iki ayrı durum olarak çözülür."
+    },
+    {
+      "card_number": 9,
+      "title": "Karesi Kendisinden Küçük Sayılar",
+      "body": "x^2 < x şartını sağlayan sayılar 0 ile 1 arasındaki pozitif basit kesirlerdir (0 < x < 1)."
+    },
+    {
+      "card_number": 10,
+      "title": "İki Bilinmeyenli Denklem Sistemi",
+      "body": "Yok etme veya yerine koyma metodu kullanılarak değişkenlerden biri elenir ve diğer bilinmeyen bulunur."
+    }
+  ],
+  "topic-mat-ebob-ekok": [
+    {
+      "card_number": 1,
+      "title": "EBOB (En Büyük Ortak Bölen)",
+      "body": "İki veya daha fazla sayıyı aynı anda bölen en büyük pozitif tam sayıdır. Örnek: EBOB(12, 18) = 6'dır."
+    },
+    {
+      "card_number": 2,
+      "title": "EKOK (En Küçük Ortak Kat)",
+      "body": "İki veya daha fazla sayının ortak katı olan en küçük pozitif tam sayıdır. Örnek: EKOK(12, 18) = 36'dır."
+    },
+    {
+      "card_number": 3,
+      "title": "EBOB x EKOK Formülü",
+      "body": "İki a ve b doğal sayısı için: EBOB(a,b) x EKOK(a,b) = a x b formülü daima geçerlidir."
+    },
+    {
+      "card_number": 4,
+      "title": "Aralarında Asal Sayılarda EBOB-EKOK",
+      "body": "a ve b aralarında asal ise EBOB(a,b) = 1 ve EKOK(a,b) = a x b olur. Örnek: EBOB(8,9)=1, EKOK(8,9)=72."
+    },
+    {
+      "card_number": 5,
+      "title": "Bidon / Poşet Problemleri (EBOB)",
+      "body": "Büyük parçalardan küçük parçalar elde ediliyorsa (çuvaldaki pirinçleri torbalara koyma, tarlanın etrafına direk dikme) EBOB kullanılır."
+    },
+    {
+      "card_number": 6,
+      "title": "Zil / Otobüs Problemleri (EKOK)",
+      "body": "Küçük parçalardan büyük zamanlar veya yapılar oluşturuluyorsa (zillerin aynı anda çalması, nöbet tutma) EKOK kullanılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Karesel Fayans Kaplama (EKOK)",
+      "body": "Boyutları verilen tuğlalarla küp yapma veya dikdörtgen yüzeyi kare fayanslarla kaplama sorularında EKOK hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "Bahçe Etrafına Direk Dikme",
+      "body": "Kenarları a ve b olan dikdörtgen bahçenin köşelerine de gelmek şartıyla eşit aralıklarla direk dikilirse, direk sayısı = Çevre / EBOB(a,b)."
+    },
+    {
+      "card_number": 9,
+      "title": "Kesirli Sayılarda EKOK Formülü",
+      "body": "a/b ve c/d kesirlerinin EKOK'u = EKOK(a,c) / EBOB(b,d) formülü ile bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Ardışık Sayılarda EBOB",
+      "body": "Ardışık iki pozitif tam sayının EBOB'u daima 1'dir. Örnek: EBOB(14, 15) = 1."
+    }
+  ],
+  "topic-mat-grafik-tablo-detay": [
+    {
+      "card_number": 1,
+      "title": "Daire Grafiği Açısı (360 Derece)",
+      "body": "Daire grafiğinde tüm verilerin toplamı 360 derecelik açıya karşılık gelir. Orantı 360 derece üzerinden kurulur."
+    },
+    {
+      "card_number": 2,
+      "title": "Daire Grafiğinde Yüzde Derece Dönüşümü",
+      "body": "%100 dilim 360 derece ise, %1'lik dilim 3.6 dereceye denk gelir. Örnek: %25 dilim = 90 derecelik dik açıdır."
+    },
+    {
+      "card_number": 3,
+      "title": "Çizgi Grafiği Kullanım Amacı",
+      "body": "Zaman içindeki sürekli değişimi, artış/azalış trendlerini ve sıcaklık/döviz takibini göstermek için en uygun grafiktir."
+    },
+    {
+      "card_number": 4,
+      "title": "Sütun Grafiği Kullanım Amacı",
+      "body": "Farklı kategorilerin veya grupların miktarlarını birbiriyle karşılaştırmak için kullanılır."
+    },
+    {
+      "card_number": 5,
+      "title": "Grafikte Yüzde Değişim Bulma",
+      "body": "Artış Oranı = [(Son Değer - İlk Değer) / İlk Değer] x 100 formülüyle grafik üzerinden hesaplanır."
+    },
+    {
+      "card_number": 6,
+      "title": "İki Grafiği Birbirine Bağlama",
+      "body": "Birinci grafikte bulunan toplam miktar (örn: ürün sayısı), ikinci grafikteki açılara ortak oran olarak dağıtılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Tablo Okumada Satır-Sütun Kesişimi",
+      "body": "İki boyutlu tablolarda yatay satır ile dikey sütunun kesiştiği hücre aranan veriyi verir."
+    },
+    {
+      "card_number": 8,
+      "title": "Eğim ve Grafik Hızı",
+      "body": "Yol-Zaman grafiğinde çizginin eğimi (dikey/yatay) hızı verir. Çizgi ne kadar dikse hız o kadar yüksektir."
+    },
+    {
+      "card_number": 9,
+      "title": "Grafikte Kâr-Zarar Bölgesi",
+      "body": "Gelir-Gider grafiğinde Gelir çizgisi Gider çizgisinin üstündeyse KÂR, altındaysa ZARAR bölgesidir."
+    },
+    {
+      "card_number": 10,
+      "title": "Grafik Sorularında Birim Kontrolü",
+      "body": "Eksenlerdeki sayıların (Bin), (Milyon) veya (kg/ton) cinsinden olup olmadığına mutlaka dikkat edilmelidir."
+    }
+  ],
+  "topic-mat-hiz-zaman-yol": [
+    {
+      "card_number": 1,
+      "title": "Temel Yol Formülü",
+      "body": "Yol = Hız x Zaman (x = V . t). Buradan Hız = Yol / Zaman (V = x/t) türetilir."
+    },
+    {
+      "card_number": 2,
+      "title": "Zıt Yönlü Hareket (Karşılaşma)",
+      "body": "Birbirine doğru hareket eden iki aracın karşılaşma süresi t = Yol / (V1 + V2) formülüyle bulunur. Hızlar toplanır."
+    },
+    {
+      "card_number": 3,
+      "title": "Aynı Yönlü Hareket (Yetişme)",
+      "body": "Arkadaki hızlı aracın öndekine yetişme süresi t = Aradaki Yol / (V1 - V2) formülüyle bulunur. Hızlar çıkarılır."
+    },
+    {
+      "card_number": 4,
+      "title": "Ortalama Hız Formülü",
+      "body": "Ortalama Hız = Toplam Yol / Toplam Zaman formülü ile hesaplanır. Hızların aritmetik ortalaması ALINMAZ."
+    },
+    {
+      "card_number": 5,
+      "title": "Eşit Mesafede Ortalama Hız",
+      "body": "Bir yolu V1 hızıyla gidip V2 hızıyla dönen aracın ortalama hızı = 2.V1.V2 / (V1 + V2) harmonic ortalamadır."
+    },
+    {
+      "card_number": 6,
+      "title": "Tren ve Tünel Problemi",
+      "body": "Trenin tüneli tamamen geçmesi için alması gereken toplam yol = Tünel Boyu + Trenin Kendi Boyudur."
+    },
+    {
+      "card_number": 7,
+      "title": "Akıntı / Rüzgar Problemi",
+      "body": "Akıntı yönünde giderken Hız = V_tekne + V_akıntı; akıntıya karşı giderken Hız = V_tekne - V_akıntı olur."
+    },
+    {
+      "card_number": 8,
+      "title": "Dairesel Pistte Karşılaşma",
+      "body": "Zıt yönde koşan iki hareketli pistin çevresini V1 + V2 hızıyla tamamlar: Çevre = (V1 + V2) . t."
+    },
+    {
+      "card_number": 9,
+      "title": "Dairesel Pistte Yan Yana Gelme",
+      "body": "Aynı yönde koşan hızlı olanın yavaş olana tur takması için gereken zaman: Çevre = (V1 - V2) . t."
+    },
+    {
+      "card_number": 10,
+      "title": "km/s 'yi m/s 'ye Çevirme",
+      "body": "km/saat cinsinden verilen hızı m/saniye yapmak için sayı 5/18 ile çarpılır. Örnek: 90 km/s = 25 m/s."
+    }
+  ],
+  "topic-mat-isci-havuz": [
+    {
+      "card_number": 1,
+      "title": "Bir Günde Yapılan İş Mantığı",
+      "body": "Bir işçi işin tamamını x günde bitiriyorsa, 1 günde işin 1/x kadarını yapar."
+    },
+    {
+      "card_number": 2,
+      "title": "Birlikte Çalışma Formülü",
+      "body": "A işçi x günde, B işçi y günde bitiriyorsa ikisi birlikte t günde: (1/x + 1/y) . t = 1 (İşin tamamı 1'dir)."
+    },
+    {
+      "card_number": 3,
+      "title": "İşçi Sayısı ile Zaman Orantısı",
+      "body": "İşçi sayısı ile işin bitme süresi TERS ORANTILIDIR. İşçi sayısı artarsa işin bitme süresi kısalır."
+    },
+    {
+      "card_number": 4,
+      "title": "İş Kapasitesi (Hız) İlişkisi",
+      "body": "İşçinin çalışma hızı (kapasitesi) ile işi bitirme süresi TERS ORANTILIDIR. Hızı 2 katına çıkanın süresi yarıya iner."
+    },
+    {
+      "card_number": 5,
+      "title": "Birlikte Başlayıp Ayrılma",
+      "body": "Birlikte t1 gün çalışıp A ayrılırsa: (1/x + 1/y).t1 + (1/y).t2 = 1 formülü kullanılır."
+    },
+    {
+      "card_number": 6,
+      "title": "Orantı Kurma İş Problemi",
+      "body": "Yapılan İş 1 / Diğer Verilerin Çarpımı 1 = Yapılan İş 2 / Diğer Verilerin Çarpımı 2 formülü hayat kurtarır."
+    },
+    {
+      "card_number": 7,
+      "title": "Musluk Havuz Doldurma-Boşaltma",
+      "body": "Dolduran musluklar +, boşaltan musluk - olarak alınır: (1/A + 1/B - 1/C) . t = 1."
+    },
+    {
+      "card_number": 8,
+      "title": "Havuzun Ortasındaki Boşaltan Musluk",
+      "body": "Ortadaki musluk sadece kendi seviyesinin üzerindeki kısmı boşaltabilir, alt kısma etkisi yoktur."
+    },
+    {
+      "card_number": 9,
+      "title": "Eşit Kapasiteli İşçiler",
+      "body": "n tane eşit kapasiteli işçi birlikte çalışırsa iş tek işçinin bitirme süresinin n'e bölünmesiyle bulunur (t / n)."
+    },
+    {
+      "card_number": 10,
+      "title": "İş miktarını 100 Veya EKOK Seçme",
+      "body": "Kesirlerle uğraşmamak için toplam iş miktarına günlerin EKOK'u değer olarak atanabilir."
+    }
+  ],
+  "topic-mat-kar-zarar": [
+    {
+      "card_number": 1,
+      "title": "Maliyet, Satış ve Kâr İlişkisi",
+      "body": "Satış Fiyatı = Maliyet + Kâr. Kâr tutarı = Maliyet x (Kâr Yüzdesi / 100)."
+    },
+    {
+      "card_number": 2,
+      "title": "Maliyet ve Zarar İlişkisi",
+      "body": "Satış Fiyatı = Maliyet - Zarar. Zarar tutarı = Maliyet x (Zarar Yüzdesi / 100)."
+    },
+    {
+      "card_number": 3,
+      "title": "Etiket Fiyatı Üzerinden İndirim",
+      "body": "İndirimli Fiyat = Etiket Fiyatı - İndirim Tutarı. İndirim daima Etiket Fiyatı üzerinden hesaplanır."
+    },
+    {
+      "card_number": 4,
+      "title": "Maliyete 100x Verme Taktiği",
+      "body": "Ürünün maliyetine 100x denir. %30 kârla satış 130x, bu fiyat üzerinden %10 indirim ise 130x - 13x = 117x olur."
+    },
+    {
+      "card_number": 5,
+      "title": "Enflasyon ve Alım Gücü",
+      "body": "Maaşa yapılan zam oranı enflasyon oranından düşükse alım gücü düşer, yüksekse alım gücü artar."
+    },
+    {
+      "card_number": 6,
+      "title": "Çürük / Fire Verme Problemleri",
+      "body": "Meyve çürüyüp fire verirse kilogram maliyeti artar. Toplam ödenen para / Kalan sağlam miktar = Yeni Birim Maliyet."
+    },
+    {
+      "card_number": 7,
+      "title": "Hileli Tartı Problemleri",
+      "body": "Eksik tartan tartı satıcıya kâr sağlar. 1000 gr yerine 800 gr tartan satıcı %25 kâr elde eder (200/800 = 1/4)."
+    },
+    {
+      "card_number": 8,
+      "title": "Kâr Oranı Neye Göre Hesaplanır?",
+      "body": "Aksi belirtilmedikçe kâr veya zarar oranı daima MALİYET FİYATINA göre hesaplanır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kapatıyoruz İndirimi Şifresi",
+      "body": "Maliyeti 100 olan mala %50 zam yapıp (150), sonra %50 indirim yapılırsa sonuç 75 olur (%25 zarar edilir)."
+    },
+    {
+      "card_number": 10,
+      "title": "Faiz Hesaplama Formülü",
+      "body": "Yıllık Faiz = (Ana Para . Faiz Oranı . Zaman) / 100 (F = A.n.t / 100)."
+    }
+  ],
+  "topic-mat-kesir-problemleri": [
+    {
+      "card_number": 1,
+      "title": "Kesrin Değeri ve Katları",
+      "body": "Değeri a/b olan bir kesrin payına a.k, paydasına b.k denilerek denklem kurulur."
+    },
+    {
+      "card_number": 2,
+      "title": "Payda Çarpımı Katı Verme Taktiği",
+      "body": "Kesir problemlerinde bütüne (telin boyuna, paraya) paydaların EKOK'u veya çarpımı kat olarak verilir (Örn: 1/3 ve 1/4 için 12x)."
+    },
+    {
+      "card_number": 3,
+      "title": "Telin Orta Noktası Kayma Miktarı",
+      "body": "Bir telin bir ucundan x uzunluğunda parça kesilirse, telin orta noktası kalkan parçanın yarısı kadar (x / 2) kayar."
+    },
+    {
+      "card_number": 4,
+      "title": "Kalanın Kesri İfadesi",
+      "body": "Paranın 1/3'ünü harcayıp 'kalanın' 1/4'ü denirse; önce kalan (2/3) bulunur, sonra 2/3 . 1/4 hesabı yapılır."
+    },
+    {
+      "card_number": 5,
+      "title": "Kova / Depo Ağırlığı Problemi",
+      "body": "Kabın kendi ağırlığı (dara) c olsun. Tam dolu kova ağırlığı = c + Su. Yarısı dolu kova = c + Su/2."
+    },
+    {
+      "card_number": 6,
+      "title": "Merdiven Basamakları Problemi",
+      "body": "Basamakları 2'şer 2'şer çıkıp 3'er 3'er inen kişinin adım sayısı x ise: Toplam Basamak = 2 . x1 = 3 . x2."
+    },
+    {
+      "card_number": 7,
+      "title": "Topun Zıplama Problemi",
+      "body": "h yüksekliğinden bırakılan top her seferinde k/m oranında zıplıyorsa; 1. zıplama = h.(k/m), 2. zıplama = h.(k/m)^2."
+    },
+    {
+      "card_number": 8,
+      "title": "Kesirlerde Toplama-Çıkarma",
+      "body": "Paydaları eşit olmayan kesirlerde önce paydalar eşitleme (genişletme) yapılır, sonra işlem tamamlanır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kesirlerde Bölme İşlemi",
+      "body": "Birinci kesir aynen yazılır, ikinci kesir ters çevrilip (takla attırılarak) birinciyle çarpılır."
+    },
+    {
+      "card_number": 10,
+      "title": "Bileşik ve Basit Kesir Farkı",
+      "body": "Payı paydasından mutlak değerce küçük olanlar Basit kesir (|a| < |b|); büyük veya eşit olanlar Bileşik kesirdir."
+    }
+  ],
+  "topic-mat-kumeler": [
+    {
+      "card_number": 1,
+      "title": "Küme ve Eleman Sayısı",
+      "body": "İyi tanımlanmış nesneler topluluğuna küme denir. A kümesinin eleman sayısı s(A) ile gösterilir."
+    },
+    {
+      "card_number": 2,
+      "title": "Alt Küme Sayısı Formülü",
+      "body": "n elemanlı bir kümenin alt küme sayısı 2^n formülü ile hesaplanır."
+    },
+    {
+      "card_number": 3,
+      "title": "Özalt Küme Sayısı",
+      "body": "Kümenin kendisi hariç alt kümeleridir. n elemanlı kümenin özalt küme sayısı 2^n - 1'dir."
+    },
+    {
+      "card_number": 4,
+      "title": "Kümelerde Birleşim (A U B)",
+      "body": "A ve B kümelerinin tüm elemanlarının bir kez yazılarak oluşturduğu kümedir: s(A U B) = s(A) + s(B) - s(A n B)."
+    },
+    {
+      "card_number": 5,
+      "title": "Kümelerde Kesişim (A n B)",
+      "body": "Hem A hem de B kümesinde ortak olarak bulunan elemanların oluşturduğu kümedir."
+    },
+    {
+      "card_number": 6,
+      "title": "Ayrık Kümeler",
+      "body": "Ortak elemanı olmayan kümelerdir. Ayrık kümelerde kesişim boş kümedir (A n B = Ø)."
+    },
+    {
+      "card_number": 7,
+      "title": "Fark Kümesi (A - B)",
+      "body": "A kümesinde olup B kümesinde olmayan elemanların oluşturduğu kümedir."
+    },
+    {
+      "card_number": 8,
+      "title": "Tümleyen Küme (A')",
+      "body": "Evrensel kümede (E) olup A kümesinde olmayan elemanlardır: s(A) + s(A') = s(E)."
+    },
+    {
+      "card_number": 9,
+      "title": "De Morgan Kuralları",
+      "body": "(A U B)' = A' n B' ve (A n B)' = A' U B' şeklinde tümleyen dağılır."
+    },
+    {
+      "card_number": 10,
+      "title": "Venn Şeması İle Problem Çözümü",
+      "body": "Dil/Spor bilmeyenler ve bilenler problemlerinde önce kesişim bölgesi (her ikisini bilenler) doldurulur."
+    }
+  ],
+  "topic-mat-sayi-dizileri": [
+    {
+      "card_number": 1,
+      "title": "Aritmetik Dizi Tanımı",
+      "body": "Ardışık terimleri arasındaki fark sabit olan dizilerdir. Ortak fark d ise: a_n = a_1 + (n - 1).d."
+    },
+    {
+      "card_number": 2,
+      "title": "Aritmetik Dizide Terim Toplamı",
+      "body": "İlk n terim toplamı S_n = (n / 2) . (a_1 + a_n) formülü ile bulunur."
+    },
+    {
+      "card_number": 3,
+      "title": "Geometrik Dizi Tanımı",
+      "body": "Ardışık terimleri arasındaki oran sabit olan dizilerdir. Ortak çarpan r ise: a_n = a_1 . r^(n - 1)."
+    },
+    {
+      "card_number": 4,
+      "title": "Fibonacci Sayı Dizisi",
+      "body": "Her terimin kendinden önceki iki terimin toplamı olduğu dizidir: 1, 1, 2, 3, 5, 8, 13, 21, 34..."
+    },
+    {
+      "card_number": 5,
+      "title": "Terim Sayısı Formülü",
+      "body": "Düzenli artan bir dizide Terim Sayısı = [(Son Terim - İlk Terim) / Artış Miktarı] + 1."
+    },
+    {
+      "card_number": 6,
+      "title": "Ortanca Terim İle Toplam",
+      "body": "Terim sayısı tek olan aritmetik dizilerde Toplam = Ortanca Terim x Terim Sayısı."
+    },
+    {
+      "card_number": 7,
+      "title": "Ardışık Çift Sayılar Toplamı",
+      "body": "2 + 4 + 6 + ... + 2n şeklindeki çift sayıların toplamı n.(n + 1) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "Ardışık Tek Sayılar Toplamı",
+      "body": "1 + 3 + 5 + ... + (2n - 1) şeklindeki tek sayıların toplamı n^2 formülü ile hesaplanır."
+    },
+    {
+      "card_number": 9,
+      "title": "Genel Terim (a_n) Mantığı",
+      "body": "Bir dizide n yerine 1 yazılarak 1. terim (a_1), n yerine 2 yazılarak 2. terim (a_2) elde edilir."
+    },
+    {
+      "card_number": 10,
+      "title": "Üstel Dizi Özelliği",
+      "body": "Geometrik dizide her terim kendisine eşit uzaklıktaki terimlerin geometrik ortalamasıdır: (a_k)^2 = a_(k-p) . a_(k+p)."
+    }
+  ],
+  "topic-mat-sayi-problemleri": [
+    {
+      "card_number": 1,
+      "title": "Tek Bilinmeyen Kullanma Sanatı",
+      "body": "İki sayının toplamı 50 ise birinciye x, ikinciye (50 - x) diyerek denklem sayısını teke düşürün."
+    },
+    {
+      "card_number": 2,
+      "title": "Kuyruk Problemleri (Önden ve Arkadan)",
+      "body": "Sırada baştan n. sırada, sondan m. sırada olan kişi için Toplam Kişi Sayısı = n + m - 1 (Kişi iki kez sayıldığı için 1 çıkarılır)."
+    },
+    {
+      "card_number": 3,
+      "title": "Kuyrukta İki Kişi Arasındaki Sayı",
+      "body": "A baştan x., B sondan y. ve aralarında k kişi varsa; A ile B yer değiştirmediyse Toplam = x + y + k."
+    },
+    {
+      "card_number": 4,
+      "title": "Adım Problemleri (İleri-Geri)",
+      "body": "7 adım ileri 2 adım geri atan biri 9 adımda 5 adım ilerler. Toplam adım sayısı 9'a bölünerek periyot hesaplanır."
+    },
+    {
+      "card_number": 5,
+      "title": "Mum Problemleri",
+      "body": "Boyları eşit iki mum t1 ve t2 saatte yanıyorsa mumların boyuna t1 ve t2'nin EKOK'u denilerek birim zamandaki erime hesaplanır."
+    },
+    {
+      "card_number": 6,
+      "title": "Ceviz / Sıra Paylaştırma",
+      "body": "Öğrenciler sıralara 2'şer oturunca 5 kişi ayakta kalıyorsa Öğrenci Sayısı = 2x + 5 (x: sıra sayısı)."
+    },
+    {
+      "card_number": 7,
+      "title": "Bilet Fiyatı ve Kişi Sayısı",
+      "body": "Bir grubun ödeyeceği toplam hesap = (Kişi Sayısı) x (Kişi Başına Düşen Miktar). Bazıları ödemezse diğerlerinin payı artar."
+    },
+    {
+      "card_number": 8,
+      "title": "Taksi Metre Problemi",
+      "body": "Ödenecek Taksi Ücreti = Açılış Ücreti + (Gidilen KM x KM Başına Ücret)."
+    },
+    {
+      "card_number": 9,
+      "title": "Yanlış Doğruyu Götüren Sınav",
+      "body": "4 yanlış 1 doğruyu götürüyorsa Net Sayısı = Doğru Sayısı - (Yanlış Sayısı / 4) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 10,
+      "title": "Bozuk Para / Banknot Sayısı",
+      "body": "5 TL ve 10 TL'lik toplam 20 banknot varsa 5 TL'lik x adet, 10 TL'lik (20-x) adet kabul edilip tutar eşitlenir."
+    }
+  ],
+  "topic-mat-sayilar-basamak": [
+    {
+      "card_number": 1,
+      "title": "Asal Sayı Altın Kuralı",
+      "body": "1'den ve kendisinden başka pozitif böleni olmayan 1'den büyük doğal sayılardır. En küçük ve tek çift asal sayı 2'dir (3, 5, 7, 11...)."
+    },
+    {
+      "card_number": 2,
+      "title": "Aralarında Asal Sayılar",
+      "body": "1'den başka ortak pozitif böleni olmayan sayılardır. Sayıların kendilerinin asal olması gerekmez. Örnek: 8 ile 9 aralarında asaldır."
+    },
+    {
+      "card_number": 3,
+      "title": "Çift ve Tek Sayılar Mantığı",
+      "body": "Tek x Tek = Tek; Çift x Her Şey = Çift. Çarpımın sonucu tek ise çarpanların hepsi tektir; çift ise en az bir çarpan çifttir."
+    },
+    {
+      "card_number": 4,
+      "title": "Basamak Değer Çözümlemesi",
+      "body": "AB iki basamaklı sayısı 10A + B; ABC üç basamaklı sayısı 100A + 10B + C olarak çözümlenir."
+    },
+    {
+      "card_number": 5,
+      "title": "AB - BA Çıkarma İpucu",
+      "body": "İki basamaklı AB ve BA sayılarının farkı: AB - BA = 9(A - B) formülü ile pratik şekilde bulunur."
+    },
+    {
+      "card_number": 6,
+      "title": "AB + BA Toplama İpucu",
+      "body": "İki basamaklı AB ve BA sayılarının toplamı: AB + BA = 11(A + B) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 7,
+      "title": "Faktöriyel Tanımı ve 0!",
+      "body": "n! = 1.2.3...n çarpımıdır. 0! = 1 ve 1! = 1 olarak kabul edilir. n! ifadesinde n >= 0 olmalıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Sonu 0 İle Biten Faktöriyel",
+      "body": "n! sayısının sonundaki sıfır sayısını bulmak için n sayısı sürekli 5'e bölünür ve bölüm rakamları toplanır."
+    },
+    {
+      "card_number": 9,
+      "title": "Pozitif Tam Bölen Sayısı (PBS)",
+      "body": "Bir sayının asal çarpanlarına ayrılmış hali a^x . b^y ise, Pozitif Bölen Sayısı = (x+1)(y+1) formülüyle bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Ardışık Sayılar Toplam Formülü",
+      "body": "1'den n'e kadar olan ardışık sayıların toplamı: n.(n+1) / 2 formülü ile hesaplanır."
+    }
+  ],
+  "topic-mat-sekil-oruntuleri": [
+    {
+      "card_number": 1,
+      "title": "Şekil Örüntüsü Adım Analizi",
+      "body": "Şekil örüntülerinde 1, 2 ve 3. adımlardaki kibrit/çubuk/kare sayıları sayı dizisine çevrilerek genel kural bulunur."
+    },
+    {
+      "card_number": 2,
+      "title": "Adım Miktarı Doğrusal Kural",
+      "body": "Her adımda kibrit sayısı 3 artıyorsa genel terim 3n ile başlar. 1. adımda 4 kibrit varsa kural (3n + 1)'dir."
+    },
+    {
+      "card_number": 3,
+      "title": "Karesel Şekil Örüntüleri",
+      "body": "Nokta veya kare sayısı 1, 4, 9, 16... şeklinde ilerliyorsa n. adımdaki eleman sayısı n^2 ile ifade edilir."
+    },
+    {
+      "card_number": 4,
+      "title": "Üçgensel Sayılar Dizisi",
+      "body": "1, 3, 6, 10, 15... şeklinde giden örüntülerde n. adımdaki eleman sayısı n.(n+1) / 2 formülüdür."
+    },
+    {
+      "card_number": 5,
+      "title": "Periyodik Tekrar Eden Şekiller",
+      "body": "Şekil dizilimi her 5 adımda bir başa dönüyorsa (ABCDEABCDE...), 43. adımdaki şekil için 43'ün 5'e bölümünden kalan 3 kullanılır (C)."
+    },
+    {
+      "card_number": 6,
+      "title": "İçi İçe Geçen Kareler Örüntüsü",
+      "body": "Her adımda karelerin kenarları yarıya iniyorsa alanlar 1/4 oranında küçülür (Geometrik azalış)."
+    },
+    {
+      "card_number": 7,
+      "title": "Köşe Noktaları Çakışması",
+      "body": "Yan yana dizilen altıgen/karelerde ortak kenarlar tekrar sayılmamalıdır (n adet kare için çubuk sayısı 3n + 1)."
+    },
+    {
+      "card_number": 8,
+      "title": "Katlanıp Kesilen Kağıt Şekli",
+      "body": "Kağıt 2'ye katlanıp kesilirse simetri eksenine göre açıldığında 2 katı parça ve simetrik delikler oluşur."
+    },
+    {
+      "card_number": 9,
+      "title": "Küp İstifleme (Birim Küp)",
+      "body": "Piramit şeklinde üst üste konan küplerde katlardaki küp sayıları 1, 3, 6 veya 1, 4, 9 dizilimini takip eder."
+    },
+    {
+      "card_number": 10,
+      "title": "Saat Yönünde Dönme Örüntüsü",
+      "body": "Şekil her adımda 90 derece dönüyorsa 4 adımda bir başa döner. n. adımdaki yön n mod 4 ile bulunur."
+    }
+  ],
+  "topic-mat-siralama-gruplama": [
+    {
+      "card_number": 1,
+      "title": "Permütasyon (Sıralama)",
+      "body": "n adet elemanın r'li sıralanışıdır: P(n,r) = n! / (n - r)!. Elemanların sırası (dizilişi) önemlidir."
+    },
+    {
+      "card_number": 2,
+      "title": "Kombinasyon (Seçme / Gruplama)",
+      "body": "n eleman arasından r eleman seçilmesidir: C(n,r) = n! / [r! . (n - r)!]. Sıralama önemsizdir, sadece seçim yapılır."
+    },
+    {
+      "card_number": 3,
+      "title": "Faktöriyel Pratik Permütasyon",
+      "body": "P(5, 3) hesaplanırken 5'ten geriye doğru 3 tane sayı çarpılır: 5 . 4 . 3 = 60."
+    },
+    {
+      "card_number": 4,
+      "title": "Tekrarlı Permütasyon Kuralı",
+      "body": "Bazı elemanları aynı olan n elemanın farklı sıralanışı: n! / (n1! . n2! ...). Örnek: KELEBEK kelimesi harf sıralanışı."
+    },
+    {
+      "card_number": 5,
+      "title": "Yuvarlak Masa Permütasyonu",
+      "body": "n kişinin yuvarlak bir masa etrafında farklı diziliş sayısı (n - 1)! formülü ile bulunur."
+    },
+    {
+      "card_number": 6,
+      "title": "Kombinasyon Özellikleri",
+      "body": "C(n, 0) = 1, C(n, n) = 1 ve C(n, a) = C(n, b) ise a + b = n olur. Örnek: C(10, 3) = C(10, 7)."
+    },
+    {
+      "card_number": 7,
+      "title": "Klasik Olasılık Formülü",
+      "body": "Bir A olayının olasılığı P(A) = İstenen Durum Sayısı / Tüm Olası Durumların Sayısı formülüyle hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "İmkansız ve Kesin Olasılık",
+      "body": "Olasılık değeri daima 0 ile 1 arasındadır (0 <= P(A) <= 1). 0 İmkansız Olay, 1 Kesin Olaydır."
+    },
+    {
+      "card_number": 9,
+      "title": "Bağımsız Olayların Olasılığı",
+      "body": "A ve B olayları birbirinden bağımsız ise birlikte gerçekleşme olasılığı P(A n B) = P(A) . P(B)'dir."
+    },
+    {
+      "card_number": 10,
+      "title": "Tümleyen Olasılık (1 - İstenmeyen)",
+      "body": "'En az bir' sorularında İstenen Olasılık = 1 - (Hiç Olmama Olasılığı) taktiği soruyu çok kısaltır."
+    }
+  ],
+  "topic-mat-uslu-koklu": [
+    {
+      "card_number": 1,
+      "title": "Üslü Sayılarda Çarpma",
+      "body": "Tabanlar aynı ise üsler toplanır (a^x . a^y = a^(x+y)); üsler aynı ise tabanlar çarpılır (a^x . b^x = (a.b)^x)."
+    },
+    {
+      "card_number": 2,
+      "title": "Üslü Sayılarda Bölme",
+      "body": "Tabanlar aynı ise payın üssünden paydanın üssü çıkarılır (a^x / a^y = a^(x-y))."
+    },
+    {
+      "card_number": 3,
+      "title": "Üssün Üssü Kuralı",
+      "body": "(a^x)^y = a^(x.y) şeklinde üsler birbiriyle çarpılır."
+    },
+    {
+      "card_number": 4,
+      "title": "Negatif Üs Kuralı",
+      "body": "a^(-n) = 1 / a^n demektir. Sayının rasyonel tersi alınarak üs pozitif yapılır. Örnek: 2^(-3) = 1/8."
+    },
+    {
+      "card_number": 5,
+      "title": "Sıfırıncı Üs Kuralı",
+      "body": "Sıfır hariç tüm sayıların sıfırıncı üssü 1'dir (a^0 = 1). 0^0 ifadesi ise belirsizdir."
+    },
+    {
+      "card_number": 6,
+      "title": "Köklü Sayıyı Üslü Yazma",
+      "body": "n. dereceden kök(a^m) ifadesi üslü olarak a^(m/n) şeklinde yazılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Köklü Sayılarda Toplama-Çıkarma",
+      "body": "Kök dereceleri ve kök içleri aynı olan köklü sayılar katsayıları toplanıp çıkarılarak işlenir."
+    },
+    {
+      "card_number": 8,
+      "title": "Kökten Dışarı Çıkarma",
+      "body": "kök(a^2 . b) ifadesinde karesi olan a dışarı çıkar, b kök içinde kalır: a.kök(b). Örnek: kök(12) = 2.kök(3)."
+    },
+    {
+      "card_number": 9,
+      "title": "Eşlenik İle Genişletme",
+      "body": "Paydasında köklü sayı olan kesirlerde pay ve payda paydayı kökten kurtarmak için eşleniğiyle çarpılır. Örnek: 1 / kök(2) = kök(2)/2."
+    },
+    {
+      "card_number": 10,
+      "title": "Çift Dereceli Kök İçerisi",
+      "body": "Derecesi çift olan köklü ifadelerin içi asla negatif olamaz (kök(x) için x >= 0 olmalıdır)."
+    }
+  ],
+  "topic-mat-yas-problemleri": [
+    {
+      "card_number": 1,
+      "title": "Yaş Farkı Asla Değişmez!",
+      "body": "İki kişi arasındaki yaş farkı yıllar geçse de DAİMA SABİTTİR, değişmez."
+    },
+    {
+      "card_number": 2,
+      "title": "n Yıl Sonraki ve Önceki Yaş",
+      "body": "Bugünkü yaşı x olan bir kişinin n yıl sonraki yaşı x + n; n yıl önceki yaşı x - n olur."
+    },
+    {
+      "card_number": 3,
+      "title": "Kişi Sayısına Göre Toplam Yaş",
+      "body": "k kişilik bir grubun bugünkü yaşları toplamı T ise, n yıl sonraki yaş toplamı T + (k . n) olur."
+    },
+    {
+      "card_number": 4,
+      "title": "Doğum Yılı ve Yaş İlişkisi",
+      "body": "Erken doğan kişi daha BÜYÜK, geç doğan kişi daha KÜÇÜK olur. Örnek: 1990 doğumlu, 1995 doğumludan 5 yaş büyüktür."
+    },
+    {
+      "card_number": 5,
+      "title": "'Senin Yaşına Geldiğimde' Şifresi",
+      "body": "A, B'nin yaşına geldiğinde aradan geçen zaman (B - A) kadardır. Her ikisinin yaşına da (B - A) eklenir."
+    },
+    {
+      "card_number": 6,
+      "title": "Yaş Ortalaması Değişimi",
+      "body": "k kişilik grubun yaş ortalaması A ise, n yıl sonra yaş ortalaması A + n olur (gruptan giren/çıkan yoksa)."
+    },
+    {
+      "card_number": 7,
+      "title": "Oran Verilen Yaş Problemleri",
+      "body": "Babanın yaşı çocuğun yaşının 3 katı ise çocuğa x, babaya 3x denir. 5 yıl sonra (x+5) ve (3x+5) denklem kurulur."
+    },
+    {
+      "card_number": 8,
+      "title": "İki Kişinin Yaşları Toplamı",
+      "body": "İki kişinin yaşları toplamı A ise biri x diğeri (A - x) olarak tek bilinmeyenle ifade edilebilir."
+    },
+    {
+      "card_number": 9,
+      "title": "Bugünkü Yaş Bulma",
+      "body": "Yaş hesaplamalarında bulunan x değeri soruda istenen kişinin bugünkü yaşı mı kontrol edilmelidir."
+    },
+    {
+      "card_number": 10,
+      "title": "Geçen Zaman Şifresi",
+      "body": "İki farklı zamandaki yaşlar verildiğinde geçen süre = (Son Yaş - İlk Yaş) kadardır."
+    }
+  ],
+  "topic-mat-yuzde-oran": [
+    {
+      "card_number": 1,
+      "title": "Bir Sayının Yüzdesini Bulma",
+      "body": "A sayısının %X'i = A . (X / 100) işlemi ile hesaplanır. Örnek: 200'ün %15'i = 200 . 15/100 = 30."
+    },
+    {
+      "card_number": 2,
+      "title": "Yüzde Değişimi Hesaplama",
+      "body": "Artış veya azalış yüzdesi = (Değişim Miktarı / İlk Miktar) . 100 formülüyle bulunur."
+    },
+    {
+      "card_number": 3,
+      "title": "100x Değişken Kabul Etme",
+      "body": "Yüzde problemlerinde bilinmeyen sayıya 'x' yerine '100x' demek küsuratlı işlemlerden kurtarır."
+    },
+    {
+      "card_number": 4,
+      "title": "Üst Üste Yüzde Zam (Bileşik)",
+      "body": "100 TL'lik ürüne %20 zam (120 TL), ardından %10 zam yapılırsa son fiyat 120 + 12 = 132 TL olur."
+    },
+    {
+      "card_number": 5,
+      "title": "Doğru Orantı Tanımı",
+      "body": "İki çokluktan biri artarken diğeri de aynı oranda artıyorsa doğru orantılıdır (a / b = k). Çapraz çarpım yapılır."
+    },
+    {
+      "card_number": 6,
+      "title": "Ters Orantı Tanımı",
+      "body": "İki çokluktan biri artarken diğeri aynı oranda azalıyorsa ters orantılıdır (a . b = k). Yan yana çarpım yapılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Orantı Sabiti (k) Mantığı",
+      "body": "a, b, c sayıları sırasıyla 2, 3, 5 ile orantılı ise a=2k, b=3k, c=5k kabul edilir."
+    },
+    {
+      "card_number": 8,
+      "title": "Aritmetik Ortalama",
+      "body": "Sayıların toplamının sayı adedine bölünmesidir: A.O = (x1 + x2 + ... + xn) / n."
+    },
+    {
+      "card_number": 9,
+      "title": "Geometrik Ortalama",
+      "body": "n adet sayının çarpımının n. dereceden köküdür. İki sayı için G.O = kök(a . b)."
+    },
+    {
+      "card_number": 10,
+      "title": "Karışım Problemleri Yüzdesi",
+      "body": "Saf Madde Miktarı / Toplam Karışım Miktarı = Karışımın Yüzdesi / 100 formülü kullanılır."
+    }
+  ],
+  "topic-tarih-antlasmalar-lozan": [
+    {
+      "card_number": 1,
+      "title": "Büyük Taarruz (Başkomutanlık Meydan Muh.)",
+      "body": "26 Ağustos 1922'de başlamış, Dumlupınar'da Yunan ordusu imha edilmiştir. Mustafa Kemal: 'Ordular ilk hedefiniz Akdeniz'dir, ileri!' demiştir."
+    },
+    {
+      "card_number": 2,
+      "title": "Mudanya Ateşkes Antlaşması (11 Ekim 1922)",
+      "body": "İsmet İnönü temsil etmiştir. Savaş yapılmadan Doğu Trakya, İstanbul ve Boğazlar kurtarılmıştır. Osmanlı fiilen ve hukuken sona ermiştir."
+    },
+    {
+      "card_number": 3,
+      "title": "Saltanatın Kaldırılması (1 Kasım 1922)",
+      "body": "Lozan'a iki hükümetin birden çağrılmasını önlemek ve milli egemenliği pekiştirmek için kaldırılmıştır. Osmanlı hukuken resmen bitti."
+    },
+    {
+      "card_number": 4,
+      "title": "Lozan Barış Konferansı Temsilcileri",
+      "body": "TBMM'yi Dışişleri Bakanı İsmet İnönü (Başkan), Rıza Nur ve Hasan Saka temsil etmiştir."
+    },
+    {
+      "card_number": 5,
+      "title": "Lozan'da Taviz Verilmeyen İki Konu",
+      "body": "Mustafa Kemal İsmet Paşa'dan KAPİTÜLASYONLAR ve ERMENİ YURDU konularında kesinlikle taviz verilmemesini istemiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Lozan'da Çözülen Kapitülasyonlar",
+      "body": "Kapitülasyonlar ve Düyun-ı Umumiye (Genel Borçlar İdaresi) tamamen kaldırılmış, ekonomik bağımsızlık sağlanmıştır."
+    },
+    {
+      "card_number": 7,
+      "title": "Lozan'da Çözülemeyen Tek Konu (Musul)",
+      "body": "Irak Sınırı (Musul sorunu) Türkiye ile İngiltere arasında ikili görüşmelere bırakılmış, Lozan'da çözülemeyen TEK konu olmuştur."
+    },
+    {
+      "card_number": 8,
+      "title": "Lozan'da Aleyhimize Çözülen Konular",
+      "body": "Hatay (Suriye sınırı) ve Boğazlar Komisyonu (Boğazlar yönetimi) Lozan'da aleyhimize çözülmüş, daha sonra lehimize çevrilmiştir."
+    },
+    {
+      "card_number": 9,
+      "title": "Patrikhane ve Azınlıklar Kararı",
+      "body": "Tüm azınlıklar Türk vatandaşı kabul edilerek Avrupalıların iç işlerimize karışması önlenmiştir. Patrikhane siyasi yetkilerinden arındırılmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Lozan Antlaşması'nın Önemi",
+      "body": "24 Temmuz 1923'te imzalanmış, Türkiye Cumhuriyeti'nin kurucu tapu senedi olmuş ve I. Dünya Savaşı antlaşmaları içinde hala geçerli tek antlaşmadır."
+    }
+  ],
+  "topic-tarih-ataturk-ilkeleri-dis-politika": [
+    {
+      "card_number": 1,
+      "title": "Cumhuriyetçilik İlkesi",
+      "body": "Milli egemenlik, seçim, meclis, çok partili hayat ve oy kullanma hakkı bu ilkeyle doğrudan ilgilidir."
+    },
+    {
+      "card_number": 2,
+      "title": "Milliyetçilik İlkesi",
+      "body": "Milli bağımsızlık, Türk dili, Türk tarihi, Kabotaj Kanunu, İstiklal Marşı ve ortak aidiyet vurgusudur."
+    },
+    {
+      "card_number": 3,
+      "title": "Halkçılık İlkesi",
+      "body": "Eşitlik, adalet, sosyal devlet, hiçbir sınıfa ayrıcalık tanınmaması ve Soyadı Kanunu bu ilkeyle ilgilidir."
+    },
+    {
+      "card_number": 4,
+      "title": "Devletçilik İlkesi",
+      "body": "Özel sektörün yetersiz kaldığı durumlarda ekonominin, sanayinin ve fabrikaların devlet eliyle yapılmasıdır (Sümerbank, Etibank)."
+    },
+    {
+      "card_number": 5,
+      "title": "Laiklik İlkesi",
+      "body": "Din ve devlet işlerinin ayrılması, akılcılık, bilimsellik, Halifeliğin kaldırılması ve Medeni Kanun."
+    },
+    {
+      "card_number": 6,
+      "title": "İnkılapçılık İlkesi",
+      "body": "Sürekli yenileşme, çağdaşlaşma, dinamizm, takvim, saat, ölçü ve Latin harflerinin kabulüdür."
+    },
+    {
+      "card_number": 7,
+      "title": "Nüfus Mübadelesi (Etabli)",
+      "body": "Yunanistan ile yaşanan İstanbul yerleşikleri dışındaki Türk ve Rum nüfusun karşılıklı değiştirilmesi olayıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Milletler Cemiyeti'ne Üyelik (1932)",
+      "body": "Türkiye'nin barışçıl dış politikası sonucu İspanya ve Yunanistan'ın teklifiyle Milletler Cemiyeti'ne üye olunmuştur."
+    },
+    {
+      "card_number": 9,
+      "title": "Balkan Antantı (1934) ve Sadabat Paktı (1937)",
+      "body": "Balkan Antantı (Türkiye, Yunanistan, Yugoslavya, Romanya) Batı sınırını; Sadabat Paktı (Türkiye, İran, Irak, Afganistan) Doğu sınırını korumuştur."
+    },
+    {
+      "card_number": 10,
+      "title": "Montrö Boğazlar Sözleşmesi (1936)",
+      "body": "Boğazlar Komisyonu kaldırılmış, Boğazların tüm egemenliği ve silahlandırılması Türkiye'ye geçmiştir."
+    }
+  ],
+  "topic-tarih-cagdas-turk-dunya": [
+    {
+      "card_number": 1,
+      "title": "Kara Perşembe (1929 Dünya Ekonomik Bunalımı)",
+      "body": "ABD New York borsasının çökmesiyle başlayan ve dünyayı sarsan krizdir. Türkiye'de Devletçilik ilkesi hız kazanmıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "II. Dünya Savaşı Müttefik ve Miğfer Blokları",
+      "body": "Müttefikler: İngiltere, Fransa, ABD, SSCB. Miğfer Devletler: Almanya, İtalya, Japonya."
+    },
+    {
+      "card_number": 3,
+      "title": "Türkiye'nin II. Dünya Savaşı Tutumu",
+      "body": "Türkiye savaş boyunca tarafsız kalmış, ancak San Francisco Konferansı'na katılmak ve BM kurucu üyesi olmak için Şubat 1945'te Almanya'ya savaş ilan etmiştir."
+    },
+    {
+      "card_number": 4,
+      "title": "Birleşmiş Milletler (BM) Kuruluşu (1945)",
+      "body": "Dünya barışını korumak için kurulmuştur. Güvenlik Konseyi'nin 5 daimi üyesi (Fırça/FİRÇA: Fransa, İngiltere, Rusya, Çin, ABD) veto hakkına sahiptir."
+    },
+    {
+      "card_number": 5,
+      "title": "Soğuk Savaş Dönemi ve Truman Doktrini",
+      "body": "ABD ile SSCB arasındaki gerilim dönemidir. Truman Doktrini ve Marshall Planı ile Türkiye ve Yunanistan'a ABD yardımı yapılmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "NATO ve Türkiye'nin Üyeliği (1952)",
+      "body": "Kuzey Atlantik Savunma İttifakı'dır. Türkiye Kore Savaşı'na asker göndererek 1952 yılında NATO'ya resmi üye olmuştur."
+    },
+    {
+      "card_number": 7,
+      "title": "Varşova Paktı",
+      "body": "NATO'ya karşı SSCB liderliğinde Doğu Bloku ülkeleri tarafından kurulan askeri ittifaktır."
+    },
+    {
+      "card_number": 8,
+      "title": "Kıbrıs Barış Harekatı (1974)",
+      "body": "EOKA örgütü ve Enosis'e (Kıbrıs'ı Yunanistan'a bağlama) karşı Bülent Ecevit hükümeti döneminde gerçekleştirilen harekat (Ayşe tatile çıksın parolası)."
+    },
+    {
+      "card_number": 9,
+      "title": "SSCB'nin Dağılması (1991) ve Bağımsızlık",
+      "body": "SSCB'nin dağılmasıyla Azerbaycan, Kazakistan, Özbekistan, Türkmenistan ve Kırgızistan bağımsızlıklarını kazanmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Türk Devletleri Teşkilatı (TDT)",
+      "body": "Türk dili konuşan ülkelerin kurduğu uluslararası örgüttür (Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan üyedir)."
+    }
+  ],
+  "topic-tarih-ilk-turk-devletleri": [
+    {
+      "card_number": 1,
+      "title": "Asya Hun Devleti Kurucusu",
+      "body": "Tarihte bilinen ilk Türk devletidir. Kurucusu Teoman, en parlak dönemi ise mete Han dönemidir."
+    },
+    {
+      "card_number": 2,
+      "title": "Mete Han ve Onlu Sistem",
+      "body": "Mete Han M.Ö. 209 yılında ilk düzenli Türk ordusunu kurmuş ve Onlu Sistemi getirmiştir (Kara Kuvvetlerinin kuruluşu kabul edilir)."
+    },
+    {
+      "card_number": 3,
+      "title": "Kavimler Göçü Sonuçları",
+      "body": "Balamir önderliğinde başlayan göçle Roma İkiğe ayrılmış, Feodalite (Derebeylik) doğmuş ve İlk Çağ kapanıp Orta Çağ başlamıştır."
+    },
+    {
+      "card_number": 4,
+      "title": "Yerleşik Hayata Geçen İlk Türkler",
+      "body": "Uygurlar, Maniheizm dinini kabul ederek yerleşik hayata geçen, ilk Türk şehrini (Ordu-Balık) ve matbaayı kullanan ilk Türk devletidir."
+    },
+    {
+      "card_number": 5,
+      "title": "Göktürkler (Kök Türkler)",
+      "body": "Tarihte 'Türk' adını ilk kez resmi devlet adı olarak kullanan devlettir. Bumin Kağan tarafından kurulmuştur."
+    },
+    {
+      "card_number": 6,
+      "title": "Orhun Abideleri Özelliği",
+      "body": "II. Göktürk (Kutluk) döneminde dikilen ilk Türkçe yazılı belgelerdir. Bilge Kağan, Kül Tigin ve Vezir Tonyukuk adına dikilmiştir."
+    },
+    {
+      "card_number": 7,
+      "title": "İslamiyeti Kabul Eden İlk Türk Boyu",
+      "body": "Karluklar, 751 Talas Savaşı'nda Müslüman Arapların yanında yer alarak İslamiyet'i kabul eden ilk Türk boyu olmuştur."
+    },
+    {
+      "card_number": 8,
+      "title": "Museviliği Kabul Eden İlk Türkler",
+      "body": "Hazarlar, Musevilik dinini benimseyen tek Türk devletidir. Ticaret yolları sayesinde Hazar Barış Çağı'nı (Pax Hazarica) yaşatmışlardır."
+    },
+    {
+      "card_number": 9,
+      "title": "İstiklal Simgesi Töre ve Kut",
+      "body": "Kut, hükümdara yönetme yetkisinin Tanrı tarafından verildiğine inanılmasıdır. Töre ise yazısız hukuk kurallarıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Kurultay (Toy / Keneş)",
+      "body": "Siyasi, askeri ve ekonomik kararların alındığı devlet meclisidir. Kağan olmadığında eşi Hatun da toplantılara katılabilir."
+    }
+  ],
+  "topic-tarih-inkilaplar": [
+    {
+      "card_number": 1,
+      "title": "Cumhuriyetin İlanı (29 Ekim 1923)",
+      "body": "Devletin rejimi belirlenmiş, Meclis Hükümeti sisteminden Kabine Sistemine geçilmiş, M. Kemal ilk Cumhurbaşkanı, İsmet Paşa ilk Başbakan olmuştur."
+    },
+    {
+      "card_number": 2,
+      "title": "Halifeliğin Kaldırılması (3 Mart 1924)",
+      "body": "Laikliğin en önemli adımıdır. Aynı gün Tevhid-i Tedrisat Kanunu çıkarılmış ve Şer'iye ve Evkaf Vekaleti kaldırılmıştır."
+    },
+    {
+      "card_number": 3,
+      "title": "Şer'iye ve Evkaf Vekaleti Yerine Kurulanlar",
+      "body": "Din işleri için Diyanet İşleri Başkanlığı, vakıf işleri için Vakıflar Genel Müdürlüğü kurulmuştur."
+    },
+    {
+      "card_number": 4,
+      "title": "Erkan-ı Harbiye Umumiye Vekaleti",
+      "body": "Kaldırılarak Genelkurmay Başkanlığı kurulmuş, böylece ordu siyasetten tamamen ayrılmıştır."
+    },
+    {
+      "card_number": 5,
+      "title": "Tevhid-i Tedrisat Kanunu (1924)",
+      "body": "Tüm öğretim kurumları Milli Eğitim Bakanlığı'na bağlanmış, eğitimde birlik ve laikleşme sağlanmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "Türk Medeni Kanunu (17 Şubat 1926)",
+      "body": "İsviçre'den uyarlanmıştır. Kadın-erkek hukuki ve sosyal eşitliği sağlanmış, tek eşlilik ve resmi nikah zorunlu olmuştur (Siyasi hak İÇERMEZ!)."
+    },
+    {
+      "card_number": 7,
+      "title": "Kadınlara Siyasi Hakların Verilmesi (BMI)",
+      "body": "1930 Belediye seçimleri, 1933 Muhtarlık seçimleri, 1934 Milletvekili seçilme hakkı (Şifre: BMW / BMI)."
+    },
+    {
+      "card_number": 8,
+      "title": "Harf İnkılabı (1 Kasım 1928)",
+      "body": "Latin alfabesi kabul edilmiş, okuma-yazma oranını artırmak için Millet Mektepleri açılmıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kabotaj Kanunu (1 Temmuz 1926)",
+      "body": "Türk karasularında gemi işletme ve liman hakkı Türk denizcilerine verilmiş, milliyetçilik ilkesi doğrultusunda deniz bağımsızlığı sağlanmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Soyadı Kanunu (1934)",
+      "body": "Ayrıcalık belirten unvanlar (Ağa, Paşa, Hoca) kaldırılmış, Mustafa Kemal'e TBMM tarafından 'Atatürk' soyadı verilmiştir."
+    }
+  ],
+  "topic-tarih-kurtulus-hazirlik": [
+    {
+      "card_number": 1,
+      "title": "Mustafa Kemal'in Samsun'a Çıkışı",
+      "body": "19 Mayıs 1919'da 9. Ordu Müfettişi olarak Bandırma vapurula Samsun'a çıkmış ve Milli Mücadele'yi fiilen başlatmıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "Amasya Genelgesi (22 Haziran 1919)",
+      "body": "Milli Mücadele'nin gerekçesi, amacı ve yöntemi ilk kez açıklanmıştır: 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.'"
+    },
+    {
+      "card_number": 3,
+      "title": "Mustafa Kemal'in Askerlikten İstifası",
+      "body": "Amasya Genelgesi sonrası, Erzurum Kongresi öncesinde (7-8 Temmuz 1919) tüm askeri ve resmi görevlerinden istifa etmiştir ('Sine-i millete döndüm')."
+    },
+    {
+      "card_number": 4,
+      "title": "Erzurum Kongresi (23 Temmuz 1919)",
+      "body": "Toplanış bakımından bölgesel, kararları bakımından MİLLİ bir kongredir. İlk kez Mebusan Meclisi'nin açılması ve Manda kabul edilemez kararı alınmıştır."
+    },
+    {
+      "card_number": 5,
+      "title": "Sivas Kongresi (4-11 Eylül 1919)",
+      "body": "Hem toplanış hem kararları bakımından MİLLİDİR. Tüm cemiyetler 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' adı altında birleştirilmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Temsil Heyeti'nin İlk Yürütme Yetkisi",
+      "body": "Sivas Kongresi'nde Ali Fuat Paşa'nın Batı Cephesi Komutanlığı'na atanması Temsil Heyeti'nin ilk yürütme yetkisi kullanımıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Amasya Görüşmeleri (Ekim 1919)",
+      "body": "İstanbul Hükümeti (Salih Paşa) ile Temsil Heyeti (Mustafa Kemal) arasında yapılmış; İstanbul Hükümeti Temsil Heyeti'ni İLK KEZ HUKUKEN TANIMIŞTIR."
+    },
+    {
+      "card_number": 8,
+      "title": "Misak-ı Milli Kararları (28 Ocak 1920)",
+      "body": "Son Osmanlı Mebusan Meclisi'nde kabul edilmiştir. Kapitülasyonlar, sınırlar, azınlıklar, borçlar ve boğazlar ilkesi belirlenmiştir."
+    },
+    {
+      "card_number": 9,
+      "title": "İstanbul'un Resmen İşgali (16 Mart 1920)",
+      "body": "Misak-ı Milli'nin kabulü üzerine İtilaf Devletleri İstanbul'u resmen işgal etmiş ve Mebusan Meclisi'ni basarak dağıtmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "İrade-i Milliye ve Hakimiyet-i Milliye",
+      "body": "Milli Mücadele'nin ilk yayın organı Sivas'ta çıkarılan İrade-i Milliye gazetesidir; Ankara'ya gelince Hakimiyet-i Milliye olmuştur."
+    }
+  ],
+  "topic-tarih-osmanli-dagilma-islahat": [
+    {
+      "card_number": 1,
+      "title": "Sened-i İttifak (1808)",
+      "body": "II. Mahmut ile Ayanlar arasında imzalanmıştır. Padişahın yetkileri ilk kez kısıtlanmış ve anayasal sürecin ilk adımı kabul edilmiştir."
+    },
+    {
+      "card_number": 2,
+      "title": "Vaka-i Hayriye (1826)",
+      "body": "II. Mahmut tarafından Yeniçeri Ocağı'nın kaldırılması olayıdır. Yerine Asakir-i Mansure-i Muhammediye ordusu kurulmuştur."
+    },
+    {
+      "card_number": 3,
+      "title": "Tanzimat Fermanı (1839)",
+      "body": "Mustafa Reşit Paşa tarafından Gülhane Parkı'nda okunmuştur. Hukukun üstünlüğü ilkesi kabul edilmiş ve kanun önünde eşitlik getirilmiştir."
+    },
+    {
+      "card_number": 4,
+      "title": "Islahat Fermanı (1856)",
+      "body": "Parrıs Antlaşması öncesi gayrimüslimlere ekstra din, vicdan ve mülkiyet hakları tanıyan fermandır."
+    },
+    {
+      "card_number": 5,
+      "title": "I. Meşrutiyet ve Kanun-i Esasi (1876)",
+      "body": "II. Abdülhamit döneminde ilan edilmiştir. Kanun-i Esasi Türk tarihinin İLK ANAYASASI'dır; Meclis-i Mebusan açılmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "31 Mart Vakası (1909)",
+      "body": "Türk tarihinde rejim değişikliğine karşı çıkan ilk isyandır. İsyanı Hareket Ordusu bastırmış, Kurmay Başkanı Mustafa Kemal olmuştur."
+    },
+    {
+      "card_number": 7,
+      "title": "Trablusgarp Savaşı (1911-1912)",
+      "body": "İtalya'ya karşı yapılan savaştır. Mustafa Kemal Derne ve Tobruk'ta tüccar (Gazeteci Şerif) kılığında yerel halkı örgütlemiştir."
+    },
+    {
+      "card_number": 8,
+      "title": "Uşi Antlaşması (1912)",
+      "body": "Trablusgarp Savaşı sonrası imzalanmış, Osmanlı Kuzey Afrika'daki SON TOPRAĞINI kaybetmiş, 12 Ada geçici olarak İtalya'ya verilmiştir."
+    },
+    {
+      "card_number": 9,
+      "title": "Balkan Savaşları (1912-1913)",
+      "body": "I. Balkan'da Karadağ, Yunanistan, Sırbistan ve Bulgaristan saldırmıştır. Midye-Enez hattının batısı kaybedilmiş, Arnavutluk bağımsız olmuştur."
+    },
+    {
+      "card_number": 10,
+      "title": "Bab-ı Ali Baskını (1913)",
+      "body": "I. Balkan Savaşı yenilgisi üzerine İttihat ve Terakki'nin hükümet darbesiyle yönetimi tamamen ele geçirdiği olaydır."
+    }
+  ],
+  "topic-tarih-osmanli-duraklama-gerileme": [
+    {
+      "card_number": 1,
+      "title": "Duraklama Dönemi İç Nedenleri",
+      "body": "Merkezi yönetimin bozulması, beşik ulemalığı (alimin oğlu alimdir), yeniçeri isyanları ve tımar sisteminin bozulmasıdır."
+    },
+    {
+      "card_number": 2,
+      "title": "Ferhat Paşa Antlaşması (1590)",
+      "body": "Iran ile imzalanmış olup Osmanlı Devleti'nin DOĞUDA EN GENİŞ SINIRLARA ulaştığı antlaşmadır."
+    },
+    {
+      "card_number": 3,
+      "title": "Bucaş Antlaşması (1672)",
+      "body": "Lehistan ile imzalanmış olup Osmanlı Devleti'nin BATI'DA EN GENİŞ SINIRLARA ulaştığı antlaşmadır."
+    },
+    {
+      "card_number": 4,
+      "title": "Karlofça Antlaşması (1699)",
+      "body": "Osmanlı'nın Batı'da ilk kez büyük miktarda toprak kaybettiği ve Gerileme Dönemi'ne girdiği tarihi antlaşmadır."
+    },
+    {
+      "card_number": 5,
+      "title": "Zitvatorok Antlaşması (1606)",
+      "body": "Avusturya kralı protokolde Osmanlı padişahına denk sayılmış, Osmanlı'nın Kanuni dönemindeki diplomatik üstünlüğü sona ermiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Genç Osman (II. Osman) Islahatı",
+      "body": "Yeniçeri Ocağı'nı kaldırmayı planlayan ilk padişahtır. Yedikule zindanlarında Yeniçeriler tarafından şehit edilmiştir."
+    },
+    {
+      "card_number": 7,
+      "title": "Lale Devri (1718-1730)",
+      "body": "Passarofça Antlaşması ile başlayıp Patrona Halil İsyanı ile biten, Batı'nın üstünlüğünün kabul edildiği barış ve zevk dönemidir."
+    },
+    {
+      "card_number": 8,
+      "title": "İlk Özel Türk Matbaası",
+      "body": "Lale Devri'nde İbrahim Müteferrika ve Sait Efendi tarafından kurulmuştur. Basılan ilk eser Vankulu Lügati'dir."
+    },
+    {
+      "card_number": 9,
+      "title": "Küçük Kaynarca Antlaşması (1774)",
+      "body": "Kırım bağımsız olmuş (ilk kez halkı Müslüman toprak kaybı), Rusya'ya kapitülasyon verilmiş ve Rusya Karadeniz'e inmiştir."
+    },
+    {
+      "card_number": 10,
+      "title": "Nizam-ı Cedid Ordusu",
+      "body": "III. Selim tarafından Batı tarzında kurulan ilk düzenli ordudur. İrad-ı Cedid adında yeni bir hazine ile finanse edilmiştir."
+    }
+  ],
+  "topic-tarih-osmanli-kultur-medeniyet": [
+    {
+      "card_number": 1,
+      "title": "Divan-ı Hümayun ve Baş meclis",
+      "body": "Orhan Bey kurmuş, II. Mahmut kaldırmıştır. Fatih'ten itibaren Sadrazam başkanlık etmeye başlamıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "Seyfiye (Kılıç Ehli)",
+      "body": "Yönetim ve askerlik sınıfıdır. Sadrazam, Kubbealtı vezirleri, Kaptan-ı Derya, Yeniçeri Ağası bu sınıftadır."
+    },
+    {
+      "card_number": 3,
+      "title": "İlmiye (İlim Ehli)",
+      "body": "Adalet, din ve eğitim sınıfıdır. Şeyhülislam, Kazasker, Kadı ve Müderrisler bu sınıftadır (Sadrazam olamazlar)."
+    },
+    {
+      "card_number": 4,
+      "title": "Kalemiye (Kalem Ehli)",
+      "body": "Bürokrasi ve diplomasi sınıfıdır. Nişancı, Defterdar ve Reisülküttab bu sınıftadır."
+    },
+    {
+      "card_number": 5,
+      "title": "Kazasker (Kadıasker) Görevi",
+      "body": "Divanda adalet ve eğitim işlerinden sorumludur. Kadı ve Müderris tayinlerini yapar (Türk ve Müslüman olma şartı vardır)."
+    },
+    {
+      "card_number": 6,
+      "title": "Nişancı ve Reisülküttab",
+      "body": "Nişancı padişahın tuğrasını çeker, tımar kayıtlarını (Tahrir defteri) tutar. Reisülküttab ise dış işlerden sorumlu bakandır."
+    },
+    {
+      "card_number": 7,
+      "title": "Devşirme Sistemi ve Enderun",
+      "body": "Hristiyan çocukların eğitilerek asker (Kapıkulu) veya devlet adamı (Enderun mektebi) yapıldığı sistemdir."
+    },
+    {
+      "card_number": 8,
+      "title": "Tımar (Dirlik) Sistemi",
+      "body": "Toprak gelirine göre asker (Cebelü) yetiştirme sistemidir. Devlet cebinden para çıkmadan hazineden yük almadan ordu besler."
+    },
+    {
+      "card_number": 9,
+      "title": "Lonca Teşkilatı (Ahilik)",
+      "body": "Esnaf ve zanaatkarlar örgütüdür. Fiyat belirleme (Narh koyma), ürün kalitesi denetimi ve ustalık belgesi verir."
+    },
+    {
+      "card_number": 10,
+      "title": "Millet Sistemi Kuralı",
+      "body": "Osmanlı'da toplum ırkına göre değil, DİN VE MEZHEP esasına göre sınıflandırılmıştır."
+    }
+  ],
+  "topic-tarih-osmanli-kurulus-yukselme": [
+    {
+      "card_number": 1,
+      "title": "Osmanlı'nın Kurucusu ve İlk Başkent",
+      "body": "Osmanlı Devleti 1299'da Osman Bey tarafından Söğüt ve Domaniç merkezli kurulmuştur. İlk fethedilen önemli merkez Karacahisar'dır."
+    },
+    {
+      "card_number": 2,
+      "title": "Koyunhisar (Bafeus) Savaşı (1302)",
+      "body": "Osman Bey döneminde Bizans ile yapılan ilk resmi savaştır ve galibiyetle sonuçlanmıştır."
+    },
+    {
+      "card_number": 3,
+      "title": "İlk Osmanlı Parası ve Vergi",
+      "body": "Bakır para (Mangır) Osman Bey döneminde basılmış, ilk vergi (Bac vergisi) yine bu dönemde konulmuştur."
+    },
+    {
+      "card_number": 4,
+      "title": "Bursa'nın Fethi ve İskan Politikası",
+      "body": "Orhan Bey Bursa'yı fethederek başkent yapmıştır. İskan politikası ile Balkanlar'a Göçebe Türkmenler yerleştirilmiştir."
+    },
+    {
+      "card_number": 5,
+      "title": "İlk Düzenli Ordu (Yaya ve Müsellem)",
+      "body": "Orhan Bey döneminde kurulmuştur. Ayrıca ilk Osmanlı donanması Karesioğulları Beyliği'nin katılmasıyla elde edilmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "I. Kosova Savaşı (1389)",
+      "body": "I. Murat döneminde Haçlılara karşı kazanılan zaferdir. İlk kez top kullanılmış, I. Murat savaş alanında şehit düşen tek padişahtır."
+    },
+    {
+      "card_number": 7,
+      "title": "Ankara Savaşı (1402) ve Fetret Dönemi",
+      "body": "Yıldırım Bayezid ile Timur arasında yapılmış, Osmanlı yenilmiş ve 11 yıl süren iç karışıklık (Fetret Dönemi) başlamıştır."
+    },
+    {
+      "card_number": 8,
+      "title": "İstanbul'un Fethi (1453)",
+      "body": "II. Mehmet (Fatih) tarafından fethedilmiş, Bizans yıkılmış, Orta Çağ kapanıp Yeni Çağ başlamış, Fatih 'Fatih' unvanını almıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "Preveze Deniz Zaferi (1538)",
+      "body": "Barbaros Hayrettin Paşa komutasındaki Osmanlı donanmasının Haçlı donanmasını mağlup ettiği ve Akdeniz'in Türk gölü haline geldiği zaferdir."
+    },
+    {
+      "card_number": 10,
+      "title": "İlk Osmanlı Halifesi Yavuz Sultan Selim",
+      "body": "1517 Mısır Seferi (Rizdaniye Savaşı) ile Memlük Devleti'ne son verilmiş, kutsal emanetler İstanbul'a getirilmiş ve Halifelik Osmanlı'ya geçmiştir."
+    }
+  ],
+  "topic-tarih-tbmm-ve-cepheler": [
+    {
+      "card_number": 1,
+      "title": "I. TBMM'nin Açılışı (23 Nisan 1920)",
+      "body": "Ankara'da kurucu, ihtilalci ve demokratik bir meclis olarak açılmıştır. En yaşlı üye Sinop Mebusu Şerif Bey açılış konuşmasını yapmıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "Hıyanet-i Vataniye Kanunu ve İstiklal Mahkemeleri",
+      "body": "TBMM kendine karşı çıkan ayaklanmaları bastırmak ve otorite sağlamak için yasama ve yargı yetkilerini kullanmıştır."
+    },
+    {
+      "card_number": 3,
+      "title": "Doğu Cephesi ve Gümrü Antlaşması",
+      "body": "Kazım Karabekir komutasındaki Ermenilere karşı savaşılmıştır. Gümrü Antlaşması TBMM'nin İLK SİYASİ VE ASKERİ ZAFERİDİR."
+    },
+    {
+      "card_number": 4,
+      "title": "Güney Cephesi ve Kuvayı Milliye",
+      "body": "Fransız ve Ermenilere karşı sadece Kuvayı Milliye (halk direnişi) savaşmıştır. Maraş (Sütçü İmam), Antep (Şahin Bey), Urfa destan yazmıştır."
+    },
+    {
+      "card_number": 5,
+      "title": "I. İnönü Savaşı Sonuçları (TALİMH)",
+      "body": "Düzenli ordunun ilk zaferidir. Sonuçları: Teşkilat-ı Esasiye (Anayasa), Afganistan Dostluk Ant., Londra Konferansı, İstiklal Marşı kabulü, Hakkari devri."
+    },
+    {
+      "card_number": 6,
+      "title": "Londra Konferansı İpucu",
+      "body": "İtilaf Devletleri TBMM'yi İLK KEZ HUKUKEN TANIMIŞTIR. Bekir Sami Bey katılmış, Tevfik Paşa 'Söz milletin asıl vekili TBMM'nindir' demiştir."
+    },
+    {
+      "card_number": 7,
+      "title": "Kütahya-Eskişehir Yenilgisi",
+      "body": "Düzenli ordunun tek yenilgisidir. Ordu Sakarya'nın doğusuna çekilmiş, Mustafa Kemal'e 3 aylığına BAŞKOMUTANLIK yetkisi verilmiştir."
+    },
+    {
+      "card_number": 8,
+      "title": "Tekalif-i Milliye Emirleri (7-8 Ağustos 1921)",
+      "body": "Mustafa Kemal'in Başkomutanlık yetkisiyle ordunun malzeme ihtiyacını karşılamak için çıkardığı milli yükümlülük emirleridir."
+    },
+    {
+      "card_number": 9,
+      "title": "Sakarya Meydan Muharebesi (Melhame-i Kübra)",
+      "body": "Mustafa Kemal: 'Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.' Sözünü söylemiş, gazilik ve mareşallik almıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Kars ve Ankara Antlaşmaları (1921)",
+      "body": "Sakarya sonrası Kars Antlaşması ile Doğu sınırımız KESİNleşmiş; Ankara Antlaşması ile Fransa TBMM'yi tanıyan İLK İTİLAF DEVLETİ olmuştur."
+    }
+  ],
+  "topic-tarih-turk-islam": [
+    {
+      "card_number": 1,
+      "title": "İlk Müslüman Türk Devleti",
+      "body": "Orta Asya'da kurulan ilk Müslüman Türk devleti Karahanlılar'dır (Satuk Buğra Han dönemi). Doğu Avrupa'da ise İtil Bulgar Devleti'dir."
+    },
+    {
+      "card_number": 2,
+      "title": "Divan-ı Lügati't-Türk",
+      "body": "Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılan ilk Türkçe sözlüktür (İçinde ilk Türk dünyası haritası bulunur)."
+    },
+    {
+      "card_number": 3,
+      "title": "Kutadgu Bilig (Mutluluk Veren Bilgi)",
+      "body": "Yusuf Has Hacip tarafından Tabgaç Buğra Han'a sunulan ilk İslami Türk eseridir; siyasetname niteliğindedir."
+    },
+    {
+      "card_number": 4,
+      "title": "Gazneli Mahmud Unvanı",
+      "body": "Hindistan'a 17 sefer düzenleyerek İslamiyet'i yayan ve tarihte 'Sultan' unvanını kullanan ilk Türk hükümdarı Gazneli Mahmud'dur."
+    },
+    {
+      "card_number": 5,
+      "title": "Dandanakan Savaşı (1040)",
+      "body": "Büyük Selçuklu Devleti ile Gazneliler arasında yapılmış, Büyük Selçuklu resmen kurulurken Gazneliler yıkılış sürecine girmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Malazgirt Savaşı (1071)",
+      "body": "Sultan Alparslan'ın Bizans'ı mağlup ettiği, Anadolu'nun kapılarını Türklere açan ve 'Yurt Açan Savaş' olarak bilinen tarihi zaferdir."
+    },
+    {
+      "card_number": 7,
+      "title": "Miryokefalon Savaşı (1176)",
+      "body": "II. Kılıç Arslan döneminde Bizans mağlup edilmiş, Anadolu'nun Türk yurdu olduğu kesinleşmiş ('Yurt Tutan Savaş') ve Bizans savunmaya geçmiştir."
+    },
+    {
+      "card_number": 8,
+      "title": "Anadolu'daki İlk Türk Medresesi",
+      "body": "Danişmentliler tarafından Tokat Niksar'da kurulan Yağıbasan Medresesi, Anadolu'da yapılan ilk Türk medresesidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Nizamiye Medreseleri",
+      "body": "Büyük Selçuklu Veziri Nizamülmülk tarafından Bağdat'ta kurulan, dünyanın ilk üniversitesi kabul edilen medresedir."
+    },
+    {
+      "card_number": 10,
+      "title": "Kösedağ Savaşı (1243)",
+      "body": "Anadolu Selçuklu Devleti'nin Moğollara (İlhanlılar) yenildiği ve Anadolu'da İkinci Beylikler Dönemi'nin başladığı yıkılış savaşıdır."
+    }
+  ],
+  "topic-turkce-anlatim-bicimleri": [
+    {
+      "card_number": 1,
+      "title": "Öyküleyici Anlatım (Öyküleme)",
+      "body": "Olay, kişi, yer ve zaman ögelerine dayanır. Olaylar bir film şeridi gibi akıp gider; hareket ve eylem ön plandadır."
+    },
+    {
+      "card_number": 2,
+      "title": "Betimleyici Anlatım (Betimleme)",
+      "body": "Kelimelerle resim çizme sanatıdır. Duyu organlarına hitap eden sıfatlar ve görsellik ön plandadır, eylem durağandır."
+    },
+    {
+      "card_number": 3,
+      "title": "Açıklayıcı Anlatım (Açıklama)",
+      "body": "Okuyucuya bilgi vermek, öğretmek amacıyla yazılır. Sade, nesnel ve yalın bir dil kullanılır; makale ve ders kitaplarında yaygındır."
+    },
+    {
+      "card_number": 4,
+      "title": "Tartışmacı Anlatım (Tartışma)",
+      "body": "Yerleşik bir düşünceyi değiştirmek veya kendi görüşünü kabul ettirmek için yazılır. 'Sizce de öyle değil mi?', 'Bence...' gibi ifadeler içerir."
+    },
+    {
+      "card_number": 5,
+      "title": "Tanımlama İpucu",
+      "body": "'Bu nedir?' sorusuna yanıt veren, -dır/-dir veya 'denir' ile biten cümlelerdir. Örnek: 'Şiir, duyguların ritmik ifadesidir.'"
+    },
+    {
+      "card_number": 6,
+      "title": "Örnekleme İpucu",
+      "body": "Soyut bir düşünceyi somutlaştırmak için konuyla ilgili bilinen nesne, kişi veya eser isimlerinin sıralanmasıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Tanık Gösterme (Alıntı Yapma)",
+      "body": "Düşünceyi inandırıcı kılmak için alanında uzman bir kişinin ismiyle birlikte sözünün birebir aktarılmasıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Karşılaştırma İpucu",
+      "body": "İki kavram, olay veya durum arasındaki benzerlik ya da farklılıkların 'en', 'daha', 'ise', 'göre' sözcükleriyle ortaya konmasıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Sayısal Verilerden Yararlanma",
+      "body": "Düşünceyi kanıtlamak için anket, istatistik, grafik veya araştırma sonuçlarına ait rakamsal verilerin kullanılmasıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Benzetme İpucu",
+      "body": "Aralarında ilgi bulunan iki şeyden zayıf olanın güçlü olana 'gibi', 'sanki', 'adeta' kelimeleriyle benzetilmesidir."
+    }
+  ],
+  "topic-turkce-anlatim-bozukluklari": [
+    {
+      "card_number": 1,
+      "title": "Gereksiz Sözcük Kullanımı",
+      "body": "Aynı anlama gelen sözcüklerin veya eklerin bir arada kullanılmasıdır. Örnek: 'Gizli sırlarını bana anlattı' (Sır zaten gizlidir)."
+    },
+    {
+      "card_number": 2,
+      "title": "Sözcüğün Yanlış Anlamda Kullanımı",
+      "body": "Yazılışları benzeyen veya karıştırılan sözcüklerin yanlış yerde kullanılmasıdır. Örnek: 'Öğrencilerin fidan dikmesini sağladı' (Sağladı değil, sağladı olumlu; neden oldu olumsuzdur)."
+    },
+    {
+      "card_number": 3,
+      "title": "Çelişen Sözcüklerin Kullanılması",
+      "body": "Kesinlik ve olasılık bildiren sözcüklerin aynı cümlede kullanılmasıdır. Örnek: 'Tam olarak 5 yıl kadar önceydi.'"
+    },
+    {
+      "card_number": 4,
+      "title": "Sözcüğün Yanlış Yerde Kullanımı",
+      "body": "Sözcüğün cümledeki yerinin yanlış olması anlam karışıklığına yol açar. Örnek: 'Çok güneşte kalma' yerine 'Güneşte çok kalma' olmalı."
+    },
+    {
+      "card_number": 5,
+      "title": "Mantar Mantık Hatası",
+      "body": "Mantık ve sıralama hatalarıdır. Örnek: 'Bırakın patates doğramayı, yemek bile yapamaz' (Yemek yapmak daha zordur, sıra yanlış)."
+    },
+    {
+      "card_number": 6,
+      "title": "Özne-Yüklem Uyumsuzluğu",
+      "body": "Tekillik-çoğulluk veya kişi uyumsuzluğudur. Örnek: 'Ağaçlar yapraklarını döktüler' yanlış; organ ve bitki çoğul özneyse yüklem tekil olur: döktü."
+    },
+    {
+      "card_number": 7,
+      "title": "Öge Eksikliği (Sıralı Cümlelerde)",
+      "body": "Ortak öge kullanımından doğan bozukluktur. Örnek: 'Sana inanıyor ve (seni) destekliyoruz' cümlesinde nesne eksiktir."
+    },
+    {
+      "card_number": 8,
+      "title": "Tamlama Hataları",
+      "body": "İsim ve sıfatların aynı tamlayana bağlanmasıdır. Örnek: 'Resmi ve özel kuruluşlar' yerine 'Resmi kuruluşlar ve özel kuruluşlar' olmalı."
+    },
+    {
+      "card_number": 9,
+      "title": "Zamire Bağlı Anlam Belirsizliği",
+      "body": "Cümlede kastedilen kişinin kim olduğunun açık olmamasıdır. Örnek: 'Okula gitmediğini duydum' (Senin mi, onun mu?)."
+    },
+    {
+      "card_number": 10,
+      "title": "Çatı Uyumsuzluğu",
+      "body": "Bir birleşik cümlede fiilimsiler ile yüklemin etkenlik/edilgenlik yönünden uyumsuz olmasıdır."
+    }
+  ],
+  "topic-turkce-cumle-turleri": [
+    {
+      "card_number": 1,
+      "title": "Yüklemin Türüne Göre Cümleler",
+      "body": "Yüklemi çekimli fiil olan cümleler 'Fiil Cümlesi'; yüklemi isim veya isim soylu sözcük olan cümleler 'İsim Cümlesi'dir."
+    },
+    {
+      "card_number": 2,
+      "title": "Yüklemin Yerine Göre Cümleler",
+      "body": "Yüklemi sonda olan cümleler 'Kurallı (Düz)'; yüklemi sonda olmayan cümleler 'Devrik'; yüklemi bulunmayan cümleler 'Eksiltili' cümledir."
+    },
+    {
+      "card_number": 3,
+      "title": "Basit Cümle Yapısı",
+      "body": "İçinde tek bir yargı (yüklem) bulunan, fiilimsi veya başka yan yargı içermeyen cümlelerdir. Örnek: 'Dün akşam eve erken geldi.'"
+    },
+    {
+      "card_number": 4,
+      "title": "Birleşik Cümle Yapısı",
+      "body": "Tek bir yüklemi olan ve içinde en az bir fiilimsi (yan cümlecik) barındıran cümlelerdir. Örnek: 'Okula yürüyerek gitti.'"
+    },
+    {
+      "card_number": 5,
+      "title": "Sıralı Cümle Yapısı",
+      "body": "Aralarında anlam bağı bulunan en az iki bağımsız cümlenin virgül (,) veya noktalı virgülle (;) birbirine bağlanmasıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Bağlı Cümle Yapısı",
+      "body": "Birden fazla cümlenin birbirine 've, veya, ama, fakat, çünkü' gibi bağlaçlarla bağlanmasıyla oluşan yapıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Bağımlı Sıralı Cümle",
+      "body": "Sıralı cümlelerde en az bir ögenin (özne, nesne vb.) ortak kullanıldığı cümlelerdir. Örnek: 'Ahmet geldi, (Ahmet) oturdu.'"
+    },
+    {
+      "card_number": 8,
+      "title": "Bağımsız Sıralı Cümle",
+      "body": "Sıralı cümlelerde hiçbir öge ortaklığının bulunmadığı, cümlelerin sadece anlamca bağlandığı yapıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Anlamına Göre Olumlu/Olumsuz",
+      "body": "Eylemin yapıldığını belirten cümleler olumlu; -me/-ma, yok, değil, siz/siz ekleriyle yapılmadığını belirtenler olumsuzdur."
+    },
+    {
+      "card_number": 10,
+      "title": "Biçimce Olumsuz Anlamca Olumlu",
+      "body": "'Seni sevmiyor değilim' cümlesi biçimce olumsuz (değilim var) ama anlamca olumludur (seviyorum)."
+    }
+  ],
+  "topic-turkce-cumlede-anlam": [
+    {
+      "card_number": 1,
+      "title": "Öznel (Subjektif) Cümle",
+      "body": "Kişisel duygu, beğeni veya yorum içeren, kanıtlanamayan yargılardır. Örnek: 'Bu roman Türk edebiyatının en sürükleyici eseridir' ifadesi kişisel değerlendirmedir."
+    },
+    {
+      "card_number": 2,
+      "title": "Nesnel (Objektif) Cümle",
+      "body": "Kişiden kişiye değişmeyen, ölçülebilen veya doğruluğu kanıtlanabilen yargılardır. Örnek: 'Roman toplam 320 sayfadan oluşmaktadır' cümlesi nesnel bir bilgidir."
+    },
+    {
+      "card_number": 3,
+      "title": "Neden-Sonuç Cümlesi Testi",
+      "body": "Eylemin gerçekleşme gerekçesini belirtir; '-dığı için' kelimesiyle test edilir ve her iki eylem de gerçekleşmiştir. Örnek: 'Yağmur yağdığı için maç iptal edildi.'"
+    },
+    {
+      "card_number": 4,
+      "title": "Amaç-Sonuç Cümlesi Ayrımı",
+      "body": "Henüz gerçekleşmemiş bir hedefe ulaşmak amacıyla yapılan eylemleri anlatır; '-mek amacıyla' ifadesi koyulabilir. Örnek: 'Sınavı kazanmak amacıyla gece gündüz çalıştı.'"
+    },
+    {
+      "card_number": 5,
+      "title": "Koşul-Sonuç (Şart) Cümlesi",
+      "body": "Bir olayın gerçekleşmesinin başka bir olaya bağlandığı yargılardır. Örnek: 'Düzenli tekrar yaparsan konuları daha hızlı kavrarsın' cümlesinde -se/-sa koşul ekidir."
+    },
+    {
+      "card_number": 6,
+      "title": "Doğrudan Anlatım Şifresi",
+      "body": "Başkasının sözünün hiçbir değişikliğe uğratılmadan, tırnak içinde veya 'dedi' ifadesiyle iletilmesidir. Örnek: Öğretmen, 'Yarın sözlü var' dedi."
+    },
+    {
+      "card_number": 7,
+      "title": "Dolaylı Anlatım Şifresi",
+      "body": "Başkasının söylediği sözün kendi cümlelerimizle değiştirilerek aktarılmasıdır; genellikle '-diğini söyledi' kalıbı kullanılır. Örnek: Öğretmen yarın sözlü yapacağını söyledi."
+    },
+    {
+      "card_number": 8,
+      "title": "Üslup (Biçem) Cümlesi",
+      "body": "Yazarın duygu ve düşüncelerini nasıl anlattığını, dil ve anlatım özelliklerini belirtir. Örnek: 'Yazar eserinde süslü ve devrik cümlelere sıkça yer vermiştir.'"
+    },
+    {
+      "card_number": 9,
+      "title": "İçerik (Konu) Cümlesi",
+      "body": "Eserde ne anlatıldığını, konunun ne olduğunu belirten cümlelerdir. Örnek: 'Şair bu şiirinde çocukluğuna duyduğu özlemi dile getirmiştir.'"
+    },
+    {
+      "card_number": 10,
+      "title": "Sitem ve Kanıksama Farkı",
+      "body": "Sitem, sevilen birine kırgınlığı hafifçe belirtmektir ('Düğününe beni çağırmadın'). Kanıksama ise çok tekrarlanan bir duruma alışmaktır ('Benzin zamlarına alıştık')."
+    }
+  ],
+  "topic-turkce-cumlenin-ogeleri": [
+    {
+      "card_number": 1,
+      "title": "Cümlenin Temel Ögeleri",
+      "body": "Bir cümlenin oluşması için şart olan temel ögeler Yüklem ve Özne'dir. Yüklemsiz cümle olmaz."
+    },
+    {
+      "card_number": 2,
+      "title": "Yüklem Bulma Altın Kuralı",
+      "body": "Cümledeki yargıyı bildiren ögedir. Ögeler bulunurken ilk olarak yüklem tespit edilir ve tüm sorular yükleme sorulur."
+    },
+    {
+      "card_number": 3,
+      "title": "Özne Bulma Soruları",
+      "body": "Yükleme sorulan 'Kim?' ve 'Ne?' sorularının yanıtıdır. Yüklemden hemen sonra bulunmalıdır."
+    },
+    {
+      "card_number": 4,
+      "title": "Nesne (Belirtili ve Belirtisiz)",
+      "body": "Yükleme sorulan 'Neyi, Kimi?' soruları Belirtili Nesneyi (-i hali); 'Ne?' sorusu Belirtisiz Nesneyi verir."
+    },
+    {
+      "card_number": 5,
+      "title": "Dolaylı Tümleç (Yer Tamlayıcısı)",
+      "body": "Yükleme sorulan '-e, -de, -den' eklerini içeren soruların (Nereye, Nerede, Nereden, Kime...) yanıtıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Zarf Tümleci Soruları",
+      "body": "Yükleme sorulan 'Nasıl, Ne zaman, Ne kadar, Neden, Niçin?' sorularının yanıtıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Edat Tümleci Soruları",
+      "body": "Yükleme sorulan 'Ne ile, Kimin ile, Ne için, Kimin için?' sorularının yanıtıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Tamlamaları Bölmeme Kuralı",
+      "body": "Cümlenin ögeleri bulunurken isim tamlamaları, sıfat tamlamaları ve deyimler asla bölünmez; tek bir öge kabul edilir."
+    },
+    {
+      "card_number": 9,
+      "title": "Ara Söz ve Ara Cümle",
+      "body": "İki virgül veya iki kısa çizgi arasında yer alan, bir ögenin açıklayıcısı olan veya bağımsız giren ifadelerdir."
+    },
+    {
+      "card_number": 10,
+      "title": "Vurgulanan Öge İpucu",
+      "body": "Fiil cümlelerinde vurgulanan öge, yüklemden hemen önce gelen ögedir."
+    }
+  ],
+  "topic-turkce-fiiller-cati": [
+    {
+      "card_number": 1,
+      "title": "İsim-Fiil (Mastar) Ekleri",
+      "body": "Fiil kök veya gövdelerine gelen '-ma, -ış, -mak' (Mayışmak) ekleridir. Örnek: Kitap okumak insanı geliştirir."
+    },
+    {
+      "card_number": 2,
+      "title": "Sıfat-Fiil (Ortaç) Ekleri",
+      "body": "Fiillere gelen '-an, -ası, -mez, -ar, -dik, -ecek, -miş' (Anası mezar dikecekmiş) ekleridir. Örnek: Koşan çocuk düştü."
+    },
+    {
+      "card_number": 3,
+      "title": "Zarf-Fiil (Ulaç/Bağ-Fiil) Ekleri",
+      "body": "Fiillere gelen '-ken, -alı, -esi, -em, -meden, -ince, -ip, -arak' ekleridir. Örnek: Gülerek içeri girdi."
+    },
+    {
+      "card_number": 4,
+      "title": "Geçişli Fiil Testi (Onu Testi)",
+      "body": "Nesne alabilen fiillerdir. Fiilin başına 'onu' kelimesi getirildiğinde anlamlı oluyorsa fiil geçişlidir. Örnek: (Onu) okudu."
+    },
+    {
+      "card_number": 5,
+      "title": "Geçişsiz Fiil Testi",
+      "body": "Nesne alamayan fiillerdir. Fiilin başına 'onu' kelimesi getirildiğinde anlamsız olur. Örnek: (Onu) güldü (Anlamsız)."
+    },
+    {
+      "card_number": 6,
+      "title": "Etken Fiil Özelliği",
+      "body": "İşi yapan gerçek bir öznenin (açık veya gizli) bulunduğu fiillerdir. Örnek: Ali camı kırdı (Özne: Ali)."
+    },
+    {
+      "card_number": 7,
+      "title": "Edilgen Fiil Özelliği",
+      "body": "İşi yapanın belli olmadığı, '-l' veya '-n' eki alan fiillerdir; özne sözde öznedir. Örnek: Cam kırıldı."
+    },
+    {
+      "card_number": 8,
+      "title": "Dönüşlü Fiil Özelliği",
+      "body": "İşi yapanın ve işten etkilenenin aynı kişi olduğu, '-l' veya '-n' eki alan fiillerdir. Örnek: Ahmet süslendi."
+    },
+    {
+      "card_number": 9,
+      "title": "İşteş Fiil Özelliği",
+      "body": "Eylemin birden fazla kişi tarafından birlikte veya karşılıklı yapıldığını belirten, '-ş' eki alan fiillerdir. Örnek: Kuşlar uçuştu."
+    },
+    {
+      "card_number": 10,
+      "title": "Oldurgan ve Ettirgen Fiil",
+      "body": "Geçişsiz fiilin '-r, -t, -tır' ile geçişli yapılması Oldurgan; zaten geçişli olan fiilin geçişlilik derecesinin artırılması Ettirgendir."
+    }
+  ],
+  "topic-turkce-noktalama": [
+    {
+      "card_number": 1,
+      "title": "Nokta (.) Kullanım Alanları",
+      "body": "Cümlenin sonuna, bazı kısaltmaların sonuna (Dr.), sayılardan sonra sıra bildirmek için (3.) ve tarihlerin arasına konur."
+    },
+    {
+      "card_number": 2,
+      "title": "Virgül (,) Altın Kuralları",
+      "body": "Eş görevli sözcükleri ayırmak, sıralı cümleleri bölmek ve özneyi vurgulamak için konur. Metinde ve, veya, de, ki bağlaçlarından önce/sonra konmaz!"
+    },
+    {
+      "card_number": 3,
+      "title": "Noktalı Virgül (;) Şifresi",
+      "body": "Cümle içinde virgüllerle ayrılmış tür veya takımları ayırmak ve ögeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır."
+    },
+    {
+      "card_number": 4,
+      "title": "İki Nokta (:) Kullanımı",
+      "body": "Kendisiyle ilgili örnek verilecek veya açıklama yapılacak cümlenin sonuna konur. İki noktadan sonra gelen açıklama cümle ise büyük, örnekler dizisiyse küçük başlar."
+    },
+    {
+      "card_number": 5,
+      "title": "Üç Nokta (...) Kullanımı",
+      "body": "Tamamlanmamış (eksiltili) cümlelerin sonuna ve kaba sayıldığı için açıklanmak istenmeyen kelimelerin yerine konur."
+    },
+    {
+      "card_number": 6,
+      "title": "Soru İşareti (?) İpucu",
+      "body": "Soru eki veya sözü içeren cümlelerin sonuna konur. Soru ifadesi taşıyan ancak yan cümlecik olan yapılarda konmaz (Ne zaman geleceğini bilmiyorum.)."
+    },
+    {
+      "card_number": 7,
+      "title": "Ünlem İşareti (!) Kullanımı",
+      "body": "Sevinç, korku, şaşma gibi duyguları belirten söz veya cümlelerin sonuna konur. Yay ayraç içinde (!) alay/küçümseme anlamı katar."
+    },
+    {
+      "card_number": 8,
+      "title": "Kısa Çizgi (-) Kullanımı",
+      "body": "Satıra sığmayan kelimeleri bölerken, kelimelerin kök ve eklerini ayırırken ve ara sözlerin başında/sonunda kullanılır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kesme İşareti (') Kullanımı",
+      "body": "Özel isimlere gelen çekim eklerini ayırmak için kullanılır. Kurum, kuruluş ve kurul adlarına gelen ekler kesmeyle ayrılmaz! (Türk Dil Kurumuna)"
+    },
+    {
+      "card_number": 10,
+      "title": "Tırnak İşareti (\") Kullanımı",
+      "body": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler ile özellikle vurgulanmak istenen sözler tırnak içine alınır."
+    }
+  ],
+  "topic-turkce-paragraf-ana-fikir": [
+    {
+      "card_number": 1,
+      "title": "Ana Fikir (Ana Düşünce)",
+      "body": "Yazarın okuyucuya vermek istediği temel mesaj, öğüt veya asıl düşüncedir. Paragrafın genelini kapsar ve genellikle sonuç cümlelerinde yoğunlaşır."
+    },
+    {
+      "card_number": 2,
+      "title": "Konu ile Ana Fikir Farkı",
+      "body": "Konu 'Paragrafta ne anlatılıyor?' sorusuna yanıt verirken; Ana fikir 'Yazar bu konuda okura ne mesaj veriyor?' sorusunun yanıtıdır."
+    },
+    {
+      "card_number": 3,
+      "title": "Yardımcı Fikirler",
+      "body": "Ana fikri destekleyen, açıklayan ve zenginleştiren yan düşüncelerdir. Yanıtı parça içinde birebir bulunan soru tipleridir."
+    },
+    {
+      "card_number": 4,
+      "title": "Paragrafta Başlık Bulma",
+      "body": "Başlık, paragrafın konusunu en özlü şekilde özetleyen, anahtar kelimeleri içeren 1-3 kelimelik ifadedir."
+    },
+    {
+      "card_number": 5,
+      "title": "Anahtar Kelime Tekniği",
+      "body": "Paragrafta en çok tekrarlanan ve metnin özünü oluşturan kavramlar anahtar kelimelerdir; ana fikre ulaşmada en büyük ipucudur."
+    },
+    {
+      "card_number": 6,
+      "title": "Oysa / Oysaki Geçiş İfadeleri",
+      "body": "'Oysa', 'ancak', 'fakat', 'ne var ki' gibi bağlaçlardan sonra gelen cümleler genellikle yazarın asıl ana düşüncesini barındırır."
+    },
+    {
+      "card_number": 7,
+      "title": "Vurgulanan Düşünce",
+      "body": "Yazarın özellikle altını çizdiği, okuyucunun zihnine kazımak istediği en önemli mesajdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Paragrafta Soru-Cevap Uyumsuzluğu",
+      "body": "Soru metne uygun görünse de paragrafın ilk cümlesi sorunun doğrudan yanıtı olmalıdır; ilk cümleye odaklanın."
+    },
+    {
+      "card_number": 9,
+      "title": "Çıkarım Yapma Cümleleri",
+      "body": "Metinde doğrudan yazmayan fakat paragraftaki ipuçlarından hareketle ulaşılan mantıksal sonuçlardır."
+    },
+    {
+      "card_number": 10,
+      "title": "Paragrafta Olumsuz Soru Kökleri",
+      "body": "'Değinilmemiştir', 'ulaşılamaz', 'çıkarılamaz' sorularında önce seçenekler okunup anahtar kelimeler çizilmeli, sonra paragraf taranmalıdır."
+    }
+  ],
+  "topic-turkce-paragraf-yapi": [
+    {
+      "card_number": 1,
+      "title": "Giriş Cümlesi Özellikleri",
+      "body": "Giriş cümlesi bağımsızdır; 'bu yüzden', 'oysa', 'çünkü', 'ama' gibi bağlayıcı unsurlarla veya kendinden önce bir cümle varmış hissiyle başlamaz."
+    },
+    {
+      "card_number": 2,
+      "title": "Gelişme Bölümü Özellikleri",
+      "body": "Düşüncenin örnekler, karşılaştırmalar ve tanık göstermelerle geliştirildiği, ayrıntılara girildiği bölümdür."
+    },
+    {
+      "card_number": 3,
+      "title": "Sonuç Cümlesi İpuçları",
+      "body": "'Özetle', 'kısacası', 'sonuç olarak', 'demek ki' gibi toparlayıcı ifadelerle başlayan ve ana fikri özetleyen son cümledir."
+    },
+    {
+      "card_number": 4,
+      "title": "Akışı Bozan Cümleyi Bulma",
+      "body": "Paragrafta anlatılan genel konunun dışına çıkan veya konunun farklı bir yönüne değinen cümle akışı bozar."
+    },
+    {
+      "card_number": 5,
+      "title": "Paragrafı İki Parçaya Bölme",
+      "body": "Yazarın yeni bir konuya veya aynı konunun farklı bir bakış açısına geçtiği cümle ikinci paragrafın ilk cümlesidir."
+    },
+    {
+      "card_number": 6,
+      "title": "Cümle Yerleştirme Tekniği",
+      "body": "Verilen cümlenin öncesindeki ve sonrasındaki cümlelerle zamir (bu, şu), bağlaç ve anlam mantığı yönünden tam uyumlu olması gerekir."
+    },
+    {
+      "card_number": 7,
+      "title": "Paragraf Tamamlama (Boşluk Bırakma)",
+      "body": "Boşluktan önceki ve sonraki cümleler arasındaki mantık bağını kuran en uygun seçenek doğru cevaptır."
+    },
+    {
+      "card_number": 8,
+      "title": "Cümlelerin Yerini Değiştirme",
+      "body": "Olay ya da düşünce akışındaki kronolojik/mantıksal kopukluğu düzeltecek ikili cümle değişimini bulma yöntemidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Bağlantı Unsuru Takibi",
+      "body": "'Bu durum', 'söz konusu olay', 'nitelikli eser' gibi gönderme yapan sözcükler cümle sıralamasında rehberdir."
+    },
+    {
+      "card_number": 10,
+      "title": "Paragrafta Kronolojik Akış",
+      "body": "Olay anlatımlarında zaman sıralamasına (önce, sonra, daha sonra, en sonunda) dikkat edilmelidir."
+    }
+  ],
+  "topic-turkce-ses-bilgisi": [
+    {
+      "card_number": 1,
+      "title": "Ünlü (Sesli) Düşmesi",
+      "body": "İki heceli bazı kelimeler ünlü ile başlayan ek aldığında ikinci hecedeki dar ünlü düşer. Örnek: akıl + ı → aklı, burun + um → burnum."
+    },
+    {
+      "card_number": 2,
+      "title": "Ünsüz Yumuşaması (Değişimi)",
+      "body": "p, ç, t, k ile biten kelimeler ünlüyle başlayan ek aldığında b, c, d, ğ'ye dönüşür. Örnek: kitap + ı → kitabı, ağaç + a → ağaca."
+    },
+    {
+      "card_number": 3,
+      "title": "Ünsüz Sertleşmesi (Benzeşmesi)",
+      "body": "Fıstıkçı Şahap (f, s, t, k, ç, ş, h, p) ile biten kelimelere c, d, g ile başlayan ek gelirse ek ç, t, k'ye dönüşür. Örnek: kitap + cı → kitapçı."
+    },
+    {
+      "card_number": 4,
+      "title": "Ünlü Daralması İpucu",
+      "body": "a, e geniş ünlüleriyle biten fiillere '-yor' eki geldiğinde a, e sesleri ı, i, u, ü'ye daralır. Örnek: başla - yor → başlıyor."
+    },
+    {
+      "card_number": 5,
+      "title": "Ünsüz Türemesi (İkizleşme)",
+      "body": "Arapça kökenli bazı kelimeler etmek/olmak yardımcı fiili veya ünlüyle başlayan ek aldığında ikizleşir. Örnek: his + etmek → hissetmek, hak + ı → hakkı."
+    },
+    {
+      "card_number": 6,
+      "title": "Ünlü Türemesi",
+      "body": "Cık/cik küçültme eki alan bazı kelimelerde türeme olur. Örnek: az + cık → azıcık, dar + cık → daracık, bir + cik → biricik."
+    },
+    {
+      "card_number": 7,
+      "title": "Ünsüz Düşmesi İpucu",
+      "body": "k ünsüzüyle biten bazı kelimeler -cık/-cik küçültme eki aldığında k ünsüzü düşer. Örnek: küçük + cük → küçücük, minik + cik → minicik."
+    },
+    {
+      "card_number": 8,
+      "title": "Dudak Ünsüzlerinin Benzeşmesi (n-m değişimi)",
+      "body": "b sesinden önce gelen n sesi m'ye dönüşür. Örnek: saklan-baç → saklambaç, dolan-baç → dolambaç (Özel isimlerde uygulanmaz: İstanbul)."
+    },
+    {
+      "card_number": 9,
+      "title": "Ulama İpucu",
+      "body": "Ünsüzle biten bir kelimeden sonra ünlüyle başlayan bir kelime geldiğinde iki kelimenin birleşikmiş gibi okunmasıdır (Noktalama işareti varsa ulama olmaz)."
+    },
+    {
+      "card_number": 10,
+      "title": "Büyük Ünlü Uyumu Kuralı",
+      "body": "Bir kelimenin ilk hecesindeki ünlü kalınsa (a, ı, o, u) diğer heceler de kalın; inceyse (e, i, ö, ü) diğerleri de ince olmalıdır."
+    }
+  ],
+  "topic-turkce-sozcuk-turleri": [
+    {
+      "card_number": 1,
+      "title": "İsim (Ad) ve Türleri",
+      "body": "Canlı, cansız tüm varlıkları ve kavramları karşılayan sözcüklerdir. Özel isim (Ankara), Cins isim (masa), Somut (taş), Soyut (sevgi)."
+    },
+    {
+      "card_number": 2,
+      "title": "Sıfat (Önad) Altın Kuralı",
+      "body": "Sıfatlar mutlaka bir isimden önce gelir ve o ismi niteler ya da belirtir. Örnek: Kırmızı elma (Niteleme), Bu kitap (İşaret)."
+    },
+    {
+      "card_number": 3,
+      "title": "Zamir (Adıl) Altın Kuralı",
+      "body": "İsmin yerini tutan sözcüklerdir; arkasından isim gelmez. Örnek: 'Bu çok güzel' (İşaret zamiri), 'O dün geldi' (Kişi zamiri)."
+    },
+    {
+      "card_number": 4,
+      "title": "Zarf (Belirteç) Altın Kuralı",
+      "body": "Fiilleri, fiilimsileri, sıfatları veya kendi türünden sözcükleri durum, zaman, miktar, yön yönünden etkiler. Örnek: Hızlı koştu."
+    },
+    {
+      "card_number": 5,
+      "title": "Edat (İlgeç) Tanıma Testi",
+      "body": "Tek başına anlamı olmayan, cümle içinde kelimeler arasında anlam ilgisi kuran sözcüklerdir. Örnek: gibi, kadar, için, göre."
+    },
+    {
+      "card_number": 6,
+      "title": "Bağlaç Tanıma Testi",
+      "body": "Eş görevli sözcükleri veya cümleleri birbirine bağlayan sözcüklerdir; cümleden çıkarılınca anlam bozulmaz. Örnek: ve, veya, ama, çünkü."
+    },
+    {
+      "card_number": 7,
+      "title": "İşaret Sıfatı vs İşaret Zamiri",
+      "body": "'Bu arabayı aldım' cümlesindeki 'bu' ismi etkilediği için sıfattır. 'Bunu aldım' cümlesindeki 'bunu' ismin yerini tuttuğu için zamirdir."
+    },
+    {
+      "card_number": 8,
+      "title": "Soru Sıfatı vs Soru Zamiri",
+      "body": "'Hangi kitabı okudun?' ifadesinde 'hangi' sıfattır. 'Hangisini okudun?' ifadesinde 'hangisini' zamirdir."
+    },
+    {
+      "card_number": 9,
+      "title": "Zaman Zarfı İpucu",
+      "body": "Fiile sorulan 'Ne zaman?' sorusuna yanıt verir. Örnek: 'Dün akşam bize geldi' cümlesinde 'dün akşam' zaman zarfıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Miktar (Azlık-Çokluk) Zarfı",
+      "body": "Fiile veya sıfata sorulan 'Ne kadar?' sorusuna yanıt verir. Örnek: 'Çok çalıştı', 'En güzel tablo'."
+    }
+  ],
+  "topic-turkce-sozcuk-yapisi": [
+    {
+      "card_number": 1,
+      "title": "Kök Kavramı ve Türleri",
+      "body": "Sözcüğün anlamlı en küçük yapı birimidir. İsim kökü (mak/mek almayan: ev, su) ve Fiil kökü (mak/mek alan: gel-, yaz-) olarak ikiye ayrılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Ortak (Kökdeş) Kök",
+      "body": "Aralarında anlam bağı bulunan, hem isim hem fiil olarak kullanılabilen köklerdir. Örnek: boya (isim) / boyamak (fiil)."
+    },
+    {
+      "card_number": 3,
+      "title": "Sesteş (Eş Sesli) Kök",
+      "body": "Yazılışları aynı fakat anlamları tamamen farklı olan köklerdir. Örnek: yaz (mevsim) / yazmak (fiil)."
+    },
+    {
+      "card_number": 4,
+      "title": "Yapım Eki İşlevi",
+      "body": "Eklendiği sözcüğün anlamını veya türünü değiştiren eklerdir; yeni bir kelime (türemiş sözcük) türetir. Örnek: göz-lük, sev-gi."
+    },
+    {
+      "card_number": 5,
+      "title": "Çekim Eki İşlevi",
+      "body": "Sözcüğün anlamını değiştirmeyen, cümledeki görevini ve diğer sözcüklerle ilişkisini düzenleyen eklerdir. Örnek: ev-de, kitap-lar."
+    },
+    {
+      "card_number": 6,
+      "title": "Basit Sözcük Yapısı",
+      "body": "Yapım eki almamış sözcüklerdir. Çekim eki alabilirler ancak yeni bir anlam kazanmazlar. Örnek: Evlerden, masada."
+    },
+    {
+      "card_number": 7,
+      "title": "Türemiş Sözcük Yapısı",
+      "body": "En az bir tane yapım eki almış sözcüklerdir. Örnek: Bil-gi-li, göz-lük-çü."
+    },
+    {
+      "card_number": 8,
+      "title": "Birleşik Sözcük Yapısı",
+      "body": "En az iki sözcüğün birleşip kalıplaşmasıyla oluşan yeni sözcüklerdir. Örnek: Çanakkale, gecekondu, aslanağzı."
+    },
+    {
+      "card_number": 9,
+      "title": "İyelik (Aitlik) Ekleri",
+      "body": "İsmin neye veya kime ait olduğunu belirten eklerdir. Örnek: ev-im (benim), ev-in (senin), ev-i (onun)."
+    },
+    {
+      "card_number": 10,
+      "title": "Hal (Durum) Ekleri",
+      "body": "İsmin yükleme (-i), yönelme (-e), bulunma (-de) ve ayrılma (-den) hallerini belirten eklerdir."
+    }
+  ],
+  "topic-turkce-sozcukte-anlam": [
+    {
+      "card_number": 1,
+      "title": "Gerçek (Temel) Anlam",
+      "body": "Bir sözcüğün zihinde uyandırdığı ilk ve asıl anlamdır. Örnek: 'Soğuk sudan boğazı ağrıdı' cümlesindeki soğuk kelimesi ısı düşüklüğünü ifade eder ve gerçek anlamındadır."
+    },
+    {
+      "card_number": 2,
+      "title": "Mecaz Anlam",
+      "body": "Sözcüğün gerçek anlamından tamamen uzaklaşarak kazandığı soyut yeni anlamdır. Örnek: 'Bize karşı çok soğuk davrandı' cümlesinde soğuk kelimesi samimiyetsiz anlamında mecazdır."
+    },
+    {
+      "card_number": 3,
+      "title": "Yan Anlam",
+      "body": "Gerçek anlamla şekil veya işlev benzerliği kurularak kazanılan yaklaştırılmış anlamdır. Örnek: 'Masanın ayağı kırıldı' örneğinde insandaki ayak organından benzetme yapılmıştır."
+    },
+    {
+      "card_number": 4,
+      "title": "Terim Anlam Altın Kuralı",
+      "body": "Bir bilim, sanat, spor veya meslek dalına özgü özel kavramları karşılayan sözcüklerdir. Örnek: 'Hücre' biyolojide terim anlamlıyken, 'hapis hücresi' derken gerçek anlamdadır."
+    },
+    {
+      "card_number": 5,
+      "title": "Somutlaştırma (Somutlama)",
+      "body": "Soyut bir kavramın daha anlaşılır kılınmak için somut bir nesneymiş gibi anlatılmasıdır. Örnek: 'Aşk bir alevdir' derken soyut aşk kavramı somut bir nesneye benzetilmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Soyutlaştırma (Soyutlama)",
+      "body": "Somut anlamlı bir sözcüğün mecazlaşarak soyut bir anlam kazanmasıdır. Örnek: 'Bu işte senin de parmağın var' cümlesindeki parmak somut değil, rol/katkı anlamında soyuttur."
+    },
+    {
+      "card_number": 7,
+      "title": "Ad Aktarması (Mecazımürsel)",
+      "body": "Benzetme amacı gütmeden bir sözcüğün başka bir sözcük yerine kullanılmasıdır. Örnek: 'Tüm ev maçı izliyordu' derken kastedilen ev değil, evin içindeki insanlardır."
+    },
+    {
+      "card_number": 8,
+      "title": "Duyular Arası Aktarma",
+      "body": "Bir duyuya ait algının başka bir duyuya aktarılarak anlatılmasıdır. Örnek: 'Tatlı bir gülüş' ifadesinde tat duyusu (tatlı), görme duyusuna (gülüş) aktarılmıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "Dolaylama Şifresi",
+      "body": "Tek kelimeyle anlatılabilecek bir kavramı birden fazla kelimeyle süsleyerek anlatmaktır. Örnek: Kömür yerine 'kara elmas', balık yerine 'derya kuzusu' denmesi dolaylamadır."
+    },
+    {
+      "card_number": 10,
+      "title": "Güzel Adlandırma",
+      "body": "Korkutucu veya rahatsız edici kavramların daha nazik sözcüklerle ifade edilmesidir. Örnek: Verem hastalığı yerine 'ince hastalık', ölüm yerine 'son yolculuk' denmesi."
+    }
+  ],
+  "topic-turkce-sozel-mantik": [
+    {
+      "card_number": 1,
+      "title": "Sözel Mantık Tablo Kurma",
+      "body": "Verilen bilgilere göre sabit olan öge (günler, katlar, kişiler) tablo başlığı yapılır; değişken unsurlar tabloya yerleştirilir."
+    },
+    {
+      "card_number": 2,
+      "title": "Kesin Bilgiler İle Başla",
+      "body": "Metinde 'kesinlikle', 'tam olarak' şeklinde belirtilen bilgileri doğrudan tabloya işleyin; olasılıkları kenara not edin."
+    },
+    {
+      "card_number": 3,
+      "title": "Olasılıkları İki Tablo ile Çöz",
+      "body": "İki farklı ihtimal varsa tek tabloda karıştırmak yerine 1. ve 2. ihtimal tabloları oluşturup ayrı ayrı deneyin."
+    },
+    {
+      "card_number": 4,
+      "title": "Sıralama Soruları Taktiği",
+      "body": "Önce-sonra, hemen önünde-hemen arkasında ifadelerine dikkat edin; paket (blok) bilgiler (örn: A ve B peş peşe) oluşturun."
+    },
+    {
+      "card_number": 5,
+      "title": "Eşleştirme Soruları Taktiği",
+      "body": "Kişi-ürün veya kişi-şehir eşleştirmelerinde sayıca az olan grubu sabit başlık olarak tabloya yerleştirin."
+    },
+    {
+      "card_number": 6,
+      "title": "Olumsuz İfadeleri Kaçırma",
+      "body": "'A kişisi X ürününü almamıştır' gibi olumsuz verileri tablonun ilgili hücresine üstü çizili olarak not edin."
+    },
+    {
+      "card_number": 7,
+      "title": "Kalan Ögeler Mantığı",
+      "body": "Tabloda dolmayan boşluklara sadece geriye kalan ögeler girebilir; seçeneklerde bu kalan ögeleri sorgulayın."
+    },
+    {
+      "card_number": 8,
+      "title": "Paket (Blok) Oluşturma",
+      "body": "'A ile B arasından bir kişi vardır' ifadesini A _ B şeklinde paket yapıp tablo boşluklarına sığdırın."
+    },
+    {
+      "card_number": 9,
+      "title": "Soru Köküne Göre Çözüm",
+      "body": "'Hangisi kesinlikle doğrudur?' sorularında her iki olasılıkta da değişmeyen tek ortak bilgiyi arayın."
+    },
+    {
+      "card_number": 10,
+      "title": "Zaman Yönetimi Altın Kuralı",
+      "body": "Tabloyu doğru kurmak sorunun %80'ini çözer. Tablo kurulumuna 1.5-2 dakika ayırmaktan çekinmeyin, sorular saniyeler içinde çözülecektir."
+    }
+  ],
+  "topic-turkce-yazim-kurallari": [
+    {
+      "card_number": 1,
+      "title": "Bitişik Yazılan Ki Altın Kuralı",
+      "body": "Ki'den sonra '-ler' eki getirildiğinde anlamlı oluyorsa bitişik (kestikiler -> anlamlı), anlamsız oluyorsa ayrı yazılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Bitişik Yazılan De/Da Testi",
+      "body": "Cümleden çıkarıldığında cümlenin anlamı tamamen bozuluyorsa bulunma ekidir ve bitişik yazılır; bozulmuyorsa bağlaçtır ve ayrı yazılır."
+    },
+    {
+      "card_number": 3,
+      "title": "Bitişik Birleşik Kelime Şifresi",
+      "body": "İki kelimeden ikincisi veya her ikisi birleşme sırasında anlam değişikliğine uğrarsa bitişik yazılır. Örnek: Kuşburnu, keçiboynuzu."
+    },
+    {
+      "card_number": 4,
+      "title": "Ses Düşmesi / Türemesi Bitişikliği",
+      "body": "Etmek, olmak yardımcı fiilleriyle kurulan birleşik fiillerde ses düşmesi veya türemesi varsa bitişik yazılır. Örnek: Kaybolmak, hissetmek."
+    },
+    {
+      "card_number": 5,
+      "title": "Büyük Harflerin Kullanımı",
+      "body": "Unvanlar, saygı sözleri, kurum isimleri büyük harfle başlar. Örnek: Mustafa Kemal Paşa, Türk Dil Kurumu."
+    },
+    {
+      "card_number": 6,
+      "title": "Tarihlerin Yazımı Kuralı",
+      "body": "Belirli bir günü ve ayı bildiren tarih sayıları büyük harfle başlar. Örnek: 29 Ekim 1923 (Ekim büyük)."
+    },
+    {
+      "card_number": 7,
+      "title": "Sayıların Yazılışı",
+      "body": "Sayılar metin içerisinde harfle yazılır (on beş gün). Ancak senet, çek vb. ticari belgelerde bitişik yazılır (onbeşTL)."
+    },
+    {
+      "card_number": 8,
+      "title": "İkilemelerin Yazılışı Altın Kuralı",
+      "body": "İkilemeler her zaman ayrı yazılır ve aralarına hiçbir noktalama işareti girmez. Örnek: Baş başa, el ele, ağır ağır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kısaltmalara Gelen Ekler",
+      "body": "Büyük harfle yapılan kısaltmalara gelen ekler kısaltmanın son harfinin okunuşuna göre gelir. Örnek: TDK'den (TDK'dan değil)."
+    },
+    {
+      "card_number": 10,
+      "title": "Yer İsimlerinde Unvan Yazımı",
+      "body": "Yer adlarında ilk isimden sonra gelen deniz, dağ, nehir vb. tür bildiren ikinci isimler büyük harfle başlar. Örnek: Ağrı Dağı, Van Gölü."
+    }
+  ],
+  "topic-vat-anayasa-genel-esaslar": [
+    {
+      "card_number": 1,
+      "title": "1982 Anayasası'nın İlk 3 Maddesi",
+      "body": "1. Madde: Devletin şekli Cumhuriyettir. 2. Madde: Devletin nitelikleri (Demokratik, laik, sosyal, hukuk devleti). 3. Madde: Dili Türkçe, başkenti Ankara, bayrağı Ay Yıldızlı al bayrak, marşı İstiklal Marşı'dır."
+    },
+    {
+      "card_number": 2,
+      "title": "Değiştirilemez 4. Madde Şifresi",
+      "body": "Anayasanın 1, 2 ve 3. maddeleri değiştirilemez, değiştirilmesi teklif dahi edilemez."
+    },
+    {
+      "card_number": 3,
+      "title": "Sert (Katı) ve Yumuşak Anayasa",
+      "body": "Değiştirilmesi zor usullere bağlanan ve değiştirilemez maddeleri olan anayasalar Serttir. 1921 Anayasası hariç tüm anayasalarımız serttir."
+    },
+    {
+      "card_number": 4,
+      "title": "Çerçeve Anayasa Tanımı",
+      "body": "Kısa, öz ve sadece genel esasları düzenleyen anayasadır. Türk tarihinin TEK çerçeve anayasası 1921 Anayasası (Teşkilat-ı Esasiye)'dır."
+    },
+    {
+      "card_number": 5,
+      "title": "Sosyal Devlet İlkesi Gereği",
+      "body": "Fırsat eşitliği sağlamak, kamulaştırma, devletleştirme, vergi adaleti ve sosyal güvenlik hakları sunmaktır."
+    },
+    {
+      "card_number": 6,
+      "title": "Hukuk Devleti İlkesi Gereği",
+      "body": "Kanuni hakim güvencesi, idarenin yargısal denetimi, mahkemelerin bağımsızlığı ve kazanılmış haklara saygıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Egemenliğin Kullanılması (Madde 6)",
+      "body": "Egemenlik kayıtsız şartsız milletindir. Türk milleti egemenliğini anayasanın koyduğu esaslara göre yetkili organları eliyle kullanır."
+    },
+    {
+      "card_number": 8,
+      "title": "Kuvvetler Ayrılığı İlkesi",
+      "body": "Yasama yetkisi TBMM'ye, Yürütme yetkisi Cumhurbaşkanı'na, Yargı yetkisi Bağımsız ve Tarafsız Mahkemelere aittir."
+    },
+    {
+      "card_number": 9,
+      "title": "Üniter Devlet Yapısı",
+      "body": "Devletin ülkesi ve milletiyle bölünmez bir bütün olması; tek anayasa, tek meclis ve tek yargı sisteminin bulunmasıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Anayasanın Bağlayıcılığı ve Üstünlüğü",
+      "body": "Anayasa hükümleri yasama, yürütme, yargı organlarını ve idare makamlarını bağlayan en üstün hukuk kurallarıdır."
+    }
+  ],
+  "topic-vat-hukukun-temel-kavramlari": [
+    {
+      "card_number": 1,
+      "title": "Toplumsal Düzen Kuralları",
+      "body": "Din, ahlak, görgü ve hukuk kurallarıdır. Hukuk kurallarını diğerlerinden ayıran temel fark MADDİ YAPTIRIMLI (Devlet gücüne dayalı) olmasıdır."
+    },
+    {
+      "card_number": 2,
+      "title": "Hukuki Yaptırım (Müeyyide) Türleri",
+      "body": "Ceza, Cebri İcra, Tazminat, Hükümsüzlük (İptal, Yokluk, Butlan)."
+    },
+    {
+      "card_number": 3,
+      "title": "Yokluk ve Butlan Farkı",
+      "body": "Yokluk: Kurucu unsurun olmamasıdır (İmamsız nikah). Butlan: Emredici kurala aykırılıktır (Kardeşle evlenme - Mutlak Butlan)."
+    },
+    {
+      "card_number": 4,
+      "title": "Pozitif (Müspet) Hukuk",
+      "body": "Bir ülkede belirli bir zamanda yürürlükte bulunan YAZILI VE YAZISIZ hukuk kurallarının tamamıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Mevzu Hukuk (Mevzuat)",
+      "body": "Bir ülkede yetkili makamlar tarafından konulmuş SADECE YAZILI hukuk kurallarının (Anayasa, Kanun, Yönetmelik) tamamıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Hak Ehliyeti ve Fiil Ehliyeti",
+      "body": "Hak Ehliyeti: Sağ ve tam doğmak şartıyla ANNE KARNINA DÜŞTÜĞÜ ANDA başlar. Fiil Ehliyeti: Reşit (18 yaş), ayırt etme gücü ve kısıtlı olmamakla başlar."
+    },
+    {
+      "card_number": 7,
+      "title": "Evlenme İle Ergin Olma (Rüşt)",
+      "body": "Normal erginlik yaşı 18'dir. Olağan evlenme yaşı 17, olağanüstü evlenme yaşı (mahkeme kararıyla) 16'dır."
+    },
+    {
+      "card_number": 8,
+      "title": "Mahkeme Kararıyla Erginlik (Kazai Rüşt)",
+      "body": "15 yaşını dolduran küçüğün kendi isteği, velisinin rızası ve mahkeme kararı ile ergin kılınmasıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Gaiplik Kararı ve Süreleri",
+      "body": "Ölüm tehlikesi içinde kaybolmada 1 YIL; uzun süredir haber alınamama durumunda 5 YIL sonra mahkemeden gaiplik istenir. Miras için güvence süresi 5 ve 15 yıldır."
+    },
+    {
+      "card_number": 10,
+      "title": "Hukuki Hakların Kazanılması ve Kullanılması",
+      "body": "Hakların kazanılmasında İYİNİYET (Objektif); hakların kullanılmasında ve borçların ifasında DÜRÜSTLÜK (Subjektif) kuralı geçerlidir."
+    }
+  ],
+  "topic-vat-idare-mahalli-idareler": [
+    {
+      "card_number": 1,
+      "title": "Mahalli İdare (Yerel Yönetim) Türleri",
+      "body": "İl Özel İdaresi, Belediye, Büyükşehir Belediyesi ve Köy'dür. Anayasada sayılan yerel yönetim organları bunlardır."
+    },
+    {
+      "card_number": 2,
+      "title": "İl Özel İdaresi Organları",
+      "body": "Vali (Yürütme organı), İl Genel Meclisi (Karar organı - Seçimle gelir), İl Encümeni (Danışma/İcra organı)."
+    },
+    {
+      "card_number": 3,
+      "title": "İl Genel Meclisi Başkanı",
+      "body": "İl Genel Meclisi kendi üyeleri arasından seçtiği bir başkanı meclis başkanı yapar (Vali başkanlık etmez!)."
+    },
+    {
+      "card_number": 4,
+      "title": "Belediye Kurulma Şartı",
+      "body": "Nüfusu 5.000 ve üzeri olan yerleşim yerlerinde CUMHURBAŞKANI KARARI ile belediye kurulabilir. İl ve ilçe merkezlerinde nüfusa bakılmaksızın kurulur."
+    },
+    {
+      "card_number": 5,
+      "title": "Büyükşehir Belediyesi Kurulma Şartı",
+      "body": "Toplam nüfusu 750.000 ve üzeri olan illerde KANUNLA kurulur. Şu an Türkiye'de 30 Büyükşehir Belediyesi vardır."
+    },
+    {
+      "card_number": 6,
+      "title": "Belediye Organları",
+      "body": "Belediye Başkanı (Yürütme organı), Belediye Meclisi (Karar organı), Belediye Encümeni (Danışma/Karar organı)."
+    },
+    {
+      "card_number": 7,
+      "title": "Belediye Başkanlığının Düşmesi Kararı",
+      "body": "Seçilme yeterliliğini kaybeden Belediye Başkanı'nın başkanlığını düşürme kararı DANIŞTAY tarafından verilir."
+    },
+    {
+      "card_number": 8,
+      "title": "Köy Kurulma Şartı ve Organları",
+      "body": "Nüfusu 2.000 ile 150 arasında olan yerlerdir. İÇİŞLERİ BAKANLIĞI kararı ile kurulur. Organları: Muhtar, İhtiyar Heyeti, İmece/Salma."
+    },
+    {
+      "card_number": 9,
+      "title": "Köyün Doğrudan Demokrasi Organı (Köy Derneği)",
+      "body": "Köyde bulunan tüm seçmenlerin oluşturduğu kuruldur. Muhtarı ve İhtiyar Heyeti'ni seçer, isteğe bağlı işleri zorunlu kılar."
+    },
+    {
+      "card_number": 10,
+      "title": "Mahalle Kırsal/Mahalli İdare Değildir!",
+      "body": "Mahalle bir mahalli idare birimi değildir! Kamu tüzel kişiliği (KTK) YOKTUR. Belediyeye bağlı bir yönetim birimidir."
+    }
+  ],
+  "topic-vat-idare-merkezi-tasra": [
+    {
+      "card_number": 1,
+      "title": "İdarenin Kanuniliği İlkesi",
+      "body": "İdarenin tüm eylem, işlem ve kuruluşları kanuna dayanmak zorundadır (Anayasa Madde 123)."
+    },
+    {
+      "card_number": 2,
+      "title": "İdarenin Bütünlüğü (Hiyerarşi ve Vesayet)",
+      "body": "İdarenin birliğini sağlayan iki araç vardır: Hiyerarşi (Aynı tüzel kişilik içindeki üst-üst ilişkisi) ve İdari Vesayet (Ayrı tüzel kişilikler arası denetim)."
+    },
+    {
+      "card_number": 3,
+      "title": "İdari Vesayet Örneği",
+      "body": "İçişleri Bakanı'nın (Merkezi İdare) bir Belediye Başkanı'nı (Mahalli İdare) geçici olarak görevden uzaklaştırması İDARİ VESAYET'tir."
+    },
+    {
+      "card_number": 4,
+      "title": "Hiyerarşi Örneği",
+      "body": "Vali'nin İl Milli Eğitim Müdürü'ne emretmesi veya Kaymakam'ın İlçe Nüfus Müdürü'ne talimat vermesi HİYERARŞİ'dir."
+    },
+    {
+      "card_number": 5,
+      "title": "Merkezden Yönetimin Yetki Genişliği",
+      "body": "Merkeze danışmadan merkezin adına karar alabilme yetkisidir. Türkiye'de yetki genişliği SADECE VALİ'ye tanınmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "Başkent Teşkilatı Yardımcı Kuruluşları",
+      "body": "Danıştay (İdari danışma), Sayıştay (Mali denetim), Milli Güvenlik Kurulu (MGK - Siyasi danışma)."
+    },
+    {
+      "card_number": 7,
+      "title": "İl Genel İdaresi Organları",
+      "body": "Vali (Devletin ve Cumhurbaşkanının temsilcisi), İl İdare Şube Başkanları (Müdürler) ve İl İdare Kurulu."
+    },
+    {
+      "card_number": 8,
+      "title": "İlçe İdaresi Organları",
+      "body": "Kaymakam (Cumhurbaşkanının temsilcisi), İlçe İdare Şube Başkanları ve İlçe İdare Kurulu."
+    },
+    {
+      "card_number": 9,
+      "title": "Vali ve Kaymakam Atanma Farkı",
+      "body": "Vali Cumhurbaşkanı kararıyla atanır (İstisnai memurluktur). Kaymakam ise Cumhurbaşkanı onayıyla atanır (Meslek memurluğudur)."
+    },
+    {
+      "card_number": 10,
+      "title": "Kamu Tüzel Kişiliği (KTK) Kurulması",
+      "body": "Kamu tüzel kişiliği ancak KANUNLA veya CUMHURBAŞKANLIĞI KARARNAMESİ ile kurulur."
+    }
+  ],
+  "topic-vat-memurluk-hukuku": [
+    {
+      "card_number": 1,
+      "title": "657 Sayılı DMK Temel İlkeleri",
+      "body": "Liyakat (Yetenek ve başarıya göre yükselme), Kariyer (Meslekte en yüksek dereceye kadar ilerleme), Sınıflandırma (Görevin gerektirdiği sınıflara ayrılma)."
+    },
+    {
+      "card_number": 2,
+      "title": "Memurluğa Girişte Yaş Sınırı",
+      "body": "Genel olarak 18 yaşını dolduranlar memur olabilir. Bir meslek veya sanat okulunu bitirenler Kazai Rüşt (15 yaş) kararı ile memur olabilir."
+    },
+    {
+      "card_number": 3,
+      "title": "Memurlukta Adaylık Süresi",
+      "body": "Memurlukta adaylık süresi EN AZ 1 YIL, EN ÇOK 2 YILDIR. Adaylık süresince başka kuruma nakil yapılamaz."
+    },
+    {
+      "card_number": 4,
+      "title": "Memur Çalışma Saatleri (Haftalık)",
+      "body": "Haftalık çalışma süresi genel olarak 40 saattir. Cumartesi ve Pazar günleri tatildir."
+    },
+    {
+      "card_number": 5,
+      "title": "Memur Yıllık İzin Süreleri",
+      "body": "Hizmet süresi 1 yıldan 10 yıla kadar olanlar için 20 GÜN; 10 yıldan fazla olanlar için 30 GÜN yıllık izin verilir."
+    },
+    {
+      "card_number": 6,
+      "title": "Memurlara Verilen Disiplin Cezaları",
+      "body": "Uyarma, Kınama, Aylıktan Kesme (1/30 - 1/8 arası), Kademe İlerlemesinin Durdurulması (1-3 yıl arası), Devlet Memurluğundan Çıkarma."
+    },
+    {
+      "card_number": 7,
+      "title": "Memurluktan Çıkarma Cezasının Yetkilisi",
+      "body": "Devlet memurluğundan çıkarma cezası amirler tarafından değil, YÜKSEK DİSİPLİN KURULU tarafından verilir."
+    },
+    {
+      "card_number": 8,
+      "title": "Memur Disiplin Cezalarına Yargı Yolu",
+      "body": "Uyarma ve kınama dahil tüm disiplin cezalarına karşı yargı yolu (İdare Mahkemesi) AÇIKTIR."
+    },
+    {
+      "card_number": 9,
+      "title": "Memurların Ticaret Yasağı",
+      "body": "Memurlar Türk Ticaret Kanununa göre tacir veya esnaf sayılamaz, ticaret ve sanayi müesseselerinde görev alamazlar."
+    },
+    {
+      "card_number": 10,
+      "title": "Memurluğu Sona Erdiren Durumlar",
+      "body": "Çekilme (Müstafi), Çıkarılma, Memurluk şartlarını kaybetme, Emeklilik ve Ölüm. (Açığa alınma memurluğu sona erdirmez!)."
+    }
+  ],
+  "topic-vat-temel-haklar": [
+    {
+      "card_number": 1,
+      "title": "Temel Hak ve Hürriyetlerin Sınırlanması",
+      "body": "Temel haklar ancak KANUNLA, anayasanın sözüne ve ruhuna uygun olarak, ölçülülük ilkesi gözetilerek ve hakkın özüne dokunulmadan sınırlanabilir."
+    },
+    {
+      "card_number": 2,
+      "title": "Durdurulamayacak Çekirdek Haklar (OHAL dahil)",
+      "body": "Yaşama hakkı, tıbbi zorunluluklar hariç vücut bütünlüğü, din ve vicdan hürriyeti, suç ve cezaların geriye yürümemesi, masumiyet karinesi."
+    },
+    {
+      "card_number": 3,
+      "title": "Kişi Hakları ve Ödevleri (Negatif Statü / Koruyucu)",
+      "body": "Devletin dokunamayacağı haklardır: Kişi dokunulmazlığı, özel hayatın gizliliği, konut dokunulmazlığı, haberleşme hürriyeti, mülkiyet hakkı."
+    },
+    {
+      "card_number": 4,
+      "title": "Sosyal ve Ekonomik Haklar (Pozitif Statü / İsteme)",
+      "body": "Bireyin devletten isteyebileceği haklardır: Eğitim hakkı, çalışma hakkı, sağlık hakkı, konut hakkı, grev ve lokavt hakkı."
+    },
+    {
+      "card_number": 5,
+      "title": "Siyasi Haklar ve Ödevler (Aktif Statü / Katılma)",
+      "body": "Vatandaşlık hakkı, seçme-seçilme hakkı, parti kurma-girme hakkı, kamu hizmetine girme hakkı, dilekçe hakkı, vergi ödevi, vatan hizmeti."
+    },
+    {
+      "card_number": 6,
+      "title": "Siyasi Partilere Üye Olamayacaklar",
+      "body": "Hakimler, savcılar, yüksek yargı mensupları, memurlar, TSK mensupları ve henüz lise dengi öğrenimdeki öğrenciler parti üyesi olamaz."
+    },
+    {
+      "card_number": 7,
+      "title": "Siyasi Partilerin Kapatılması",
+      "body": "Yargıtay Cumhuriyet Başsavcısı'nın açtığı dava üzerine ANAYASA MAHKEMESİ tarafından kapatılır (Kabul için 2/3 oy çokluğu gerekir)."
+    },
+    {
+      "card_number": 8,
+      "title": "Türk Vatandaşlığının Kazanılması ve Kaybı",
+      "body": "Soy bağı veya doğum yeri ile kazanılır. Hiçbir Türk vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vatandaşlıktan çıkarılamaz."
+    },
+    {
+      "card_number": 9,
+      "title": "Vatandaşlıktan Çıkarma Kararına Yargı Yolu",
+      "body": "Vatandaşlıktan çıkarma kararlarına karşı yargı yolu açıktır. İlk derece mahkemesi olarak DANIŞTAY'a dava açılır."
+    },
+    {
+      "card_number": 10,
+      "title": "Dilekçe, Bilgi Edinme ve Kamu Denetçisine Başvuru",
+      "body": "Vatandaşlar ve karşılıklılık esası gözetilmek şartıyla Türkiye'de ikamet eden yabancılar TBMM'ye ve yetkili makamlara yazılı başvurabilir."
+    }
+  ],
+  "topic-vat-uluslararasi-kuruluslar": [
+    {
+      "card_number": 1,
+      "title": "Birleşmiş Milletler (BM) Merkezi ve Kurucusu",
+      "body": "1945'te kurulmuştur. Merkezi New York'tadır. Türkiye BM'nin 51 KURUCU üyesinden biridir."
+    },
+    {
+      "card_number": 2,
+      "title": "BM Güvenlik Konseyi Daimi Üyeleri (FIRÇA)",
+      "body": "Fransa, İngiltere, Rusya, Çin, Amerika Birleşik Devletleri (ABD). Bu 5 ülkenin veto hakkı vardır."
+    },
+    {
+      "card_number": 3,
+      "title": "NATO (Kuzey Atlantik Antlaşması Örgütü)",
+      "body": "1949'da kurulmuştur. Merkezi Brüksel (Belçika)'dedir. Türkiye NATO'ya 1952 yılında (Kore Savaşı sonrası) üye olmuştur."
+    },
+    {
+      "card_number": 4,
+      "title": "Avrupa Konseyi (AK) ve Türkiye",
+      "body": "1949'da kurulmuştur. Merkezi Strazburg (Fransa)'dır. Türkiye 1949'da kurucu üyeler arasında katılmıştır. AİHM bu konseye bağlıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Avrupa Birliği (AB) Kurucu Antlaşmaları",
+      "body": "1957 Roma Antlaşması ile (AET) kurulmuş, 1992 Maastricht Antlaşması ile adı Avrupa Birliği olmuştur."
+    },
+    {
+      "card_number": 6,
+      "title": "AB'ye Üye Olmayan Avrupa Ülkeleri",
+      "body": "İsviçre, Norveç, İzlanda ve Birleşik Krallık (İngiltere - Brexit ile ayrıldı) Avrupa Birliği üyesi değildir."
+    },
+    {
+      "card_number": 7,
+      "title": "İslam İşbirliği Teşkilatı (İİT)",
+      "body": "1969 Mescid-i Aksa yangını sonrası kurulmuştur. Merkezi Cidde (Suudi Arabistan)'dir. Türkiye kurucu üyedir."
+    },
+    {
+      "card_number": 8,
+      "title": "D-8 (Developing 8) Ülkeleri (Şifre: NİGERİYA M BAP)",
+      "body": "1997'de Necmettin Erbakan öncülüğünde kurulan gelişmekte olan 8 Müslüman ülke: Türkiye, İran, Pakistan, Bangladeş, Malezya, Endonezya, Mısır, Nijerya."
+    },
+    {
+      "card_number": 9,
+      "title": "Türk Devletleri Teşkilatı (TDT)",
+      "body": "2009 Nahçıvan Anlaşması ile kurulmuştur. Merkezi İstanbul'dadır. Üyeler: Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan."
+    },
+    {
+      "card_number": 10,
+      "title": "Karadeniz Ekonomik İşbirliği (KEİ)",
+      "body": "1992'de Türkiye öncülüğünde İstanbul'da kurulmuştur. Merkezi İstanbul'dadır. Karadeniz'e kıyısı olan ve bölgesel ülkeleri kapsar."
+    }
+  ],
+  "topic-vat-yargi-organlari": [
+    {
+      "card_number": 1,
+      "title": "1982 Anayasası'na Göre Yüksek Mahkemeler",
+      "body": "Anayasa Mahkemesi, Yargıtay, Danıştay, Uyuşmazlık Mahkemesi. (Askeri Yargıtay ve AYİM 2017'de KALDIRILMIŞTIR!)."
+    },
+    {
+      "card_number": 2,
+      "title": "Anayasa Mahkemesi (AYM) Üye Sayısı",
+      "body": "Toplam 15 üyeden oluşur. 12 üyesini Cumhurbaşkanı, 3 üyesini TBMM seçer. Görev süreleri 12 YILDIR (Tekrar seçilemezler)."
+    },
+    {
+      "card_number": 3,
+      "title": "AYM Bireysel Başvuru Hakkı (2010)",
+      "body": "Anayasada güvence altına alınmış temel hakları ihlal edilen herkes, iç hukuk yollarını tükettikten sonra 30 GÜN içinde AYM'ye bireysel başvuru yapabilir."
+    },
+    {
+      "card_number": 4,
+      "title": "Yüce Divan Sıfatıyla Yargılama",
+      "body": "AYM; Cumhurbaşkanı, Bakanlar, AYM/Yargıtay/Danıştay üyeleri, HSK üyeleri, Sayıştay Başkanı, TBMM Başkanı ve Genelkurmay Başkanı ile Kuvvet Komutanlarını yargılar."
+    },
+    {
+      "card_number": 5,
+      "title": "Yargıtay (Adli Yargının Son İnceleme Mercii)",
+      "body": "Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir. Üyelerini HAKİMLER VE SAVCILAR KURULU (HSK) seçer."
+    },
+    {
+      "card_number": 6,
+      "title": "Danıştay (İdari Yargının Son İnceleme Mercii)",
+      "body": "İdari mahkemelerce verilen kararların son inceleme merciidir. Üyelerinin 3/4'ünü HSK, 1/4'ünü CUMHURBAŞKANI seçer."
+    },
+    {
+      "card_number": 7,
+      "title": "Uyuşmazlık Mahkemesi Görevi",
+      "body": "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözen mahkemedir. Başkanı AYM kendi üyeleri arasından seçer."
+    },
+    {
+      "card_number": 8,
+      "title": "Hakimler ve Savcılar Kurulu (HSK)",
+      "body": "13 üyeden oluşur. Başkanı ADALET BAKANI'dır. Adalet Bakanı Müsteşarı tabii üyedir. 4 üyeyi Cumhurbaşkanı, 7 üyeyi TBMM seçer."
+    },
+    {
+      "card_number": 9,
+      "title": "Sayıştay (Mali Denetim Organı)",
+      "body": "TBMM adına kamu kurumlarının gelir, gider ve mallarını denetleyen yüksek mali denetim organıdır (Anayasada Yüksek Mahkeme olarak sayılmaz)."
+    },
+    {
+      "card_number": 10,
+      "title": "Hakimlik ve Savcılık Teminatı",
+      "body": "Hakimler ve savcılar azlolunamaz, kendileri istemedikçe anayasada gösterilen yaştan (65 yaş) önce emekliye ayrılamaz."
+    }
+  ],
+  "topic-vat-yasama-tbmm": [
+    {
+      "card_number": 1,
+      "title": "TBMM Üye Tamsayısı ve Seçim Dönemi",
+      "body": "TBMM 600 milletvekilinden oluşur. Genel seçimler 5 YILDA BİR Cumhurbaşkanlığı seçimiyle aynı gün yapılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Milletvekili Seçilme Yeterliliği",
+      "body": "Türk vatandaşı olmak, 18 yaşını doldurmak, en az ilkokul mezunu olmak, kısıtlı olmamak, taksirli suçlar hariç 1 yıldan fazla hapis yatmamış olmak."
+    },
+    {
+      "card_number": 3,
+      "title": "Seçim İçin İstifa Etmesi Gerekenler",
+      "body": "Hakimler, savcılar, yüksek yargı mensupları, TSK mensupları ve memurlar aday olmak için istifa etmelidir. Seçilemezlerse görevlerine dönemeyenler: Hakimler, savcılar ve TSK mensuplarıdır."
+    },
+    {
+      "card_number": 4,
+      "title": "Yasama Dokunulmazlığı",
+      "body": "Milletvekilinin tutuklanmasını, sorgulanmasını ve yargılanmasını engeller (Nitelikli çoğunlukla kaldırılabilir). Sadece ceza davalarını kapsar."
+    },
+    {
+      "card_number": 5,
+      "title": "Yasama Sorumsuzluğu (Kürsü Hürriyeti)",
+      "body": "Milletvekilinin meclis çalışmalarındaki oy, söz ve düşüncelerinden ÖMÜR BOYU sorumlu tutulamamasıdır. Asla KALDIRILAMAZ."
+    },
+    {
+      "card_number": 6,
+      "title": "Milletvekilliğinin Düşme Durumları",
+      "body": "İstifa (Meclis kararıyla), kesin hüküm giyme (Bildirimle), kısıtlanma (Bildirimle), bağdaşmayan görevde ısrar etme ve devamsızlık (1 ayda 5 birleşim)."
+    },
+    {
+      "card_number": 7,
+      "title": "Milletvekilliğini DÜŞÜRMEYEN Durumlar",
+      "body": "TBMM Başkanı seçilmek, bakan veya Cumhurbaşkanı yardımcısı olmak (Milletvekilliği kendiliğinden sona erer ama 'düşme' kararı değildir)."
+    },
+    {
+      "card_number": 8,
+      "title": "TBMM Toplantı ve Karar Yetersayısı",
+      "body": "Toplantı Yetersayısı: Üye tamsayısının 1/3'ü (200 milletvekili). Karar Yetersayısı: Toplantıya katılanların salt çoğunluğudur; ancak üye tamsayısının 1/4'ünün 1 fazlasından (151) az olamaz."
+    },
+    {
+      "card_number": 9,
+      "title": "Anayasa Değişikliği Nisapları",
+      "body": "Teklif için 1/5 (120 milletvekili). Kabul için 3/5 (360 milletvekili - Referandumlu kabul) veya 2/3 (400 milletvekili - Doğrudan onay)."
+    },
+    {
+      "card_number": 10,
+      "title": "TBMM Bilgi Edinme Yolları",
+      "body": "Yazılı Soru, Genel Görüşme, Meclis Araştırması, Meclis Soruşturması. (Gensoru ve Sözlü Soru 2017 değişikliğiyle KALDIRILMIŞTIR!)."
+    }
+  ],
+  "topic-vat-yurutme-cb": [
+    {
+      "card_number": 1,
+      "title": "Cumhurbaşkanı Seçilme Şartları",
+      "body": "Türk vatandaşı olmak, 40 yaşını doldurmak, yükseköğrenim (üniversite) mezunu olmak ve milletvekili seçilme yeterliliğine sahip olmak."
+    },
+    {
+      "card_number": 2,
+      "title": "Cumhurbaşkanı Seçim Usulü",
+      "body": "Halk tarafından seçilir. Görev süresi 5 YILDIR. Bir kimse en fazla İKİ DEFA Cumhurbaşkanı seçilebilir."
+    },
+    {
+      "card_number": 3,
+      "title": "Cumhurbaşkanlığına Aday Gösterme",
+      "body": "Siyasi parti grupları, en son seçimde tek başına veya toplamda en az %5 oy almış partiler veya en az 100 BİN SEÇMEN aday gösterebilir."
+    },
+    {
+      "card_number": 4,
+      "title": "Cumhurbaşkanı Seçimi Kazanma Oranı",
+      "body": "Geçerli oyların SALT ÇOĞUNLUĞUNU (%50 + 1 oy) alan aday Cumhurbaşkanı seçilir."
+    },
+    {
+      "card_number": 5,
+      "title": "Cumhurbaşkanına Vekalet Etme",
+      "body": "Cumhurbaşkanlığı makamının boşalması veya hastalık/yurtdışı durumlarında CUMHURBAŞKANI YARDIMCISI vekalet eder."
+    },
+    {
+      "card_number": 6,
+      "title": "Cumhurbaşkanlığı Kararnamesi (CBK)",
+      "body": "Yürütme yetkisine ilişkin konularda çıkarılır. Temel haklar, kişisel haklar ve siyasi haklar CBK ile DÜZENLENEMEZ (Sadece Sosyal Haklar düzenlenebilir)."
+    },
+    {
+      "card_number": 7,
+      "title": "Olağanüstü Hal (OHAL) CBK'sı",
+      "body": "OHAL durumlarında çıkarılır. Hak ve özgürlükler kısıtlanabilir. Resmi Gazetede yayımlandığı gün TBMM onayına sunulur."
+    },
+    {
+      "card_number": 8,
+      "title": "OHAL İlan Etme Yetkisi",
+      "body": "Tabii afet, ağır ekonomik kriz veya şiddet olaylarında OLAĞANÜSTÜ HALİ CUMHURBAŞKANI İLAN EDER. Süresi en fazla 6 aydır, uzatma yetkisi TBMM'ye aittir."
+    },
+    {
+      "card_number": 9,
+      "title": "Cumhurbaşkanının Cezai Sorumluluğu",
+      "body": "Suç işlediği iddiasıyla TBMM üye tamsayısının 3/10'unun teklifi, 3/5'inin kararıyla soruşturma açılır. 2/3 (400) kararla Yüce Divan'a sevk edilir."
+    },
+    {
+      "card_number": 10,
+      "title": "Devlet Denetleme Kurulu (DDK)",
+      "body": "Cumhurbaşkanlığına bağlıdır. Başkan ve üyelerini Cumhurbaşkanı atar. Yargı organları HARİÇ tüm kamu kurum ve kuruluşlarını denetler."
+    }
+  ]
+}
