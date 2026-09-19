@@ -1,0 +1,15 @@
+# GitHub Linguist Language Overrides
+# Mark data generator scripts, datasets, and static export dumps as vendored/documentation
+# so that the repository correctly displays as a Flutter/Dart application.
+
+KPSS_Soru_Bankasi.html linguist-documentation
+*.py linguist-vendored
+scripts/** linguist-vendored
+dataset_scripts/** linguist-vendored
+assets/** linguist-vendored
+web/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
