@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-cumlenin-ogeleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Cümlenin Temel Ögeleri",
+      "body": "Bir cümlenin oluşması için şart olan temel ögeler Yüklem ve Özne'dir. Yüklemsiz cümle olmaz."
+    },
+    {
+      "card_number": 2,
+      "title": "Yüklem Bulma Altın Kuralı",
+      "body": "Cümledeki yargıyı bildiren ögedir. Ögeler bulunurken ilk olarak yüklem tespit edilir ve tüm sorular yükleme sorulur."
+    },
+    {
+      "card_number": 3,
+      "title": "Özne Bulma Soruları",
+      "body": "Yükleme sorulan 'Kim?' ve 'Ne?' sorularının yanıtıdır. Yüklemden hemen sonra bulunmalıdır."
+    },
+    {
+      "card_number": 4,
+      "title": "Nesne (Belirtili ve Belirtisiz)",
+      "body": "Yükleme sorulan 'Neyi, Kimi?' soruları Belirtili Nesneyi (-i hali); 'Ne?' sorusu Belirtisiz Nesneyi verir."
+    },
+    {
+      "card_number": 5,
+      "title": "Dolaylı Tümleç (Yer Tamlayıcısı)",
+      "body": "Yükleme sorulan '-e, -de, -den' eklerini içeren soruların (Nereye, Nerede, Nereden, Kime...) yanıtıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Zarf Tümleci Soruları",
+      "body": "Yükleme sorulan 'Nasıl, Ne zaman, Ne kadar, Neden, Niçin?' sorularının yanıtıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Edat Tümleci Soruları",
+      "body": "Yükleme sorulan 'Ne ile, Kimin ile, Ne için, Kimin için?' sorularının yanıtıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Tamlamaları Bölmeme Kuralı",
+      "body": "Cümlenin ögeleri bulunurken isim tamlamaları, sıfat tamlamaları ve deyimler asla bölünmez; tek bir öge kabul edilir."
+    },
+    {
+      "card_number": 9,
+      "title": "Ara Söz ve Ara Cümle",
+      "body": "İki virgül veya iki kısa çizgi arasında yer alan, bir ögenin açıklayıcısı olan veya bağımsız giren ifadelerdir."
+    },
+    {
+      "card_number": 10,
+      "title": "Vurgulanan Öge İpucu",
+      "body": "Fiil cümlelerinde vurgulanan öge, yüklemden hemen önce gelen ögedir."
+    }
+  ]
+}

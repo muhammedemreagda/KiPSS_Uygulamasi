@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-yasama-tbmm",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "TBMM Üye Tamsayısı ve Seçim Dönemi",
+      "body": "TBMM 600 milletvekilinden oluşur. Genel seçimler 5 YILDA BİR Cumhurbaşkanlığı seçimiyle aynı gün yapılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Milletvekili Seçilme Yeterliliği",
+      "body": "Türk vatandaşı olmak, 18 yaşını doldurmak, en az ilkokul mezunu olmak, kısıtlı olmamak, taksirli suçlar hariç 1 yıldan fazla hapis yatmamış olmak."
+    },
+    {
+      "card_number": 3,
+      "title": "Seçim İçin İstifa Etmesi Gerekenler",
+      "body": "Hakimler, savcılar, yüksek yargı mensupları, TSK mensupları ve memurlar aday olmak için istifa etmelidir. Seçilemezlerse görevlerine dönemeyenler: Hakimler, savcılar ve TSK mensuplarıdır."
+    },
+    {
+      "card_number": 4,
+      "title": "Yasama Dokunulmazlığı",
+      "body": "Milletvekilinin tutuklanmasını, sorgulanmasını ve yargılanmasını engeller (Nitelikli çoğunlukla kaldırılabilir). Sadece ceza davalarını kapsar."
+    },
+    {
+      "card_number": 5,
+      "title": "Yasama Sorumsuzluğu (Kürsü Hürriyeti)",
+      "body": "Milletvekilinin meclis çalışmalarındaki oy, söz ve düşüncelerinden ÖMÜR BOYU sorumlu tutulamamasıdır. Asla KALDIRILAMAZ."
+    },
+    {
+      "card_number": 6,
+      "title": "Milletvekilliğinin Düşme Durumları",
+      "body": "İstifa (Meclis kararıyla), kesin hüküm giyme (Bildirimle), kısıtlanma (Bildirimle), bağdaşmayan görevde ısrar etme ve devamsızlık (1 ayda 5 birleşim)."
+    },
+    {
+      "card_number": 7,
+      "title": "Milletvekilliğini DÜŞÜRMEYEN Durumlar",
+      "body": "TBMM Başkanı seçilmek, bakan veya Cumhurbaşkanı yardımcısı olmak (Milletvekilliği kendiliğinden sona erer ama 'düşme' kararı değildir)."
+    },
+    {
+      "card_number": 8,
+      "title": "TBMM Toplantı ve Karar Yetersayısı",
+      "body": "Toplantı Yetersayısı: Üye tamsayısının 1/3'ü (200 milletvekili). Karar Yetersayısı: Toplantıya katılanların salt çoğunluğudur; ancak üye tamsayısının 1/4'ünün 1 fazlasından (151) az olamaz."
+    },
+    {
+      "card_number": 9,
+      "title": "Anayasa Değişikliği Nisapları",
+      "body": "Teklif için 1/5 (120 milletvekili). Kabul için 3/5 (360 milletvekili - Referandumlu kabul) veya 2/3 (400 milletvekili - Doğrudan onay)."
+    },
+    {
+      "card_number": 10,
+      "title": "TBMM Bilgi Edinme Yolları",
+      "body": "Yazılı Soru, Genel Görüşme, Meclis Araştırması, Meclis Soruşturması. (Gensoru ve Sözlü Soru 2017 değişikliğiyle KALDIRILMIŞTIR!)."
+    }
+  ]
+}

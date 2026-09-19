@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-ses-bilgisi",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Ünlü (Sesli) Düşmesi",
+      "body": "İki heceli bazı kelimeler ünlü ile başlayan ek aldığında ikinci hecedeki dar ünlü düşer. Örnek: akıl + ı → aklı, burun + um → burnum."
+    },
+    {
+      "card_number": 2,
+      "title": "Ünsüz Yumuşaması (Değişimi)",
+      "body": "p, ç, t, k ile biten kelimeler ünlüyle başlayan ek aldığında b, c, d, ğ'ye dönüşür. Örnek: kitap + ı → kitabı, ağaç + a → ağaca."
+    },
+    {
+      "card_number": 3,
+      "title": "Ünsüz Sertleşmesi (Benzeşmesi)",
+      "body": "Fıstıkçı Şahap (f, s, t, k, ç, ş, h, p) ile biten kelimelere c, d, g ile başlayan ek gelirse ek ç, t, k'ye dönüşür. Örnek: kitap + cı → kitapçı."
+    },
+    {
+      "card_number": 4,
+      "title": "Ünlü Daralması İpucu",
+      "body": "a, e geniş ünlüleriyle biten fiillere '-yor' eki geldiğinde a, e sesleri ı, i, u, ü'ye daralır. Örnek: başla - yor → başlıyor."
+    },
+    {
+      "card_number": 5,
+      "title": "Ünsüz Türemesi (İkizleşme)",
+      "body": "Arapça kökenli bazı kelimeler etmek/olmak yardımcı fiili veya ünlüyle başlayan ek aldığında ikizleşir. Örnek: his + etmek → hissetmek, hak + ı → hakkı."
+    },
+    {
+      "card_number": 6,
+      "title": "Ünlü Türemesi",
+      "body": "Cık/cik küçültme eki alan bazı kelimelerde türeme olur. Örnek: az + cık → azıcık, dar + cık → daracık, bir + cik → biricik."
+    },
+    {
+      "card_number": 7,
+      "title": "Ünsüz Düşmesi İpucu",
+      "body": "k ünsüzüyle biten bazı kelimeler -cık/-cik küçültme eki aldığında k ünsüzü düşer. Örnek: küçük + cük → küçücük, minik + cik → minicik."
+    },
+    {
+      "card_number": 8,
+      "title": "Dudak Ünsüzlerinin Benzeşmesi (n-m değişimi)",
+      "body": "b sesinden önce gelen n sesi m'ye dönüşür. Örnek: saklan-baç → saklambaç, dolan-baç → dolambaç (Özel isimlerde uygulanmaz: İstanbul)."
+    },
+    {
+      "card_number": 9,
+      "title": "Ulama İpucu",
+      "body": "Ünsüzle biten bir kelimeden sonra ünlüyle başlayan bir kelime geldiğinde iki kelimenin birleşikmiş gibi okunmasıdır (Noktalama işareti varsa ulama olmaz)."
+    },
+    {
+      "card_number": 10,
+      "title": "Büyük Ünlü Uyumu Kuralı",
+      "body": "Bir kelimenin ilk hecesindeki ünlü kalınsa (a, ı, o, u) diğer heceler de kalın; inceyse (e, i, ö, ü) diğerleri de ince olmalıdır."
+    }
+  ]
+}

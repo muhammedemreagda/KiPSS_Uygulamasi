@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-tarih-cagdas-turk-dunya",
+  "title": "Çağdaş Türk ve Dünya Tarihi",
+  "course_id": "course-tarih",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-tarih-cagdas-turk-dunya",
+    "topic_id": "topic-tarih-cagdas-turk-dunya",
+    "title": "Çağdaş Türk ve Dünya Tarihi Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Tarih testinde 'Çağdaş Türk ve Dünya Tarihi' konusu, kronolojik akışın, sebep-sonuç ilişkilerinin ve dönemsel ıslahat/antlaşmaların sorgulandığı yüksek soru potansiyeline sahip bir alandır.",
+    "content": "Çağdaş Türk ve Dünya Tarihi konusu, KPSS Tarih testinde adayların bilgi düzeyini ve tarihsel mantık yürütme kabiliyetini ölçer.\n\n1. Tarihsel Süreç ve Dönemin Önemi:\nÇağdaş Türk ve Dünya Tarihi dönemi, Türk ve dünya tarihinin şekillenmesinde kritik bir evredir. Bu dönemde yaşanan siyasi, askeri, ekonomik ve kültürel gelişmeler bir sonraki dönemin temelini oluşturmuştur.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Antlaşmaların maddelerindeki bağımsızlık, egemenlik ve sınır değişiklikleri detaylarına dikkat edin.\n- Islahatlarda yapılan yeniliklerin hangi alana (askeri, hukuki, idari, eğitim) ait olduğunu ayırt edin.\n- Kurtuluş Savaşı ve İnkılap Tarihi konularında Atatürk'ün sözlerini ve bu sözlerin hangi olay üzerine söylendiğini mutlaka bilin.\n\n3. Soru Çözüm Stratejisi:\n- Öncüllü (I, II, III) sorularda verilen bilgilerin sorudaki öncüle tam uyup uymadığını kontrol edin.\n- Tarih sorularını çözerken günümüz değerleriyle değil, olayın yaşandığı dönemin şartlarıyla değerlendirin.",
+    "key_points": [
+      "1. Çağdaş Türk ve Dünya Tarihi dönemindeki olayları ezberlemek yerine sebep-sonuç zinciri kurarak öğrenin.",
+      "2. Dönemin önemli antlaşmalarını, maddelerini ve getirdiği yenilikleri zihninize oturtun.",
+      "3. Devlet adamlarının, padişahların veya komutanların döneme damga vuran unvanlarını bilin.",
+      "4. Kültür ve Medeniyet kavramlarını (kurumlar, meclisler, vergi türleri) karıştırmayın.",
+      "5. Soru çözerken dönemin koşullarını ve 'Yalnızca bu bilgiye dayanarak' kuralını unutmayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Kara Perşembe (1929 Dünya Ekonomik Bunalımı)",
+        "body": "ABD New York borsasının çökmesiyle başlayan ve dünyayı sarsan krizdir. Türkiye'de Devletçilik ilkesi hız kazanmıştır."
+      },
+      {
+        "card_number": 2,
+        "title": "II. Dünya Savaşı Müttefik ve Miğfer Blokları",
+        "body": "Müttefikler: İngiltere, Fransa, ABD, SSCB. Miğfer Devletler: Almanya, İtalya, Japonya."
+      },
+      {
+        "card_number": 3,
+        "title": "Türkiye'nin II. Dünya Savaşı Tutumu",
+        "body": "Türkiye savaş boyunca tarafsız kalmış, ancak San Francisco Konferansı'na katılmak ve BM kurucu üyesi olmak için Şubat 1945'te Almanya'ya savaş ilan etmiştir."
+      },
+      {
+        "card_number": 4,
+        "title": "Birleşmiş Milletler (BM) Kuruluşu (1945)",
+        "body": "Dünya barışını korumak için kurulmuştur. Güvenlik Konseyi'nin 5 daimi üyesi (Fırça/FİRÇA: Fransa, İngiltere, Rusya, Çin, ABD) veto hakkına sahiptir."
+      },
+      {
+        "card_number": 5,
+        "title": "Soğuk Savaş Dönemi ve Truman Doktrini",
+        "body": "ABD ile SSCB arasındaki gerilim dönemidir. Truman Doktrini ve Marshall Planı ile Türkiye ve Yunanistan'a ABD yardımı yapılmıştır."
+      },
+      {
+        "card_number": 6,
+        "title": "NATO ve Türkiye'nin Üyeliği (1952)",
+        "body": "Kuzey Atlantik Savunma İttifakı'dır. Türkiye Kore Savaşı'na asker göndererek 1952 yılında NATO'ya resmi üye olmuştur."
+      },
+      {
+        "card_number": 7,
+        "title": "Varşova Paktı",
+        "body": "NATO'ya karşı SSCB liderliğinde Doğu Bloku ülkeleri tarafından kurulan askeri ittifaktır."
+      },
+      {
+        "card_number": 8,
+        "title": "Kıbrıs Barış Harekatı (1974)",
+        "body": "EOKA örgütü ve Enosis'e (Kıbrıs'ı Yunanistan'a bağlama) karşı Bülent Ecevit hükümeti döneminde gerçekleştirilen harekat (Ayşe tatile çıksın parolası)."
+      },
+      {
+        "card_number": 9,
+        "title": "SSCB'nin Dağılması (1991) ve Bağımsızlık",
+        "body": "SSCB'nin dağılmasıyla Azerbaycan, Kazakistan, Özbekistan, Türkmenistan ve Kırgızistan bağımsızlıklarını kazanmıştır."
+      },
+      {
+        "card_number": 10,
+        "title": "Türk Devletleri Teşkilatı (TDT)",
+        "body": "Türk dili konuşan ülkelerin kurduğu uluslararası örgüttür (Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan üyedir)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-1",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "II. Dünya Savaşı'nı başlatan askeri olay aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Almanya'nın Avusturya'yı ilhakı"
+        },
+        {
+          "key": "B",
+          "text": "Almanya'nın 1 Eylül 1939'da Polonya'yı işgali"
+        },
+        {
+          "key": "C",
+          "text": "İtalya'nın Habeşistan'ı işgali"
+        },
+        {
+          "key": "D",
+          "text": "Japonya'nın Mançurya'ya girmesi"
+        },
+        {
+          "key": "E",
+          "text": "Münih Antlaşması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Almanya'nın 1 Eylül 1939'da Polonya'ya saldırması üzerine İngiltere ve Fransa Almanya'ya savaş ilan etmiş ve II. Dünya Savaşı resmen başlamıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-2",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "II. Dünya Savaşı öncesinde 'Hayat Sahası' (Lebensraum) politikasını izleyen devlet aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İngiltere"
+        },
+        {
+          "key": "B",
+          "text": "Sovyetler Birliği"
+        },
+        {
+          "key": "C",
+          "text": "Almanya"
+        },
+        {
+          "key": "D",
+          "text": "ABD"
+        },
+        {
+          "key": "E",
+          "text": "Fransa"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Almanya'da Hitler yönetiminin izlediği, Alman ırkının yayılması için gereken toprakları ele geçirme politikasına 'Hayat Sahası' (Lebensraum) denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-3",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "II. Dünya Savaşı'ndan sonra ABD ve SSCB liderliğinde başlayan siyasi ve ideolojik kutuplaşma sürecine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Küreselleşme"
+        },
+        {
+          "key": "B",
+          "text": "Soğuk Savaş Dönemi"
+        },
+        {
+          "key": "C",
+          "text": "Detant"
+        },
+        {
+          "key": "D",
+          "text": "Bloklar Arası Çatışma"
+        },
+        {
+          "key": "E",
+          "text": "Yeni Dünya Düzeni"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "ABD ve SSCB liderliğindeki iki blok arasında doğrudan büyük bir askeri sıcak savaş olmaksızın süren siyasi, ekonomik ve ideolojik gerilime 'Soğuk Savaş' denir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-4",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "ABD Başkanı Truman tarafından ilan edilen Truman Doktrini'nin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sovyet yayılmacılığını (komünizmi) çevrelemek ve engellemek"
+        },
+        {
+          "key": "B",
+          "text": "Avrupa'nın kalkınmasını sağlamak"
+        },
+        {
+          "key": "C",
+          "text": "NATO'yu kurmak"
+        },
+        {
+          "key": "D",
+          "text": "İsrail'i desteklemek"
+        },
+        {
+          "key": "E",
+          "text": "Birleşmiş Milletler'i güçlendirmek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "ABD, Truman Doktrini (1947) ile komünizm tehdidi altındaki Türkiye ve Yunanistan'a askeri ve ekonomik yardım yaparak Sovyet yayılmasını durdurmayı amaçlamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-5",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "II. Dünya Savaşı sonrasında Batı Avrupa'nın ekonomik kalkınmasını sağlamak amacıyla ABD tarafından uygulanan yardım planının adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marshall Planı"
+        },
+        {
+          "key": "B",
+          "text": "Truman Doktrini"
+        },
+        {
+          "key": "C",
+          "text": "Molotov Planı"
+        },
+        {
+          "key": "D",
+          "text": "Comecon"
+        },
+        {
+          "key": "E",
+          "text": "Warsaw Paktı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Marshall Planı (1948), ABD'nin harabeye dönen Avrupa ülkelerine ekonomik yardımda bulunarak Avrupa ekonomisini canlandırma projesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-6",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1949 yılında kurulan Kuzey Atlantik Paktı (NATO) hangi askeri ve ideolojik tehdide karşı kurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Alman tehdidi"
+        },
+        {
+          "key": "B",
+          "text": "Sovyetler Birliği (SSCB) ve Komünizm tehdidi"
+        },
+        {
+          "key": "C",
+          "text": "İsrail tehdidi"
+        },
+        {
+          "key": "D",
+          "text": "Pasifik savaşı"
+        },
+        {
+          "key": "E",
+          "text": "Balkan tehdidi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "NATO, Sovyetler Birliği'nin Doğu Avrupa üzerindeki askeri ve siyasi nüfuzunu artırmasına karşı Batılı ülkelerin ortak savunma örgütü olarak kurulmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-7",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "SSCB'nin, Batı'da kurulan NATO'ya karşı Doğu Bloku ülkeleriyle 1955'te kurduğu askeri ittifak hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AB"
+        },
+        {
+          "key": "B",
+          "text": "Varşova Paktı"
+        },
+        {
+          "key": "C",
+          "text": "Comecon"
+        },
+        {
+          "key": "D",
+          "text": "Kominform"
+        },
+        {
+          "key": "E",
+          "text": "Bağlantısızlar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Varşova Paktı, Sovyetler Birliği liderliğinde NATO'ya misilleme olarak kurulan Doğu Bloku askeri ittifakıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-8",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Türkiye'nin 1950 yılında Kore Savaşı'na asker göndermesindeki temel stratejik amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toprak kazanmak"
+        },
+        {
+          "key": "B",
+          "text": "NATO'ya kabul edilme sürecini hızlandırmak ve Batı savunma sistemine girmek"
+        },
+        {
+          "key": "C",
+          "text": "Komünizmi yaymak"
+        },
+        {
+          "key": "D",
+          "text": "İngiltere'yi desteklemek"
+        },
+        {
+          "key": "E",
+          "text": "Kore'yi işgal etmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye, BM çağrısına uyarak Kore'ye Tugay seviyesinde asker göndermiş ve bu jest ile 1952'de NATO'ya üye olarak kabul edilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-9",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Soğuk Savaş döneminde iki bloğa da katılmayan Üçüncü Dünya ülkelerinin oluşturduğu 'Bağlantısızlar Hareketi'nin doğduğu ünlü konferans hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yalta Konferansı"
+        },
+        {
+          "key": "B",
+          "text": "1955 Bandung Konferansı"
+        },
+        {
+          "key": "C",
+          "text": "Potsdam Konferansı"
+        },
+        {
+          "key": "D",
+          "text": "San Francisco Konferansı"
+        },
+        {
+          "key": "E",
+          "text": "Helsinki Konferansı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1955 Bandung Konferansı (Endonezya), Asya ve Afrika ülkelerinin bağımsız duruş sergileyerek Bağlantısızlar Hareketi'ni başlattığı tarihi zirvedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-10",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "SSCB'de Mihail Gorbaçov'un başlattığı ve 'açıklık/şeffaflık' anlamına gelen reform politikasının adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Perestroyka"
+        },
+        {
+          "key": "B",
+          "text": "Glasnost"
+        },
+        {
+          "key": "C",
+          "text": "Detant"
+        },
+        {
+          "key": "D",
+          "text": "Brezhnev Doktrini"
+        },
+        {
+          "key": "E",
+          "text": "Sosyalizm"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Glasnost (açıklık/şeffaflık) ve Perestroyka (yeniden yapılanma), Gorbaçov'un tıkalı Sovyet sistemini açmak için başlattığı reform hareketleridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-11",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Soğuk Savaş'ın simgesi olan Berlin Duvarı hangi yıl yıkılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1987"
+        },
+        {
+          "key": "B",
+          "text": "1989"
+        },
+        {
+          "key": "C",
+          "text": "1991"
+        },
+        {
+          "key": "D",
+          "text": "1993"
+        },
+        {
+          "key": "E",
+          "text": "1995"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Berlin Duvarı 9 Kasım 1989 tarihinde yıkılmış ve 1990'da İki Almanya birleşmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-12",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Yugoslavya'nın parçalanması sürecinde (1992-1995) Boşnak Müslümanlara karşı en büyük soykırımın ve iç savaşın yaşandığı ülke hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Slovenya"
+        },
+        {
+          "key": "B",
+          "text": "Hırvatistan"
+        },
+        {
+          "key": "C",
+          "text": "Bosna-Hersek"
+        },
+        {
+          "key": "D",
+          "text": "Makedonya"
+        },
+        {
+          "key": "E",
+          "text": "Karadağ"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bosna-Hersek'te Sırp güçlerin gerçekleştirdiği Srebrenitsa Soykırımı ve Bosna Savaşı bu sürecin en kanlı trajedisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-13",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1979 yılında SSCB tarafından işgal edilen ancak yerel direniş karşısında 10 yıl sonra (1989) çekilmek zorunda kaldığı ülke hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Afganistan"
+        },
+        {
+          "key": "B",
+          "text": "İran"
+        },
+        {
+          "key": "C",
+          "text": "Pakistan"
+        },
+        {
+          "key": "D",
+          "text": "Özbekistan"
+        },
+        {
+          "key": "E",
+          "text": "Türkiye"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Afganistan'ın 1979-1989 işgali, Sovyet ekonomisine ağır darbe vurmuş ve SSCB'nin çöküş sürecini hızlandırmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-14",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1974 Kıbrıs Barış Harekatı sırasında Türkiye Cumhuriyeti Başbakanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Süleyman Demirel"
+        },
+        {
+          "key": "B",
+          "text": "Bülent Ecevit"
+        },
+        {
+          "key": "C",
+          "text": "Turgut Özal"
+        },
+        {
+          "key": "D",
+          "text": "Adnan Menderes"
+        },
+        {
+          "key": "E",
+          "text": "İsmet İnönü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kıbrıs Barış Harekatı, 20 Temmuz 1974'te Başbakan Bülent Ecevit ve Başbakan Yardımcısı Necmettin Erbakan liderliğindeki hükümetçe gerçekleştirilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-15",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1991'de SSCB'nin dağılmasıyla tam bağımsızlığını kazanan Orta Asya Türk Cumhuriyetleri arasında hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kazakistan"
+        },
+        {
+          "key": "B",
+          "text": "Özbekistan"
+        },
+        {
+          "key": "C",
+          "text": "Kırgızistan"
+        },
+        {
+          "key": "D",
+          "text": "Türkmenistan"
+        },
+        {
+          "key": "E",
+          "text": "Tataristan"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Tataristan, Rusya Federasyonu'na bağlı özerk bir cumhuriyettir; bağımsız bir devlet statüsünde değildir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-16",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "İsrail ve Filistin Kurtuluş Örgütü'nün (FKÖ) tarihte ilk kez birbirlerini karşılıklı tanıdıkları 1993 antlaşması hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Camp David Antlaşması"
+        },
+        {
+          "key": "B",
+          "text": "Oslo Barış Antlaşması"
+        },
+        {
+          "key": "C",
+          "text": "Madrid Konferansı"
+        },
+        {
+          "key": "D",
+          "text": "Versay Antlaşması"
+        },
+        {
+          "key": "E",
+          "text": "Tahran Antlaşması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1993 Oslo Antlaşması ile İsrail ve Yaser Arafat liderliğindeki FKÖ ilk kez birbirlerini meşru temsilci olarak resmen tanımışlardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-17",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Birleşmiş Milletler (BM) Örgütü, II. Dünya Savaşı sonrasında hangi uluslararası konferansta kurucu antlaşmanın imzalanmasıyla faaliyete geçmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yalta Konferansı"
+        },
+        {
+          "key": "B",
+          "text": "1945 San Francisco Konferansı"
+        },
+        {
+          "key": "C",
+          "text": "Potsdam Konferansı"
+        },
+        {
+          "key": "D",
+          "text": "Paris Konferansı"
+        },
+        {
+          "key": "E",
+          "text": "Londra Konferansı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "BM Şartı, Nisan-Haziran 1945'te düzenlenen San Francisco Konferansı'nda 50 ülke tarafından imzalanarak kabul edilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-18",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Çin'de 1949 yılında Mao Zedong liderliğindeki komünist devrim sonucunda kurulan devlet hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çin Cumhuriyeti"
+        },
+        {
+          "key": "B",
+          "text": "Çin Halk Cumhuriyeti"
+        },
+        {
+          "key": "C",
+          "text": "Kuzey Çin"
+        },
+        {
+          "key": "D",
+          "text": "Tayvan"
+        },
+        {
+          "key": "E",
+          "text": "Mançurya"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mao Zedong 1 Ekim 1949'da Pekin'de Çin Halk Cumhuriyeti'nin kurulduğunu ilan etmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-19",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1973 Birinci Petrol Krizi'nin çıkmasındaki ana siyasi etken nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ABD'nin petrol üretimini durdurması"
+        },
+        {
+          "key": "B",
+          "text": "Arap-İsrail (Yom Kippur) Savaşı sonrası OAPEC üyesi Arap ülkelerinin İsrail'i destekleyen Batı'ya petrol ambargosu koyması"
+        },
+        {
+          "key": "C",
+          "text": "İran Devrimi"
+        },
+        {
+          "key": "D",
+          "text": "Petrol rezervlerinin tükenmesi"
+        },
+        {
+          "key": "E",
+          "text": "Sovyetlerin vanaları kapatması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1973 Yom Kippur Savaşı'nda Batılı ülkelerin İsrail'e yardım etmesi üzerine Arap üreticiler ambargo koymuş ve petrol fiyatları 4 katına çıkmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-20",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Türkiye'nin Avrupa Ekonomik Topluluğu'na (günümüzdeki AB) ortaklık için yaptığı ilk resmi başvuru tarihi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "31 Temmuz 1959"
+        },
+        {
+          "key": "B",
+          "text": "1963 Ankara Antlaşması"
+        },
+        {
+          "key": "C",
+          "text": "1987 Tam Üyelik Başvurusu"
+        },
+        {
+          "key": "D",
+          "text": "1996 Gümrük Birliği"
+        },
+        {
+          "key": "E",
+          "text": "2005 Müzakerelerin Başlaması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye, AET kurulduktan hemen sonra 31 Temmuz 1959 tarihinde Adnan Menderes döneminde ilk ortaklık başvurusunu yapmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-21",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Soğuk Savaş sürecinde Doğu ve Batı blokları arasında yaşanan silahsızlanma ve gerilimi azaltma dönemine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Detant (Yumuşama)"
+        },
+        {
+          "key": "B",
+          "text": "Glasnost"
+        },
+        {
+          "key": "C",
+          "text": "Perestroyka"
+        },
+        {
+          "key": "D",
+          "text": "Soğuk Savaş"
+        },
+        {
+          "key": "E",
+          "text": "Kominform"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1960'lı yılların ikinci yarısından itibaren nükleer savaş riskini azaltmak için ABD ve SSCB arasında başlayan döneme Detant (Yumuşama) denir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-22",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1969 yılında kurulan İslam İşbirliği Teşkilatı'nın (İİT) kuruluşunu tetikleyen tarihi olay nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Arap-İsrail Savaşları"
+        },
+        {
+          "key": "B",
+          "text": "Kudüs'teki Mescid-i Aksa'nın fanatik bir Yahudi tarafından yakılması"
+        },
+        {
+          "key": "C",
+          "text": "Petrol Krizi"
+        },
+        {
+          "key": "D",
+          "text": "İran-Irak Savaşı"
+        },
+        {
+          "key": "E",
+          "text": "Körfez Savaşı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1969'da Mescid-i Aksa'nın kundaklanması üzerine Rabat'ta toplanan İslam ülkeleri liderleri İslam Konferansı Örgütü'nü (İİT) kurmuşlardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-23",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Atatürk döneminde izlenen Türk dış politikasının en değişmez temel karakteri nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yayılmacılık"
+        },
+        {
+          "key": "B",
+          "text": "Tam bağımsızlık ve barışçıl tutum"
+        },
+        {
+          "key": "C",
+          "text": "Tamamen Batı yanlısı olmak"
+        },
+        {
+          "key": "D",
+          "text": "Tamamen Rusya yanlısı olmak"
+        },
+        {
+          "key": "E",
+          "text": "İzolasyonizm"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Atatürk dış politikası; mütekabiliyet, gerçekçilik, akılcılık ve 'Yurtta sulh, cihanda sulh' prensibine dayanır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-24",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Vietnam Savaşı'nda ABD güçlerine karşı direnen ve Vietnam Demokratik Cumhuriyeti'nin kurucusu olan lider kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ho Chi Minh"
+        },
+        {
+          "key": "B",
+          "text": "Mao Zedong"
+        },
+        {
+          "key": "C",
+          "text": "Kim Il-sung"
+        },
+        {
+          "key": "D",
+          "text": "Pol Pot"
+        },
+        {
+          "key": "E",
+          "text": "Sukarno"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ho Chi Minh, Vietnam'ın bağımsızlık mücadelesinin önderi ve komünist Kuzey Vietnam'ın efsanevi lideridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-25",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "SSCB'nin çöküşünün ardından Kazakistan'ın bağımsızlığını ilan eden ve kurucu cumhurbaşkanı olan devlet adamı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İslam Kerimov"
+        },
+        {
+          "key": "B",
+          "text": "Askar Akayev"
+        },
+        {
+          "key": "C",
+          "text": "Nur Sultan Nazarbayev"
+        },
+        {
+          "key": "D",
+          "text": "Saparmurat Niyazov"
+        },
+        {
+          "key": "E",
+          "text": "Haydar Aliyev"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Nur Sultan Nazarbayev, Kazakistan'ın bağımsızlığını ilan eden ve ülkeyi modernleştiren kurucu liderdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-26",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1990-1991 I. Körfez Savaşı, hangi ülkenin komşusu Kuveyt'i işgal ve ilhak etmesiyle patlak vermiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İran"
+        },
+        {
+          "key": "B",
+          "text": "Irak (Saddam Hüseyin)"
+        },
+        {
+          "key": "C",
+          "text": "Suudi Arabistan"
+        },
+        {
+          "key": "D",
+          "text": "Mısır"
+        },
+        {
+          "key": "E",
+          "text": "Ürdün"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Irak lideri Saddam Hüseyin'in Kuveyt'i işgal etmesi BM güvenlik konseyini harekete geçirmiş ve Çöl Fırtınası Harekatı düzenlenmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-27",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "Soğuk Savaş'ın en sıcak krizlerinden biri olan 1948-1949 ve 1961 Berlin Krizleri hangi iki süper güç arasında cereyan etmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İngiltere - Fransa"
+        },
+        {
+          "key": "B",
+          "text": "ABD ve müttefikleri - SSCB"
+        },
+        {
+          "key": "C",
+          "text": "Almanya - İtalya"
+        },
+        {
+          "key": "D",
+          "text": "Çin - Japonya"
+        },
+        {
+          "key": "E",
+          "text": "Türkiye - Yunanistan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Berlin'in bölünmüşlüğü ve ablukası, Batı Bloğu lideri ABD ile Doğu Bloğu lideri SSCB arasındaki en tehlikeli kırılma alanıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-28",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1992 yılında kurulan ve Türk dünyası arasındaki dil, kültür ve sanat birliğini geliştirmeyi amaçlayan uluslararası örgüt hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TÜRKSOY (Uluslararası Türk Kültürü Teşkilatı)"
+        },
+        {
+          "key": "B",
+          "text": "Türk Konseyi (TDT)"
+        },
+        {
+          "key": "C",
+          "text": "İslam İşbirliği Teşkilatı"
+        },
+        {
+          "key": "D",
+          "text": "NATO"
+        },
+        {
+          "key": "E",
+          "text": "Avrupa Birliği"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "TÜRKSOY, 1992 Almatı toplantısı ve 1993 imzalanan anlaşmayla Türk Cumhuriyetlerinin ortak kültür teşkilatı olarak kurulmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-29",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "1974 Kıbrıs Barış Harekatı sonrasında Türkiye'ye karşı ağır askeri ambargo kararı alan devlet hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İngiltere"
+        },
+        {
+          "key": "B",
+          "text": "Almanya"
+        },
+        {
+          "key": "C",
+          "text": "Amerika Birleşik Devletleri (ABD)"
+        },
+        {
+          "key": "D",
+          "text": "Fransa"
+        },
+        {
+          "key": "E",
+          "text": "İtalya"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "ABD Kongresi 1975-1978 yılları arasında Türkiye'ye silah ambargosu uygulamış, Türkiye buna cevaben İncirlik dahil ABD üslerine el koymuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-cagdas-turk-dunya-30",
+      "topic_id": "topic-tarih-cagdas-turk-dunya",
+      "question_text": "20. yüzyılın sonlarında ivme kazanan 'Küreselleşme (Globalleşme)' sürecinin temel tanımı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ülkelerin tamamen içe kapanması"
+        },
+        {
+          "key": "B",
+          "text": "Ekonomik, kültürel, teknolojik ve siyasi sınırların aşılması ve dünyanın tek bir pazar/ağ haline gelmesi"
+        },
+        {
+          "key": "C",
+          "text": "Sadece askeri ittifak kurulması"
+        },
+        {
+          "key": "D",
+          "text": "Tek bir devletin tüm dünyayı yönetmesi"
+        },
+        {
+          "key": "E",
+          "text": "Uluslararası ticaretin yasaklanması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Küreselleşme, iletişim ve sermaye hareketleriyle coğrafi sınırların aşılması ve ulus devletlerin karşılıklı bağımlılığının artmasıdır.",
+      "difficulty_level": 2
+    }
+  ]
+}

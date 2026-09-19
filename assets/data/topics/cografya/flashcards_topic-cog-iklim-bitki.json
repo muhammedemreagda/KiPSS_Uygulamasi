@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-iklim-bitki",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Akdeniz İklimi Özellikleri",
+      "body": "Yazları sıcak ve kurak, kışları ılık ve yağışlıdır. En fazla yağışı KIŞIN alır. Karakteristik bitki örtüsü MAKİ (Zeytin, zakkum, defne)'dir."
+    },
+    {
+      "card_number": 2,
+      "title": "Karadeniz İklimi Özellikleri",
+      "body": "Her mevsim yağışlı ve ılımandır. En fazla yağışı SONBAHARDA alır. Yağış rejimi en düzenli iklimdir. Bitki örtüsü ORMAN'dır."
+    },
+    {
+      "card_number": 3,
+      "title": "Karasal İklim Özellikleri",
+      "body": "Yazları sıcak ve kurak, kışları soğuk ve kar yağışlıdır. En fazla yağışı İLKBAHARDA alır (Kırkikindi yağışları). Bitki örtüsü BOZKIR'dır."
+    },
+    {
+      "card_number": 4,
+      "title": "Sert Karasal İklim (Erzurum-Kars)",
+      "body": "Yazları kısa ve serin, kışları çok soğuk geçer. En fazla yağışı YAZIN alır. Bitki örtüsü ALPIN ÇAYIR (Çernozom toprakları) dır."
+    },
+    {
+      "card_number": 5,
+      "title": "Türkiye'nin En Yağışlı Yeri",
+      "body": "Doğu Karadeniz (Rize çevreleri - 2400 mm üzeri) dağların kıyıya dik ve hemen gerisinde yükselmesi nedeniyle en çok yağış alan yerdir."
+    },
+    {
+      "card_number": 6,
+      "title": "Türkiye'nin En Az Yağış Alan Yeri",
+      "body": "Tuz Gölü çevresi (İç Anadolu) ve Iğdır Ovası etrafı dağlarla çevrili kuytu çöküntü alanları olduğu için en az yağış alan yerlerdir."
+    },
+    {
+      "card_number": 7,
+      "title": "Yerli (Zonal) Toprak Türleri",
+      "body": "Terra-Rossa (Akdeniz Kireçtaşı üzeri kiremit kırmızısı), Çernozom (Erzurum-Kars Kara toprak - En verimli), Podzol (Batı Karadeniz Soğuk nemli)."
+    },
+    {
+      "card_number": 8,
+      "title": "Taşınmış (Azonal) Toprak Türleri",
+      "body": "Alüvyal (Akarsu), Kolüvyal (Dağ etegi), Regosol (Volkanik), Moren (Buzul), Rüzgar (Lös). Mineralce verimlidir ancak katmanlaşma yoktur."
+    },
+    {
+      "card_number": 9,
+      "title": "Endemik Bitki Tanımı ve Örnekleri",
+      "body": "Dünyada sadece belirli bir yörede yetişen bitkilerdir. Sığla Ağacı (Muğla/Köyceğiz), Datça Hurması, Kasnak Meşesi (Isparta), Kazdağı Göknarı."
+    },
+    {
+      "card_number": 10,
+      "title": "Relikt (Kalıntı) Bitki Tanımı",
+      "body": "Geçmiş jeolojik dönem iklimlerinden günümüze ulaşmayı başarmış kalıntı bitkilerdir (Örn: Kelkit Vadisi'nde zeytin yetişmesi)."
+    }
+  ]
+}

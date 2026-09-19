@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-sozcuk-turleri",
+  "title": "Sözcük Türleri",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-sozcuk-turleri",
+    "topic_id": "topic-turkce-sozcuk-turleri",
+    "title": "Sözcük Türleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Sözcük Türleri' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Sözcük Türleri konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nSözcük Türleri başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Sözcük Türleri konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "İsim (Ad) ve Türleri",
+        "body": "Canlı, cansız tüm varlıkları ve kavramları karşılayan sözcüklerdir. Özel isim (Ankara), Cins isim (masa), Somut (taş), Soyut (sevgi)."
+      },
+      {
+        "card_number": 2,
+        "title": "Sıfat (Önad) Altın Kuralı",
+        "body": "Sıfatlar mutlaka bir isimden önce gelir ve o ismi niteler ya da belirtir. Örnek: Kırmızı elma (Niteleme), Bu kitap (İşaret)."
+      },
+      {
+        "card_number": 3,
+        "title": "Zamir (Adıl) Altın Kuralı",
+        "body": "İsmin yerini tutan sözcüklerdir; arkasından isim gelmez. Örnek: 'Bu çok güzel' (İşaret zamiri), 'O dün geldi' (Kişi zamiri)."
+      },
+      {
+        "card_number": 4,
+        "title": "Zarf (Belirteç) Altın Kuralı",
+        "body": "Fiilleri, fiilimsileri, sıfatları veya kendi türünden sözcükleri durum, zaman, miktar, yön yönünden etkiler. Örnek: Hızlı koştu."
+      },
+      {
+        "card_number": 5,
+        "title": "Edat (İlgeç) Tanıma Testi",
+        "body": "Tek başına anlamı olmayan, cümle içinde kelimeler arasında anlam ilgisi kuran sözcüklerdir. Örnek: gibi, kadar, için, göre."
+      },
+      {
+        "card_number": 6,
+        "title": "Bağlaç Tanıma Testi",
+        "body": "Eş görevli sözcükleri veya cümleleri birbirine bağlayan sözcüklerdir; cümleden çıkarılınca anlam bozulmaz. Örnek: ve, veya, ama, çünkü."
+      },
+      {
+        "card_number": 7,
+        "title": "İşaret Sıfatı vs İşaret Zamiri",
+        "body": "'Bu arabayı aldım' cümlesindeki 'bu' ismi etkilediği için sıfattır. 'Bunu aldım' cümlesindeki 'bunu' ismin yerini tuttuğu için zamirdir."
+      },
+      {
+        "card_number": 8,
+        "title": "Soru Sıfatı vs Soru Zamiri",
+        "body": "'Hangi kitabı okudun?' ifadesinde 'hangi' sıfattır. 'Hangisini okudun?' ifadesinde 'hangisini' zamirdir."
+      },
+      {
+        "card_number": 9,
+        "title": "Zaman Zarfı İpucu",
+        "body": "Fiile sorulan 'Ne zaman?' sorusuna yanıt verir. Örnek: 'Dün akşam bize geldi' cümlesinde 'dün akşam' zaman zarfıdır."
+      },
+      {
+        "card_number": 10,
+        "title": "Miktar (Azlık-Çokluk) Zarfı",
+        "body": "Fiile veya sıfata sorulan 'Ne kadar?' sorusuna yanıt verir. Örnek: 'Çok çalıştı', 'En güzel tablo'."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-1",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Niteleme sıfatlarının niteledikleri isimler düştüğünde sıfatlar tek başına kalarak isimleşir. Buna 'adlaşmış sıfat' denir. Aşağıdaki cümlelerin hangisinde adlaşmış sıfat kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sıcak çayı yudumlarken gazetesini dikkatle okuyordu."
+        },
+        {
+          "key": "B",
+          "text": "Yaşlı adam parktaki bankta saatlerce sessizce oturdu."
+        },
+        {
+          "key": "C",
+          "text": "Sınavda zor soruları sona bırakıp kolaylardan başladı."
+        },
+        {
+          "key": "D",
+          "text": "Yeni aldığı kırmızı kazağı yakın arkadaşına hediye etti."
+        },
+        {
+          "key": "E",
+          "text": "Geniş bahçeli iki katlı ahşap bir evde yaşıyorlardı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'kolaylardan' sözcüğü 'kolay sorulardan' tamlamasındaki 'sorular' isminin düşmesiyle oluşmuş bir adlaşmış sıfattır. 'Kolay' sıfatı çekim eki alarak adlaşmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-2",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "İki ya da daha fazla ismin aitlik veya tamlama bağıyla bir araya gelmesiyle isim tamlamaları oluşur. Aşağıdaki cümlelerin hangisinde 'zincirleme isim tamlaması' yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehrin tarihi caddelerinde akşam yürüyüşü yaptılar."
+        },
+        {
+          "key": "B",
+          "text": "Okul kütüphanesinin ahşap kapısı rüzgârda şiddetle çarptı."
+        },
+        {
+          "key": "C",
+          "text": "Derin düşüncelere dalarak pencereden dışarıyı izledi."
+        },
+        {
+          "key": "D",
+          "text": "Yaz akşamlarında deniz kenarında yürümek çok keyiflidir."
+        },
+        {
+          "key": "E",
+          "text": "Eski konağın geniş salonunda büyük bir toplantı düzenlendi."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Okul kütüphanesinin ahşap kapısı' ifadesinde üç isim (okul, kütüphane, kapı) birbiriyle tamlama bağı kurarak zincirleme isim tamlaması oluşturmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-3",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Zamirler isimlerin yerini tutan sözcüklerdir. İsmin yerini işaret yoluyla tutan zamirlere 'işaret zamiri' denir. Buna göre aşağıdaki cümlelerin hangisinde işaret zamiri kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şuradaki büyük ağacın gölgesinde biraz dinlenelim."
+        },
+        {
+          "key": "B",
+          "text": "O her zaman randevularına son derece sadık bir insandır."
+        },
+        {
+          "key": "C",
+          "text": "Bunları raflara sırasıyla ve dikkatle dizmeniz gerekiyor."
+        },
+        {
+          "key": "D",
+          "text": "Hangi kitabın senin olduğunu bir türlü tespit edemedim."
+        },
+        {
+          "key": "E",
+          "text": "Bazı insanlar gürültülü ortamlarda çalışmakta güçlük çeker."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'Bunları' sözcüğü nesnelerin yerini işaret yoluyla tuttuğu için işaret zamiridir. A'da 'şuradaki ağaç' işaret sıfatı, B'de 'O' insan kastedildiği için kişi zamiri, D'de 'Hangi' soru sıfatıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-4",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Eylemin, eylemsinin ya da sıfatın miktarını, derecesini belirten zarflara 'miktar (azlık-çokluk) zarfı' denir. Aşağıdaki cümlelerin hangisinde miktar zarfı kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sabah erkenden yola çıkarak akşama doğru köye vardık."
+        },
+        {
+          "key": "B",
+          "text": "Soruları çok dikkatli okuyarak cevaplandırmalısınız."
+        },
+        {
+          "key": "C",
+          "text": "Çocuklar bahçede neşeyle koşup saatlerce oynuyorlardı."
+        },
+        {
+          "key": "D",
+          "text": "Otobüsten inip içeri doğru yavaşça adımlarla yürüdü."
+        },
+        {
+          "key": "E",
+          "text": "Sınav sonuçları dün akşam resmi internet sitesinde açıklandı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'çok' sözcüğü 'dikkatli' durum zarfının derecesini/miktarını belirten bir miktar zarfıdır (üstünlük/derecelendirme zarfı).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-5",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Edatlar (ilgeçler) tek başlarına anlamı olmayan, cümle içinde sözcükler arasında anlam ilişkisi kuran gramer ögeleridir. Aşağıdaki cümlelerin hangisinde 'için' edatı cümleye 'amaç-sonuç' anlamı katmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kar yağışı yüzünden yollar kapandığı için köye gidemedik."
+        },
+        {
+          "key": "B",
+          "text": "Aniden rahatsızlandığı için bugünkü önemli toplantıya katılamadı."
+        },
+        {
+          "key": "C",
+          "text": "Sınavı kazanabilmek için gece gündüz demeden disiplinle çalışıyordu."
+        },
+        {
+          "key": "D",
+          "text": "Bu güzel hediye senin için özel olarak yurt dışından getirildi."
+        },
+        {
+          "key": "E",
+          "text": "Çok yorgun olduğu için erkenden odasına çekilip uyudu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde eylemin hangi amaca yönelik yapıldığı belirtilmiştir ('sınavı kazanmak amacıyla'). A, B ve E seçeneklerinde 'için' edatı neden-sonuç (gerekçe) anlamı katmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-6",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "'Kendi' sözcüğü cümlede 'dönüşlülük zamiri' olarak kullanılır. Kişi zamirleriyle birlikte kullanıldığında cümleye pekiştirme anlamı katar. Aşağıdaki cümlelerin hangisinde dönüşlülük zamiri pekiştirme göreviyle kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu zor ve karmaşık projeyi tek başına kendi yapmak istedi."
+        },
+        {
+          "key": "B",
+          "text": "İnsan her şeyden önce kendi hatalarıyla yüzleşmeyi öğrenmelidir."
+        },
+        {
+          "key": "C",
+          "text": "Bu güzel resim tablosunu ben kendim çizdim."
+        },
+        {
+          "key": "D",
+          "text": "Kendine bir bardak demli çay koyup pencereye yanaştı."
+        },
+        {
+          "key": "E",
+          "text": "Kendini geliştirmek için sürekli yeni araştırma kitapları okuyordu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde 1. tekil kişi zamiri 'ben' ile dönüşlülük zamiri 'kendim' yan yana kullanılarak özne pekiştirilmiştir ('ben kendim').",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-7",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Yer-yön gösteren sözcükler (içeri, dışarı, aşağı, yukarı, ileri, geri) yalın halde eylemi etkilediklerinde 'yer-yön zarfı' olurlar. İsim çekim eki aldıklarında ise zarf olma özelliğini kaybedip isimleşirler. Aşağıdaki cümlelerin hangisinde yer-yön belirten sözcük 'zarf' görevinde kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Soğuk havanın etkisiyle herkes yavaşça içeriye girdi."
+        },
+        {
+          "key": "B",
+          "text": "Arabayı biraz daha ileri park etmesini rica ettik."
+        },
+        {
+          "key": "C",
+          "text": "Balkondan aşağıya bakan küçük çocuk neşeyle el sallıyordu."
+        },
+        {
+          "key": "D",
+          "text": "Dışarının gürültüsü salondakileri oldukça rahatsız ediyordu."
+        },
+        {
+          "key": "E",
+          "text": "Evin yukarısında küçük ve şirin bir meyve bahçesi vardı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'ileri' sözcüğü hiçbir çekim eki almadan yalın halde 'park etmek' eyleminin yönünü belirttiği için yer-yön zarfıdır. A'da 'içeriye' (-e eki), C'de 'aşağıya' (-e eki), D'de 'dışarının' (-ın eki) isimleşmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-8",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Belgisiz sözcükler bir ismi etkilediklerinde 'belgisiz sıfat', bir ismin yerini tuttuklarında 'belgisiz zamir' olurlar. Aşağıdaki cümlelerin hangisinde belgisiz bir sözcük 'zamir' olarak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bazı öğrenciler sınav hazırlık sürecinde çok fazla stres yapıyor."
+        },
+        {
+          "key": "B",
+          "text": "Birkaç gün içinde yeni projenin detayları kamuoyuna açıklanacak."
+        },
+        {
+          "key": "C",
+          "text": "Birçok insan doğayla baş başa kalabileceği mekânları tercih eder."
+        },
+        {
+          "key": "D",
+          "text": "Öğrencilerin birkaçı sınav sorularının zorluğundan şikâyet etti."
+        },
+        {
+          "key": "E",
+          "text": "Her akşam aynı saatte sahil kenarında yürüyüşe çıkardı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'birkaçı' sözcüğü tamlanan eki alarak ismin yerini tutmuş ve 'belgisiz zamir' olmuştur. A'da 'bazı öğrenciler', B'de 'birkaç gün', C'de 'birçok insan' belgisiz sıfattır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-9",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "'İle' sözcüğü cümlede hem edat hem de bağlaç olarak kullanılabilir. 'İle' yerine 've' getirilebiliyorsa bağlaç, getirilemiyorsa edattır. Aşağıdaki cümlelerin hangisinde 'ile' bağlaç olarak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Otobüsün gelmesiyle durağın kalabalıklaşması bir oldu."
+        },
+        {
+          "key": "B",
+          "text": "Roman ile öykü Türk edebiyatının en gelişmiş iki türüdür."
+        },
+        {
+          "key": "C",
+          "text": "Yıllar sonra lise arkadaşıyla sahildeki kafede karşılaştı."
+        },
+        {
+          "key": "D",
+          "text": "Derin düşüncelerle pencereden dışarıdaki yağmuru izledi."
+        },
+        {
+          "key": "E",
+          "text": "Elindeki keskin bıçakla ekmekleri dilimlemeye başladı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'ile' yerine 've' koyduğumuzda ('Roman ve öykü Türk edebiyatının...') anlam bozulmaz; bu nedenle 'ile' bağlaçtır. Diğer şıklarda yerine 've' getirilemediğinden edattır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-10",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Soru sözcükleri cümledeki işlevlerine göre soru sıfatı, soru zamiri veya soru zarfı olabilir. Aşağıdaki cümlelerin hangisinde soru anlamı bir 'soru zamiri' ile sağlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hangi otobüsün şehir merkezine gittiğini biliyor musun?"
+        },
+        {
+          "key": "B",
+          "text": "Toplantıya katılan davetlilere nasıl bir ikram sunacaksınız?"
+        },
+        {
+          "key": "C",
+          "text": "Çantasındaki kırmızı kalemi kimin aldığını biliyor musun?"
+        },
+        {
+          "key": "D",
+          "text": "Mağazadan aldığın bu güzel elbiseyi kaça aldın?"
+        },
+        {
+          "key": "E",
+          "text": "İstanbul'dan memlekete dönmek için ne zaman yola çıkacaksınız?"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'kaça' soru sözcüğü fiyatsal/isimsiz bir kavramın yerini tuttuğu için soru zamiridir ('beş yüz liraya aldım' diye isimle cevap verilir). A'da 'hangi otobüs' soru sıfatı, B'de 'nasıl ikram' soru sıfatı, E'de 'ne zaman' soru zarfıdır. C seçeneğinde soru anlamı 'mı/mi' edatıyla sağlanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-11",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Niteleme sıfatları isimlerin rengini, biçimini veya durumunu gösterir. Fiilleri veya fiilimsileri niteleyen sözcükler ise durum zarfı olur. Aşağıdaki cümlelerin hangisinde yer alan sözcük 'sıfat' görevinde **kullanılmamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geniş caddeler kentin modern ve gelişmiş yüzünü temsil ediyordu."
+        },
+        {
+          "key": "B",
+          "text": "Yorgun adam otobüs durağındaki banka zorlukla oturdu."
+        },
+        {
+          "key": "C",
+          "text": "Sınavda sorulan zor sorular öğrencileri bir hayli terletti."
+        },
+        {
+          "key": "D",
+          "text": "Yağmurun ardından açan berrak gökyüzü insana huzur veriyordu."
+        },
+        {
+          "key": "E",
+          "text": "Konuşmacı salondaki dinleyicilere karşı gayet güzel konuştu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki 'güzel' sözcüğü 'konuştu' fiilini nitelediği için 'durum zarfı'dır. A'da 'geniş caddeler', B'de 'yorgun adam', C'de 'zor sorular', D'de 'berrak gökyüzü' isimleri nitelediği için niteleme sıfatıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-12",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Belirtisiz isim tamlamalarında tamlayan ek almaz, tamlanan ise 3. şahıs iyelik eki (-ı, -i, -u, -ü) alır. Aşağıdaki cümlelerin hangisinde 'belirtisiz isim tamlaması' kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarihi konağın ahşap pencereleri yenilenmeye başlandı."
+        },
+        {
+          "key": "B",
+          "text": "Okulun bahçesindeki ulu çam ağaçları serinlik veriyordu."
+        },
+        {
+          "key": "C",
+          "text": "Devlet kütüphanesi hafta sonları da akşam saatlerine kadar açıktır."
+        },
+        {
+          "key": "D",
+          "text": "Mavi ceketli adam durağın kenarında sabırla bekliyordu."
+        },
+        {
+          "key": "E",
+          "text": "Eski dostların sohbeti gecenin ilerleyen saatlerine kadar sürdü."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Devlet kütüphanesi' tamlamasında tamlayan 'Devlet' ek almamış, tamlanan 'kütüphanesi' ise iyelik eki almıştır. Bu yapı belirtisiz isim tamlamasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-13",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "'Yalnız' sözcüğü cümledeki kullanımına göre sıfat, zarf, edat veya bağlaç olabilir. 'Sadece / bir tek' anlamındaysa edat; 'ama / fakat' anlamındaysa bağlaç; ismi nitelediyse sıfat; fiili nitelediyse zarf olur. Aşağıdaki cümlelerin hangisinde 'yalnız' sözcüğü 'edat' görevindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yalnız insanlar akşam saatlerinde evlerinde huzur ararlar."
+        },
+        {
+          "key": "B",
+          "text": "Sınav maratonunda bu zorlu süreçte tek başına yalnız kalmıştı."
+        },
+        {
+          "key": "C",
+          "text": "Bu zor matematik problemini yalnız sen çözebilirsin."
+        },
+        {
+          "key": "D",
+          "text": "Projeyi tamamlayabiliriz yalnız zamanımız bir hayli kısıtlı."
+        },
+        {
+          "key": "E",
+          "text": "Yalnız yaşamayı bir tercih olarak gördüğünü söylüyordu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'yalnız' sözcüğü yerine 'sadece' getirilebildiği için ('Bu problemi sadece sen çözebilirsin') 'edat' görevindedir. A'da 'yalnız insanlar' (sıfat), B ve E'de eylemi nitelediği için (zarf), D'de 'fakat' anlamında olduğu için (bağlaç) görevidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-14",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde hem 'niteleme sıfatı' hem de 'belirtme sıfatı' almış bir isim kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden aldığı eski ve yıpranmış kitabı dikkatle okudu."
+        },
+        {
+          "key": "B",
+          "text": "Bu zorlu sınav sürecini başarıyla atlatmak için çalışıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Bahçede bulunan üç büyük çam ağacı kesilmekten kurtarıldı."
+        },
+        {
+          "key": "D",
+          "text": "Sıcak yaz günlerinde sahil kenarlarında yoğunluk yaşanır."
+        },
+        {
+          "key": "E",
+          "text": "Ahşap kapının arkasındaki kilit mekanizması arızalanmıştı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'ağaç' ismi; 'üç' sayı sıfatını (belirtme sıfatı) ve 'büyük' niteleme sıfatını bir arada almıştır ('üç büyük çam ağacı').",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-15",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "İyelik eki aldığı halde tamlayanı düşmüş isim tamlamalarına 'tamlayanı düşmüş isim tamlaması' denir. Aşağıdaki cümlelerin hangisinde tamlayanı düşmüş bir isim tamlaması vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Okulun geniş bahçesinde öğrenciler neşeyle oynuyorlardı."
+        },
+        {
+          "key": "B",
+          "text": "Arabanın anahtarını masanın üstünde unutup dışarı çıktı."
+        },
+        {
+          "key": "C",
+          "text": "Fikirlerinizi bizimle paylaştığınız için teşekkür ederiz."
+        },
+        {
+          "key": "D",
+          "text": "Evi şehir merkezine oldukça yakın bir konumda yer alıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Tarihi kentin sokaklarında gezinirken fotoğraflar çekti."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'Evi' sözcüğü 'Onun evi' anlamı taşımaktadır. Tamlayan olan 'Onun' şahıs zamiri yazılmamış/düşmüştür. Bu durum tamlayanı düşmüş isim tamlamasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-16",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "'De / da' cümleden çıkarıldığında cümlenin anlamı bozulmuyorsa bağlaçtır ve ayrı yazılır. İsim çekim eki olan bulunma hâli '-de / -da' ise cümleden çıkarıldığında anlam bozulur ve bitişik yazılır. Aşağıdaki cümlelerin hangisinde 'de / da' bağlaç olarak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aradığın tüm evraklar masanın üstündeki dosyada duruyor."
+        },
+        {
+          "key": "B",
+          "text": "Sıcak havalarda sahilde yürüyüş yapmak insanı rahatlatır."
+        },
+        {
+          "key": "C",
+          "text": "Yapılan uyarılara sen de dikkat etmeliydin."
+        },
+        {
+          "key": "D",
+          "text": "Bahçede açan renkli çiçekler etrafa mis gibi koku yayıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Otobüste unutulan çanta karakola teslim edildi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'de' bağlaçtır; cümleden çıkarıldığında ('Yapılan uyarılara sen dikkat etmeliydin') cümlenin temel anlam yapısı bozulmaz. Diğer şıklardakiler ise bulunma hâl ekidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-17",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "İlgi zamiri olan '-ki', ek halinde olup bir ismin yerini tutar ve eklendiği kelimeye bitişik yazılır. Aşağıdaki cümlelerin hangisinde '-ki' eki 'ilgi zamiri' olarak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Duvardaki tablo salona ayrı bir hava katmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Bizim arabamız arızalandı, seninkiyle yola devam edelim."
+        },
+        {
+          "key": "C",
+          "text": "Mademki gelmeyecektin neden haber vermedin?"
+        },
+        {
+          "key": "D",
+          "text": "Akşamki toplantıda önemli kararlar alındı."
+        },
+        {
+          "key": "E",
+          "text": "Şehirdeki gürültü insanı zamanla ruhen yoruyor."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'seninkiyle' sözcüğünde geçen '-ki' eki 'senin arabanla' anlamındaki 'araba' isminin yerini tuttuğu için ilgi zamiridir. A, D ve E'deki '-ki' sıfat yapan ektir; C'deki 'mademki' ise kalıplaşmış bağlaçtır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-18",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Eylemin gerçekleşme zamanını bildiren zarflara 'zaman zarfı' denir. Fiile veya fiilimsiye sorulan 'Ne zaman?' sorusunun cevabıdır. Aşağıdaki cümlelerin hangisinde zaman zarfı **kullanılmamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dün akşam kütüphaneden dönüşte uğradım sana."
+        },
+        {
+          "key": "B",
+          "text": "Yaz mevsiminde Akdeniz sahilleri oldukça kalabalık olur."
+        },
+        {
+          "key": "C",
+          "text": "Sınav sonuçları açıklandığında herkes büyük bir heyecan yaşadı."
+        },
+        {
+          "key": "D",
+          "text": "Okuldan çıkar çıkmaz hemen durağa doğru koştu."
+        },
+        {
+          "key": "E",
+          "text": "Derin ve karanlık vadilerden geçerek hedefe ulaştılar."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde eylemin ne zaman yapıldığını belirten hiçbir zaman zarfı yoktur ('Derin ve karanlık vadilerden' yer-yön/durum niteliğindedir). A'da 'Dün akşam', B'de 'Yaz mevsiminde', C'de 'açıklandığında', D'de 'çıkar çıkmaz' zaman zarflarıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-19",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Unvan sıfatları, insanların meslek, rütbe, makam veya toplumdaki saygınlık durumlarını belirten sözcüklerdir; isimlerden önce de sonra da gelebilirler. Aşağıdaki cümlelerin hangisinde unvan sıfatı yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eski mahallede yaşayan yaşlı adama herkes yardım ederdi."
+        },
+        {
+          "key": "B",
+          "text": "Avukat Selim Bey toplantı salonuna giriş yaptı."
+        },
+        {
+          "key": "C",
+          "text": "Yüzbaşı rütbeli subay tören alanındaki birlikleri denetledi."
+        },
+        {
+          "key": "D",
+          "text": "Mimar olan abim yeni projenin çizimlerini tamamladı."
+        },
+        {
+          "key": "E",
+          "text": "Öğretmenimiz sınav evraklarını dikkatle masaya dizdi."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde 'Avukat' (meslek unvanı) ve 'Bey' (saygı unvanı) 'Selim' özel isminin hem önünde hem arkasında yer alarak unvan sıfatı görevi üstlenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-turleri-20",
+      "topic_id": "topic-turkce-sozcuk-turleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde altı/belirtilen sözcüklerin türü sırasıyla 'zamir - edat - bağlaç - zarf' şeklindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "O, tıpkı babası gibi dürüst ama bir o kadar da hızlı çalışırdı."
+        },
+        {
+          "key": "B",
+          "text": "Herkes sınav saatinde hazır bulundu ve soruları dikkatlice çözdü."
+        },
+        {
+          "key": "C",
+          "text": "Bu kitap senin için yazıldı fakat sen henüz farkında değilsin."
+        },
+        {
+          "key": "D",
+          "text": "Kimse buraya kadar gelmedi ancak yarın erkenden çıkıp gelebilirler."
+        },
+        {
+          "key": "E",
+          "text": "Şunları kutuya koyun çünkü yarın sabah sahile götüreceğiz."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde 'O' (kişi zamiri), 'gibi' (edat), 'ama' (bağlaç) ve 'hızlı' (çalışırdı eylemini niteleyen durum zarfı) sözcükleri sırasıyla 'zamir - edat - bağlaç - zarf' dizilimine tam uyum sağlamaktadır.",
+      "difficulty_level": 5
+    }
+  ]
+}

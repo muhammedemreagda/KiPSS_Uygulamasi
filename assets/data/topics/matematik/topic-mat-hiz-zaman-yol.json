@@ -1,0 +1,1007 @@
+{
+  "topic_id": "topic-mat-hiz-zaman-yol",
+  "title": "Hız-Zaman-Yol Problemleri",
+  "course_id": "course-matematik",
+  "question_count": 31,
+  "quick_note": {
+    "id": "qn-topic-mat-hiz-zaman-yol",
+    "topic_id": "topic-mat-hiz-zaman-yol",
+    "title": "Hız-Zaman-Yol Problemleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Hız-Zaman-Yol Problemleri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Hız-Zaman-Yol Problemleri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nHız-Zaman-Yol Problemleri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Hız-Zaman-Yol Problemleri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Temel Yol Formülü",
+        "body": "Yol = Hız x Zaman (x = V . t). Buradan Hız = Yol / Zaman (V = x/t) türetilir."
+      },
+      {
+        "card_number": 2,
+        "title": "Zıt Yönlü Hareket (Karşılaşma)",
+        "body": "Birbirine doğru hareket eden iki aracın karşılaşma süresi t = Yol / (V1 + V2) formülüyle bulunur. Hızlar toplanır."
+      },
+      {
+        "card_number": 3,
+        "title": "Aynı Yönlü Hareket (Yetişme)",
+        "body": "Arkadaki hızlı aracın öndekine yetişme süresi t = Aradaki Yol / (V1 - V2) formülüyle bulunur. Hızlar çıkarılır."
+      },
+      {
+        "card_number": 4,
+        "title": "Ortalama Hız Formülü",
+        "body": "Ortalama Hız = Toplam Yol / Toplam Zaman formülü ile hesaplanır. Hızların aritmetik ortalaması ALINMAZ."
+      },
+      {
+        "card_number": 5,
+        "title": "Eşit Mesafede Ortalama Hız",
+        "body": "Bir yolu V1 hızıyla gidip V2 hızıyla dönen aracın ortalama hızı = 2.V1.V2 / (V1 + V2) harmonic ortalamadır."
+      },
+      {
+        "card_number": 6,
+        "title": "Tren ve Tünel Problemi",
+        "body": "Trenin tüneli tamamen geçmesi için alması gereken toplam yol = Tünel Boyu + Trenin Kendi Boyudur."
+      },
+      {
+        "card_number": 7,
+        "title": "Akıntı / Rüzgar Problemi",
+        "body": "Akıntı yönünde giderken Hız = V_tekne + V_akıntı; akıntıya karşı giderken Hız = V_tekne - V_akıntı olur."
+      },
+      {
+        "card_number": 8,
+        "title": "Dairesel Pistte Karşılaşma",
+        "body": "Zıt yönde koşan iki hareketli pistin çevresini V1 + V2 hızıyla tamamlar: Çevre = (V1 + V2) . t."
+      },
+      {
+        "card_number": 9,
+        "title": "Dairesel Pistte Yan Yana Gelme",
+        "body": "Aynı yönde koşan hızlı olanın yavaş olana tur takması için gereken zaman: Çevre = (V1 - V2) . t."
+      },
+      {
+        "card_number": 10,
+        "title": "km/s 'yi m/s 'ye Çevirme",
+        "body": "km/saat cinsinden verilen hızı m/saniye yapmak için sayı 5/18 ile çarpılır. Örnek: 90 km/s = 25 m/s."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-1",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Aralarında 450 km mesafe bulunan iki şehirden hızları saatte 60 km ve 90 km olan iki araç aynı anda birbirlerine doğru harekete başlıyor. Bu iki araç kaç saat sonra karşılaşırlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,5"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "3,5"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "4,5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Zıt yönlü birbirine doğru hareket eden araçlarda hızlar toplanır: V_toplam = 60 + 90 = 150 km/s. Karşılaşma süresi t = Yol / V_toplam = 450 / 150 = 3 saat bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-2",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir araç A kentinden B kentine saatte 80 km hızla gidip, hiç durmadan B kentinden A kentine saatte 120 km hızla geri dönmüştür. Aracın bu gidiş-dönüş yolculuğundaki ortalama hızı saatte kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "92"
+        },
+        {
+          "key": "B",
+          "text": "96"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "104"
+        },
+        {
+          "key": "E",
+          "text": "108"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Aynı yol eşit mesafede gidilip dönüldüğünde ortalama hız harmonik ortalama ile hesaplanır: V_ort = (2 · V1 · V2) / (V1 + V2) = (2 · 80 · 120) / (80 + 120) = 19200 / 200 = 96 km/s bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-3",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Hızı saatte 72 km olan bir tren, 300 metre uzunluğundaki bir tüneli 20 saniyede tamamen geçmektedir. Buna göre, bu trenin boyu kaç metredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80"
+        },
+        {
+          "key": "B",
+          "text": "100"
+        },
+        {
+          "key": "C",
+          "text": "120"
+        },
+        {
+          "key": "D",
+          "text": "150"
+        },
+        {
+          "key": "E",
+          "text": "180"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Önce trenin hızı m/sn birimine çevrilir: 72 km/s = 72 · (1000/3600) = 20 m/sn. Tüneli tamamen geçmesi için alınan toplam yol = Trenin Boyu (L) + Tünelin Boyu (300). Yol = Hız · Zaman ⇒ L + 300 = 20 m/sn · 20 sn ⇒ L + 300 = 400 ⇒ L = 100 metre bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-4",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "A ve B noktaları arası 360 km'dir. A'dan kalkan bir aracın hızı B'den kalkan bir aracın hızının 2 katıdır. İki araç aynı anda aynı yöne doğru (A'daki B'dekini kovalayacak şekilde) harekete başladıktan 6 saat sonra A'daki araç B'deki araca yetiştiğine göre, B'den kalkan aracın hızı saatte kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "70"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B'den kalkanın hızı V ise A'dan kalkanın hızı 2V olur. Aynı yönlü harekette hızlar farkı alınır: V_fark = 2V - V = V. Yetişme süresi t = Yol / V_fark ⇒ 6 = 360 / V ⇒ V = 60 km/s bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-5",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Çevresi 400 metre olan dairesel bir pist etrafında hızları dakikada 30 metre ve 20 metre olan iki hareketli aynı noktadan aynı anda zıt yönlere doğru koşmaya başlıyorlar. Bu iki hareketli kaç dakika sonra ilk kez karşılaşırlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Dairesel pistte zıt yönlü harekette hızlar toplanır: V_toplam = 30 + 20 = 50 m/dk. Karşılaşma süresi t = Pist Çevresi / V_toplam = 400 / 50 = 8 dakika bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-6",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir araç iki kent arasındaki mesafeyi V hızıyla 8 saatte almaktadır. Araç hızını saatte 20 km artırırsa aynı yolu 6 saatte alacağına göre, iki kent arasındaki mesafe kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "360"
+        },
+        {
+          "key": "B",
+          "text": "400"
+        },
+        {
+          "key": "C",
+          "text": "480"
+        },
+        {
+          "key": "D",
+          "text": "540"
+        },
+        {
+          "key": "E",
+          "text": "600"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yol = Hız · Zaman denklemleri kurulur: Yol = 8V ve Yol = 6(V + 20). İki ifade eşitlenirse: 8V = 6V + 120 ⇒ 2V = 120 ⇒ V = 60 km/s. Yol = 8 · 60 = 480 km olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-7",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir motor, akıntı hızı saatte 4 km olan bir nehirde akıntıya karşı 3 saatte gittiği mesafeyi, akıntı yönünde 2 saatte geri dönmektedir. Buna göre, durgun sudaki motorun hızı saatte kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Motorun durgun sudaki hızı V_m olsun. Akıntıya karşı hız = V_m - 4, Akıntı yönünde hız = V_m + 4. Gidilen ve dönülen yol eşit olduğundan: 3(V_m - 4) = 2(V_m + 4) ⇒ 3V_m - 12 = 2V_m + 8 ⇒ V_m = 24 km/s bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-8",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Durgun bir su birikintisine atılan taşın oluşturduğu dairesel dalganın yarıçapı saniyede 3 cm uzamaktadır. Taş atıldıktan 4 saniye sonra oluşan dairesel alanın çevresi kaç cm olur? (π = 3 alınız)",
+      "options": [
+        {
+          "key": "A",
+          "text": "36"
+        },
+        {
+          "key": "B",
+          "text": "48"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "72"
+        },
+        {
+          "key": "E",
+          "text": "84"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "4 saniye sonra yarıçap r = 3 m/sn · 4 sn = 12 cm olur. Dairenin çevre formülü Ç = 2πr = 2 · 3 · 12 = 72 cm bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-9",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir araç 600 km'lik yolun 1/3'ünü saatte 50 km hızla, kalan kısmını saatte 80 km hızla gitmiştir. Aracın tüm yol boyunca harcadığı toplam zaman kaç saattir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "11"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yolun 1/3'ü = 200 km, gecen süre t1 = 200 / 50 = 4 saat. Kalan yol = 400 km, geçen süre t2 = 400 / 80 = 5 saat. Toplam geçen zaman = 4 + 5 = 9 saat bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-10",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Aralarında 200 metre bulunan iki koşucudan öndekinin hızı saniyede 3 metre, arkadakinin hızı saniyede 5 metredir. Arkadaki koşucu kaç saniye sonra öndeki koşucuya yetişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "150"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Aynı yönlü harekette hızlar farkı alınır: V_fark = 5 - 3 = 2 m/sn. Yetişme süresi t = Mesafe / V_fark = 200 / 2 = 100 saniye bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-11",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir araç belirli bir yolu V km/s hızla 6 saatte alıyor. Araç aynı yolun yarısını V/2 km/s hızla, kalan yarısını 2V km/s hızla giderse yolun tamamını kaç saatte alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,5"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "7,5"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam yol X = 6V olsun. Yolun ilk yarısı = 3V. Zaman t1 = 3V / (V/2) = 6 saat. Yolun ikinci yarısı = 3V. Zaman t2 = 3V / 2V = 1,5 saat. Toplam süre = 6 + 1,5 = 7,5 saat elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-12",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Uzunlukları sırasıyla 150 metre ve 250 metre olan iki tren, paralel iki ray üzerinde birbirlerine doğru (zıt yönde) sırasıyla saatte 54 km ve 90 km hızlarla ilerlemektedir. Bu iki trenin birbirini tamamen geçme süresi kaç saniyedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "16"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Zıt yönlü hareket olduğundan hızlar toplanır: V_toplam = 54 + 90 = 144 km/s. m/sn birimine çevrilirse: 144 · (1000/3600) = 40 m/sn. Alınacak toplam yol = Trenlerin boyları toplamı = 150 + 250 = 400 m. Süre t = Yol / V_toplam = 400 / 40 = 10 saniye bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-13",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir bisikletli bir rampayı saatte 10 km hızla çıkıp, saatte 30 km hızla inmiştir. İniş süresi çıkış süresinden 40 dakika daha kısa olduğuna göre, bu rampanın uzunluğu kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "40 dakika = 40/60 = 2/3 saattir. Rampanın uzunluğu X km olsun. Çıkış süresi t1 = X / 10, İniş süresi t2 = X / 30. Süreler farkı: X/10 - X/30 = 2/3 ⇒ 2X/30 = 2/3 ⇒ X/15 = 2/3 ⇒ X = 10 km bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-14",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "A ve B şehirlerinden hızları saatte 70 km ve 50 km olan iki araç aynı anda aynı yöne doğru (A'daki B'dekini kovalayacak şekilde) harekete başlıyor. A'daki araç B'dekini 5 saat sonra yakaladığına göre, A ile B şehirleri arasındaki mesafe kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80"
+        },
+        {
+          "key": "B",
+          "text": "100"
+        },
+        {
+          "key": "C",
+          "text": "120"
+        },
+        {
+          "key": "D",
+          "text": "140"
+        },
+        {
+          "key": "E",
+          "text": "150"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Aynı yönlü harekette hızlar farkı V_fark = 70 - 50 = 20 km/s. Yakalama mesafesi = V_fark · t = 20 km/s · 5 saat = 100 km bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-15",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir yürüyen merdiven yukarı doğru sabit bir hızla çalışmaktadır. Durgun merdivende 30 basamak sayan bir çocuk, yürüyen merdiven çalışırken merdivenin yönünde yukarı çıktığında 20 adım atarak en üste ulaşıyor. Buna göre, çocuk merdivende durup hareket etmeseydi, merdiven çocuğu kaç saniyede en üste çıkarırdı? (Çocuğun saniyede 1 adım attığı varsayılmaktadır)",
+      "options": [
+        {
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Merdivenin toplam basamak sayısı N = 30 dur. Çocuk 20 adım attığında zaman t = 20 saniyedir (çünkü saniyede 1 adım atıyor). Çocuk 20 basamak katettiğine göre merdiven 30 - 20 = 10 basamak taşımıştır. Merdivenin hızı V_m = 10 basamak / 20 saniye = 0,5 basamak/sn. Merdiven çocuğu hiç adım atmadan taşısaydı: t = 30 / 0,5 = 60 saniyede taşırdı.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-16",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Saat 03:00'te akrep ile yelkovan arasındaki açı 90 derecedir. Saat kaçı gösterdiğinde akrep ile yelkovan ilk kez üst üste gelir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3'ü 15 geçe"
+        },
+        {
+          "key": "B",
+          "text": "3'ü 16 (4/11) geçe"
+        },
+        {
+          "key": "C",
+          "text": "3'ü 17 (3/11) geçe"
+        },
+        {
+          "key": "D",
+          "text": "3'ü 18 geçe"
+        },
+        {
+          "key": "E",
+          "text": "3'ü 20 geçe"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Saat 3:00'te yelkovan akrebin 15 dakika (90 derece) gerisindedir. Yelkovan dakikada 6 derece, akrep dakikada 0,5 derece döner. Bağıl hız = 5,5 derece/dakika. Yakalanacak mesafe = 90 derece. Geçen zaman t = 90 / 5,5 = 180 / 11 = 16 tam 4/11 dakika bulunur. Yani saat 3'ü 16 (4/11) geçe üst üste gelirler.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-17",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "A şehri ile B şehri arası 400 km'dir. A'dan saat 08:00'de yola çıkan bir araç saatte 80 km sabit hızla B'ye gitmeyi planlamaktadır. Araç yolun tam yarısına geldiğinde 30 dakika mola vermiştir. Planlanan zamanda B şehrine ulaşabilmesi için aracın kalan yoldaki hızı saatte kaç km olmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "96"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "108"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Planlanan toplam süre t = 400 / 80 = 5 saat. Yolun yarısı = 200 km, bu mesafeyi 200 / 80 = 2,5 saatte alır. 30 dakika (0,5 saat) mola verilince toplam 2,5 + 0,5 = 3 saat harcanmış olur. Kalan zaman = 5 - 3 = 2 saat. Kalan yol = 200 km. Yeni hız = 200 / 2 = 100 km/s olmalıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-18",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir dairesel pist etrafında aynı noktadan aynı anda aynı yöne doğru harekete başlayan iki koşucudan birincisi pisti 60 saniyede, ikincisi 80 saniyede tamamlamaktadır. Buna göre hızlı olan koşucu yavaş olan koşucuya kaç saniye sonra ilk kez 1 tur takar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "180"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "220"
+        },
+        {
+          "key": "D",
+          "text": "240"
+        },
+        {
+          "key": "E",
+          "text": "300"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Pistin çevresi X olsun. Hızlı olanın hızı V1 = X/60, yavaş olanın hızı V2 = X/80 dır. Hızlar farkı V_fark = X/60 - X/80 = X/240 olur. 1 tur (X kadar mesafe) takma süresi t = X / V_fark = X / (X/240) = 240 saniye bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-19",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir otomobil sabit bir hızla 3 saat gittikten sonra hızını %25 azaltarak 4 saat daha gidiyor ve toplam 480 km yol alıyor. Buna göre, otomobilin ilk hızı saatte kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "70"
+        },
+        {
+          "key": "B",
+          "text": "75"
+        },
+        {
+          "key": "C",
+          "text": "80"
+        },
+        {
+          "key": "D",
+          "text": "85"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İlk hıza V dersek, %25 azaltılmış hız 0,75V olur. Toplam yol = 3V + 4(0,75V) = 3V + 3V = 6V. 6V = 480 km ⇒ V = 80 km/s olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-20",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Aralarında 150 km mesafe bulunan iki hareketli aynı anda aynı yöne doğru hareket ediyor. Arkadaki hareketlinin hızı 90 km/s, öndekinin hızı 60 km/s olduğuna göre arkadaki hareketli öndekine kaç saat sonra yetişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Aynı yönlü harekette hızlar farkı V_fark = 90 - 60 = 30 km/s. Yetişme zamanı t = Mesafe / V_fark = 150 / 30 = 5 saat bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-21",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir araç A kentinden B kentine 6 saatte gitmektedir. Araç hızını saatte 30 km azaltırsa aynı yolu 9 saatte almaktadır. Buna göre, A ile B kentleri arası kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "450"
+        },
+        {
+          "key": "B",
+          "text": "480"
+        },
+        {
+          "key": "C",
+          "text": "510"
+        },
+        {
+          "key": "D",
+          "text": "540"
+        },
+        {
+          "key": "E",
+          "text": "600"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Yol = 6V ve Yol = 9(V - 30). İki ifade eşitlenir: 6V = 9V - 270 ⇒ 3V = 270 ⇒ V = 90 km/s. Yol = 6 · 90 = 540 km bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-22",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir adam yürüyerek saatte 6 km hızla gitmekte, dönüşte ise otobüsle saatte 54 km hızla dönmektedir. Gidiş-dönüş toplam 10 saat sürdüğüne göre, adam yürüyerek kaç saat yol gitmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7,5"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "8,5"
+        },
+        {
+          "key": "D",
+          "text": "9"
+        },
+        {
+          "key": "E",
+          "text": "9,5"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Yürüme süresi t1, otobüs süresi t2 olsun. t1 + t2 = 10 saat. Gidilen ve dönülen yol eşit olduğundan: 6 · t1 = 54 · t2 ⇒ t1 = 9 t2 olur. t1 yerine 9 t2 yazılırsa: 9 t2 + t2 = 10 ⇒ 10 t2 = 10 ⇒ t2 = 1 saat, t1 = 9 saat bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-23",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Hızı saatte 108 km olan bir otomobil 1 saniyede kaç metre yol alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bir birim dönüştürme sorusudur: 108 km/s m/sn'ye çevrilir. 108 · (1000 / 3600) = 108 / 3,6 = 30 m/sn. 1 saniyede 30 metre yol alır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-24",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Çevresi 600 metre olan dairesel bir pist etrafında aynı noktadan aynı anda ve aynı yöne doğru hızları dakikada 80 metre ve 50 metre olan iki hareketli koşmaya başlıyor. Kaç dakika sonra hızlı olan hareketli yavaş olana ilk kez 1 tur takar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Aynı yönlü dairesel harekette 1 tur takma süresi t = Pist Çevresi / V_fark. V_fark = 80 - 50 = 30 m/dk. t = 600 / 30 = 20 dakika bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-25",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "A kenti ile B kenti arasındaki yolun 1/4'ü toprak, kalanı asfalttır. Bir araç toprak yolda saatte 40 km, asfalt yolda saatte 90 km hızla giderek tüm yolu 7 saatte tamamlamıştır. Buna göre, yolun asfalt olan kısmı kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "360"
+        },
+        {
+          "key": "B",
+          "text": "420"
+        },
+        {
+          "key": "C",
+          "text": "450"
+        },
+        {
+          "key": "D",
+          "text": "480"
+        },
+        {
+          "key": "E",
+          "text": "540"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Toplam yol 4x olsun. Toprak yol = x km, Asfalt yol = 3x km. Süreler toplamı: x/40 + 3x/90 = 7. Paydalar 360'ta eşitlenirse: (9x + 12x) / 360 = 7 ⇒ 21x / 360 = 7 ⇒ x / 360 = 1/3 ⇒ x = 120 km. Asfalt yol = 3x = 3 · 120 = 360 km elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-26",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir adam evden işe saatte 4 km hızla yürüyerek giderse işe 15 dakika geç kalıyor; saatte 6 km hızla yürürse işe 15 dakika erken varıyor. Buna göre, ev ile iş yeri arasındaki mesafe kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "7,5"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Zamanında varış süresi t saat olsun. 15 dakika = 1/4 saat. V1 = 4 km/s için geçen süre t + 1/4 saat. V2 = 6 km/s için geçen süre t - 1/4 saat. Yollar eşit: 4(t + 1/4) = 6(t - 1/4) ⇒ 4t + 1 = 6t - 1,5 ⇒ 2t = 2,5 ⇒ t = 1,25 saat. Yol = 4 · (1,25 + 0,25) = 4 · 1,5 = 6 km bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-27",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir tren yol üzerindeki bir elektrik direğini 8 saniyede, 400 metre uzunluğundaki bir köprüyü ise 28 saniyede geçmektedir. Buna göre, trenin boyu kaç metredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "120"
+        },
+        {
+          "key": "B",
+          "text": "140"
+        },
+        {
+          "key": "C",
+          "text": "150"
+        },
+        {
+          "key": "D",
+          "text": "160"
+        },
+        {
+          "key": "E",
+          "text": "180"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Trenin boyu L, hızı V olsun. Direği geçmesi: L = 8V. Köprüyü geçmesi: L + 400 = 28V. L yerine 8V yazılırsa: 8V + 400 = 28V ⇒ 20V = 400 ⇒ V = 20 m/sn. Trenin boyu L = 8 · 20 = 160 metre bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-28",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "A ve B şehirlerinden aynı anda birbirlerine doğru yola çıkan iki aracın hızları saatte 80 km ve 100 km'dir. Bu iki araç yolun ortasından 30 km uzakta karşılaştıklarına göre, A ve B şehirleri arasındaki mesafe kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "480"
+        },
+        {
+          "key": "B",
+          "text": "500"
+        },
+        {
+          "key": "C",
+          "text": "540"
+        },
+        {
+          "key": "D",
+          "text": "580"
+        },
+        {
+          "key": "E",
+          "text": "600"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Hızlı olan araç orta noktadan 30 km fazla, yavaş olan 30 km eksik gitmiştir. Alınan yollar farkı = 30 + 30 = 60 km. Araçların saatteki hızlar farkı = 100 - 80 = 20 km/s. Geçen süre t = 60 / 20 = 3 saat. İki şehir arası toplam yol = (80 + 100) · 3 = 180 · 3 = 540 km bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-29",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir atlet 100 metrelik yarışı ikinci atletin 10 metre, üçüncü atletin 28 metre önünde bitirmiştir. Tüm atletler sabit hızla koştuğuna göre, ikinci atlet yarışı bitirdiğinde üçüncü atletin yarışı bitirmesine kaç metre kalır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "22"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Birinci yarışı bitirdiğinde: 2. atlet 90. metrede, 3. atlet 72. metrede olur. Yani 2. atlet 90 metre koştuğunda 3. atlet ile aradaki fark 90 - 72 = 18 metredir. 2. atlet kalan 10 metreyi koştuğunda (100 metreye ulaştığında) orantı kurulur: 90 metrede 18 m fark açan, 100 metrede (18/90) · 100 = 20 metre fark açar. Dolayısıyla 20 metre kalır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-30",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Aralarında 300 km mesafe bulunan iki şehirden aynı anda birbirlerine doğru hareket eden iki aracın hızları oranı 2/3'tür. Araçlar 3 saat sonra karşılaştıklarına göre, hızlı olan aracın hızı saatte kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "55"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "65"
+        },
+        {
+          "key": "E",
+          "text": "70"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Araçların hızları 2V ve 3V olsun. Zıt yönlü harekette V_toplam = 2V + 3V = 5V. Yol = V_toplam · t ⇒ 300 = 5V · 3 ⇒ 15V = 300 ⇒ V = 20 km/s. Hızlı olan aracın hızı = 3V = 3 · 20 = 60 km/s bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-hiz-zaman-yol-75",
+      "topic_id": "topic-mat-hiz-zaman-yol",
+      "question_text": "Bir araç 480 km'lik yolu 6 saatte giderse, hızını saatte 16 km artırırsa aynı yolu kaç saatte gider?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "5,5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İlk hız v = 480/6 = 80 km/s. Yeni hız 80 + 16 = 96 km/s. Yeni süre t = 480 / 96 = 5 saat olur.",
+      "difficulty_level": 3
+    }
+  ]
+}

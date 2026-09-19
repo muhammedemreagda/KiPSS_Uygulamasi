@@ -1,0 +1,1007 @@
+{
+  "topic_id": "topic-mat-sayilar-basamak",
+  "title": "Sayılar ve Basamak Değeri",
+  "course_id": "course-matematik",
+  "question_count": 31,
+  "quick_note": {
+    "id": "qn-topic-mat-sayilar-basamak",
+    "topic_id": "topic-mat-sayilar-basamak",
+    "title": "Sayılar ve Basamak Değeri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Sayılar ve Basamak Değeri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Sayılar ve Basamak Değeri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nSayılar ve Basamak Değeri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Sayılar ve Basamak Değeri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Asal Sayı Altın Kuralı",
+        "body": "1'den ve kendisinden başka pozitif böleni olmayan 1'den büyük doğal sayılardır. En küçük ve tek çift asal sayı 2'dir (3, 5, 7, 11...)."
+      },
+      {
+        "card_number": 2,
+        "title": "Aralarında Asal Sayılar",
+        "body": "1'den başka ortak pozitif böleni olmayan sayılardır. Sayıların kendilerinin asal olması gerekmez. Örnek: 8 ile 9 aralarında asaldır."
+      },
+      {
+        "card_number": 3,
+        "title": "Çift ve Tek Sayılar Mantığı",
+        "body": "Tek x Tek = Tek; Çift x Her Şey = Çift. Çarpımın sonucu tek ise çarpanların hepsi tektir; çift ise en az bir çarpan çifttir."
+      },
+      {
+        "card_number": 4,
+        "title": "Basamak Değer Çözümlemesi",
+        "body": "AB iki basamaklı sayısı 10A + B; ABC üç basamaklı sayısı 100A + 10B + C olarak çözümlenir."
+      },
+      {
+        "card_number": 5,
+        "title": "AB - BA Çıkarma İpucu",
+        "body": "İki basamaklı AB ve BA sayılarının farkı: AB - BA = 9(A - B) formülü ile pratik şekilde bulunur."
+      },
+      {
+        "card_number": 6,
+        "title": "AB + BA Toplama İpucu",
+        "body": "İki basamaklı AB ve BA sayılarının toplamı: AB + BA = 11(A + B) formülü ile hesaplanır."
+      },
+      {
+        "card_number": 7,
+        "title": "Faktöriyel Tanımı ve 0!",
+        "body": "n! = 1.2.3...n çarpımıdır. 0! = 1 ve 1! = 1 olarak kabul edilir. n! ifadesinde n >= 0 olmalıdır."
+      },
+      {
+        "card_number": 8,
+        "title": "Sonu 0 İle Biten Faktöriyel",
+        "body": "n! sayısının sonundaki sıfır sayısını bulmak için n sayısı sürekli 5'e bölünür ve bölüm rakamları toplanır."
+      },
+      {
+        "card_number": 9,
+        "title": "Pozitif Tam Bölen Sayısı (PBS)",
+        "body": "Bir sayının asal çarpanlarına ayrılmış hali a^x . b^y ise, Pozitif Bölen Sayısı = (x+1)(y+1) formülüyle bulunur."
+      },
+      {
+        "card_number": 10,
+        "title": "Ardışık Sayılar Toplam Formülü",
+        "body": "1'den n'e kadar olan ardışık sayıların toplamı: n.(n+1) / 2 formülü ile hesaplanır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-sayilar-basamak-1",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a, b ve c pozitif tam sayılardır. 2a + 3b + 5c = 47 olduğuna göre, a + b + c toplamının alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "19"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "23"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        },
+        {
+          "key": "E",
+          "text": "27"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "a + b + c toplamının en büyük olması için katsayısı en büyük olan c ve b değişkenlerine mümkün olan en küçük pozitif tam sayı değerleri verilmelidir. b = 2 ve c = 1 seçilirse 2a + 3(2) + 5(1) = 47 denkleminden 2a + 11 = 47 ve 2a = 36 bulunarak a = 18 elde edilir. Buradan en büyük toplam a + b + c = 18 + 2 + 1 = 21 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-2",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "İki basamaklı AB ve BA doğal sayılarının toplamı 143'tür. Buna göre kaç farklı AB iki basamaklı sayısı yazılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Basamak çözümlemesi yapıldığında AB + BA = (10A + B) + (10B + A) = 11(A + B) = 143 bulunur. Buradan A + B = 13 elde edilir. A ve B sıfırdan farklı rakamlar olduğundan (A,B) ikilileri (4,9), (5,8), (6,7), (7,6), (8,5), (9,4) olmak üzere 6 farklı AB sayısı yazılabilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-3",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a ve b gerçel sayılar olmak üzere; a · b < 0, a³ · b² > 0 ve a - b > 0 eşitsizlikleri veriliyor. Buna göre a ve b sayılarının işaretleri sırasıyla aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "+, +"
+        },
+        {
+          "key": "B",
+          "text": "-, -"
+        },
+        {
+          "key": "C",
+          "text": "-, +"
+        },
+        {
+          "key": "D",
+          "text": "+, -"
+        },
+        {
+          "key": "E",
+          "text": "İşaretleri belirlenemez"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "b² ifadesi çift kuvvetten dolayı pozitif olduğundan a³ · b² > 0 eşitsizliğinde a³ > 0 olmalıdır, bu da a > 0 (+) anlamına gelir. a · b < 0 olduğu ve a pozitif olduğu için b negatif (-) olmalıdır. Ayrıca a - b > 0 şartı da (+) - (-) = (+) eşitsizliğini doğruladığından a ve b sırasıyla +, - işaretlidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-4",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Ardışık 5 çift tam sayının toplamı 120 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "22"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "26"
+        },
+        {
+          "key": "E",
+          "text": "28"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Ardışık tek adetteki sayıların toplamı sayı adedine bölündüğünde ortanca sayı elde edilir: 120 / 5 = 24 (ortanca sayı). Sayılar ikişerli arttığından dizi 20, 22, 24, 26, 28 şeklindedir. Dolayısıyla en büyük sayı 28'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-5",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "x, y ve z birer asal sayıdır. x · (y - z) = 19 olduğuna göre, x + y + z toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24"
+        },
+        {
+          "key": "B",
+          "text": "22"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "19"
+        },
+        {
+          "key": "E",
+          "text": "17"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "19 asal bir sayı olduğundan çarpanları sadece 1 ve 19'dur. x asal sayı olduğuna göre x = 19 olmalıdır. Bu durumda y - z = 1 kalır. Farkları 1 olan biricik asal sayı çifti y = 3 ve z = 2'dir. Buradan x + y + z = 19 + 3 + 2 = 24 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-6",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "AB ve BA iki basamaklı doğal sayılardır. AB - BA = 45 şartını sağlayan en büyük AB sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "83"
+        },
+        {
+          "key": "B",
+          "text": "94"
+        },
+        {
+          "key": "C",
+          "text": "95"
+        },
+        {
+          "key": "D",
+          "text": "96"
+        },
+        {
+          "key": "E",
+          "text": "98"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Basamak çözümlemesi yapıldığında AB - BA = 9(A - B) = 45 olur. Buradan A - B = 5 elde edilir. AB sayısının en büyük olması için A rakamı en büyük yani 9 seçilmelidir. A = 9 için B = 4 olur ve en büyük AB sayısı 94 olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-7",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a, b ve c pozitif tam sayılardır. a · b = 12 ve b · c = 20 olduğuna göre, a + b + c toplamının alabileceği en küçük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "33"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplamın en küçük değerini alması için ortak çarpan olan b sayısı 12 ve 20'nin en büyük ortak böleni (EBOB) seçilmelidir. EBOB(12, 20) = 4 olduğundan b = 4 alınır. Buradan a = 3 ve c = 5 bulunur. a + b + c = 3 + 4 + 5 = 12 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-8",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "x ve y birer tam sayı olmak üzere, (2x - 3) · (y + 2) = 13 eşitliğini sağlayan x değerlerinin toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "13 asal sayı olduğu için tam sayı çarpanları (1, 13), (13, 1), (-1, -13) ve (-13, -1) olabilir. (2x - 3) çarpanı için: 1) 2x - 3 = 1 ⇒ x = 2; 2) 2x - 3 = 13 ⇒ x = 8; 3) 2x - 3 = -1 ⇒ x = 1; 4) 2x - 3 = -13 ⇒ x = -5 bulunur. x değerlerinin toplamı 2 + 8 + 1 + (-5) = 6 olur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-9",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "A, B ve C ardışık tek sayılar olup A < B < C sıralaması vardır. Buna göre ((C - A) · (C - B)) / (B - A) ifadesinin değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "1"
+        },
+        {
+          "key": "E",
+          "text": "0"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ardışık tek sayılar ikişer ikişer artar. Dolayısıyla B - A = 2, C - B = 2 ve C - A = 4 olur. İfadede yerine koyarsak: (4 · 2) / 2 = 8 / 2 = 4 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-10",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "15! + 16! sayısı aşağıdakilerden hangisine tam bölünemez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "17"
+        },
+        {
+          "key": "B",
+          "text": "26"
+        },
+        {
+          "key": "C",
+          "text": "33"
+        },
+        {
+          "key": "D",
+          "text": "38"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "15! + 16! = 15! · (1 + 16) = 15! · 17 şeklinde yazılır. Şıkları incelersek: A) 17 çarpanı vardır. B) 26 = 2 · 13 olup ikisi de 15! içinde mevcuttur. C) 33 = 3 · 11 mevcuttur. D) 38 = 2 · 19 olup 19 asal çarpanı ne 15! içinde ne de 17 çarpanında bulunduğundan sayı 38'e bölünemez.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-11",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Üç basamaklı abc sayısının yüzler basamağı 2 artırılıp, onlar basamağı 5 azaltılır ve birler basamağı 4 artırılırsa sayı nasıl değişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "146 artar"
+        },
+        {
+          "key": "B",
+          "text": "154 artar"
+        },
+        {
+          "key": "C",
+          "text": "154 azalır"
+        },
+        {
+          "key": "D",
+          "text": "254 artar"
+        },
+        {
+          "key": "E",
+          "text": "146 azalır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yüzler basamağının 2 artması sayı değerini +2 · 100 = +200 etkiler. Onlar basamağının 5 azalması -5 · 10 = -50 etkiler. Birler basamağının 4 artması +4 · 1 = +4 etkiler. Toplam değişim = +200 - 50 + 4 = +154 (154 artar).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-12",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "x bir tam sayı olmak üzere, (3x + 18) / x ifadesini tam sayı yapan kaç farklı x değeri vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "(3x + 18) / x ifadesi 3 + (18 / x) şeklinde parçalanır. Bu ifadenin tam sayı olması için x sayısının 18'i tam bölmesi gerekir. 18'in pozitif bölen sayısı 18 = 2¹ · 3² olup (1+1)(2+1) = 6 tanedir. Negatif bölenleri de düşünülürse x için 6 · 2 = 12 farklı tam sayı değeri bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-13",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a ve b pozitif tam sayılardır. a sayısı çift, b sayısı tek sayı olduğuna göre aşağıdakilerden hangisi daima çift sayıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a + b"
+        },
+        {
+          "key": "B",
+          "text": "a · b + b"
+        },
+        {
+          "key": "C",
+          "text": "a² + b²"
+        },
+        {
+          "key": "D",
+          "text": "a · (b + 1)"
+        },
+        {
+          "key": "E",
+          "text": "a + 2b + 1"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "b tek sayı olduğundan (b + 1) çifttir. Çift bir sayı ile her zaman bir çift sayının çarpımı çift sonuç verir (Çift · Çift = Çift). Dolayısıyla a · (b + 1) ifadesi daima çifttir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-14",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Rakamları farklı üç basamaklı en büyük doğal sayı ile rakamları farklı iki basamaklı en küçük tam sayının toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "888"
+        },
+        {
+          "key": "B",
+          "text": "889"
+        },
+        {
+          "key": "C",
+          "text": "889"
+        },
+        {
+          "key": "D",
+          "text": "977"
+        },
+        {
+          "key": "E",
+          "text": "987"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Rakamları farklı üç basamaklı en büyük doğal sayı 987'dir. Rakamları farklı iki basamaklı en küçük tam sayı negatif olabileceğinden -98'dir. Bu ikisinin toplamı 987 + (-98) = 889 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-15",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "A, B ve C sıfırdan ve birbirinden farklı birer rakam olmak üzere, A = B + 2 ve B = 2C koşullarını sağlayan kaç farklı üç basamaklı ABC sayısı yazılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "C rakamına değerler verilerek incelenir: C = 1 ise B = 2, A = 4 olur (sayı 421, rakamları farklı). C = 2 ise B = 4, A = 6 olur (sayı 642, rakamları farklı). C = 3 ise B = 6, A = 8 olur (sayı 863, rakamları farklı). C = 4 ise B = 8, A = 10 olur (10 rakam değildir). Dolayısıyla 3 farklı ABC sayısı yazılabilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-16",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "n bir doğal sayı olmak üzere, 1'den n'e kadar olan doğal sayıların toplamı x, 10'dan n'e kadar olan doğal sayıların toplamı y'dir. x + y = 417 olduğuna göre, n kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "22"
+        },
+        {
+          "key": "D",
+          "text": "23"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "x - y farkı 1'den 9'a kadar olan sayıların toplamıdır: x - y = (9 · 10) / 2 = 45. x + y = 417 ve x - y = 45 denklemleri taraf tarafa toplanırsa 2x = 462 ⇒ x = 231 bulunur. x = [n · (n + 1)] / 2 = 231 eşitliğinden n · (n + 1) = 462 ve n = 21 elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-17",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "A ve B birer doğal sayıdır. A · B + 3B = 28 olduğuna göre, A'nın alabileceği değerler toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "38"
+        },
+        {
+          "key": "C",
+          "text": "41"
+        },
+        {
+          "key": "D",
+          "text": "43"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İfade B parantezine alınırsa B · (A + 3) = 28 olur. B doğal sayı olduğundan 28'in pozitif çarpanları 1, 2, 4, 7, 14, 28 olabilir. A doğal sayı olduğundan A + 3 ≥ 3 şartını sağlamalıdır. B = 7 ise A + 3 = 4 ⇒ A = 1. B = 4 ise A + 3 = 7 ⇒ A = 4. B = 2 ise A + 3 = 14 ⇒ A = 11. B = 1 ise A + 3 = 28 ⇒ A = 25. A değerleri toplamı 1 + 4 + 11 + 25 = 41 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-18",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "İki basamaklı 4 farklı doğal sayının toplamı 310'dur. Bu sayıların en küçüğü en az kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "En küçük sayının en az olması için diğer 3 sayının iki basamaklı ve birbirinden farklı en büyük sayılar seçilmesi gerekir. Bu sayılar 99, 98 ve 97'dir. Üçünün toplamı 99 + 98 + 97 = 294 olur. En küçük sayı ise 310 - 294 = 16 olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-19",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a, b, c sıfırdan farklı birer rakamdır. a > b > c koşulunu sağlayan kaç farklı üç basamaklı abc sayısı yazılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "36"
+        },
+        {
+          "key": "B",
+          "text": "45"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "72"
+        },
+        {
+          "key": "E",
+          "text": "84"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Sıfır hariç 9 rakam arasından seçilecek her 3'lü kombinasyon büyükten küçüğe tek bir şekilde sıralanarak a > b > c şartını sağlayan bir abc sayısı oluşturur. Kombinasyon hesabı C(9, 3) = (9 · 8 · 7) / (3 · 2 · 1) = 84 olarak bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-20",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "x ve y pozitif tam sayılardır. 3x + 4y = 52 olduğuna göre, x'in alabileceği kaç farklı değer vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "3x = 52 - 4y denkleğinde y pozitif tam sayısı değiştikçe x değerleri aranır. En küçük pozitif tam sayı çözümü için y = 1 verilirse 3x = 48 ⇒ x = 16 bulunur. x pozitif tam sayıları y'nin katsayısı kadar (4'er) azalırken y değerleri 3'er artar. x'in değerleri: 16, 12, 8, 4 olmak üzere 4 tanedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-21",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Ardışık 4 pozitif tek sayının çarpımı, bu sayıların en küçüğünün 315 katına eşittir. Buna göre bu sayıların en büyüğü kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "13"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "En küçük sayı a olsun. Sayılar a, a+2, a+4, a+6 olur. Çarpım: a · (a+2) · (a+4) · (a+6) = 315 · a. a > 0 olduğundan sadeleştirirsek (a+2) · (a+4) · (a+6) = 315 olur. 315 = 5 · 7 · 9 şeklinde ardışık üç tek sayının çarpımıdır. Buradan a+2 = 5 ⇒ a = 3 bulunur. En büyük sayı a + 6 = 3 + 6 = 9 olur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-22",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "A, B ve C birer asal sayıdır. A = 13^(B - C) olduğuna göre, A + B + C toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "16"
+        },
+        {
+          "key": "C",
+          "text": "18"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "22"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "A'nın asal sayı olması için 13'ün kuvvetinin 1 olması gerekir (B - C = 1). Farkları 1 olan biricik asal sayı ikilisi B = 3 ve C = 2'dir. B - C = 1 olunca A = 13¹ = 13 bulunur. A + B + C = 13 + 3 + 2 = 18 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-23",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a ve b pozitif tam sayılardır. a! = 42 · b! olduğuna göre, a + b toplamının alabileceği değerler toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "83"
+        },
+        {
+          "key": "B",
+          "text": "87"
+        },
+        {
+          "key": "C",
+          "text": "91"
+        },
+        {
+          "key": "D",
+          "text": "95"
+        },
+        {
+          "key": "E",
+          "text": "99"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "1. Durum: 42 = 7 · 6 olduğundan a! = 7 · 6 · b! biçiminde yazılırsa b = 5 ve a = 7 olur. Bu durumda a + b = 7 + 5 = 12. 2. Durum: a! = 42 · 41! biçiminde yazılırsa b = 41 ve a = 42 olur. Bu durumda a + b = 42 + 41 = 83. a + b değerlerinin toplamı 12 + 83 = 95 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-24",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "ab iki basamaklı bir doğal sayıdır. ab = 3(a + b) + 4 olduğuna göre, bu koşula uyan kaç farklı ab sayısı vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        },
+        {
+          "key": "E",
+          "text": "1"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "10a + b = 3a + 3b + 4 ⇒ 7a = 2b + 4 denkleminde rakam olan a ve b değerleri aranır. a = 2 için 7(2) = 14 ⇒ 2b + 4 = 14 ⇒ 2b = 10 ⇒ b = 5 elde edilir (Sayı 25). a = 1, 3 için b tam sayı rakam çıkmaz. Dolayısıyla tek bir ab sayısı (25) yazılabilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-25",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Üç basamaklı 5AB sayısı, iki basamaklı AB sayısının 21 katına eşittir. Buna göre A + B toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "11"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "5AB sayısı 500 + AB şeklinde çözümlenir. 500 + AB = 21 · AB ⇒ 500 = 20 · AB ⇒ AB = 25 bulunur. A = 2 ve B = 5 olduğundan A + B = 2 + 5 = 7 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-26",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Dört basamaklı ABCD sayısında yüzler basamağı ile birler basamağı yer değiştirdiğinde sayının değeri 297 azalmaktadır. Buna göre B - D farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İlk sayı ABCD, yeni sayı ADCB olur. Değişim: (1000A + 100B + 10C + D) - (1000A + 100D + 10C + B) = 99B - 99D = 99(B - D) = 297. Buradan B - D = 297 / 99 = 3 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-27",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Rakamları toplamının 5 katına eşit olan iki basamaklı doğal sayı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "36"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "54"
+        },
+        {
+          "key": "E",
+          "text": "63"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "AB iki basamaklı sayısı için 10A + B = 5(A + B) ⇒ 10A + B = 5A + 5B ⇒ 5A = 4B olur. A ve B sıfırdan farklı rakamlar olduğundan A = 4 ve B = 5 bulunur. Bu sayı 45'tir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-28",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "a, b ve c birer negatif tam sayıdır. a · b = 18 ve b · c = 24 olduğuna göre, a + b + c toplamının alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "-43"
+        },
+        {
+          "key": "B",
+          "text": "-23"
+        },
+        {
+          "key": "C",
+          "text": "-17"
+        },
+        {
+          "key": "D",
+          "text": "-13"
+        },
+        {
+          "key": "E",
+          "text": "-11"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Negatif sayılarda toplamın en büyük olması için sayıların mutlak değerce en küçük seçilmesi gerekir. Ortak olan b negatif tam sayısı mutlak değerce en büyük (yani en küçük negatif) bölen b = -6 seçilirse a = -3 ve c = -4 olur. Toplam: (-3) + (-6) + (-4) = -13 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-29",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "x, y, z pozitif tam sayılar olmak üzere; x - y = 5 ve y - z = 3 olduğuna göre, x + y + z toplamının alabileceği en küçük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "11"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "13"
+        },
+        {
+          "key": "E",
+          "text": "14"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "En küçük toplam için pozitif tam sayı olan z en küçük değer z = 1 seçilir. Buradan y - 1 = 3 ⇒ y = 4 elde edilir. x - 4 = 5 ⇒ x = 9 bulunur. Minimum toplam: x + y + z = 9 + 4 + 1 = 14 olur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-30",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "İki basamaklı dört farklı doğal sayının toplamı 120'dir. Bu sayıların en büyüğü en fazla kaç olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "87"
+        },
+        {
+          "key": "B",
+          "text": "88"
+        },
+        {
+          "key": "C",
+          "text": "89"
+        },
+        {
+          "key": "D",
+          "text": "90"
+        },
+        {
+          "key": "E",
+          "text": "91"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "En büyük sayının en fazla olması için diğer 3 sayının iki basamaklı ve birbirinden farklı en küçük doğal sayılar seçilmesi gerekir. Bu sayılar 10, 11 ve 12'dir. Üçünün toplamı 10 + 11 + 12 = 33 olur. En büyük sayı ise 120 - 33 = 87 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayilar-basamak-74",
+      "topic_id": "topic-mat-sayilar-basamak",
+      "question_text": "Ardışık üç çift sayının toplamı 66 ise en büyük sayı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "22"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "26"
+        },
+        {
+          "key": "E",
+          "text": "28"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Sayılar x, x+2, x+4 olsun. 3x+6=66 -> 3x=60 -> x=20. En büyük sayı x+4 = 24'tür.",
+      "difficulty_level": 2
+    }
+  ]
+}

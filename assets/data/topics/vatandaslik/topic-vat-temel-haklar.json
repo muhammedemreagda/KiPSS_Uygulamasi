@@ -1,0 +1,1217 @@
+{
+  "topic_id": "topic-vat-temel-haklar",
+  "title": "Temel Haklar ve Özgürlükler",
+  "course_id": "course-vatandaslik",
+  "question_count": 38,
+  "quick_note": {
+    "id": "qn-topic-vat-temel-haklar",
+    "topic_id": "topic-vat-temel-haklar",
+    "title": "Temel Haklar ve Özgürlükler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'Temel Haklar ve Özgürlükler' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "Temel Haklar ve Özgürlükler konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nTemel Haklar ve Özgürlükler konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. Temel Haklar ve Özgürlükler konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Temel Hak ve Hürriyetlerin Sınırlanması",
+        "body": "Temel haklar ancak KANUNLA, anayasanın sözüne ve ruhuna uygun olarak, ölçülülük ilkesi gözetilerek ve hakkın özüne dokunulmadan sınırlanabilir."
+      },
+      {
+        "card_number": 2,
+        "title": "Durdurulamayacak Çekirdek Haklar (OHAL dahil)",
+        "body": "Yaşama hakkı, tıbbi zorunluluklar hariç vücut bütünlüğü, din ve vicdan hürriyeti, suç ve cezaların geriye yürümemesi, masumiyet karinesi."
+      },
+      {
+        "card_number": 3,
+        "title": "Kişi Hakları ve Ödevleri (Negatif Statü / Koruyucu)",
+        "body": "Devletin dokunamayacağı haklardır: Kişi dokunulmazlığı, özel hayatın gizliliği, konut dokunulmazlığı, haberleşme hürriyeti, mülkiyet hakkı."
+      },
+      {
+        "card_number": 4,
+        "title": "Sosyal ve Ekonomik Haklar (Pozitif Statü / İsteme)",
+        "body": "Bireyin devletten isteyebileceği haklardır: Eğitim hakkı, çalışma hakkı, sağlık hakkı, konut hakkı, grev ve lokavt hakkı."
+      },
+      {
+        "card_number": 5,
+        "title": "Siyasi Haklar ve Ödevler (Aktif Statü / Katılma)",
+        "body": "Vatandaşlık hakkı, seçme-seçilme hakkı, parti kurma-girme hakkı, kamu hizmetine girme hakkı, dilekçe hakkı, vergi ödevi, vatan hizmeti."
+      },
+      {
+        "card_number": 6,
+        "title": "Siyasi Partilere Üye Olamayacaklar",
+        "body": "Hakimler, savcılar, yüksek yargı mensupları, memurlar, TSK mensupları ve henüz lise dengi öğrenimdeki öğrenciler parti üyesi olamaz."
+      },
+      {
+        "card_number": 7,
+        "title": "Siyasi Partilerin Kapatılması",
+        "body": "Yargıtay Cumhuriyet Başsavcısı'nın açtığı dava üzerine ANAYASA MAHKEMESİ tarafından kapatılır (Kabul için 2/3 oy çokluğu gerekir)."
+      },
+      {
+        "card_number": 8,
+        "title": "Türk Vatandaşlığının Kazanılması ve Kaybı",
+        "body": "Soy bağı veya doğum yeri ile kazanılır. Hiçbir Türk vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vatandaşlıktan çıkarılamaz."
+      },
+      {
+        "card_number": 9,
+        "title": "Vatandaşlıktan Çıkarma Kararına Yargı Yolu",
+        "body": "Vatandaşlıktan çıkarma kararlarına karşı yargı yolu açıktır. İlk derece mahkemesi olarak DANIŞTAY'a dava açılır."
+      },
+      {
+        "card_number": 10,
+        "title": "Dilekçe, Bilgi Edinme ve Kamu Denetçisine Başvuru",
+        "body": "Vatandaşlar ve karşılıklılık esası gözetilmek şartıyla Türkiye'de ikamet eden yabancılar TBMM'ye ve yetkili makamlara yazılı başvurabilir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-temel-haklar-36",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Temel hak ve hürriyetlerin 'kötüye kullanılamaması' (Anayasa Madde 14) kuralına göre hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Haklar, temel hak ve hürriyetleri yok etme veya devleti yıkma amacıyla kullanılamaz"
+        },
+        {
+          "key": "B",
+          "text": "Haklar serbestçe devleti yıkmak amacıyla kullanılabilir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece siyasi haklar için geçerlidir"
+        },
+        {
+          "key": "D",
+          "text": "Kötüye kullanım yasağı Anayasa'dan çıkarılmıştır"
+        },
+        {
+          "key": "E",
+          "text": "Kötüye kullanım sadece savaşta suç sayılır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'daki hiçbir hak, laik ve demokratik cumhuriyeti ortadan kaldırmak veya insan haklarını yok etmek amacıyla kullanılamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-46",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Savaş, seferberlik veya olağanüstü hallerde dahi dokunulamayan çekirdek haklar arasında hangisi yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişinin yaşama hakkı ve mülkiyet bütünlüğü"
+        },
+        {
+          "key": "B",
+          "text": "Mülkiyet hakkı"
+        },
+        {
+          "key": "C",
+          "text": "Seyahat hürriyeti"
+        },
+        {
+          "key": "D",
+          "text": "Basın hürriyeti"
+        },
+        {
+          "key": "E",
+          "text": "Toplantı ve gösteri hakkı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Çekirdek haklar (Yaşama hakkı, din-vicdan vicdani kanaat, masumiyet karinesi, suç ve cezaların geçmişe yürümemesi) OHAL'de dahi dokunulamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-42",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Aşağıdakilerden hangisi 1982 Anayasası'nda yer alan 'Siyasi Haklar ve Ödevler'dendir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mülkiyet hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Kamu hizmetine girme hakkı"
+        },
+        {
+          "key": "C",
+          "text": "Eğitim hakkı"
+        },
+        {
+          "key": "D",
+          "text": "Özel hayatın gizliliği"
+        },
+        {
+          "key": "E",
+          "text": "İşkence yasağı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kamu hizmetine girme hakkı, vatandaşın devlet yönetimine katılımını içeren bir siyasi haktır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-43",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Temel hakların sınırlanmasında 'kanunilik' ilkesi neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınırlamanın sadece Meclis kararıyla yapılması"
+        },
+        {
+          "key": "B",
+          "text": "Sınırlamanın ancak açık bir kanun hükmüyle yapılabileceğini"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanının onayının şart olduğunu"
+        },
+        {
+          "key": "D",
+          "text": "İdari işlemin yeterli olduğunu"
+        },
+        {
+          "key": "E",
+          "text": "Mahkeme kararı olmaksızın yapılamayacağını"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kanunilik ilkesi, bir hakkın ancak ve ancak açık bir kanun hükmüyle sınırlandırılabileceği güvencesidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-56",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'ya göre herkes, kişiliğine bağlı, dokunulmaz, devredilemez ve vazgeçilemez temel hak ve hürriyetlere sahiptir. Bu haklar hangi tür haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları ve ödevleri (Negatif statü hakları)"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi haklar"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal haklar"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik haklar"
+        },
+        {
+          "key": "E",
+          "text": "İdari haklar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kişi hakları ve hürriyetleri (Kişinin dokunulmazlığı, özel hayat vb.) bireyi devlete karşı koruyan negatif statü haklarıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-66",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Herkesin, kişiliğine bağlı, dokunulmaz, devredilemez ve vazgeçilemez temel haklara sahip olması hangi hak türünün özelliğidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları (Negatif statü)"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi haklar"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal haklar"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik haklar"
+        },
+        {
+          "key": "E",
+          "text": "İdari haklar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kişi hakları, bireyi devlete karşı koruyan ve devlete 'dokunmama' ödevi yükleyen haklardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-80",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'ya göre 'Dilekçe Hakkı'nın temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Devleti eleştirmek"
+        },
+        {
+          "key": "B",
+          "text": "Kişi ya da kamu menfaatine yönelik şikayet veya başvuru hakkı"
+        },
+        {
+          "key": "C",
+          "text": "Seçimlere katılmak"
+        },
+        {
+          "key": "D",
+          "text": "Dava açmak"
+        },
+        {
+          "key": "E",
+          "text": "Siyasi parti kurmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Dilekçe hakkı, vatandaşların kendileriyle veya kamu menfaatiyle ilgili konularda dilek ve şikayetlerini yetkili makamlara sunma hakkıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-96",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'ya göre herkesin, kişiliğine bağlı, dokunulmaz, devredilemez ve vazgeçilemez temel hakları nelerdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi haklar"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal haklar"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik haklar"
+        },
+        {
+          "key": "E",
+          "text": "İdari haklar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kişi hakları, bireyi devlete karşı koruyan ve dokunulmazlığı esas olan temel haklardır (negatif statü hakları).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-106",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Aşağıdakilerden hangisi bir 'Sosyal ve Ekonomik Hak' olarak Anayasa'da düzenlenmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dilekçe hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Sağlık hizmetlerinden yararlanma ve çevre hakkı"
+        },
+        {
+          "key": "C",
+          "text": "Din ve vicdan hürriyeti"
+        },
+        {
+          "key": "D",
+          "text": "Özel hayatın gizliliği"
+        },
+        {
+          "key": "E",
+          "text": "Kişi hürriyeti ve güvenliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sağlık hizmetleri ve çevrenin korunması hakkı Anayasa'nın sosyal ve ekonomik haklar bölümündedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-116",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "1982 Anayasası'nda düzenlenen bir 'Sosyal ve Ekonomik Hak' olan 'Eğitim Hakkı' ile ilgili hüküm hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlköğretim kız ve erkek tüm vatandaşlar için zorunlu ve devlet okullarında parasızdır"
+        },
+        {
+          "key": "B",
+          "text": "İlköğretim sadece ücretli özel okullarda verilir"
+        },
+        {
+          "key": "C",
+          "text": "Eğitim hakkı durdurulabilir tek haktır"
+        },
+        {
+          "key": "D",
+          "text": "Devletin eğitim alanında yükümlülüğü bulunmaz"
+        },
+        {
+          "key": "E",
+          "text": "Eğitim hakkı sadece yükseköğrenimi kapsar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 42. maddesi uyarınca ilköğretim, kız ve erkek bütün vatandaşlar için zorunlu ve devlet okullarında parasızdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-126",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "1982 Anayasası'nda yer alan kişi haklarından 'Özel hayatın gizliliği' aşağıdaki kategorilerden hangisine girer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları ve ödevleri (Negatif statü)"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal ve ekonomik haklar"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi haklar"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik haklar"
+        },
+        {
+          "key": "E",
+          "text": "İdari haklar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Özel hayatın gizliliği ve korunması, bireyin temel dokunulmazlıklarını düzenleyen kişi hakları (negatif statü) arasındadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-136",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Sosyal ve Ekonomik Haklar' içinde yer alan sendika kurma hakkı ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memurlar sendika kuramaz"
+        },
+        {
+          "key": "B",
+          "text": "Çalışanlar ve işverenler izin almaksızın sendika ve üst kuruluş kurma hakkına sahiptir"
+        },
+        {
+          "key": "C",
+          "text": "Sendikalar siyasi faaliyet yürütemez"
+        },
+        {
+          "key": "D",
+          "text": "Sadece işçiler sendika kurabilir"
+        },
+        {
+          "key": "E",
+          "text": "Sendikalar kapatılamaz"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa Madde 51 uyarınca çalışanlar ve işverenler, önceden izin almaksızın sendikalar kurma ve üye olma hakkına sahiptir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-146",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da düzenlenen 'Eğitim ve Öğrenim Hakkı ve Ödevi' ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece yükseköğrenimi kapsar"
+        },
+        {
+          "key": "B",
+          "text": "İlköğretim kız ve erkek tüm vatandaşlar için zorunlu ve devlet okullarında parasızdır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece yabancılara tanınan bir haktır"
+        },
+        {
+          "key": "D",
+          "text": "Eğitimden sadece belirli meslek grupları yararlanır"
+        },
+        {
+          "key": "E",
+          "text": "Devletin eğitim üzerinde hiçbir denetimi yoktur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa Madde 42 uyarınca ilköğretim, kız ve erkek bütün vatandaşlar için zorunlu ve devlet okullarında parasızdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-1",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "1982 Anayasası'na göre temel hak ve hürriyetlerin sınırlandırılmasında aşağıdakilerden hangisi temel ilkedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdarenin keyfi kararı"
+        },
+        {
+          "key": "B",
+          "text": "Kanunilik"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı onayı"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi parti önerisi"
+        },
+        {
+          "key": "E",
+          "text": "Hükümet genelgesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Temel haklar ancak Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak kanunla sınırlandırılabilir; bu, kanunilik ilkesinin bir gereğidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-2",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Kişi hak ve ödevleri (negatif statü hakları) arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi dokunulmazlığı"
+        },
+        {
+          "key": "B",
+          "text": "Özel hayatın gizliliği"
+        },
+        {
+          "key": "C",
+          "text": "Düşünce hürriyeti"
+        },
+        {
+          "key": "D",
+          "text": "Eğitim hakkı"
+        },
+        {
+          "key": "E",
+          "text": "Din ve vicdan hürriyeti"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Eğitim hakkı, sosyal ve ekonomik haklar (pozitif statü hakları) arasında yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-3",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'ya göre temel hakların 'kötüye kullanılamaması' ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Haklar sınırsızdır"
+        },
+        {
+          "key": "B",
+          "text": "Haklar demokratik cumhuriyeti yok etme amacıyla kullanılamaz"
+        },
+        {
+          "key": "C",
+          "text": "Haklar sadece mahkeme kararıyla kullanılabilir"
+        },
+        {
+          "key": "D",
+          "text": "Haklar hiçbir durumda sınırlandırılamaz"
+        },
+        {
+          "key": "E",
+          "text": "Kötüye kullanım yasağı yoktur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'nın 14. maddesi gereği temel haklar, devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmak veya demokratik düzeni yok etmek amacıyla kullanılamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-5",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "1982 Anayasası'nda 'Siyasi Haklar' kapsamında aşağıdakilerden hangisi bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sağlık hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Vatan hizmeti"
+        },
+        {
+          "key": "C",
+          "text": "Mülkiyet hakkı"
+        },
+        {
+          "key": "D",
+          "text": "Dilekçe hakkı"
+        },
+        {
+          "key": "E",
+          "text": "Özel hayatın gizliliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Vatan hizmeti, Anayasa'da siyasi haklar ve ödevler bölümünde yer alan vatandaşlık ödevlerinden biridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-6",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Temel hakların 'durdurulması' hangi durumlarda mümkündür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece seçim döneminde"
+        },
+        {
+          "key": "B",
+          "text": "Savaş, seferberlik veya OHAL hallerinde"
+        },
+        {
+          "key": "C",
+          "text": "Sadece hükümet istediğinde"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yargı kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Durdurma mümkün değildir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Temel haklar, savaş, seferberlik veya OHAL hallerinde, milletlerarası hukuk yükümlülüklerine aykırı olmamak şartıyla durdurulabilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-7",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Aşağıdakilerden hangisi bir 'Siyasi Hak'tır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçme ve seçilme hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Çalışma hakkı"
+        },
+        {
+          "key": "C",
+          "text": "Konut hakkı"
+        },
+        {
+          "key": "D",
+          "text": "Kişi dokunulmazlığı"
+        },
+        {
+          "key": "E",
+          "text": "Özel hayatın gizliliği"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Seçme ve seçilme hakkı, vatandaşın devlet yönetimine doğrudan katılımını sağlayan bir siyasi haktır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-9",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'daki 'Dilekçe Hakkı' hangi hak kategorisindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Siyasi haklar ve ödevler (aktif statü)"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal haklar"
+        },
+        {
+          "key": "C",
+          "text": "Kişi hakları"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik haklar"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dilekçe hakkı, vatandaşın kamu makamlarına başvurma ve katılım imkanı sağladığı için siyasi haklar arasındadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-10",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Hangisi Anayasa'daki temel hakların sınırlanma sebeplerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kamu düzeni"
+        },
+        {
+          "key": "B",
+          "text": "Genel sağlık"
+        },
+        {
+          "key": "C",
+          "text": "Milli güvenlik"
+        },
+        {
+          "key": "D",
+          "text": "İdarenin veya Hükümetin keyfi kararları"
+        },
+        {
+          "key": "E",
+          "text": "Kamu ahlakı"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Anayasa'da sınırlama sebepleri sınırlı olarak belirtilmiştir; idarenin keyfi kararı bir sınırlama sebebi olamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-11",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Çalışma ve Sözleşme Hürriyeti' hangi kategoriye girer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal ve ekonomik haklar"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi haklar"
+        },
+        {
+          "key": "D",
+          "text": "İdari haklar"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çalışma ve sözleşme hürriyeti, sosyal ve ekonomik haklar bölümünde düzenlenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-13",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Mülkiyet hakkı ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece sosyal haklardadır"
+        },
+        {
+          "key": "B",
+          "text": "Sadece siyasi haklardadır"
+        },
+        {
+          "key": "C",
+          "text": "Kişi hakları ve ödevleri (Ekonomik hak) arasındadır"
+        },
+        {
+          "key": "D",
+          "text": "Hiçbir hak grubunda değildir"
+        },
+        {
+          "key": "E",
+          "text": "Kısıtlanamaz"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Mülkiyet hakkı, kişi hakları ve ödevleri bölümünde, temel ekonomik haklar arasında yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-14",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'ya göre temel hakların 'özüne dokunulamaz' hükmü ne anlama gelir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Haklar hiçbir şekilde sınırlanamaz"
+        },
+        {
+          "key": "B",
+          "text": "Sınırlamalar, hakkı tamamen kullanılamaz ve anlamsız kılacak şekilde olamaz"
+        },
+        {
+          "key": "C",
+          "text": "Sadece mahkemeler sınırlayabilir"
+        },
+        {
+          "key": "D",
+          "text": "Haklar sınırsızdır"
+        },
+        {
+          "key": "E",
+          "text": "Sadece savaşta sınırlandırılır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Öze dokunma yasağı, sınırlamanın hakkı anlamsız kılacak ve kullanılmasını imkansız hale getirecek düzeye ulaşmasını engeller.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-15",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Vatan hizmeti' neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece askerlik"
+        },
+        {
+          "key": "B",
+          "text": "Vatan hizmeti (askerlik) ve kamu ödevleri"
+        },
+        {
+          "key": "C",
+          "text": "Sadece çalışma"
+        },
+        {
+          "key": "D",
+          "text": "Sadece oy kullanma"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'da vatan hizmeti; askerlik görevi ve kamu hizmeti ödevleri kapsamında siyasi hak ve ödevler arasında tanımlanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-17",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da yer alan 'Düşünce ve kanaat hürriyeti' hangi haklardandır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sosyal haklar"
+        },
+        {
+          "key": "B",
+          "text": "Ekonomik haklar"
+        },
+        {
+          "key": "C",
+          "text": "Kişi hakları ve hürriyetleri (Negatif statü)"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi haklar"
+        },
+        {
+          "key": "E",
+          "text": "İdari haklar"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Düşünce hürriyeti, bireyin temel manevi varlığını koruyan kişi hakları arasındadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-18",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Temel hakların sınırlanmasında 'demokratik toplum düzeninin gerekleri' ne demektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Demokrasinin temel kurallarına, çoğulculuğa ve kamu düzenine aykırı olmamak"
+        },
+        {
+          "key": "B",
+          "text": "Sadece halk oylaması"
+        },
+        {
+          "key": "C",
+          "text": "Hükümetin kararı"
+        },
+        {
+          "key": "D",
+          "text": "Sadece meclis kararı"
+        },
+        {
+          "key": "E",
+          "text": "Yargı kararı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sınırlama; çoğulculuğu, hoşgörüyü ve demokratik hukuk devleti ilkelerini zedelememelidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-19",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Yerleşme ve seyahat hürriyeti' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hak ve hürriyetleri"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yerleşme ve seyahat hürriyeti, kişi hak ve hürriyetleri (negatif statü) içerisinde yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-20",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Dernek kurma hürriyeti' hangi haklardandır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hak ve hürriyetleri"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dernek kurma hürriyeti, kişi hak ve hürriyetleri içerisinde düzenlenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-21",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Sağlık ve çevre hakkı' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal ve ekonomik hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sağlık ve çevre hakkı, sosyal ve ekonomik haklar içerisinde yer alan temel bir haktır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-23",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Konut hakkı' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal ve ekonomik hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Konut hakkı, sosyal devletin gereği olarak sosyal ve ekonomik haklar içindedir (Konut dokunulmazlığı ise kişi hakkıdır).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-24",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Dilekçe ve Bilgi Edinme Hakkı' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi haklar ve ödevler"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı siyasi haklar ve ödevler bölümündedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-25",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'İşkence ve eziyet yasağı' hangi haklardandır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları ve ödevleri"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İşkence yasağı, bireyin dokunulmazlığını sağlayan kişi haklarındandır ve mutlak haktır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-26",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Çalışma ve dinlenme hakkı' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal ve ekonomik hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çalışma ve dinlenme hakkı, sosyal ve ekonomik haklar içerisinde yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-27",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Kişi hürriyeti ve güvenliği' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hak ve hürriyetleri"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kişi hürriyeti ve güvenliği, bireyi devlete karşı koruyan temel kişi hakkıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-28",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Seçme, seçilme ve siyasi faaliyette bulunma hakkı' hangi haktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakkı"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi haklar ve ödevler"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Seçme ve seçilme hakkı, vatandaşın devlet yönetimine katılımını sağlayan en temel siyasi haktır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-29",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Toplantı ve gösteri yürüyüşü düzenleme hakkı' önceden izin almaya tabi midir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, valilikten izin alınır"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, önceden izin almaksızın silahsız ve saldırısız toplantı yapılabilir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece emniyetten izin alınır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece belediyeden izin alınır"
+        },
+        {
+          "key": "E",
+          "text": "Tamamen yasaktır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Herkes, önceden izin almaksızın, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-temel-haklar-30",
+      "topic_id": "topic-vat-temel-haklar",
+      "question_text": "Anayasa'da 'Din ve vicdan hürriyeti' hangi haklardandır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişi hakları ve hürriyetleri"
+        },
+        {
+          "key": "B",
+          "text": "Sosyal hak"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi hak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik hak"
+        },
+        {
+          "key": "E",
+          "text": "İdari hak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Din ve vicdan hürriyeti, kişinin temel manevi değerlerini koruyan kişi hakları arasındadır.",
+      "difficulty_level": 2
+    }
+  ]
+}

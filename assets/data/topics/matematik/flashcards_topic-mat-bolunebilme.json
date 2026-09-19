@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-bolunebilme",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "2 İle Bölünebilme Kuralı",
+      "body": "Bir sayının birler basamağı çift (0, 2, 4, 6, 8) ise sayı 2 ile tam bölünür."
+    },
+    {
+      "card_number": 2,
+      "title": "3 İle Bölünebilme Kuralı",
+      "body": "Bir sayının rakamları toplamı 3 veya 3'ün katı ise sayı 3 ile tam bölünür."
+    },
+    {
+      "card_number": 3,
+      "title": "4 İle Bölünebilme Kuralı",
+      "body": "Bir sayının son iki basamağı 00 veya 4'ün katı ise sayı 4 ile tam bölünür. Örnek: 316, 500."
+    },
+    {
+      "card_number": 4,
+      "title": "5 İle Bölünebilme Kuralı",
+      "body": "Bir sayının birler basamağı 0 veya 5 ise sayı 5 ile tam bölünür."
+    },
+    {
+      "card_number": 5,
+      "title": "8 İle Bölünebilme Kuralı",
+      "body": "Bir sayının son üç basamağı 000 veya 8'in katı ise sayı 8 ile tam bölünür."
+    },
+    {
+      "card_number": 6,
+      "title": "9 İle Bölünebilme Kuralı",
+      "body": "Bir sayının rakamları toplamı 9 veya 9'un katı ise sayı 9 ile tam bölünür."
+    },
+    {
+      "card_number": 7,
+      "title": "10 İle Bölünebilme Kuralı",
+      "body": "Bir sayının birler basamağı 0 ise sayı 10 ile tam bölünür. Birler basamağındaki rakam aynı zamanda 10'a bölümünden kalandır."
+    },
+    {
+      "card_number": 8,
+      "title": "11 İle Bölünebilme Testi (+ - +)",
+      "body": "Sayının rakamları sağdan sola doğru sırasıyla +, -, +, - işaretleriyle çarpılıp toplanır. Sonuç 11'in katı olmalıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Aralarında Asal Çarpan Kuralı",
+      "body": "Bir sayı aralarında asal iki sayıya tam bölünüyorsa çarpımlarına da bölünür. Örnek: Hem 3 hem 4'e bölünen sayı 12'ye de bölünür."
+    },
+    {
+      "card_number": 10,
+      "title": "45 İle Bölünebilme Şifresi",
+      "body": "Bir sayının 45 ile bölünebilmesi için aralarında asal olan hem 5'e hem de 9'a tam bölünmesi gerekir. Önce 5 kuralı incelenir."
+    }
+  ]
+}

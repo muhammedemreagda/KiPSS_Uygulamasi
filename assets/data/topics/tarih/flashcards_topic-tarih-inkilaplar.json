@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-tarih-inkilaplar",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Cumhuriyetin İlanı (29 Ekim 1923)",
+      "body": "Devletin rejimi belirlenmiş, Meclis Hükümeti sisteminden Kabine Sistemine geçilmiş, M. Kemal ilk Cumhurbaşkanı, İsmet Paşa ilk Başbakan olmuştur."
+    },
+    {
+      "card_number": 2,
+      "title": "Halifeliğin Kaldırılması (3 Mart 1924)",
+      "body": "Laikliğin en önemli adımıdır. Aynı gün Tevhid-i Tedrisat Kanunu çıkarılmış ve Şer'iye ve Evkaf Vekaleti kaldırılmıştır."
+    },
+    {
+      "card_number": 3,
+      "title": "Şer'iye ve Evkaf Vekaleti Yerine Kurulanlar",
+      "body": "Din işleri için Diyanet İşleri Başkanlığı, vakıf işleri için Vakıflar Genel Müdürlüğü kurulmuştur."
+    },
+    {
+      "card_number": 4,
+      "title": "Erkan-ı Harbiye Umumiye Vekaleti",
+      "body": "Kaldırılarak Genelkurmay Başkanlığı kurulmuş, böylece ordu siyasetten tamamen ayrılmıştır."
+    },
+    {
+      "card_number": 5,
+      "title": "Tevhid-i Tedrisat Kanunu (1924)",
+      "body": "Tüm öğretim kurumları Milli Eğitim Bakanlığı'na bağlanmış, eğitimde birlik ve laikleşme sağlanmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "Türk Medeni Kanunu (17 Şubat 1926)",
+      "body": "İsviçre'den uyarlanmıştır. Kadın-erkek hukuki ve sosyal eşitliği sağlanmış, tek eşlilik ve resmi nikah zorunlu olmuştur (Siyasi hak İÇERMEZ!)."
+    },
+    {
+      "card_number": 7,
+      "title": "Kadınlara Siyasi Hakların Verilmesi (BMI)",
+      "body": "1930 Belediye seçimleri, 1933 Muhtarlık seçimleri, 1934 Milletvekili seçilme hakkı (Şifre: BMW / BMI)."
+    },
+    {
+      "card_number": 8,
+      "title": "Harf İnkılabı (1 Kasım 1928)",
+      "body": "Latin alfabesi kabul edilmiş, okuma-yazma oranını artırmak için Millet Mektepleri açılmıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kabotaj Kanunu (1 Temmuz 1926)",
+      "body": "Türk karasularında gemi işletme ve liman hakkı Türk denizcilerine verilmiş, milliyetçilik ilkesi doğrultusunda deniz bağımsızlığı sağlanmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Soyadı Kanunu (1934)",
+      "body": "Ayrıcalık belirten unvanlar (Ağa, Paşa, Hoca) kaldırılmış, Mustafa Kemal'e TBMM tarafından 'Atatürk' soyadı verilmiştir."
+    }
+  ]
+}

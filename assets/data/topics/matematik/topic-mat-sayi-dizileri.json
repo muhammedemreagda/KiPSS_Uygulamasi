@@ -1,0 +1,947 @@
+{
+  "topic_id": "topic-mat-sayi-dizileri",
+  "title": "Sayı Dizileri ve Örüntüler",
+  "course_id": "course-matematik",
+  "question_count": 29,
+  "quick_note": {
+    "id": "qn-topic-mat-sayi-dizileri",
+    "topic_id": "topic-mat-sayi-dizileri",
+    "title": "Sayı Dizileri ve Örüntüler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Sayı Dizileri ve Örüntüler' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Sayı Dizileri ve Örüntüler konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nSayı Dizileri ve Örüntüler konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Sayı Dizileri ve Örüntüler konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Aritmetik Dizi Tanımı",
+        "body": "Ardışık terimleri arasındaki fark sabit olan dizilerdir. Ortak fark d ise: a_n = a_1 + (n - 1).d."
+      },
+      {
+        "card_number": 2,
+        "title": "Aritmetik Dizide Terim Toplamı",
+        "body": "İlk n terim toplamı S_n = (n / 2) . (a_1 + a_n) formülü ile bulunur."
+      },
+      {
+        "card_number": 3,
+        "title": "Geometrik Dizi Tanımı",
+        "body": "Ardışık terimleri arasındaki oran sabit olan dizilerdir. Ortak çarpan r ise: a_n = a_1 . r^(n - 1)."
+      },
+      {
+        "card_number": 4,
+        "title": "Fibonacci Sayı Dizisi",
+        "body": "Her terimin kendinden önceki iki terimin toplamı olduğu dizidir: 1, 1, 2, 3, 5, 8, 13, 21, 34..."
+      },
+      {
+        "card_number": 5,
+        "title": "Terim Sayısı Formülü",
+        "body": "Düzenli artan bir dizide Terim Sayısı = [(Son Terim - İlk Terim) / Artış Miktarı] + 1."
+      },
+      {
+        "card_number": 6,
+        "title": "Ortanca Terim İle Toplam",
+        "body": "Terim sayısı tek olan aritmetik dizilerde Toplam = Ortanca Terim x Terim Sayısı."
+      },
+      {
+        "card_number": 7,
+        "title": "Ardışık Çift Sayılar Toplamı",
+        "body": "2 + 4 + 6 + ... + 2n şeklindeki çift sayıların toplamı n.(n + 1) formülü ile hesaplanır."
+      },
+      {
+        "card_number": 8,
+        "title": "Ardışık Tek Sayılar Toplamı",
+        "body": "1 + 3 + 5 + ... + (2n - 1) şeklindeki tek sayıların toplamı n^2 formülü ile hesaplanır."
+      },
+      {
+        "card_number": 9,
+        "title": "Genel Terim (a_n) Mantığı",
+        "body": "Bir dizide n yerine 1 yazılarak 1. terim (a_1), n yerine 2 yazılarak 2. terim (a_2) elde edilir."
+      },
+      {
+        "card_number": 10,
+        "title": "Üstel Dizi Özelliği",
+        "body": "Geometrik dizide her terim kendisine eşit uzaklıktaki terimlerin geometrik ortalamasıdır: (a_k)^2 = a_(k-p) . a_(k+p)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-sayi-dizileri-1",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "3, 7, 11, 15, ... dizisinin 20. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "75"
+        },
+        {
+          "key": "B",
+          "text": "79"
+        },
+        {
+          "key": "C",
+          "text": "81"
+        },
+        {
+          "key": "D",
+          "text": "83"
+        },
+        {
+          "key": "E",
+          "text": "85"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bu aritmetik bir dizidir. Genel terim formülü a_n = a_1 + (n-1)d şeklindedir. a_1 = 3, d = 4. a_20 = 3 + (20-1) · 4 = 3 + 19 · 4 = 3 + 76 = 79 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-2",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir aritmetik dizide 3. terim 10, 7. terim 22 olduğuna göre, bu dizinin 10. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "28"
+        },
+        {
+          "key": "B",
+          "text": "31"
+        },
+        {
+          "key": "C",
+          "text": "34"
+        },
+        {
+          "key": "D",
+          "text": "37"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "a_7 = a_3 + 4d ⇒ 22 = 10 + 4d ⇒ 4d = 12 ⇒ d = 3 (ortak fark). a_10 = a_7 + 3d = 22 + 3 · 3 = 22 + 9 = 31 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-3",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir geometrik dizinin 2. terimi 6, 5. terimi 162 olduğuna göre, ortak çarpanı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "a_n = a_1 · r^(n-1) formülüne göre a_5 = a_2 · r³ olur. 162 = 6 · r³ ⇒ r³ = 27 ⇒ r = 3 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-4",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "5, 10, 20, 40, ... dizisinin ilk 6 teriminin toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "315"
+        },
+        {
+          "key": "B",
+          "text": "320"
+        },
+        {
+          "key": "C",
+          "text": "325"
+        },
+        {
+          "key": "D",
+          "text": "330"
+        },
+        {
+          "key": "E",
+          "text": "335"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Bu bir geometrik dizidir (r = 2). Toplam formülü S_n = a_1 · (rⁿ - 1) / (r - 1). S_6 = 5 · (2⁶ - 1) / (2 - 1) = 5 · 63 = 315 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-5",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Ardışık terimleri arasındaki farkı sabit olan bir dizide ilk terim 5, 15. terim 47'dir. Bu dizinin 10. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "38"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "a_15 = a_1 + 14d ⇒ 47 = 5 + 14d ⇒ 42 = 14d ⇒ d = 3. a_10 = a_1 + 9d = 5 + 9 · 3 = 5 + 27 = 32 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-6",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "1, 4, 9, 16, 25, ... kuralı ile giden örüntüde 15. terim kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "196"
+        },
+        {
+          "key": "B",
+          "text": "225"
+        },
+        {
+          "key": "C",
+          "text": "256"
+        },
+        {
+          "key": "D",
+          "text": "289"
+        },
+        {
+          "key": "E",
+          "text": "324"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Örüntü karesel sayılardan oluşmaktadır (n²). 15. terim 15² = 225 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-7",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir dizinin genel terimi a_n = (2n + 1) / n olduğuna göre, a_4 terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,5"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "2,25"
+        },
+        {
+          "key": "D",
+          "text": "2,5"
+        },
+        {
+          "key": "E",
+          "text": "3"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_4 terimi için n yerine 4 yazılır: a_4 = (2·4 + 1) / 4 = 9 / 4 = 2,25 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-8",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "2, 6, 12, 20, 30, ... dizisinin 8. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "56"
+        },
+        {
+          "key": "B",
+          "text": "64"
+        },
+        {
+          "key": "C",
+          "text": "72"
+        },
+        {
+          "key": "D",
+          "text": "81"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dizinin genel terimi a_n = n · (n + 1) şeklindedir (1·2, 2·3, 3·4...). 8. terim 8 · (8 + 1) = 8 · 9 = 72 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-9",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Ardışık terimleri arasındaki farkın 5 olduğu bir dizinin 4. terimi 20 olduğuna göre, 1. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "a_n = a_1 + (n-1)d formülünden: a_4 = a_1 + 3 · 5 ⇒ 20 = a_1 + 15 ⇒ a_1 = 5 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-10",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Genel terimi a_n = 3n - 4 olan dizinin kaçıncı terimi 26'dır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "11"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "3n - 4 = 26 ⇒ 3n = 30 ⇒ n = 10 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-11",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir dizide a_1 = 2 ve a_(n+1) = a_n + 3 olduğuna göre, a_10 terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "27"
+        },
+        {
+          "key": "C",
+          "text": "29"
+        },
+        {
+          "key": "D",
+          "text": "31"
+        },
+        {
+          "key": "E",
+          "text": "33"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dizi sabit bir farkla (d = 3) artan aritmetik bir dizidir. a_n = a_1 + (n-1)d ⇒ a_10 = 2 + (10-1) · 3 = 2 + 9 · 3 = 2 + 27 = 29 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-12",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir geometrik dizide a_3 = 4 ve a_6 = 32 olduğuna göre, a_8 terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "64"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "96"
+        },
+        {
+          "key": "D",
+          "text": "128"
+        },
+        {
+          "key": "E",
+          "text": "256"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "a_6 = a_3 · r³ ⇒ 32 = 4 · r³ ⇒ r³ = 8 ⇒ r = 2. a_8 = a_6 · r² = 32 · 2² = 32 · 4 = 128 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-13",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "1, 2, 4, 8, 16, ... geometrik dizisinin 8. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "64"
+        },
+        {
+          "key": "B",
+          "text": "96"
+        },
+        {
+          "key": "C",
+          "text": "128"
+        },
+        {
+          "key": "D",
+          "text": "256"
+        },
+        {
+          "key": "E",
+          "text": "512"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dizinin genel terimi a_n = 2^(n-1). 8. terim a_8 = 2^(8-1) = 2^7 = 128 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-14",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "10, 7, 4, 1, ... aritmetik dizisinin ilk 10 teriminin toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "-25"
+        },
+        {
+          "key": "B",
+          "text": "-30"
+        },
+        {
+          "key": "C",
+          "text": "-35"
+        },
+        {
+          "key": "D",
+          "text": "-40"
+        },
+        {
+          "key": "E",
+          "text": "-45"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_1 = 10, d = -3. a_10 = a_1 + 9d = 10 + 9 · (-3) = 10 - 27 = -17. Toplam S_n = n/2 · (a_1 + a_n) ⇒ S_10 = 10/2 · (10 - 17) = 5 · (-7) = -35 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-16",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "1'den 20'ye kadar olan tek sayıların toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "110"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1'den (2n-1)'e kadar tek sayıların toplamı n² dir. 20'ye kadar 10 tane tek sayı vardır (1, 3, ..., 19). n = 10 için 10² = 100 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-17",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Genel terimi a_n = n! / (n-1)! olan dizinin ilk 5 teriminin toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "18"
+        },
+        {
+          "key": "E",
+          "text": "20"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_n = n! / (n-1)! = n olur. İlk 5 terim (1, 2, 3, 4, 5) toplamı 1 + 2 + 3 + 4 + 5 = 15 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-18",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Ardışık 4 çift sayının toplamı 60'tır. Bu sayıların en küçüğü kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayılar x, x+2, x+4, x+6 olsun. Toplam: 4x + 12 = 60 ⇒ 4x = 48 ⇒ x = 12 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-19",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir dizinin ilk n terim toplamı S_n = n² + 2n olduğuna göre, bu dizinin 3. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_3 = S_3 - S_2 dir. S_3 = 3² + 2 · 3 = 9 + 6 = 15. S_2 = 2² + 2 · 2 = 4 + 4 = 8. a_3 = 15 - 8 = 7 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-20",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir dizide a_1 = 1 ve a_n = a_(n-1) + 2n olduğuna göre, a_4 terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "key": "D",
+          "text": "19"
+        },
+        {
+          "key": "E",
+          "text": "21"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "a_1 = 1, a_2 = 1 + 2·2 = 5, a_3 = 5 + 2·3 = 11, a_4 = 11 + 2·4 = 19 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-21",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Aritmetik bir dizinin 2. terimi 7, 5. terimi 19'dur. Bu dizinin 10. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "37"
+        },
+        {
+          "key": "C",
+          "text": "39"
+        },
+        {
+          "key": "D",
+          "text": "41"
+        },
+        {
+          "key": "E",
+          "text": "43"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_5 = a_2 + 3d ⇒ 19 = 7 + 3d ⇒ 3d = 12 ⇒ d = 4. a_10 = a_5 + 5d = 19 + 5 · 4 = 19 + 20 = 39 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-22",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Geometrik bir dizinin ilk terimi 3, ortak çarpanı 2'dir. Bu dizinin 6. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "64"
+        },
+        {
+          "key": "C",
+          "text": "96"
+        },
+        {
+          "key": "D",
+          "text": "128"
+        },
+        {
+          "key": "E",
+          "text": "192"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_6 = a_1 · r^(6-1) = 3 · 2⁵ = 3 · 32 = 96 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-23",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "3, 10, 17, 24, ... dizisinin genel terimi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3n + 7"
+        },
+        {
+          "key": "B",
+          "text": "7n - 4"
+        },
+        {
+          "key": "C",
+          "text": "7n - 3"
+        },
+        {
+          "key": "D",
+          "text": "4n + 6"
+        },
+        {
+          "key": "E",
+          "text": "5n + 2"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Artış miktarı d = 7. Genel terim a_n = a_1 + (n-1)d = 3 + (n-1)7 = 3 + 7n - 7 = 7n - 4 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-24",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir dizinin ilk 4 terimi 2, 4, 8, 16'dır. Bu dizinin 7. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "64"
+        },
+        {
+          "key": "B",
+          "text": "128"
+        },
+        {
+          "key": "C",
+          "text": "256"
+        },
+        {
+          "key": "D",
+          "text": "512"
+        },
+        {
+          "key": "E",
+          "text": "1024"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Dizi 2^n şeklinde gitmektedir (2¹, 2², 2³, ...). 7. terim 2^7 = 128 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-25",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "3, 6, 11, 18, ... örüntüsünün 6. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "27"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "38"
+        },
+        {
+          "key": "E",
+          "text": "42"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Terimler karesel sayılardan 2 fazladır (n² + 2): 1²+2=3, 2²+2=6, 3²+2=11, 4²+2=18, 5²+2=27, 6²+2=38 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-26",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Ardışık terimleri toplamı sabit olan bir dizide a_1 = 5, a_2 = 8, a_3 = 5, a_4 = 8, ... olduğuna göre, a_100 kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "13"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dizi periyodik bir dizidir (5, 8, 5, 8...). Çift indisli terimler 8, tek indisli terimler 5'tir. 100 çift sayı olduğundan a_100 = 8 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-27",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Genel terimi a_n = 2n² + 1 olan dizinin 4. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "17"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "33"
+        },
+        {
+          "key": "D",
+          "text": "41"
+        },
+        {
+          "key": "E",
+          "text": "49"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "n = 4 için: a_4 = 2 · (4²) + 1 = 2 · 16 + 1 = 33 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-28",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir aritmetik dizide a_5 = 12 ve a_9 = 24 olduğuna göre, dizinin ortak farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "a_9 = a_5 + 4d ⇒ 24 = 12 + 4d ⇒ 4d = 12 ⇒ d = 3 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-29",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "İlk terimi 2, ortak çarpanı 3 olan bir geometrik dizinin 4. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "27"
+        },
+        {
+          "key": "C",
+          "text": "54"
+        },
+        {
+          "key": "D",
+          "text": "81"
+        },
+        {
+          "key": "E",
+          "text": "162"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "a_n = a_1 · r^(n-1) formülünden a_4 = 2 · 3³ = 2 · 27 = 54 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-dizileri-30",
+      "topic_id": "topic-mat-sayi-dizileri",
+      "question_text": "Bir dizide a_n = a_(n-1) + 2 ve a_1 = 3 olarak veriliyor. Bu dizinin 10. terimi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "19"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "21"
+        },
+        {
+          "key": "E",
+          "text": "22"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Dizi d=2 olan bir aritmetik dizidir. a_10 = a_1 + 9d = 3 + 9 · 2 = 3 + 18 = 21 bulunur.",
+      "difficulty_level": 2
+    }
+  ]
+}

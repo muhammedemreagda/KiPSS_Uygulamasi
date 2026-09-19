@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-sozcuk-yapisi",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Kök Kavramı ve Türleri",
+      "body": "Sözcüğün anlamlı en küçük yapı birimidir. İsim kökü (mak/mek almayan: ev, su) ve Fiil kökü (mak/mek alan: gel-, yaz-) olarak ikiye ayrılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Ortak (Kökdeş) Kök",
+      "body": "Aralarında anlam bağı bulunan, hem isim hem fiil olarak kullanılabilen köklerdir. Örnek: boya (isim) / boyamak (fiil)."
+    },
+    {
+      "card_number": 3,
+      "title": "Sesteş (Eş Sesli) Kök",
+      "body": "Yazılışları aynı fakat anlamları tamamen farklı olan köklerdir. Örnek: yaz (mevsim) / yazmak (fiil)."
+    },
+    {
+      "card_number": 4,
+      "title": "Yapım Eki İşlevi",
+      "body": "Eklendiği sözcüğün anlamını veya türünü değiştiren eklerdir; yeni bir kelime (türemiş sözcük) türetir. Örnek: göz-lük, sev-gi."
+    },
+    {
+      "card_number": 5,
+      "title": "Çekim Eki İşlevi",
+      "body": "Sözcüğün anlamını değiştirmeyen, cümledeki görevini ve diğer sözcüklerle ilişkisini düzenleyen eklerdir. Örnek: ev-de, kitap-lar."
+    },
+    {
+      "card_number": 6,
+      "title": "Basit Sözcük Yapısı",
+      "body": "Yapım eki almamış sözcüklerdir. Çekim eki alabilirler ancak yeni bir anlam kazanmazlar. Örnek: Evlerden, masada."
+    },
+    {
+      "card_number": 7,
+      "title": "Türemiş Sözcük Yapısı",
+      "body": "En az bir tane yapım eki almış sözcüklerdir. Örnek: Bil-gi-li, göz-lük-çü."
+    },
+    {
+      "card_number": 8,
+      "title": "Birleşik Sözcük Yapısı",
+      "body": "En az iki sözcüğün birleşip kalıplaşmasıyla oluşan yeni sözcüklerdir. Örnek: Çanakkale, gecekondu, aslanağzı."
+    },
+    {
+      "card_number": 9,
+      "title": "İyelik (Aitlik) Ekleri",
+      "body": "İsmin neye veya kime ait olduğunu belirten eklerdir. Örnek: ev-im (benim), ev-in (senin), ev-i (onun)."
+    },
+    {
+      "card_number": 10,
+      "title": "Hal (Durum) Ekleri",
+      "body": "İsmin yükleme (-i), yönelme (-e), bulunma (-de) ve ayrılma (-den) hallerini belirten eklerdir."
+    }
+  ]
+}

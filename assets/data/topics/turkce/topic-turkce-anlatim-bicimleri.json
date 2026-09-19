@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-anlatim-bicimleri",
+  "title": "Anlatım Biçimleri & Düşünceyi Geliştirme",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-anlatim-bicimleri",
+    "topic_id": "topic-turkce-anlatim-bicimleri",
+    "title": "Anlatım Biçimleri & Düşünceyi Geliştirme Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Anlatım Biçimleri & Düşünceyi Geliştirme' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Anlatım Biçimleri & Düşünceyi Geliştirme konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nAnlatım Biçimleri & Düşünceyi Geliştirme başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Anlatım Biçimleri & Düşünceyi Geliştirme konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Öyküleyici Anlatım (Öyküleme)",
+        "body": "Olay, kişi, yer ve zaman ögelerine dayanır. Olaylar bir film şeridi gibi akıp gider; hareket ve eylem ön plandadır."
+      },
+      {
+        "card_number": 2,
+        "title": "Betimleyici Anlatım (Betimleme)",
+        "body": "Kelimelerle resim çizme sanatıdır. Duyu organlarına hitap eden sıfatlar ve görsellik ön plandadır, eylem durağandır."
+      },
+      {
+        "card_number": 3,
+        "title": "Açıklayıcı Anlatım (Açıklama)",
+        "body": "Okuyucuya bilgi vermek, öğretmek amacıyla yazılır. Sade, nesnel ve yalın bir dil kullanılır; makale ve ders kitaplarında yaygındır."
+      },
+      {
+        "card_number": 4,
+        "title": "Tartışmacı Anlatım (Tartışma)",
+        "body": "Yerleşik bir düşünceyi değiştirmek veya kendi görüşünü kabul ettirmek için yazılır. 'Sizce de öyle değil mi?', 'Bence...' gibi ifadeler içerir."
+      },
+      {
+        "card_number": 5,
+        "title": "Tanımlama İpucu",
+        "body": "'Bu nedir?' sorusuna yanıt veren, -dır/-dir veya 'denir' ile biten cümlelerdir. Örnek: 'Şiir, duyguların ritmik ifadesidir.'"
+      },
+      {
+        "card_number": 6,
+        "title": "Örnekleme İpucu",
+        "body": "Soyut bir düşünceyi somutlaştırmak için konuyla ilgili bilinen nesne, kişi veya eser isimlerinin sıralanmasıdır."
+      },
+      {
+        "card_number": 7,
+        "title": "Tanık Gösterme (Alıntı Yapma)",
+        "body": "Düşünceyi inandırıcı kılmak için alanında uzman bir kişinin ismiyle birlikte sözünün birebir aktarılmasıdır."
+      },
+      {
+        "card_number": 8,
+        "title": "Karşılaştırma İpucu",
+        "body": "İki kavram, olay veya durum arasındaki benzerlik ya da farklılıkların 'en', 'daha', 'ise', 'göre' sözcükleriyle ortaya konmasıdır."
+      },
+      {
+        "card_number": 9,
+        "title": "Sayısal Verilerden Yararlanma",
+        "body": "Düşünceyi kanıtlamak için anket, istatistik, grafik veya araştırma sonuçlarına ait rakamsal verilerin kullanılmasıdır."
+      },
+      {
+        "card_number": 10,
+        "title": "Benzetme İpucu",
+        "body": "Aralarında ilgi bulunan iki şeyden zayıf olanın güçlü olana 'gibi', 'sanki', 'adeta' kelimeleriyle benzetilmesidir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-1",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Güneş enerjisi, dünyamıza ulaşan tükenmez ve çevre dostu bir yenilenebilir enerji kaynağıdır. Güneş panelleri, yüzeylerine düşen işık taneciklerini (fotonları) yarı iletken malzemeler aracılığıyla doğrudan elektrik enerjisine dönüştürür. Günümüzde fotovoltaik hücre teknolojisinin gelişmesiyle birlikte panellerin verimlilik oranları %25 seviyelerine ulaşmıştır. Bu sistemler, sera gazı salınımını sıfıra indirerek küresel ısınmayla mücadelede stratejik bir rol oynamaktadır.\n\nBu parçanın anlatımında aşağıdaki anlatım biçimlerinden hangisi ağır basmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Açıklayıcı Anlatım"
+        },
+        {
+          "key": "B",
+          "text": "Tartışmacı Anlatım"
+        },
+        {
+          "key": "C",
+          "text": "Öyküleyici Anlatım"
+        },
+        {
+          "key": "D",
+          "text": "Betimleyici Anlatım"
+        },
+        {
+          "key": "E",
+          "text": "Emredici Anlatım"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Parçada güneş enerjisinin ne olduğu, çalışma prensibi ve verimliliği hakkında okuyucuya bilgi verme, öğretme amacı gütmektedir. Nesnel verilerin ve bilgilerin ön planda olduğu bu tür metinlerde 'Açıklayıcı Anlatım' ağır basar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-2",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Edebiyat eleştirmenlerinin çoğu, bir romanın başarısını kurgunun karmaşıklığına bağlar. Oysa bana göre kurgu sadece bir dış kabuktur; esere ruh veren asıl unsur insan psikolojisini işleme derinliğidir. Katmanlı bir kurgu kurup karakterlerini canlı birer bireye dönüştüremeyen bir romancı, kağıttan kaleler inşa etmekten öteye geçemez. Edebiyatın temel öznesi insandır, yapay kurgu oyunları değil.\n\nBu parçada aşağıdaki anlatım biçimlerinden hangisi kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Betimleyici Anlatım"
+        },
+        {
+          "key": "B",
+          "text": "Tartışmacı Anlatım"
+        },
+        {
+          "key": "C",
+          "text": "Öyküleyici Anlatım"
+        },
+        {
+          "key": "D",
+          "text": "Açıklayıcı Anlatım"
+        },
+        {
+          "key": "E",
+          "text": "Düşsel Anlatım"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yazar, genel kabul gören bir görüşe ('roman başarısının kurgu karmaşıklığına bağlanması') karşı çıkmış, kendi görüşünü savunmuş ve okuyucunun fikrini değiştirmeye çalışmıştır. Bu yaklaşım 'Tartışmacı Anlatım'ın temel özelliğidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-3",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Sabahın ilk ışıklarıyla birlikte limandan ayrılan küçük balıkçı teknesi, köpüklü dalgaları yararak açık denize doğru yol aldı. Kaptan Hasan, nasırlı elleriyle dümene sıkıca sarılmış, gözlerini ufuk çizgisine dikmişti. Ağlar yavaşça denizin serin sularına bırakıldı. Birkaç saat süren sessiz bekleyişin ardından ağların ağırlaştığı hissedildi ve tayfalar büyük bir heyecanla halatlara asılmaya başladı.\n\nBu parçanın anlatımında ağır basan anlatım biçimi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Açıklama"
+        },
+        {
+          "key": "B",
+          "text": "Tartışma"
+        },
+        {
+          "key": "C",
+          "text": "Öyküleme"
+        },
+        {
+          "key": "D",
+          "text": "Örneklendirme"
+        },
+        {
+          "key": "E",
+          "text": "Tanımlama"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Metinde bir olay akışı (tekneyle açılma, ağ bırakma, bekleme, ağ çekme), kişi (Kaptan Hasan, tayfalar), zaman (sabahın ilk ışıkları) ve mekân (deniz/liman) unsurları hareket halinde sunulmuştur. Olay akışının esas olduğu bu anlatım 'Öyküleme'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-4",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Tarihi konağın gıcırtılı ahşap merdivenlerinden yukarı çıktığınızda sizi geniş bir sofa karşılardı. Duvarda, pirinç çerçevesi zamanla kararmış devasa bir boy aynası asılıydı. Odanın ortasında, üzeri el dokuması kırmızı bir örtüyle kaplı ceviz kaplama bir masa duruyordu. Pencere kenarındaki kadife koltuklar, üzerlerine düşen ikindi güneşiyle sarımsı bir parıltı yayıyordu.\n\nBu parçada ağırlıklı olarak başvurulan anlatım biçimi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öyküleme"
+        },
+        {
+          "key": "B",
+          "text": "Açıklama"
+        },
+        {
+          "key": "C",
+          "text": "Tartışma"
+        },
+        {
+          "key": "D",
+          "text": "Betimleme"
+        },
+        {
+          "key": "E",
+          "text": "Tanık Gösterme"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Metinde bir mekânın özellikleri, eşyaları, renkleri ve durağan detayları okuyucunun zihninde resim çizer gibi (sözcüklerle resim yapma) anlatılmıştır. Bu durum 'Betimleme' (tasvir etme) tekniğidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-5",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Sanat, insanın duygu, düşünce ve izlenimlerini estetik bir form içerisinde, özgün biçimde dışa vurma eylemidir. İnsanoğlunun var olduğu ilk günden itibaren doğayı ve kendini anlamlandırma çabasının en zarif aracı olmuştur.\n\nBu parçanın ilk cümlesinde başvurulan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Örneklendirme"
+        },
+        {
+          "key": "B",
+          "text": "Karşılaştırma"
+        },
+        {
+          "key": "C",
+          "text": "Tanık Gösterme"
+        },
+        {
+          "key": "D",
+          "text": "Sayısal Verilerden Yararlanma"
+        },
+        {
+          "key": "E",
+          "text": "Tanımlama"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "İlk cümlede 'Sanat nedir?' sorusuna yanıt verilecek şekilde kavramın temel nitelikleri açıklanmıştır ('Sanat, ... eylemidir'). Bir kavramın ne olduğunu açıklamaya 'Tanımlama' denir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-6",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Milli Edebiyat Dönemi Türk romanı, Anadolu insanının yaşamını ve sosyal sorunlarını merkeze almıştır. Bu dönem yazarları, İstanbul dışına çıkarak halkın gerçekliğiyle yüzleşmişlerdir. Reşat Nuri Güntekin'in 'Çalıkuşu' romanında Anadolu'daki öğretmenlik idealizmi, Yakup Kadri Karaosmanoğlu'nun 'Yaban' eserinde ise aydın-halk çatışması bu durumun somut göstergeleridir.\n\nBu parçada somutlaştırma sağlamak amacıyla aşağıdaki düşünceyi geliştirme yollarından hangisine başvurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Örneklendirme"
+        },
+        {
+          "key": "B",
+          "text": "Tanık Gösterme"
+        },
+        {
+          "key": "C",
+          "text": "Benzetme"
+        },
+        {
+          "key": "D",
+          "text": "Sayısal Verilerden Yararlanma"
+        },
+        {
+          "key": "E",
+          "text": "Tanımlama"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Milli Edebiyat romanının özelliğine dair genel düşünce ifade edildikten sonra bu düşünceyi somutlaştırmak için 'Çalıkuşu' ve 'Yaban' romanları örnek olarak sunulmuştur. Bu nedenle 'Örneklendirme' yapılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-7",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Kitap okuma alışkanlığı, insan zihnini özgürleştiren ve empati yeteneğini geliştiren en temel eylemdir. Okumak, yalnızlığı giderdiği gibi düşünce ufkunu da genişletir. Nitekim ünlü düşünür Montaigne de bu konuda şöyle der: 'Hayatın sıkıntılarından kaçıp kurtulmak için kitaplardan daha iyi bir sığınak bilmediğim gibi, onların dostluğundan daha sadık bir dost da bulamadım.'\n\nBu parçada düşünceyi inandırıcı kılmak amacıyla aşağıdakilerin hangisinden yararlanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karşılaştırma"
+        },
+        {
+          "key": "B",
+          "text": "Tanık Gösterme"
+        },
+        {
+          "key": "C",
+          "text": "Sayısal Verilerden Yararlanma"
+        },
+        {
+          "key": "D",
+          "text": "Benzetme"
+        },
+        {
+          "key": "E",
+          "text": "Tanımlama"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yazar, kendi düşüncesini desteklemek ve inandırıcılığı artırmak amacıyla alanında uzman/tanınmış bir isim olan Montaigne'in sözünü birebir aktarmıştır. Bu durum 'Tanık Gösterme' (alıntı yapma) olarak adlandırılır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-8",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Tiyatro ile sinema, hikâye anlatıcılığının iki güçlü dalı olmasına rağmen seyirciyle kurdukları bağ bakımından farklılaşır. Tiyatroda oyuncu ile izleyici aynı anda, aynı mekânın atmosferini paylaşırlar; hata kabul etmeyen canlı bir performans söz konusudur. Sinemada ise teknoloji, kurgu ve açı oyunlarıyla zaman ve mekân sınırları ortadan kaldırılır, çekimler defalarca tekrarlanabilir.\n\nBu parçada düşünceyi geliştirmek için aşağıdakilerin hangisine başvurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanımlama"
+        },
+        {
+          "key": "B",
+          "text": "Tanık Gösterme"
+        },
+        {
+          "key": "C",
+          "text": "Karşılaştırma"
+        },
+        {
+          "key": "D",
+          "text": "Benzetme"
+        },
+        {
+          "key": "E",
+          "text": "Örneklendirme"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Parçada tiyatro ve sinema sanatı, canlı performans, kurgu ve seyirci ilişkisi bakımlarından birbiriyle kıyaslanmış ve farkları ortaya konulmuştur. Bu teknik 'Karşılaştırma'dır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-9",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Son yıllarda plastik atıkların deniz ekosistemleri üzerindeki tahribatı korkutucu boyutlara ulaşmıştır. Yapılan uluslararası araştırmalara göre, her yıl yaklaşık 8 milyon ton plastik çöp okyanuslara karışmaktadır. Bu durum 700'den fazla deniz canlısı türünü doğrudan tehdit ederken, deniz kuşlarının %90'ının midesinde plastik parçalarına rastlanmaktadır.\n\nBu parçanın anlatımında düşünceyi kanıtlamak için aşağıdakilerin hangisinden yararlanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanımlama"
+        },
+        {
+          "key": "B",
+          "text": "Tanık Gösterme"
+        },
+        {
+          "key": "C",
+          "text": "Benzetme"
+        },
+        {
+          "key": "D",
+          "text": "Sayısal Verilerden Yararlanma"
+        },
+        {
+          "key": "E",
+          "text": "Öyküleme"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Metinde kirliliğin boyutunu nesnel ve inandırıcı bir şekilde kanıtlamak amacıyla '8 milyon ton', '700'den fazla tür', '%90' gibi istatistiki rakamlar kullanılmıştır. Bu teknik 'Sayısal Verilerden Yararlanma'dır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-10",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Zaman, durdurulması veya geri alınması imkânsız olan devasa bir nehir gibidir. Önüne çıkan her şeyi sürükler, biçimlendirir ve en sonunda unutuluş denizine döker. İnsan ise bu coşkun nehirde akıntıya karşı kürek çekmeye çalışan çaresiz bir yolcudur.\n\nBu parçanın anlatımında ağırlıklı olarak kullanılan düşünceyi geliştirme yolu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanımlama"
+        },
+        {
+          "key": "B",
+          "text": "Örneklendirme"
+        },
+        {
+          "key": "C",
+          "text": "Tanık Gösterme"
+        },
+        {
+          "key": "D",
+          "text": "Karşılaştırma"
+        },
+        {
+          "key": "E",
+          "text": "Benzetme"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Zaman olgusu 'nehir'e, insan ise 'akıntıya karşı kürek çeken bir yolcu'ya benzetilerek somutlaştırma yapılmıştır. Zayıf olan kavramın güçlü olana benzetilmesiyle kurulduğu için cevap 'Benzetme'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-11",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Biyolojik takvim, canlıların fizyolojik ve davranışsal süreçlerini günün ve mevsimlerin ritmine göre ayarlayan içsel bir mekanizmadır. İnsanlarda beyindeki hipotalamus bölgesinde yer alan bu mekanizma, melatonin hormonu salgılanmasını düzenleyerek uyku-uyanıklık döngüsünü kontrol eder. Işığın azalmasıyla melatonin artar ve vücut uykuya hazırlanır.\n\nBu parçayla ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Açıklayıcı anlatım biçimiyle bilgi sunulmuş ve tanımlamaya başvurulmuştur."
+        },
+        {
+          "key": "B",
+          "text": "Öyküleyici bir dille olaylar yer ve zaman gösterilerek aktarılmıştır."
+        },
+        {
+          "key": "C",
+          "text": "Tartışmacı bir tutumla okurun yerleşik kanıları değiştirilmek istenmiştir."
+        },
+        {
+          "key": "D",
+          "text": "Kişisel izlenimler betimleyici ögelerle ön plana çıkarılmıştır."
+        },
+        {
+          "key": "E",
+          "text": "Savunulan düşünce ünlü bir uzmanın sözleriyle desteklenmiştir."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Metin bilimsel bir konuda okura bilgi vermeyi amaçladığı için 'Açıklayıcı anlatım'dır. Ayrıca ilk cümlede 'Biyolojik takvim nedir?' sorusunun yanıtı verilerek 'Tanımlama' yapılmıştır. Doğru cevap A seçeneğidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-12",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Şiir kelimelerle resim çizme sanatı mıdır? Bence kesinlikle hayır. Resim görsel bir malzemedir ve mekâna dayanır; oysa şiir ses, ritim ve duygunun zaman içindeki akışıdır. Şiiri görselliğe mahkûm etmek, onun müzikal ruhunu yok saymaktır. Ünlü şair Valéry de bu durumu desteklercesine 'Şiir, ses ile anlam arasındaki o benzersiz sessizliğin müziğidir.' der.\n\nBu parçanın anlatımında aşağıdakilerin hangisinde verilenler bir arada kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Betimleme - Örneklendirme"
+        },
+        {
+          "key": "B",
+          "text": "Tartışma - Tanık Gösterme"
+        },
+        {
+          "key": "C",
+          "text": "Açıklama - Benzetme"
+        },
+        {
+          "key": "D",
+          "text": "Öyküleme - Karşılaştırma"
+        },
+        {
+          "key": "E",
+          "text": "Betimleme - Tanımlama"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yazar soru sorarak ve bir görüşe karşı çıkarak kendi fikrini savunmuş ('Tartışma'), düşüncesini inandırıcı kılmak için şair Valéry'nin sözünü aktarmıştır ('Tanık Gösterme').",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-13",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Yağmur dinmek bilmiyordu. Dar ve taş döşeli sokakta şemsiyesini rüzgâra karşı tutmaya çalışan ihtiyar adam, adımlarını hızlandırdı. Üzerindeki eski paltonun yakaları ıslanmış, gri bıyıklarından su damlaları süzülüyordu. Sokağın köşesindeki kırık camlı fırının önüne geldiğinde durdu ve içeriye doğru sıcak bir tebessümle baktı.\n\nBu parçanın anlatımında aşağıdaki tekniklerden hangileri birlikte kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Açıklama - Tartışma"
+        },
+        {
+          "key": "B",
+          "text": "Öyküleme - Tanımlama"
+        },
+        {
+          "key": "C",
+          "text": "Öyküleme - Betimleme"
+        },
+        {
+          "key": "D",
+          "text": "Betimleme - Örneklendirme"
+        },
+        {
+          "key": "E",
+          "text": "Tartışma - Karşılaştırma"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İhtiyar adamın yürümesi, durması ve bakması gibi eylemler 'Öyküleme'yi; sokak, eski palto, gri bıyıklar, kırık camlı fırın gibi detayların resmedilmesi ise 'Betimleme'yi oluşturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-14",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Popüler kültür, kitle iletişim araçlarıyla üretilen ve geniş halk kitleleri tarafından hızla tüketilen geçici bir kültür biçimidir. Sanatsal derinlikten ziyade eğlence ve ticari kazanç odaklıdır. Örneğin bir yaz mevsimi boyunca her yerde çalınan ancak ertesi yıl tamamen unutulan şarkılar popüler kültürün tipik yansımalarıdır. Buna karşın klasik müzik yapıtları yüzyıllar geçse de estetik değerini korur.\n\nBu parçanın anlatımında aşağıdakilerin hangisinde verilen düşünceyi geliştirme yollarına başvurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanık Gösterme - Sayısal Veri"
+        },
+        {
+          "key": "B",
+          "text": "Benzetme - Tanık Gösterme"
+        },
+        {
+          "key": "C",
+          "text": "Tanımlama - Sayısal Veri"
+        },
+        {
+          "key": "D",
+          "text": "Tanımlama - Örneklendirme - Karşılaştırma"
+        },
+        {
+          "key": "E",
+          "text": "Benzetme - Örneklendirme - Tanık Gösterme"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "İlk cümlede 'Popüler kültür nedir?' sorusunun cevabı verilmiştir (Tanımlama). Unutulan şarkılar örneği sunulmuştur (Örneklendirme). Popüler kültür ile klasik müzik eserleri estetik kalıcılık yönünden kıyaslanmıştır (Karşılaştırma).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-15",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Yapay zekâ sistemleri günümüzde dil işleme, görsel tanıma ve veri analizi gibi alanlarda insan zekâsını aratmayacak seviyeye ulaşmıştır. Ancak yapay zekâ henüz duygusal zekâ, sezgi ve empati konularında insanoğlunun yanına yaklaşamamaktadır. Bir insanın bir tabloya bakarken hissettiği derin duygusal karmaşayı veya bir metindeki ince mizanı algılayıp aynı duygusal üretimi yapması algoritmalara kapalıdır.\n\nBu parçanın anlatımında aşağıdakilerden hangisi **yoktur**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Açıklayıcı ögeler"
+        },
+        {
+          "key": "B",
+          "text": "Karşılaştırma"
+        },
+        {
+          "key": "C",
+          "text": "Soyut kavramları işleme"
+        },
+        {
+          "key": "D",
+          "text": "Örneklendirme"
+        },
+        {
+          "key": "E",
+          "text": "Sayısal verilerden yararlanma"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Metinde bilgi verme (açıklama), yapay zekâ ile insan zekâsını kıyaslama (karşılaştırma), tabloya bakış/mizah gibi durumlar (örneklendirme) mevcutken, istatistiksel hiçbir rakam veya oran (sayısal veri) bulunmamaktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-16",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Sanatçı, içinde yaşadığı toplumun sorunlarına gözlerini kapatamaz. Bir yazarın eserinde halkın acılarını, sevinçlerini ve adalet arayışını işlememesi, ağacın köklerini reddetmesi gibidir. Büyük fikir insanı Cemil Meriç de 'Kendi çamurunu yoğurmayan sanatçı, başkasının kalıbında biçim almaya mahkûmdur.' diyerek sanatçının yerel ve toplumsal bağlarının önemini açıkça dile getirmiştir.\n\nBu parçada aşağıdaki düşünceyi geliştirme yollarından hangileri kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Benzetme - Tanık Gösterme"
+        },
+        {
+          "key": "B",
+          "text": "Tanımlama - Karşılaştırma"
+        },
+        {
+          "key": "C",
+          "text": "Örneklendirme - Sayısal Veri"
+        },
+        {
+          "key": "D",
+          "text": "Tanık Gösterme - Sayısal Veri"
+        },
+        {
+          "key": "E",
+          "text": "Karşılaştırma - Tanımlama"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yazarın toplumu işlememesini 'ağacın köklerini reddetmesine' benzetmesi 'Benzetme'; Cemil Meriç'in sözünün doğrudan alıntılanması ise 'Tanık Gösterme'dir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-17",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Gözlerimi açtığımda oda henüz zifiri karanlıktı. Dışarıda sert esen poyrazın pencere pervazlarına vurarak çıkardığı ıslık sesi evi dolduruyordu. Soğuk havanın etkisiyle tahta tabanlar gıcırdıyor, uzaktan bir köpeğin kesik kesik havlaması duyuluyordu. Yatağın içinde biraz daha büzülerek örtüyü çeneme kadar çektim.\n\nBu parçanın anlatımında aşağıdaki duyulardan hangisine **yer verilmemiştir**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Görme"
+        },
+        {
+          "key": "B",
+          "text": "Tatma"
+        },
+        {
+          "key": "C",
+          "text": "İşitme"
+        },
+        {
+          "key": "D",
+          "text": "Dokunma"
+        },
+        {
+          "key": "E",
+          "text": "Koklama"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Karanlık/oda (Görme), poyrazın ıslık sesi / gıcırtı / havlama (İşitme), soğuk hava / örtüyü çekme (Dokunma) vardır. Ancak tatma duyusuna ait hiçbir ayrıntı metinde geçmemektedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-18",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Bir metinde anlatımın hiçbir engel veya pürüz olmadan kolayca okunabilmesi, kelimelerin ses uyumuna dikkat edilerek seçilmesi 'akıcılık' ilkesiyle açıklanır. Metinde gereksiz sözcük bulunmaması 'duruluk', anlamın tek bir yoruma elverecek şekilde açık olması ise 'açıklık' niteliğidir.\n\nBuna göre dili zorlayan, söylenmesi güç sözcüklerin bulunduğu ve okurken duraksamaya yol açan bir metin aşağıdaki ilkelerden hangisine aykırıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Duruluk"
+        },
+        {
+          "key": "B",
+          "text": "Özgünlük"
+        },
+        {
+          "key": "C",
+          "text": "Akıcılık"
+        },
+        {
+          "key": "D",
+          "text": "Yalınlık"
+        },
+        {
+          "key": "E",
+          "text": "Tutarlılık"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Okumayı zorlaştıran, dile takılan kelimelerin kullanılması ve pürüzsüz bir okuyuşa engel olunması anlatımın 'Akıcılık' ilkesini ihlal eder.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-19",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Geleneksel Türk mimarisinin simgelerinden olan cumbalar, evlerin üst katlarından sokağa doğru çıkıntı yapan ahşap kapalı balkonsal yapılardır. Bu yapılar sadece estetik bir görüntü sunmakla kalmaz; aynı zamanda dar sokaklarda güneş ışığından daha fazla yararlanmayı ve rüzgâr sirkülasyonuyla evin doğal olarak serinlemesini sağlar. Safranbolu ve Evrenseki evleri bu mimari anlayışın en güzel örneklerini bünyesinde barındırır.\n\nBu parçanın anlatımıyla ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tartışmacı anlatımla bir tez çürütülmüştür."
+        },
+        {
+          "key": "B",
+          "text": "Olay zinciri öyküleyici teknikle anlatılmıştır."
+        },
+        {
+          "key": "C",
+          "text": "Tanık göstermeye başvurularak inandırıcılık sağlanmıştır."
+        },
+        {
+          "key": "D",
+          "text": "Açıklayıcı anlatım yapılmış, tanımlama ve örneklendirmeden yararlanılmıştır."
+        },
+        {
+          "key": "E",
+          "text": "Sayısal veriler kullanılarak nesnel kanıtlar sunulmuştur."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Metinde cumba yapısı hakkında bilgi verilmiş (Açıklama), ilk cümlede cumbaların tanımı yapılmış (Tanımlama) ve Safranbolu/Evrenseki evleri örnek gösterilmiştir (Örneklendirme). D şıkkı tam doğrudur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bicimleri-20",
+      "topic_id": "topic-turkce-anlatim-bicimleri",
+      "question_text": "Eleştirmen, bir eserin sadece eksiklerini arayan ve onu yok etmeye çalışan bir yargıç değildir. Nitelikli eleştirmen, eserin zenginliklerini, arka planındaki felsefeyi ve üslup değerini okura görünür kılan bir rehberdir. Eleştirisiyle yazara yol gösterir, okura kılavuzluk eder. Tıpkı bir pusulanın karanlıkta yönünü kaybeden gemiye doğru rotayı göstermesi gibi, iyi bir eleştiri de edebiyat dünyasına yön verir.\n\nBu parçanın anlatımında aşağıdakilerden hangisinden yararlanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öyküleme - Sayısal Veri"
+        },
+        {
+          "key": "B",
+          "text": "Betimleme - Tanımlama"
+        },
+        {
+          "key": "C",
+          "text": "Tartışma - Benzetme"
+        },
+        {
+          "key": "D",
+          "text": "Açıklama - Örneklendirme"
+        },
+        {
+          "key": "E",
+          "text": "Tartışma - Benzetme"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Yazar eleştirmenin ne olmadığına dair kalıplaşmış yargıya karşı çıkarak tartışmacı bir dille kendi görüşünü anlatmış ('Tartışma') ve eleştirmeni 'gece rotayı gösteren bir pusulaya' benzetmiştir ('Benzetme').",
+      "difficulty_level": 4
+    }
+  ]
+}

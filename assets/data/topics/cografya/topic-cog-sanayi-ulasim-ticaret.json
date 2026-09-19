@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+  "title": "Türkiye'de Sanayi, Ulaşım ve Ticaret",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-sanayi-ulasim-ticaret",
+    "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+    "title": "Türkiye'de Sanayi, Ulaşım ve Ticaret Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'de Sanayi, Ulaşım ve Ticaret' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'de Sanayi, Ulaşım ve Ticaret konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'de Sanayi, Ulaşım ve Ticaret başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'de Sanayi, Ulaşım ve Ticaret konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Sanayinin Kuruluşunda Ham Maddeye Yakınlık",
+        "body": "Çabuk bozulan ürünlerde fabrika hammadde yanına kurulur. Çay (Rize), Şeker pancarı (İç Anadolu), Konserve/Zeytinyağı (Ege)."
+      },
+      {
+        "card_number": 2,
+        "title": "Sanayide Enerji Kaynağına Yakınlık",
+        "body": "Karabük ve Ereğli Demir-Çelik Fabrikaları taş kömürüne (enerjiye) yakınlık nedeniyle buraya kurulmuştur."
+      },
+      {
+        "card_number": 3,
+        "title": "Sanayide Ulaşıma Yakınlık",
+        "body": "Samsun Bakır İşletmesi ve İzmit İpraş Petrol Rafinerisi hammaddesi dışarıdan geldiği için ULAŞIM/LİMAN kolaylığıyla kurulmuştur."
+      },
+      {
+        "card_number": 4,
+        "title": "Petrol Rafinerilerimiz",
+        "body": "İzmit (İpraş), İzmir (Aliağa), Mersin (Ataş), Kırıkkale (Orta Anadolu) ve Batman (Hammaddeye yakın tek rafineri)."
+      },
+      {
+        "card_number": 5,
+        "title": "Pamuklu Dokuma Sanayii",
+        "body": "Adana, İzmir, Aydın, Denizli, Gaziantep, Kayseri ve İstanbul ön plandadır."
+      },
+      {
+        "card_number": 6,
+        "title": "Otomotiv Sanayii Merkezleri",
+        "body": "Bursa, Kocaeli, Sakarya, İzmir, Aksaray ve Adana ana üretim merkezleridir."
+      },
+      {
+        "card_number": 7,
+        "title": "Demiryolu Ulaşımı Olmayan İllerimiz",
+        "body": "Doğu Karadeniz (Trabzon, Rize, Artvin), Antalya, Muğla, Sinop, Kastamonu, Çanakkale, Hakkari'ye demiryolu ULAŞMAZ."
+      },
+      {
+        "card_number": 8,
+        "title": "En Gelişmiş ve Ucuz Taşıma Türü",
+        "body": "Uluslararası ticarette en ucuz taşıma türü DENİZ YOLU, en pahalı taşıma türü HAVA YOLU'dur."
+      },
+      {
+        "card_number": 9,
+        "title": "Türkiye'nin İhracat (Dış Satım) Ürünleri",
+        "body": "Motorlu kara taşıtları, beyaz eşya, tekstil, fındık, bor, mermer, çimento, krom, kablo."
+      },
+      {
+        "card_number": 10,
+        "title": "Türkiye'nin İthalat (Dış Alım) Ürünleri",
+        "body": "Ham petrol, doğal gaz, ham demir-çelik, elektronik cihazlar, ilaç, iş makinesi, uçak."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-1",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Sanayi tesislerinin kurulacağı yeri belirleyen en temel faktörlerden biri olan 'hammaddeye yakınlık' ilkesine göre aşağıdakilerden hangisinin fabrikası hammaddeye yakın kurulmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Otomotiv"
+        },
+        {
+          "key": "B",
+          "text": "Dokuma"
+        },
+        {
+          "key": "C",
+          "text": "Şeker"
+        },
+        {
+          "key": "D",
+          "text": "Elektronik"
+        },
+        {
+          "key": "E",
+          "text": "Mobilya"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Şeker pancarı söküldükten sonra hızla fire veren ve çabuk bozulabilen bir ürün olduğu için şeker fabrikaları hammaddeye (üretim alanlarına) yakın kurulmalıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-2",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de demir-çelik sanayisinin Karabük ve Ereğli'de kurulmasının temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pazara yakınlık"
+        },
+        {
+          "key": "B",
+          "text": "Enerji kaynağına (taş kömürü) yakınlık"
+        },
+        {
+          "key": "C",
+          "text": "Demir madenine yakınlık"
+        },
+        {
+          "key": "D",
+          "text": "İş gücü bolluğu"
+        },
+        {
+          "key": "E",
+          "text": "İklim şartları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Karabük ve Ereğli'de demir-çelik sanayisinin kurulmasında, demiri eritmek için yüksek kalori sağlayan taş kömürünün bölgede çıkarılması etkili olmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-3",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'nin en büyük konteyner limanı ve dış ticaretteki en önemli yükleme/boşaltma liman kompleksi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İzmir Limanı"
+        },
+        {
+          "key": "B",
+          "text": "Mersin Limanı"
+        },
+        {
+          "key": "C",
+          "text": "Ambarlı (İstanbul) Limanı"
+        },
+        {
+          "key": "D",
+          "text": "Samsun Limanı"
+        },
+        {
+          "key": "E",
+          "text": "Trabzon Limanı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Ambarlı Limanı (Marmara), İstanbul ve art ülkesinin büyüklüğü sayesinde Türkiye'nin yükleme-boşaltma kapasitesi en yüksek konteyner limanıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-4",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Aşağıdaki sanayi kollarından hangisi hammaddesinin (kalker ve kil) her bölgede bulunması nedeniyle Türkiye geneline en yaygın şekilde dağılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Otomotiv"
+        },
+        {
+          "key": "B",
+          "text": "Demir-çelik"
+        },
+        {
+          "key": "C",
+          "text": "Çimento Sanayisi"
+        },
+        {
+          "key": "D",
+          "text": "Uçak sanayii"
+        },
+        {
+          "key": "E",
+          "text": "Petrol rafinerisi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çimento sanayisi, hammaddesi taş ve toprak minerali olan her yerde bulunabildiği ve inşaat sektörü yaygın olduğu için ülke geneline yayılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-5",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de pamuklu dokuma sanayisi geçmişte ilk olarak hangi bölgelerimizde yoğunlaşmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege ve Akdeniz (Adana, İzmir)"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz ve Marmara"
+        },
+        {
+          "key": "C",
+          "text": "Doğu Anadolu ve İç Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Güneydoğu Anadolu ve Karadeniz"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu ve Akdeniz"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Pamuk üretimi ile doğrudan hammadde yakınlığı ilişkili olarak Ege (İzmir, Aydın) ve Akdeniz (Adana Çukurova) tekstil dokuma merkezleri olmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-6",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de otomotiv ve yan sanayisinin en yoğun geliştiği iller hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ankara - Eskişehir"
+        },
+        {
+          "key": "B",
+          "text": "Bursa - Kocaeli - İstanbul"
+        },
+        {
+          "key": "C",
+          "text": "İzmir - Adana"
+        },
+        {
+          "key": "D",
+          "text": "Kayseri - Gaziantep"
+        },
+        {
+          "key": "E",
+          "text": "Samsun - Trabzon"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Pazar imkanları, liman ulaşımı ve kalifiye iş gücü nedeniyle otomotiv fabrikaları Marmara Bölgesi'nde (Bursa, Kocaeli, Sakarya, İstanbul) kümelenmiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-7",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'nin dış ticaretinde en çok ihraç ettiği ürün grubunun genel niteliği nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece işlenmemiş ham madde"
+        },
+        {
+          "key": "B",
+          "text": "Sanayi mamul ürünleri ve işlenmiş mallar"
+        },
+        {
+          "key": "C",
+          "text": "Sadece fosil enerji kaynakları"
+        },
+        {
+          "key": "D",
+          "text": "Sadece tarım ürünleri"
+        },
+        {
+          "key": "E",
+          "text": "Sadece canlı hayvan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye ihracatının %90'dan fazlasını sanayi ve imalat ürünleri (otomotiv, tekstil, beyaz eşya, makine, demir-çelik) oluşturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-8",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de 'Serbest Bölgeler'in kurulmasının temel ekonomik amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İthalatı kısıtlamak"
+        },
+        {
+          "key": "B",
+          "text": "İhracatı artırmak, döviz girdisi sağlamak ve doğrudan yabancı yatırımları çekmek"
+        },
+        {
+          "key": "C",
+          "text": "Sanayiyi tamamen şehir dışına taşımak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece iç ticareti geliştirmek"
+        },
+        {
+          "key": "E",
+          "text": "Tarım arazilerini korumak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Serbest bölgeler; vergi muafiyeti ve gümrük kolaylığı sağlayarak dış ticareti artırmak ve yabancı sermayeyi çekmek amacıyla kurulur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-9",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de dağların kıyıya paralel uzanması ve engebe nedeniyle demiryolu ağının ulaşmadığı veya en az geliştiği kıyı kuşak hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güney Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "C",
+          "text": "Doğu ve Batı Karadeniz kıyıları ile Antalya yöresi"
+        },
+        {
+          "key": "D",
+          "text": "Çukurova"
+        },
+        {
+          "key": "E",
+          "text": "İzmir çevresi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Doğu Karadeniz (Trabzon, Rize, Giresun), Batı Karadeniz (Kastamonu, Sinop) ve Antalya yöresinde dağlık arazi nedeniyle demiryolu bağlantısı yoktur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-10",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'nin dış ithalat faturasında en yüksek paya sahip olan ürün grubu hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tekstil ürünleri"
+        },
+        {
+          "key": "B",
+          "text": "Gıda ürünleri"
+        },
+        {
+          "key": "C",
+          "text": "Fosil Enerji Kaynakları (Ham Petrol ve Doğalgaz)"
+        },
+        {
+          "key": "D",
+          "text": "Oyuncaklar"
+        },
+        {
+          "key": "E",
+          "text": "Kağıt"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye enerji konusunda dışa bağımlı olduğu için ithalat harcamalarında ilk sırayı ham petrol ve doğalgaz alır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-11",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de özellikle yaz turizmi sezonunda yolcu uçuş trafiği tavan yapan havalimanımız hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sivas Nuri Demirağ"
+        },
+        {
+          "key": "B",
+          "text": "Antalya Havalimanı"
+        },
+        {
+          "key": "C",
+          "text": "Erzurum Havalimanı"
+        },
+        {
+          "key": "D",
+          "text": "Çorum"
+        },
+        {
+          "key": "E",
+          "text": "Burdur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Antalya Havalimanı, yaz turizminde milyonlarca turisti ağırlayarak Türkiye'nin en işlek hava alanlarından biri olmaktadır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-12",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'nin en büyük entegre Petrokimya Tesisi (PETKİM) nerededir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İzmir (Aliağa)"
+        },
+        {
+          "key": "B",
+          "text": "Sivas"
+        },
+        {
+          "key": "C",
+          "text": "Konya"
+        },
+        {
+          "key": "D",
+          "text": "Erzincan"
+        },
+        {
+          "key": "E",
+          "text": "Artvin"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "PETKİM petrokimya kompleksi, liman ulaşımı ve rafineri entegrasyonu nedeniyle İzmir Aliağa'da kurulmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-13",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de yurt içi yolcu taşımacılığında en düşük paya sahip olan ulaşım türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karayolu"
+        },
+        {
+          "key": "B",
+          "text": "Havayolu"
+        },
+        {
+          "key": "C",
+          "text": "Demiryolu"
+        },
+        {
+          "key": "D",
+          "text": "Denizyolu"
+        },
+        {
+          "key": "E",
+          "text": "Boru hattı"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Yurt içi şehirlerarası yolcu taşımacılığında denizyolu en düşük paya sahiptir (Karayolu %90+ ile ilk sıradadır).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-14",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de Cam ve Cam Eşya Sanayisinin (Şişecam) kuruluş yerlerinin belirlenmesinde ana etken nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deniz ulaşımı ve enerji"
+        },
+        {
+          "key": "B",
+          "text": "Pazara (tüketim merkezlerine) yakınlık ve silis kumu hammaddesi"
+        },
+        {
+          "key": "C",
+          "text": "İklim şartları"
+        },
+        {
+          "key": "D",
+          "text": "Hayvancılık"
+        },
+        {
+          "key": "E",
+          "text": "Orman varlığı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cam sanayisi camın taşınma zorluğundan dolayı pazara yakın yerlerde (İstanbul, Kırklareli, Mersin) kurulur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-15",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye ekonomisinin sürekli 'Dış Ticaret Açığı' vermesinin en temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İhraç edilen ürünlerin çok ucuz olması"
+        },
+        {
+          "key": "B",
+          "text": "İthal edilen yüksek değerli fosil enerji ve sermaye mallarının, ihraç edilen ürünlerin maliyetinden fazla olması"
+        },
+        {
+          "key": "C",
+          "text": "Turizm gelirlerinin olmaması"
+        },
+        {
+          "key": "D",
+          "text": "Tarım yapılmaması"
+        },
+        {
+          "key": "E",
+          "text": "Üretim yapılmaması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İthalat tutarının (petrol, doğalgaz, yüksek teknoloji) ihracat tutarından fazla olması dış ticaret açığı doğurur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-16",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de demiryolu ağının ve hat uzunluğunun en gelişmiş ve yoğun olduğu bölgeler hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu ve Güneydoğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu, Marmara ve Ege"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz ve Akdeniz"
+        },
+        {
+          "key": "D",
+          "text": "Hakkari ve Teke yöresi"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Marmara"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yer şekillerinin sade ve dağların geçit vermeye uygun olduğu İç Anadolu, Ege ve Marmara demiryolu ağında öndedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-17",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'nin en önemli ihraç ürünleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tekstil ve hazır giyim"
+        },
+        {
+          "key": "B",
+          "text": "Otomotiv ve yan sanayi"
+        },
+        {
+          "key": "C",
+          "text": "Ham petrol"
+        },
+        {
+          "key": "D",
+          "text": "Gıda (fındık, kuru incir, üzüm)"
+        },
+        {
+          "key": "E",
+          "text": "Demir-çelik imalatı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye ham petrol ihraç etmez, aksine ihtiyacının çoğunu ithal eder.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-18",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Hangi ulaşım türü dağlık ve eğimli arazilerde kilometre başına düşen yol yapım maliyeti en yüksek olan ve yer şekillerinden en çok etkilenen türdür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Denizyolu"
+        },
+        {
+          "key": "B",
+          "text": "Havayolu"
+        },
+        {
+          "key": "C",
+          "text": "Demiryolu"
+        },
+        {
+          "key": "D",
+          "text": "Boru hattı"
+        },
+        {
+          "key": "E",
+          "text": "Karayolu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Demiryolu çok düşük eğim derecesi gerektirdiği için dağlık arazide viyadük ve tünel maliyetleri çok yüksektir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-19",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Aşağıdakilerden hangisi Türkiye'nin ilan edilen resmi 'Serbest Bölge' alanlarından biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mersin Serbest Bölgesi"
+        },
+        {
+          "key": "B",
+          "text": "Ege (İzmir) Serbest Bölgesi"
+        },
+        {
+          "key": "C",
+          "text": "Antalya Serbest Bölgesi"
+        },
+        {
+          "key": "D",
+          "text": "Trabzon Serbest Bölgesi"
+        },
+        {
+          "key": "E",
+          "text": "Ankara Merkez Serbest Bölgesi"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Serbest bölgeler deniz ticareti ve dış limanlara yakın kentlerimizde (Mersin, İzmir, Antalya, Trabzon, Kocaeli vb.) kurulmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-20",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de Yüksek Hızlı Tren (YHT) seferleri ilk kez hangi iki şehir arasında hizmete girmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul - Ankara"
+        },
+        {
+          "key": "B",
+          "text": "Ankara - Eskişehir (2009)"
+        },
+        {
+          "key": "C",
+          "text": "Ankara - Konya"
+        },
+        {
+          "key": "D",
+          "text": "İstanbul - Eskişehir"
+        },
+        {
+          "key": "E",
+          "text": "İzmir - Ankara"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'nin ilk hızlı tren hattı 13 Mart 2009 tarihinde Ankara - Eskişehir arasında açılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-21",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de sanayi üretimi, tesis sayısı ve sanayi istihdamının en yüksek olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Marmara Bölgesi"
+        },
+        {
+          "key": "D",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Karadeniz"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Marmara Bölgesi (İstanbul, Kocaeli, Bursa, Tekirdağ vb.), Türkiye sanayisinin kalbidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-22",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'nin dış ticaret hacminde en çok ithalat yaptığı başlıca ülkeler hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rusya, Çin, Almanya"
+        },
+        {
+          "key": "B",
+          "text": "ABD, İngiltere"
+        },
+        {
+          "key": "C",
+          "text": "Irak, İran"
+        },
+        {
+          "key": "D",
+          "text": "Suriye"
+        },
+        {
+          "key": "E",
+          "text": "Yunanistan"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'nin ithalatında enerji tedarikçisi Rusya, sanayi ürünleri tedarikçisi Çin ve Almanya ilk sıralarda yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-23",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye etrafındaki denizler arasında liman ard ülkesi (hinterland) dar ve dağlık olduğu için liman ticaret hacmi en düşük denizimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Ege"
+        },
+        {
+          "key": "C",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "D",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "E",
+          "text": "Hazar"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Karadeniz'de dağların kıyıya dik hemem arkasında yükselmesi liman hinterlandını daraltmış ve ticareti kısıtlamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-24",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Aşağıdaki illerden hangisi gelişmiş sanayi merkezlerimizden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kocaeli"
+        },
+        {
+          "key": "B",
+          "text": "Bursa"
+        },
+        {
+          "key": "C",
+          "text": "Bayburt"
+        },
+        {
+          "key": "D",
+          "text": "İstanbul"
+        },
+        {
+          "key": "E",
+          "text": "Gaziantep"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bayburt yer şekilleri ve ulaşım kısıtları sebebiyle sanayileşmiş bir ilimiz değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-25",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Ekonomide 'İhracat' kavramının karşılığı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dış ülkelerden mal ithal etme"
+        },
+        {
+          "key": "B",
+          "text": "Ülke içinde üretilen malları dış ülkelere satma (Dış satım)"
+        },
+        {
+          "key": "C",
+          "text": "Mal depolama"
+        },
+        {
+          "key": "D",
+          "text": "Turizm gezisi"
+        },
+        {
+          "key": "E",
+          "text": "Yatırım yapma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İhracat, üretilen mal ve hizmetlerin yurt dışına satılmasıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-26",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de son yıllarda sivil havacılık ve havayolu ulaşımının hızla gelişmesinin en önemli nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "En ucuz ulaşım türü olması"
+        },
+        {
+          "key": "B",
+          "text": "Zaman tasarrufu, konfor ve havalimanı ağının tüm illere yayılması"
+        },
+        {
+          "key": "C",
+          "text": "Her yere otobüs gibi inebilmesi"
+        },
+        {
+          "key": "D",
+          "text": "Denizlerin varlığı"
+        },
+        {
+          "key": "E",
+          "text": "Tren yolunun olmaması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Havalimanlarının yaygınlaşması, bilet fiyatlarının erişilebilirliği ve zaman tasarrufu havayolunu çok popüler kılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-27",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Aşağıdakilerden hangisi iç ve dış ticaretin geliştiği bir merkezin coğrafi özelliklerinden değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ulaşım ağlarının gelişmiş olması"
+        },
+        {
+          "key": "B",
+          "text": "Pazar ve tüketim olanaklarının geniş olması"
+        },
+        {
+          "key": "C",
+          "text": "Dağlık ve engebeli arazi yapısının hakim olması"
+        },
+        {
+          "key": "D",
+          "text": "Sanayi ve üretimin fazla olması"
+        },
+        {
+          "key": "E",
+          "text": "Nüfusun yoğun olması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Engebeli arazi yapısı ulaşımı engelleyerek ticaretin gelişmesini olumsuz etkiler.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-28",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de Kağıt-Selüloz sanayisi tesislerinin (SEKA vb.) hammadde olarak tercih ettiği ağaç örtüsü türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Zeytin ağaçları"
+        },
+        {
+          "key": "B",
+          "text": "İğne yapraklı ormanlar (Çam, Göknar, Ladin)"
+        },
+        {
+          "key": "C",
+          "text": "Maki çalıları"
+        },
+        {
+          "key": "D",
+          "text": "Bozkır otları"
+        },
+        {
+          "key": "E",
+          "text": "Palmiye"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kağıt ham maddesi olan lifli selüloz, Karadeniz ve Akdeniz'deki iğne yapraklı orman ağaçlarından elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-29",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Gaziantep'in Güneydoğu Anadolu'nun ve Türkiye'nin en büyük sanayi merkezlerinden biri olmasının temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deniz limanı olması"
+        },
+        {
+          "key": "B",
+          "text": "Tarihi İpek Yolu üzerinde kavşak konumda olması ve gelişmiş müteşebbis kültürü"
+        },
+        {
+          "key": "C",
+          "text": "Gür orman varlığı"
+        },
+        {
+          "key": "D",
+          "text": "Çok yüksek yağış alması"
+        },
+        {
+          "key": "E",
+          "text": "Zengin bor rezervleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gaziantep, Ortadoğu ticaret yolları üzerindeki konumu, pazara yakınlığı ve güçlü sermaye/girişimcilik yapısıyla dev bir sanayi kenti olmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-sanayi-ulasim-ticaret-30",
+      "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+      "question_text": "Türkiye'de şehirlerarası yolcu ve yük taşımacılığında en büyük paya (%90 üzeri) sahip ulaşım türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karayolu Ulaşımı"
+        },
+        {
+          "key": "B",
+          "text": "Demiryolu"
+        },
+        {
+          "key": "C",
+          "text": "Denizyolu"
+        },
+        {
+          "key": "D",
+          "text": "Havayolu"
+        },
+        {
+          "key": "E",
+          "text": "Boru hattı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Karayolu ulaşımı, kapıdan kapıya kesintisiz taşıma imkanı ve yaygın yol ağı sayesinde hem yük hem yolcuda en büyük paya sahiptir.",
+      "difficulty_level": 1
+    }
+  ]
+}

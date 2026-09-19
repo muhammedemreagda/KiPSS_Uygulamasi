@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-cumle-turleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Yüklemin Türüne Göre Cümleler",
+      "body": "Yüklemi çekimli fiil olan cümleler 'Fiil Cümlesi'; yüklemi isim veya isim soylu sözcük olan cümleler 'İsim Cümlesi'dir."
+    },
+    {
+      "card_number": 2,
+      "title": "Yüklemin Yerine Göre Cümleler",
+      "body": "Yüklemi sonda olan cümleler 'Kurallı (Düz)'; yüklemi sonda olmayan cümleler 'Devrik'; yüklemi bulunmayan cümleler 'Eksiltili' cümledir."
+    },
+    {
+      "card_number": 3,
+      "title": "Basit Cümle Yapısı",
+      "body": "İçinde tek bir yargı (yüklem) bulunan, fiilimsi veya başka yan yargı içermeyen cümlelerdir. Örnek: 'Dün akşam eve erken geldi.'"
+    },
+    {
+      "card_number": 4,
+      "title": "Birleşik Cümle Yapısı",
+      "body": "Tek bir yüklemi olan ve içinde en az bir fiilimsi (yan cümlecik) barındıran cümlelerdir. Örnek: 'Okula yürüyerek gitti.'"
+    },
+    {
+      "card_number": 5,
+      "title": "Sıralı Cümle Yapısı",
+      "body": "Aralarında anlam bağı bulunan en az iki bağımsız cümlenin virgül (,) veya noktalı virgülle (;) birbirine bağlanmasıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Bağlı Cümle Yapısı",
+      "body": "Birden fazla cümlenin birbirine 've, veya, ama, fakat, çünkü' gibi bağlaçlarla bağlanmasıyla oluşan yapıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Bağımlı Sıralı Cümle",
+      "body": "Sıralı cümlelerde en az bir ögenin (özne, nesne vb.) ortak kullanıldığı cümlelerdir. Örnek: 'Ahmet geldi, (Ahmet) oturdu.'"
+    },
+    {
+      "card_number": 8,
+      "title": "Bağımsız Sıralı Cümle",
+      "body": "Sıralı cümlelerde hiçbir öge ortaklığının bulunmadığı, cümlelerin sadece anlamca bağlandığı yapıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Anlamına Göre Olumlu/Olumsuz",
+      "body": "Eylemin yapıldığını belirten cümleler olumlu; -me/-ma, yok, değil, siz/siz ekleriyle yapılmadığını belirtenler olumsuzdur."
+    },
+    {
+      "card_number": 10,
+      "title": "Biçimce Olumsuz Anlamca Olumlu",
+      "body": "'Seni sevmiyor değilim' cümlesi biçimce olumsuz (değilim var) ama anlamca olumludur (seviyorum)."
+    }
+  ]
+}

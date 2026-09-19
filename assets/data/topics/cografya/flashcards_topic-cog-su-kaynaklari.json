@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-su-kaynaklari",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Türkiye Akarsularının Genel Özellikleri",
+      "body": "Debileri (akımları) düşüktür, rejimleri düzensizdir, rekreasyon ve hidroelektrik potansiyelleri yüksek, ULAŞIMA ELVERİŞSİZDİR (Bartın Çayı hariç)."
+    },
+    {
+      "card_number": 2,
+      "title": "Açık Havza ve Kapalı Havza Farkı",
+      "body": "Sularını denize ulaştırabilen akarsular Açık Havza; ulaştıramayıp gölde/bataklıkta sonlananlar Kapalı Havzadır (Tuz Gölü, Van Gölü, Göller Yöresi)."
+    },
+    {
+      "card_number": 3,
+      "title": "En Uzun Akarsuyumuz (Sınırlarımız İçi)",
+      "body": "Sınırlarımız içinde doğup yine sınırlarımız içinde denize dökülen en uzun akarsumuz KIZILIRMAK'tır (Sivas'tan doğar, Bafra'dan Karadeniz'e)."
+    },
+    {
+      "card_number": 4,
+      "title": "Sınırlarımız Dışında Denize Dökülenler",
+      "body": "Fırat ve Dicle (Basra Körfezi'ne), Aras ve Kura (Hazar Denizi'ne - Kapalı Havza) dökülür."
+    },
+    {
+      "card_number": 5,
+      "title": "Sınırlarımız Dışından Doğup Gelenler",
+      "body": "Meriç (Bulgaristan'dan doğar Ege'de dökülür) ve Asi (Lübnan'dan doğar Hatay'da dökülür)."
+    },
+    {
+      "card_number": 6,
+      "title": "En Büyük Doğal Gölümüz",
+      "body": "Van Gölü'dür. Suları sodalıdır (Karma oluşumlu: Tektonik + Volkanik set). Taşımacılık yapılan tek gölümüzdür."
+    },
+    {
+      "card_number": 7,
+      "title": "En Büyük Tatlı Su Gölümüz",
+      "body": "Beyşehir Gölü'dür. Gideğeni (ayağı) olduğu için suları tatlıdır ve içme suyu kaynağı olarak kullanılır."
+    },
+    {
+      "card_number": 8,
+      "title": "Tektonik Göllerimiz (Şifre: BAZİT KÖŞE)",
+      "body": "Beyşehir, Eğirdir, Burdur, Acıgöl, İznik, Sapanca, Ulubat, Manyas (Kuş Gölü), Tuz Gölü, Seyfe, Akşehir."
+    },
+    {
+      "card_number": 9,
+      "title": "Heyelan Set Göllerimiz (Karadeniz)",
+      "body": "Tortum (Erzurum), Sera (Trabzon), Abant ve Golcük (Bolu), Yedigöller, Borabay (Amasya)."
+    },
+    {
+      "card_number": 10,
+      "title": "En Büyük Baraj Göllerimiz",
+      "body": "Atatürk Barajı (Fırat üzeri - En büyük), Karakaya, Keban, Altınkaya, Deriner (En yüksek gövdeli baraj Çoruh üzeri)."
+    }
+  ]
+}

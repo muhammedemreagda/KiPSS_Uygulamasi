@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-noktalama",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Nokta (.) Kullanım Alanları",
+      "body": "Cümlenin sonuna, bazı kısaltmaların sonuna (Dr.), sayılardan sonra sıra bildirmek için (3.) ve tarihlerin arasına konur."
+    },
+    {
+      "card_number": 2,
+      "title": "Virgül (,) Altın Kuralları",
+      "body": "Eş görevli sözcükleri ayırmak, sıralı cümleleri bölmek ve özneyi vurgulamak için konur. Metinde ve, veya, de, ki bağlaçlarından önce/sonra konmaz!"
+    },
+    {
+      "card_number": 3,
+      "title": "Noktalı Virgül (;) Şifresi",
+      "body": "Cümle içinde virgüllerle ayrılmış tür veya takımları ayırmak ve ögeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır."
+    },
+    {
+      "card_number": 4,
+      "title": "İki Nokta (:) Kullanımı",
+      "body": "Kendisiyle ilgili örnek verilecek veya açıklama yapılacak cümlenin sonuna konur. İki noktadan sonra gelen açıklama cümle ise büyük, örnekler dizisiyse küçük başlar."
+    },
+    {
+      "card_number": 5,
+      "title": "Üç Nokta (...) Kullanımı",
+      "body": "Tamamlanmamış (eksiltili) cümlelerin sonuna ve kaba sayıldığı için açıklanmak istenmeyen kelimelerin yerine konur."
+    },
+    {
+      "card_number": 6,
+      "title": "Soru İşareti (?) İpucu",
+      "body": "Soru eki veya sözü içeren cümlelerin sonuna konur. Soru ifadesi taşıyan ancak yan cümlecik olan yapılarda konmaz (Ne zaman geleceğini bilmiyorum.)."
+    },
+    {
+      "card_number": 7,
+      "title": "Ünlem İşareti (!) Kullanımı",
+      "body": "Sevinç, korku, şaşma gibi duyguları belirten söz veya cümlelerin sonuna konur. Yay ayraç içinde (!) alay/küçümseme anlamı katar."
+    },
+    {
+      "card_number": 8,
+      "title": "Kısa Çizgi (-) Kullanımı",
+      "body": "Satıra sığmayan kelimeleri bölerken, kelimelerin kök ve eklerini ayırırken ve ara sözlerin başında/sonunda kullanılır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kesme İşareti (') Kullanımı",
+      "body": "Özel isimlere gelen çekim eklerini ayırmak için kullanılır. Kurum, kuruluş ve kurul adlarına gelen ekler kesmeyle ayrılmaz! (Türk Dil Kurumuna)"
+    },
+    {
+      "card_number": 10,
+      "title": "Tırnak İşareti (\") Kullanımı",
+      "body": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler ile özellikle vurgulanmak istenen sözler tırnak içine alınır."
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-sozel-mantik",
+  "title": "Sözel Mantık (Sıralama & Eşleştirme)",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-sozel-mantik",
+    "topic_id": "topic-turkce-sozel-mantik",
+    "title": "Sözel Mantık (Sıralama & Eşleştirme) Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Sözel Mantık (Sıralama & Eşleştirme)' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Sözel Mantık (Sıralama & Eşleştirme) konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nSözel Mantık (Sıralama & Eşleştirme) başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Sözel Mantık (Sıralama & Eşleştirme) konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Sözel Mantık Tablo Kurma",
+        "body": "Verilen bilgilere göre sabit olan öge (günler, katlar, kişiler) tablo başlığı yapılır; değişken unsurlar tabloya yerleştirilir."
+      },
+      {
+        "card_number": 2,
+        "title": "Kesin Bilgiler İle Başla",
+        "body": "Metinde 'kesinlikle', 'tam olarak' şeklinde belirtilen bilgileri doğrudan tabloya işleyin; olasılıkları kenara not edin."
+      },
+      {
+        "card_number": 3,
+        "title": "Olasılıkları İki Tablo ile Çöz",
+        "body": "İki farklı ihtimal varsa tek tabloda karıştırmak yerine 1. ve 2. ihtimal tabloları oluşturup ayrı ayrı deneyin."
+      },
+      {
+        "card_number": 4,
+        "title": "Sıralama Soruları Taktiği",
+        "body": "Önce-sonra, hemen önünde-hemen arkasında ifadelerine dikkat edin; paket (blok) bilgiler (örn: A ve B peş peşe) oluşturun."
+      },
+      {
+        "card_number": 5,
+        "title": "Eşleştirme Soruları Taktiği",
+        "body": "Kişi-ürün veya kişi-şehir eşleştirmelerinde sayıca az olan grubu sabit başlık olarak tabloya yerleştirin."
+      },
+      {
+        "card_number": 6,
+        "title": "Olumsuz İfadeleri Kaçırma",
+        "body": "'A kişisi X ürününü almamıştır' gibi olumsuz verileri tablonun ilgili hücresine üstü çizili olarak not edin."
+      },
+      {
+        "card_number": 7,
+        "title": "Kalan Ögeler Mantığı",
+        "body": "Tabloda dolmayan boşluklara sadece geriye kalan ögeler girebilir; seçeneklerde bu kalan ögeleri sorgulayın."
+      },
+      {
+        "card_number": 8,
+        "title": "Paket (Blok) Oluşturma",
+        "body": "'A ile B arasından bir kişi vardır' ifadesini A _ B şeklinde paket yapıp tablo boşluklarına sığdırın."
+      },
+      {
+        "card_number": 9,
+        "title": "Soru Köküne Göre Çözüm",
+        "body": "'Hangisi kesinlikle doğrudur?' sorularında her iki olasılıkta da değişmeyen tek ortak bilgiyi arayın."
+      },
+      {
+        "card_number": 10,
+        "title": "Zaman Yönetimi Altın Kuralı",
+        "body": "Tabloyu doğru kurmak sorunun %80'ini çözer. Tablo kurulumuna 1.5-2 dakika ayırmaktan çekinmeyin, sorular saniyeler içinde çözülecektir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-sozel-mantik-1",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Ali, Berk, Can, Deniz ve Emre adlı beş kişi 1'den 5'e kadar numaralanmış sıralarda yarışı tamamlamışlardır.\n- Ali, yarışı Can'dan hemen önce tamamlamıştır.\n- Deniz yarışı 3. sırada bitirmiştir.\n- Berk yarışı Emre'den sonra bitirmiştir.\n- Emre 1. sırada yer almamıştır.\n\nBu bilgilere göre yarışı 1. sırada bitiren kişi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Berk"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Deniz"
+        },
+        {
+          "key": "E",
+          "text": "Emre"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Deniz 3. sıradadır. Ali ve Can ardışık olarak (Ali, Can) şeklinde sıralanmalıdır. Bu ikili (1, 2) veya (4, 5) sıralarında olabilir. Eğer (4, 5) olurlarsa 1. ve 2. sıralara Emre ve Berk kalır; Berk Emre'den sonra olduğu için Emre 1. olmak zorunda kalır ki bu durum kurala aykırıdır. Dolayısıyla Ali 1., Can 2., Deniz 3., Emre 4. ve Berk 5. sıradadır. 1. olan kişi Ali'dir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-2",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Bir kütüphanede A, B, C, D, E, F adlı altı kitap soldan sağa doğru 1'den 6'ya kadar numaralanmış bir rafa dizilecektir.\n- A kitabı, B kitabının hemen solundadır.\n- C kitabı 1. sıradadır.\n- D kitabı, E kitabının hemen sağındadır.\n- F kitabı 4. sıradadır.\n- B kitabı 3. sıradadır.\n\nBuna göre E kitabı kaçıncı sıradadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2. sırada"
+        },
+        {
+          "key": "B",
+          "text": "3. sırada"
+        },
+        {
+          "key": "C",
+          "text": "4. sırada"
+        },
+        {
+          "key": "D",
+          "text": "6. sırada"
+        },
+        {
+          "key": "E",
+          "text": "5. sırada"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "1. sırada C, 3. sırada B, 4. sırada F yer almaktadır. A kitabı B'nin hemen solunda olduğu için A 2. sıradadır. Geride kalan 5. ve 6. sıralara yan yana olan (E, D) ikilisi gelecektir. Bu durumda E kitabı 5. sırada, D kitabı 6. sırada yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-3",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Pazartesi, salı, çarşamba, perşembe ve cuma günlerinde A, B, C, D, E adlı beş öğrenci birer gün nöbet tutacaktır.\n- C öğrencisi çarşamba günü nöbet tutmaktadır.\n- A öğrencisi, B öğrencisinden hemen önceki gün nöbet tutmaktadır.\n- D öğrencisi cuma günü nöbet tutmamaktadır.\n- E öğrencisi A öğrencisinden sonraki bir gün nöbet tutmaktadır.\n\nBuna göre cuma günü nöbet tutan öğrenci aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Çarşamba günü C nöbetçidir. (A, B) ikilisi ya (Pazartesi, Salı) ya da (Perşembe, Cuma) günlerinde nöbet tutabilir. Eğer (Perşembe, Cuma) olurlarsa E öğrencisi A'dan sonra nöbet tutamayacağı için bu ihtimal elenir. Böylece A Pazartesi, B Salı günündedir. D cuma nöbet tutmadığından D Perşembe, E ise Cuma günü nöbet tutar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-4",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Ahmet, Burak, Ceyda, Demet ve Erkan adlı beş kişi A ve B şirketlerinde çalışmaktadır.\n- A şirketinde 3 kişi, B şirketinde 2 kişi çalışmaktadır.\n- Ahmet ile Burak aynı şirkette çalışmaktadır.\n- Ceyda ile Demet farklı şirketlerde çalışmaktadır.\n- Erkan, Ceyda ile aynı şirkettedir ve B şirketinde çalışmaktadır.\n\nBuna göre A şirketinde çalışan kişiler aşağıdakilerin hangisinde tam olarak verilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ahmet, Burak, Ceyda"
+        },
+        {
+          "key": "B",
+          "text": "Ceyda, Demet, Erkan"
+        },
+        {
+          "key": "C",
+          "text": "Ahmet, Burak, Demet"
+        },
+        {
+          "key": "D",
+          "text": "Burak, Ceyda, Erkan"
+        },
+        {
+          "key": "E",
+          "text": "Ahmet, Demet, Erkan"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Erkan B şirketinde çalışmaktadır ve Ceyda ile aynı şirkettedir; dolayısıyla B şirketinin 2 kişilik kontenjanı Erkan ve Ceyda ile dolar. Ceyda ve Demet farklı şirketlerde olduğuna göre Demet A şirketindedir. Geride kalan Ahmet ve Burak da aynı şirkette olduklarına göre zorunlu olarak A şirketinde yer alırlar. A şirketindekiler: Ahmet, Burak ve Demet'tir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-5",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Bir otelde 1, 2, 3, 4 ve 5 numaralı yan yana beş oda bulunmaktadır. Bu odalarda K, L, M, N, P adlı müşteriler kalmaktadır.\n- K, 3 numaralı odada kalmaktadır.\n- L'nin odası, M'nin odasının hemen sağındadır.\n- N, 1 numaralı odada kalmamaktadır.\n- P, 5 numaralı odada kalmaktadır.\n\nBuna göre 1 numaralı odada kalan müşteri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "L"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "N"
+        },
+        {
+          "key": "E",
+          "text": "P"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "K 3 numaralı, P 5 numaralı odadadır. Boş kalan odalar 1, 2 ve 4'tür. L, M'nin hemen sağında olduğuna göre (M, L) çifti ancak boş olan yan yana 1 ve 2 numaralı odalara yerleşebilir (M=1, L=2). N ise 4 numaralı odaya kalır. Böylece 1 numaralı odada M kalmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-6",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Bir galeride kırmızı, mavi, yeşil, sarı ve beyaz renkli beş araba 1'den 5'e kadar numaralanmış alanlarda yan yana sergilenmektedir.\n- Yeşil araba 1. sıradadır.\n- Mavi araba, sarı arabanın hemen solundadır.\n- Beyaz araba 5. sıradadır.\n- Kırmızı araba 2. sıradadır.\n\nBuna göre sarı araba kaçıncı sıradadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2. sırada"
+        },
+        {
+          "key": "B",
+          "text": "3. sırada"
+        },
+        {
+          "key": "C",
+          "text": "4. sırada"
+        },
+        {
+          "key": "D",
+          "text": "5. sırada"
+        },
+        {
+          "key": "E",
+          "text": "1. sırada"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1. sırada yeşil, 2. sırada kırmızı, 5. sırada beyaz araba vardır. Boşta kalan sıralar 3 ve 4'tür. Mavi araba sarının hemen solunda olduğuna göre Mavi 3. sırada, Sarı araba ise 4. sıradadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-7",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "K, L, M, N, P adlı 5 kişi yaşça büyükten küçüğe doğru sıralanacaktır.\n- K, L'den büyüktür.\n- M, N'den küçük; P'den büyüktür.\n- K, N'den küçüktür.\n- En küçük kişi P'dir.\n\nBuna göre yaşça en büyük olan kişi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "N"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "L"
+        },
+        {
+          "key": "E",
+          "text": "P"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Verilen bilgilere göre N > K > L ve N > M > P ilişkileri kurulur. N kişisi hem K'den hem de M'den büyüktür; K ve M de diğer kişilerden büyük olduğundan N hepsinden büyüktür. Dolayısıyla yaşça en büyük olan kişi N'dir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-8",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "A, B, C, D, E adlı 5 öğretmen Matematik, Türkçe, Tarih, Coğrafya ve Fizik derslerini okutmaktadır (Her öğretmen farklı bir ders okutmaktadır).\n- A, Matematik öğretmenidir.\n- B, ne Tarih ne de Coğrafya öğretmenidir.\n- C, Fizik öğretmenidir.\n- D, Tarih öğretmeni değildir.\n\nBuna göre Coğrafya öğretmeni kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "A Matematik, C Fizik öğretmenidir. Kalan branşlar: Türkçe, Tarih, Coğrafya. B öğretmeni Tarih veya Coğrafya okutmadığı için zorunlu olarak Türkçe öğretmenidir. Geride D ve E öğretmenleri ile Tarih ve Coğrafya branşları kalır. D Tarih öğretmeni olmadığına göre D Coğrafya öğretmenidir, E ise Tarih öğretmenidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-9",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Ali, Banu, Can, Deniz ve Efe yan yana bulunan A, B, C, D, E koltuklarına oturmuşlardır.\n- Ali, B koltuğuna oturmuştur.\n- Efe, E koltuğuna oturmuştur.\n- Banu ile Can yan yana bulunan koltuklarda oturmaktadır.\n- Deniz, C koltuğunda oturmamaktadır.\n\nBuna göre A koltuğunda oturan kişi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Banu"
+        },
+        {
+          "key": "C",
+          "text": "Deniz"
+        },
+        {
+          "key": "D",
+          "text": "Can"
+        },
+        {
+          "key": "E",
+          "text": "Efe"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Boşta kalan koltuklar A, C ve D'dir. Yan yana oturan Banu ve Can zorunlu olarak yan yana olan C ve D koltuklarını paylaşırlar. Geriye kalan A koltuğu ise Deniz'e kalır. Deniz C koltuğunda oturmadığı kuralına da bu dizilim tam uyum sağlar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-10",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Beş katlı bir apartmanın her katında bir daire vardır. Bu dairelerde K, L, M, N, P kişileri oturmaktadır.\n- M, 3. katta oturmaktadır.\n- K, L'nin hemen üstündeki katta oturmaktadır.\n- N, 1. katta oturmamaktadır.\n- P, 5. katta oturmaktadır.\n\nBuna göre 1. katta oturan kişi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "L"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "N"
+        },
+        {
+          "key": "E",
+          "text": "P"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "3. katta M, 5. katta P oturmaktadır. Boş katlar 1, 2 ve 4'tür. K, L'nin hemen üstünde olduğuna göre üst üste boş olan tek yerler 1 ve 2. katlardır (L=1, K=2). 4. kata N oturur. Dolayısıyla 1. katta L oturmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-11",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "A, B, C, D, E şehirlerinde hava sıcaklıkları ölçülmüştür.\n- A şehri, B şehrinden daha sıcaktır.\n- D şehri, E şehrinden daha soğuk; A şehrinden daha sıcaktır.\n- Rekolte/sıcaklık bakımından en soğuk şehir B'dir.\n- C şehri B'den sıcak, D'den soğuktur.\n\nBuna göre en sıcak şehir aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Verilen önermeler sıralandığında: E > D > A ilişkisi bulunur. A > B olduğundan ve C de B'den sıcak D'den soğuk olduğuna göre en yüksek sıcaklığa sahip şehir E şehridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-12",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Bir şirkette pazarlama, insan kaynakları, bilgi işlem, lojistik ve muhasebe departmanları 1'den 5'e kadar numaralanmış katlarda yer almaktadır.\n- Bilgi işlem 3. kattadır.\n- İnsan kaynakları, pazarlamanın hemen üst katındadır.\n- Lojistik 1. katta değildir.\n- Muhasebe 5. kattadır.\n\nBuna göre 1. katta hangi departman bulunmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pazarlama"
+        },
+        {
+          "key": "B",
+          "text": "İnsan Kaynakları"
+        },
+        {
+          "key": "C",
+          "text": "Lojistik"
+        },
+        {
+          "key": "D",
+          "text": "Muhasebe"
+        },
+        {
+          "key": "E",
+          "text": "Bilgi İşlem"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "3. katta Bilgi İşlem, 5. katta Muhasebe yer alır. Boş katlar 1, 2 ve 4'tür. İnsan Kaynakları Pazarlamanın hemen üstünde olduğuna göre ancak 1 ve 2. katlara yerleşebilirler (Pazarlama=1, İnsan Kaynakları=2). Lojistik ise 4. katta kalır. 1. kattaki departman Pazarlama'dır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-13",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Ali, Burak, Cansu, Derya ve Emre sınavdan farklı notlar almışlardır.\n- Ali, Burak'tan yüksek; Cansu'dan düşük not almıştır.\n- Derya, Cansu'dan yüksek not almıştır.\n- Emre, Ali'den düşük, Burak'tan yüksek not almıştır.\n\nBuna göre en yüksek notu alan kişi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Burak"
+        },
+        {
+          "key": "C",
+          "text": "Cansu"
+        },
+        {
+          "key": "D",
+          "text": "Derya"
+        },
+        {
+          "key": "E",
+          "text": "Emre"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Not ilişkileri büyükten küçüğe sıralandığında: Derya > Cansu > Ali > Emre > Burak şeklindedir. Sıralamanın en başında yer alan Derya en yüksek notu almıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-14",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "A, B, C, D, E projeleri 2020, 2021, 2022, 2023 ve 2024 yıllarında sırasıyla birer tane tamamlanmıştır.\n- A projesi 2022 yılında tamamlanmıştır.\n- B projesi, C projesinden hemen önceki yıl tamamlanmıştır.\n- D projesi 2024 yılında tamamlanmıştır.\n- E projesi 2020 yılında tamamlanmamıştır.\n\nBuna göre 2020 yılında tamamlanan proje aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "2022'de A, 2024'te D tamamlanmıştır. Boş yıllar 2020, 2021 ve 2023'tür. B projesi C'den hemen önceki yıl tamamlandığı için zorunlu olarak B 2020, C 2021 yıllarına yerleşir. E projesi de 2023 yılına kalır. 2020'de B projesi tamamlanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-15",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Futbol, basketbol, voleybol, tenis ve yüzme branşları hafta içi günlerinde (Pazartesi-Cuma) birer gün yapılmaktadır.\n- Yüzme Çarşamba günü yapılmaktadır.\n- Futbol, basketboldan hemen sonraki gün yapılmaktadır.\n- Tenis Cuma günü yapılmamaktadır.\n- Voleybol Cuma günü yapılmaktadır.\n\nBuna göre Pazartesi günü yapılan branş aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Basketbol"
+        },
+        {
+          "key": "B",
+          "text": "Futbol"
+        },
+        {
+          "key": "C",
+          "text": "Voleybol"
+        },
+        {
+          "key": "D",
+          "text": "Tenis"
+        },
+        {
+          "key": "E",
+          "text": "Yüzme"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Çarşamba Yüzme, Cuma Voleybol branşları yer alır. Boş günler Pazartesi, Salı ve Perşembe'dir. Futbol basketboldan hemen sonraki gün olduğuna göre bu ikili ancak Pazartesi (Basketbol) ve Salı (Futbol) günlerine gelebilir. Perşembe gününe Tenis kalır. Pazartesi günü Basketbol yapılır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-16",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Ahmet, Berna, Canan, Davut ve Engin yan yana 1'den 5'e kadar numaralanmış sandalyelerde oturmaktadır.\n- Canan 3 numaralı sandalyede oturmaktadır.\n- Ahmet, Berna'nın hemen sağındaki sandalyededir.\n- Engin 1 numaralı sandalyede oturmamaktadır.\n- Davut 5 numaralı sandalyede oturmaktadır.\n\nBuna göre 1 numaralı sandalyede kim oturmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Berna"
+        },
+        {
+          "key": "B",
+          "text": "Ahmet"
+        },
+        {
+          "key": "C",
+          "text": "Canan"
+        },
+        {
+          "key": "D",
+          "text": "Engin"
+        },
+        {
+          "key": "E",
+          "text": "Davut"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Canan 3, Davut 5 numaralı sandalyededir. Boş yerler 1, 2 ve 4'tür. Ahmet Berna'nın hemen sağında olduğu için (Berna, Ahmet) ikilisi 1 ve 2 numaralı sandalyelere oturur. 4 numaralı sandalyeye ise Engin kalır. 1 numaralı sandalyede Berna oturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-17",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Beş farklı yayınevine ait K, L, M, N, P kitapları 1'den 5'e kadar numaralanmış raflara üst üste dizilmiştir.\n- M kitabı 3. raftadır.\n- K kitabı, L kitabının hemen üstündeki raftadır.\n- N kitabı 1. rafta değildir.\n- P kitabı 5. raftadır.\n\nBuna göre 1. rafta hangi kitap bulunmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "M"
+        },
+        {
+          "key": "C",
+          "text": "N"
+        },
+        {
+          "key": "D",
+          "text": "P"
+        },
+        {
+          "key": "E",
+          "text": "L"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "3. rafta M, 5. rafta P kitabı vardır. Boş raflar 1, 2 ve 4'tür. K kitabı L'nin hemen üstünde olduğuna göre bu ikili üst üste boş olan 1 ve 2. raflara dizilir (L=1, K=2). 4. rafa ise N kitabı kalır. Böylece 1. rafta L kitabı yer alır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-18",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "A, B, C, D, E profesörleri Pazartesi'den Cuma'ya kadar birer gün sunum yapacaklardır.\n- C profesörü Çarşamba günü sunum yapacaktır.\n- A profesörü, B profesöründen hemen sonraki gün sunum yapacaktır.\n- D profesörü Cuma günü sunum yapmayacaktır.\n- E profesörü Cuma günü sunum yapacaktır.\n\nBuna göre Pazartesi günü kim sunum yapacaktır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çarşamba C, Cuma E sunum yapacaktır. Boş günler Pazartesi, Salı ve Perşembe'dir. A profesörü B'den hemen sonraki gün sunum yapacağı için zorunlu olarak B Pazartesi, A Salı gününe gelir. Perşembe gününe D kalır. Pazartesi günü B profesörü sunum yapar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-19",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "Ankara, Bursa, Ceyhan, Denizli ve Edirne şehirlerinin yıllık tarım rekolteleri karşılaştırılmıştır.\n- Ankara'nın rekoltesi Denizli, Ceyhan ve Bursa'dan fazladır.\n- Denizli'nin rekoltesi Edirne'den fazla, Ankara'dan düşüktür.\n- Rekoltesi en düşük olan şehir Bursa'dır.\n- Ankara'nın rekoltesi Edirne'den de fazladır.\n\nBuna göre rekoltesi en yüksek olan şehir aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bursa"
+        },
+        {
+          "key": "B",
+          "text": "Ceyhan"
+        },
+        {
+          "key": "C",
+          "text": "Denizli"
+        },
+        {
+          "key": "D",
+          "text": "Ankara"
+        },
+        {
+          "key": "E",
+          "text": "Edirne"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Verilen bilgiler incelendiğinde Ankara kentinin rekoltesi diğer dört şehir olan Denizli, Ceyhan, Edirne ve Bursa'nın tamamından daha yüksek olarak belirtilmiştir. Dolayısıyla rekoltesi en yüksek şehir Ankara'dır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozel-mantik-20",
+      "topic_id": "topic-turkce-sozel-mantik",
+      "question_text": "A, B, C, D, E adlı 5 öğrenci kütüphaneden K, L, M, N, P kitaplarını almıştır (Her öğrenci farklı bir kitap almıştır).\n- A, M kitabını almıştır.\n- B, K veya L kitabını almamıştır.\n- C, P kitabını almıştır.\n- D, K kitabını almamıştır.\n\nBuna göre L kitabını alan öğrenci aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "A=M, C=P kitaplarını almıştır. Kalan öğrenciler B, D, E; kalan kitaplar K, L, N'dir. B öğrencisi K ve L kitaplarını almadığı için N kitabını almıştır. Kalan D ve E öğrencileri ile K ve L kitapları için D öğrencisi K kitabını almadığından L kitabını alır. E öğrencisi ise K kitabını alır. L kitabını alan öğrenci D'dir.",
+      "difficulty_level": 4
+    }
+  ]
+}

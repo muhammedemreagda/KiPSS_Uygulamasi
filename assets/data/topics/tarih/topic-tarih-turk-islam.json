@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-tarih-turk-islam",
+  "title": "İlk Türk-İslam Devletleri & Türkiye Tarihi",
+  "course_id": "course-tarih",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-tarih-turk-islam",
+    "topic_id": "topic-tarih-turk-islam",
+    "title": "İlk Türk-İslam Devletleri & Türkiye Tarihi Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Tarih testinde 'İlk Türk-İslam Devletleri & Türkiye Tarihi' konusu, kronolojik akışın, sebep-sonuç ilişkilerinin ve dönemsel ıslahat/antlaşmaların sorgulandığı yüksek soru potansiyeline sahip bir alandır.",
+    "content": "İlk Türk-İslam Devletleri & Türkiye Tarihi konusu, KPSS Tarih testinde adayların bilgi düzeyini ve tarihsel mantık yürütme kabiliyetini ölçer.\n\n1. Tarihsel Süreç ve Dönemin Önemi:\nİlk Türk-İslam Devletleri & Türkiye Tarihi dönemi, Türk ve dünya tarihinin şekillenmesinde kritik bir evredir. Bu dönemde yaşanan siyasi, askeri, ekonomik ve kültürel gelişmeler bir sonraki dönemin temelini oluşturmuştur.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Antlaşmaların maddelerindeki bağımsızlık, egemenlik ve sınır değişiklikleri detaylarına dikkat edin.\n- Islahatlarda yapılan yeniliklerin hangi alana (askeri, hukuki, idari, eğitim) ait olduğunu ayırt edin.\n- Kurtuluş Savaşı ve İnkılap Tarihi konularında Atatürk'ün sözlerini ve bu sözlerin hangi olay üzerine söylendiğini mutlaka bilin.\n\n3. Soru Çözüm Stratejisi:\n- Öncüllü (I, II, III) sorularda verilen bilgilerin sorudaki öncüle tam uyup uymadığını kontrol edin.\n- Tarih sorularını çözerken günümüz değerleriyle değil, olayın yaşandığı dönemin şartlarıyla değerlendirin.",
+    "key_points": [
+      "1. İlk Türk-İslam Devletleri & Türkiye Tarihi dönemindeki olayları ezberlemek yerine sebep-sonuç zinciri kurarak öğrenin.",
+      "2. Dönemin önemli antlaşmalarını, maddelerini ve getirdiği yenilikleri zihninize oturtun.",
+      "3. Devlet adamlarının, padişahların veya komutanların döneme damga vuran unvanlarını bilin.",
+      "4. Kültür ve Medeniyet kavramlarını (kurumlar, meclisler, vergi türleri) karıştırmayın.",
+      "5. Soru çözerken dönemin koşullarını ve 'Yalnızca bu bilgiye dayanarak' kuralını unutmayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "İlk Müslüman Türk Devleti",
+        "body": "Orta Asya'da kurulan ilk Müslüman Türk devleti Karahanlılar'dır (Satuk Buğra Han dönemi). Doğu Avrupa'da ise İtil Bulgar Devleti'dir."
+      },
+      {
+        "card_number": 2,
+        "title": "Divan-ı Lügati't-Türk",
+        "body": "Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılan ilk Türkçe sözlüktür (İçinde ilk Türk dünyası haritası bulunur)."
+      },
+      {
+        "card_number": 3,
+        "title": "Kutadgu Bilig (Mutluluk Veren Bilgi)",
+        "body": "Yusuf Has Hacip tarafından Tabgaç Buğra Han'a sunulan ilk İslami Türk eseridir; siyasetname niteliğindedir."
+      },
+      {
+        "card_number": 4,
+        "title": "Gazneli Mahmud Unvanı",
+        "body": "Hindistan'a 17 sefer düzenleyerek İslamiyet'i yayan ve tarihte 'Sultan' unvanını kullanan ilk Türk hükümdarı Gazneli Mahmud'dur."
+      },
+      {
+        "card_number": 5,
+        "title": "Dandanakan Savaşı (1040)",
+        "body": "Büyük Selçuklu Devleti ile Gazneliler arasında yapılmış, Büyük Selçuklu resmen kurulurken Gazneliler yıkılış sürecine girmiştir."
+      },
+      {
+        "card_number": 6,
+        "title": "Malazgirt Savaşı (1071)",
+        "body": "Sultan Alparslan'ın Bizans'ı mağlup ettiği, Anadolu'nun kapılarını Türklere açan ve 'Yurt Açan Savaş' olarak bilinen tarihi zaferdir."
+      },
+      {
+        "card_number": 7,
+        "title": "Miryokefalon Savaşı (1176)",
+        "body": "II. Kılıç Arslan döneminde Bizans mağlup edilmiş, Anadolu'nun Türk yurdu olduğu kesinleşmiş ('Yurt Tutan Savaş') ve Bizans savunmaya geçmiştir."
+      },
+      {
+        "card_number": 8,
+        "title": "Anadolu'daki İlk Türk Medresesi",
+        "body": "Danişmentliler tarafından Tokat Niksar'da kurulan Yağıbasan Medresesi, Anadolu'da yapılan ilk Türk medresesidir."
+      },
+      {
+        "card_number": 9,
+        "title": "Nizamiye Medreseleri",
+        "body": "Büyük Selçuklu Veziri Nizamülmülk tarafından Bağdat'ta kurulan, dünyanın ilk üniversitesi kabul edilen medresedir."
+      },
+      {
+        "card_number": 10,
+        "title": "Kösedağ Savaşı (1243)",
+        "body": "Anadolu Selçuklu Devleti'nin Moğollara (İlhanlılar) yenildiği ve Anadolu'da İkinci Beylikler Dönemi'nin başladığı yıkılış savaşıdır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-tarih-turk-islam-1",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "İslamiyet'i resmi devlet dini olarak kabul eden ilk Türk devleti aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gazneliler"
+        },
+        {
+          "key": "B",
+          "text": "Büyük Selçuklu"
+        },
+        {
+          "key": "C",
+          "text": "Karahanlılar"
+        },
+        {
+          "key": "D",
+          "text": "Türkiye Selçukluları"
+        },
+        {
+          "key": "E",
+          "text": "Tolunoğulları"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Karahanlılar, Satuk Buğra Han döneminde İslamiyet'i resmi devlet dini olarak kabul eden ilk Türk devletidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-2",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Gazneli Mahmut'un Hindistan'a düzenlediği seferlerin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İslamiyet'i yaymak"
+        },
+        {
+          "key": "B",
+          "text": "Çin'i hakimiyet altına almak"
+        },
+        {
+          "key": "C",
+          "text": "Bizans'ı yıkmak"
+        },
+        {
+          "key": "D",
+          "text": "Yeni topraklar kazanmak"
+        },
+        {
+          "key": "E",
+          "text": "İpek Yolu'nu ele geçirmek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Gazneli Mahmut, Hindistan'a düzenlediği 17 seferle İslamiyet'in bu bölgeye yayılmasında büyük rol oynamıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-3",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Büyük Selçuklu Devleti ile Gazneliler arasında yapılan ve Selçukluların bağımsızlığını kazandığı savaş hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malazgirt"
+        },
+        {
+          "key": "B",
+          "text": "Dandanakan"
+        },
+        {
+          "key": "C",
+          "text": "Katvan"
+        },
+        {
+          "key": "D",
+          "text": "Pasinler"
+        },
+        {
+          "key": "E",
+          "text": "Miryokefalon"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1040 Dandanakan Savaşı, Büyük Selçuklu Devleti'nin resmen kurulmasını ve Gaznelilerin yıkılış sürecine girmesini sağlamıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-4",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Yusuf Has Hacip tarafından kaleme alınan, devlet yönetimi hakkında bilgiler veren ilk Türk-İslam eseri hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Divan-ı Lügatit Türk"
+        },
+        {
+          "key": "B",
+          "text": "Atabetü'l Hakayık"
+        },
+        {
+          "key": "C",
+          "text": "Kutadgu Bilig"
+        },
+        {
+          "key": "D",
+          "text": "Divan-ı Hikmet"
+        },
+        {
+          "key": "E",
+          "text": "Siyasetname"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kutadgu Bilig (Mutluluk Veren Bilgi), devlet yönetimi ve adalet konularını işleyen ilk siyasetname örneğidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-5",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Nizamiye Medreseleri'nin kurucusu olan ünlü Selçuklu veziri kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yusuf Has Hacip"
+        },
+        {
+          "key": "B",
+          "text": "Nizamülmülk"
+        },
+        {
+          "key": "C",
+          "text": "Kaşgarlı Mahmut"
+        },
+        {
+          "key": "D",
+          "text": "Ahmet Yesevi"
+        },
+        {
+          "key": "E",
+          "text": "Tuğrul Bey"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Nizamülmülk, Sultan Alparslan ve Melikşah dönemlerinde vezirlik yapmış ve Nizamiye Medreselerini kurmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-6",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklu Devleti'nin Anadolu'daki Türk hakimiyetini kesinleştirdiği savaş hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malazgirt"
+        },
+        {
+          "key": "B",
+          "text": "Miryokefalon"
+        },
+        {
+          "key": "C",
+          "text": "Yassıçemen"
+        },
+        {
+          "key": "D",
+          "text": "Kösedağ"
+        },
+        {
+          "key": "E",
+          "text": "Dandanakan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1176 Miryokefalon Savaşı ile Anadolu'nun tapusu Türklerin eline geçmiş ve kesin Türk yurdu olmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-7",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türk-İslam devletlerinde devlet işlerinin görüşüldüğü meclise ne denir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Divan-ı Saltanat"
+        },
+        {
+          "key": "B",
+          "text": "Kurultay"
+        },
+        {
+          "key": "C",
+          "text": "Töre"
+        },
+        {
+          "key": "D",
+          "text": "Toy"
+        },
+        {
+          "key": "E",
+          "text": "Şura"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türk-İslam devletlerinde devlet meselelerinin görüşüldüğü ana meclise Divan-ı Saltanat veya Divan-ı Vezaret denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-8",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Kaşgarlı Mahmut'un yazdığı ve Türk dilinin zenginliğini kanıtlayan eserin adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutadgu Bilig"
+        },
+        {
+          "key": "B",
+          "text": "Atabetü'l Hakayık"
+        },
+        {
+          "key": "C",
+          "text": "Divan-ı Lügatit Türk"
+        },
+        {
+          "key": "D",
+          "text": "Siyasetname"
+        },
+        {
+          "key": "E",
+          "text": "Divan-ı Hikmet"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Divan-ı Lügatit Türk, Araplara Türkçe öğretmek ve dilin zenginliğini göstermek amacıyla yazılmıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-9",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklularında başkentin İznik'ten Konya'ya taşınmasına neden olan gelişme hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malazgirt Savaşı"
+        },
+        {
+          "key": "B",
+          "text": "Haçlı Seferleri"
+        },
+        {
+          "key": "C",
+          "text": "Miryokefalon Savaşı"
+        },
+        {
+          "key": "D",
+          "text": "Kösedağ Savaşı"
+        },
+        {
+          "key": "E",
+          "text": "Moğol istilası"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "I. Haçlı Seferi sonucu İznik kaybedilince devlet merkezi Konya'ya taşınmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-10",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Sultan unvanını ilk kez kullanan hükümdar kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Alparslan"
+        },
+        {
+          "key": "B",
+          "text": "Gazneli Mahmut"
+        },
+        {
+          "key": "C",
+          "text": "Tuğrul Bey"
+        },
+        {
+          "key": "D",
+          "text": "Bumin Kağan"
+        },
+        {
+          "key": "E",
+          "text": "Sencer"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Abbasi halifesini koruduğu ve İslamiyet'i Hindistan'da yaydığı için Gazneli Mahmut'a 'Sultan' unvanı verilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-11",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Büyük Selçuklu Devleti hangi savaşla yıkılma sürecine girmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dandanakan"
+        },
+        {
+          "key": "B",
+          "text": "Katvan"
+        },
+        {
+          "key": "C",
+          "text": "Malazgirt"
+        },
+        {
+          "key": "D",
+          "text": "Pasinler"
+        },
+        {
+          "key": "E",
+          "text": "Miryokefalon"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1141 Katvan Savaşı'nda Karahitaylara yenilen Büyük Selçuklu Devleti, yıkılma sürecine girmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-12",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklu Devleti'ni sona erdiren olay hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malazgirt Savaşı"
+        },
+        {
+          "key": "B",
+          "text": "Miryokefalon Savaşı"
+        },
+        {
+          "key": "C",
+          "text": "Kösedağ Savaşı"
+        },
+        {
+          "key": "D",
+          "text": "Ankara Savaşı"
+        },
+        {
+          "key": "E",
+          "text": "Baba İshak İsyanı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1243 Kösedağ Savaşı'nda Moğollara (İlhanlılara) yenilen Türkiye Selçukluları bağımsızlığını kaybederek yıkılma sürecine girmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-13",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türk-İslam devletlerinde toprakların gelirine göre ayrıldığı ve asker yetiştirilmesi karşılığında tahsis edildiği sisteme ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Töre"
+        },
+        {
+          "key": "B",
+          "text": "İkta"
+        },
+        {
+          "key": "C",
+          "text": "Kut"
+        },
+        {
+          "key": "D",
+          "text": "Şad"
+        },
+        {
+          "key": "E",
+          "text": "Divan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İkta sistemi ile topraklar hizmet karşılığı devlet görevlilerine ve komutanlara verilmiş, hem üretimde süreklilik hem de savaşa hazır ordu sağlanmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-14",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklu Devleti'nin ilk başkenti hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Konya"
+        },
+        {
+          "key": "B",
+          "text": "Ankara"
+        },
+        {
+          "key": "C",
+          "text": "İznik"
+        },
+        {
+          "key": "D",
+          "text": "Sivas"
+        },
+        {
+          "key": "E",
+          "text": "Kayseri"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kutalmışoğlu Süleyman Şah tarafından kurulan Türkiye Selçuklularının ilk başkenti İznik'tir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-15",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Ahmet Yesevi'nin yazdığı, tasavvufi öğütler içeren eser hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutadgu Bilig"
+        },
+        {
+          "key": "B",
+          "text": "Divan-ı Hikmet"
+        },
+        {
+          "key": "C",
+          "text": "Divan-ı Lügatit Türk"
+        },
+        {
+          "key": "D",
+          "text": "Siyasetname"
+        },
+        {
+          "key": "E",
+          "text": "Atabetü'l Hakayık"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ahmet Yesevi, Türk tasavvuf edebiyatının öncüsüdür ve şiirlerini Divan-ı Hikmet adı altında toplamıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-16",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "İlk Türk-İslam mimari örnekleri olan ve hem kervansaray hem de savunma kalesi özelliği taşıyan yapılara ne denir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kümbet"
+        },
+        {
+          "key": "B",
+          "text": "Ribat"
+        },
+        {
+          "key": "C",
+          "text": "Medrese"
+        },
+        {
+          "key": "D",
+          "text": "Türbe"
+        },
+        {
+          "key": "E",
+          "text": "Cami"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Karahanlılar döneminde inşa edilen Ribatlar, sınır güvenliği ve ticaret konaklaması için kullanılan yapılardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-17",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Selçuklularda şehzadelerin yetiştirilmesinden sorumlu olan Atabeylerin bağımsızlık ilan etmesinde hangisi etkili olmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezi otoritenin zayıflaması"
+        },
+        {
+          "key": "B",
+          "text": "Eğitimin yetersizliği"
+        },
+        {
+          "key": "C",
+          "text": "Askeri eksiklikler"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik kriz"
+        },
+        {
+          "key": "E",
+          "text": "Ticaret yollarının değişmesi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Atabeylerin merkezi otoritenin zayıfladığı dönemlerde bulundukları bölgelerde bağımsız hareket ederek devletçikler kurması Selçukluları zayıflatmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-18",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklularında deniz ticareti geliştirmek için Sinop'u fethedip ilk devlet tersanesini kuran hükümdar kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I. Mesut"
+        },
+        {
+          "key": "B",
+          "text": "I. Kılıç Arslan"
+        },
+        {
+          "key": "C",
+          "text": "I. İzzeddin Keykavus"
+        },
+        {
+          "key": "D",
+          "text": "Alaaddin Keykubat"
+        },
+        {
+          "key": "E",
+          "text": "Gıyaseddin Keyhüsrev"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "I. İzzeddin Keykavus Sinop'u fethederek ilk Selçuklu deniz tersanesini burada kurdurmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-19",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Selçuklularda hükümdar ailesinden gelen erkek çocuklara ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hatun"
+        },
+        {
+          "key": "B",
+          "text": "Tigin"
+        },
+        {
+          "key": "C",
+          "text": "Melik"
+        },
+        {
+          "key": "D",
+          "text": "Şad"
+        },
+        {
+          "key": "E",
+          "text": "Ayguci"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Selçuklularda hükümdar çocuklarına Melik denirdi. Bu çocuklar atabeylerin gözetiminde eyaletlere vali olarak gönderilirdi.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-20",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Edib Ahmet Yükneki tarafından yazılan, ahlak ve erdem üzerine öğütler içeren Türk-İslam eseri hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutadgu Bilig"
+        },
+        {
+          "key": "B",
+          "text": "Atabetü'l Hakayık"
+        },
+        {
+          "key": "C",
+          "text": "Divan-ı Lügatit Türk"
+        },
+        {
+          "key": "D",
+          "text": "Divan-ı Hikmet"
+        },
+        {
+          "key": "E",
+          "text": "Siyasetname"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Atabetü'l Hakayık (Hakikatlerin Eşiği), Edib Ahmet Yükneki tarafından yazılmış ahlaki ve dini bir eserdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-21",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Malazgirt Savaşı'ndan sonra Anadolu'da kurulan I. Dönem Türk beyliklerinin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anadolu'yu Türkleştirmek ve İslamlaştırmak"
+        },
+        {
+          "key": "B",
+          "text": "Sadece ticaret yapmak"
+        },
+        {
+          "key": "C",
+          "text": "Büyük Selçuklu'yu yıkmak"
+        },
+        {
+          "key": "D",
+          "text": "Denizciliği geliştirmek"
+        },
+        {
+          "key": "E",
+          "text": "Yeni alfabe oluşturmak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Malazgirt sonrası kurulan Saltuklular, Mengücekler, Danişmentliler vb. beylikler Anadolu'da imar ve fetih hareketleriyle Anadolu'yu vatan yapmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-22",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklu Devleti'nde esnaf dayanışmasını ve sosyo-ekonomik hayatı düzenleyen Ahilik teşkilatının kurucusu kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mevlana"
+        },
+        {
+          "key": "B",
+          "text": "Hacı Bektaş Veli"
+        },
+        {
+          "key": "C",
+          "text": "Ahi Evran"
+        },
+        {
+          "key": "D",
+          "text": "Yunus Emre"
+        },
+        {
+          "key": "E",
+          "text": "Nizamülmülk"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Ahi Evran, esnaf ve zanaatkârlar örgütü olan Ahilik teşkilatını kurmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-23",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Selçuklularda başkomutan sıfatıyla orduya komuta eden kişiye veya başkomutana verilen unvan nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sipah"
+        },
+        {
+          "key": "B",
+          "text": "Gulam"
+        },
+        {
+          "key": "C",
+          "text": "Serdar-ı Ekrem / Emir-i Sipahsalar"
+        },
+        {
+          "key": "D",
+          "text": "Subaşı"
+        },
+        {
+          "key": "E",
+          "text": "Hakan"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Ordu başkomutanına Emir-i Sipahsalar veya Serdar unvanı verilirdi.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-24",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Karahanlılar döneminde resmi dil ve edebiyat dili olarak hangisi kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Arapça"
+        },
+        {
+          "key": "B",
+          "text": "Farsça"
+        },
+        {
+          "key": "C",
+          "text": "Türkçe"
+        },
+        {
+          "key": "D",
+          "text": "Süryanice"
+        },
+        {
+          "key": "E",
+          "text": "Moğolca"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Karahanlılar, Türkçe'yi resmi ve edebiyat dili olarak kullanmış, Türk-İslam kültürünün Türkçe eserlerini vermişlerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-25",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Büyük Selçuklu Devleti'nde ordu içinde nicelik ve güç açısından en büyük askeri birliği oluşturan unsur hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gulamlar"
+        },
+        {
+          "key": "B",
+          "text": "İkta Askerleri (Sipahiler)"
+        },
+        {
+          "key": "C",
+          "text": "Gönüllü Türkmenler"
+        },
+        {
+          "key": "D",
+          "text": "Ücretli Yabancı Askerler"
+        },
+        {
+          "key": "E",
+          "text": "Hassa Ordusu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Selçuklu ordusunun en kalabalık kısmını ikta arazilerinin geliriyle beslenen ve eyaletlerde yetişen ikta askerleri oluştururdu.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-26",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "İzmir ve çevresinde kurulan ve Türk tarihinin ilk denizci beyliği kabul edilen yapı hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saltuklular"
+        },
+        {
+          "key": "B",
+          "text": "Çaka Beyliği"
+        },
+        {
+          "key": "C",
+          "text": "Danişmentliler"
+        },
+        {
+          "key": "D",
+          "text": "Mengücekler"
+        },
+        {
+          "key": "E",
+          "text": "Artuklular"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çaka Bey tarafından İzmir'de kurulan beylik ilk Türk denizci beyliğidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-27",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Büyük Selçuklu Veziri Nizamülmülk'ün devlet teşkilatı ve idaresi hakkında kaleme aldığı ünlü eser hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutadgu Bilig"
+        },
+        {
+          "key": "B",
+          "text": "Siyasetname"
+        },
+        {
+          "key": "C",
+          "text": "Divan-ı Lügatit Türk"
+        },
+        {
+          "key": "D",
+          "text": "Divan-ı Hikmet"
+        },
+        {
+          "key": "E",
+          "text": "Atabetü'l Hakayık"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Nizamülmülk'ün yazmış olduğu Siyasetname, Selçuklu devlet yapısını ve yönetimi anlatan en önemli eserdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-28",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Türkiye Selçuklu Devleti'nde uluslararası ve bölgesel ticareti geliştirmek amacıyla en çok inşa edilen yapı türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cami"
+        },
+        {
+          "key": "B",
+          "text": "Kervansaray (Han)"
+        },
+        {
+          "key": "C",
+          "text": "Kale"
+        },
+        {
+          "key": "D",
+          "text": "Saray"
+        },
+        {
+          "key": "E",
+          "text": "Köprü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye Selçukluları ticareti teşvik etmek için tüccarların konaklayabileceği Kervansaraylar inşa etmişlerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-29",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Büyük Selçuklu Devleti'nde Hasan Sabbah'ın başlattığı Batınilik (Haşhaşi) fikri hareketlerine karşı medreseler yoluyla mücadele eden vezir kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nizamülmülk"
+        },
+        {
+          "key": "B",
+          "text": "Yusuf Has Hacip"
+        },
+        {
+          "key": "C",
+          "text": "Tuğrul Bey"
+        },
+        {
+          "key": "D",
+          "text": "Alparslan"
+        },
+        {
+          "key": "E",
+          "text": "Sencer"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Nizamülmülk, Batınilik tehlikesine karşı Nizamiye Medreselerini kurarak ilmi ve fikri mücadele vermiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-turk-islam-30",
+      "topic_id": "topic-tarih-turk-islam",
+      "question_text": "Sivas, Tokat, Amasya ve Kayseri civarında kurulan ve Yağıbasan Medresesi'ni inşa eden I. Dönem Anadolu Türk beyliği hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saltuklular"
+        },
+        {
+          "key": "B",
+          "text": "Mengücekler"
+        },
+        {
+          "key": "C",
+          "text": "Danişmentliler"
+        },
+        {
+          "key": "D",
+          "text": "Çaka Beyliği"
+        },
+        {
+          "key": "E",
+          "text": "Artuklular"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Danişmentliler Sivas merkezli olarak kurulmuş ve Anadolu'daki ilk medrese olan Yağıbasan Medresesi'ni yapmışlardır.",
+      "difficulty_level": 2
+    }
+  ]
+}

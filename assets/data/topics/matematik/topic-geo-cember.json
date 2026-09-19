@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-geo-cember",
+  "title": "Çember ve Daire",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-geo-cember",
+    "topic_id": "topic-geo-cember",
+    "title": "Çember ve Daire Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Çember ve Daire' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Çember ve Daire konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nÇember ve Daire konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Çember ve Daire konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Çember Çevresi ve Daire Alanı",
+        "body": "Yarıçapı r olan çemberin Çevresi = 2.pi.r ; Dairenin Alanı = pi.r^2 formülü ile hesaplanır."
+      },
+      {
+        "card_number": 2,
+        "title": "Merkez Açı Özelliği",
+        "body": "Köşesi çemberin merkezinde olan açıdır. Merkez açının ölçüsü gördüğü yayın derece ölçüsüne BİREBİR EŞİTTİR."
+      },
+      {
+        "card_number": 3,
+        "title": "Çevre Açı Özelliği",
+        "body": "Köşesi çember üzerinde olan açıdır. Çevre açının ölçüsü gördüğü yayın derece ölçüsünün YARISINA eşittir."
+      },
+      {
+        "card_number": 4,
+        "title": "Çapı Gören Çevre Açı 90 Derecedir",
+        "body": "Çemberde çapı gören çevre açının ölçüsü daima 90 derecedir (Dik açıdır)."
+      },
+      {
+        "card_number": 5,
+        "title": "Aynı Yayı Gören Açıların Eşitliği",
+        "body": "Çemberde aynı yayı gören çevre açıların ölçüleri birbirine eşittir."
+      },
+      {
+        "card_number": 6,
+        "title": "Teğet - Yarıçap Dikliği",
+        "body": "Çemberin merkezinden teğetin değme noktasına çizilen yarıçap teğete DAİMA DİKTİR (90 derece)."
+      },
+      {
+        "card_number": 7,
+        "title": "Dışarıdaki Noktadan Çizilen Teğetler",
+        "body": "Çemberin dışındaki bir noktadan çembere çizilen iki teğet parçasının uzunlukları birbirine eşittir."
+      },
+      {
+        "card_number": 8,
+        "title": "Kirişler Dörtgeni Özelliği",
+        "body": "Köşeleri çember üzerinde olan dörtgenlerde karşılıklı açıların toplamı 180 derecedir (A + C = 180)."
+      },
+      {
+        "card_number": 9,
+        "title": "Daire Diliminin Alanı",
+        "body": "a derecelik açının gördüğü daire diliminin alanı = (pi . r^2) . (a / 360) formülüyle bulunur."
+      },
+      {
+        "card_number": 10,
+        "title": "Kirişe İnen Dikme Kuralı",
+        "body": "Çemberin merkezinden kirişe inilen dikme, kirişi ve kirişin yayını iki eşit parçaya böler."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-geo-cember-1",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberde merkez açının ölçüsü gördüğü yayın ölçüsüne nasıl bağlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarısına eşittir"
+        },
+        {
+          "key": "B",
+          "text": "İki katına eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Dörtte biridir"
+        },
+        {
+          "key": "E",
+          "text": "Bağlı değildir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Merkez açının ölçüsü, gördüğü yayın ölçüsüne eşittir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-2",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çevre açının ölçüsü, gördüğü yayın ölçüsüne nasıl bağlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarısına eşittir"
+        },
+        {
+          "key": "B",
+          "text": "İki katına eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Dörtte biridir"
+        },
+        {
+          "key": "E",
+          "text": "İlgisi yoktur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Çevre açının ölçüsü, gördüğü yayın ölçüsünün yarısına eşittir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-3",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Yarıçapı 6 cm olan bir çemberin çevresi kaç cm'dir? (π=3 alınız)",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "36"
+        },
+        {
+          "key": "E",
+          "text": "48"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Çevre = 2·π·r = 2 · 3 · 6 = 36 cm.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-4",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Yarıçapı 5 cm olan bir dairenin alanı kaç cm²'dir? (π=3 alınız)",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "75"
+        },
+        {
+          "key": "E",
+          "text": "100"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Alan = π·r² = 3 · 5² = 3 · 25 = 75 cm².",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-5",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çapı 10 cm olan bir çemberin yarıçapı kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yarıçap = Çap / 2 = 10 / 2 = 5 cm.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-6",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberde çapı gören çevre açı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "90"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "180"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çap çemberi 180 derecelik iki yaya böler, çapı gören çevre açı 180 / 2 = 90 derecedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-7",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Aynı yayı gören çevre açıların ölçüleri arasındaki ilişki nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eşittir"
+        },
+        {
+          "key": "B",
+          "text": "Toplamı 90'dır"
+        },
+        {
+          "key": "C",
+          "text": "Toplamı 180'dir"
+        },
+        {
+          "key": "D",
+          "text": "Biri diğerinin iki katıdır"
+        },
+        {
+          "key": "E",
+          "text": "İlişkisi yoktur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Aynı yayı gören çevre açılar birbirine eşittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-8",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde merkezden kirişe indirilen dikme kirişi ne yapar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İkiye böler"
+        },
+        {
+          "key": "B",
+          "text": "Üçe böler"
+        },
+        {
+          "key": "C",
+          "text": "Bölmez"
+        },
+        {
+          "key": "D",
+          "text": "Uzatır"
+        },
+        {
+          "key": "E",
+          "text": "Kirişe paraleldir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Merkezden kirişe inen dikme kirişi ortalar (iki eş parçaya böler).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-9",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Yarıçapı 10 cm olan bir çemberde merkeze 6 cm uzaklıktaki kirişin uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "20"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Pisagor bağıntısı ile yarım kiriş uzunluğu k: 6² + k² = 10² ⇒ 36 + k² = 100 ⇒ k = 8. Kiriş uzunluğu = 2k = 16 cm.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-cember-10",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberin dışındaki bir noktadan çizilen teğetlerin uzunlukları nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Farklıdır"
+        },
+        {
+          "key": "B",
+          "text": "Eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Biri diğerinin iki katıdır"
+        },
+        {
+          "key": "D",
+          "text": "Yarıçapa eşittir"
+        },
+        {
+          "key": "E",
+          "text": "İlgisi yoktur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Dış bir noktadan çembere çizilen teğet uzunlukları birbirine eşittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-11",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Teğet-kiriş açının ölçüsü gördüğü yayın ölçüsüne nasıl bağlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarısına eşittir"
+        },
+        {
+          "key": "B",
+          "text": "İki katına eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Dörtte biridir"
+        },
+        {
+          "key": "E",
+          "text": "Farklıdır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Teğet-kiriş açının ölçüsü, gördüğü yayın ölçüsünün yarısına eşittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-12",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberde merkezden uzaklaştıkça kirişin uzunluğu nasıl değişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Artar"
+        },
+        {
+          "key": "B",
+          "text": "Azalır"
+        },
+        {
+          "key": "C",
+          "text": "Değişmez"
+        },
+        {
+          "key": "D",
+          "text": "Yarıçapa bağlıdır"
+        },
+        {
+          "key": "E",
+          "text": "Önce artar sonra azalır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Merkezden uzaklaştıkça kirişin uzunluğu azalır (en uzun kiriş çaptır).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-13",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberdeki iki teğet arasındaki açı 60 derece ise, bu teğetlerin çembere değdiği noktaları merkezle birleştiren açının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "100"
+        },
+        {
+          "key": "C",
+          "text": "120"
+        },
+        {
+          "key": "D",
+          "text": "150"
+        },
+        {
+          "key": "E",
+          "text": "180"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Teğetler ve yarıçaplar dörtgen oluşturur. Dış açı ile merkez açı birbirini 180°'ye tamamlar: 180 - 60 = 120 derecedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-cember-14",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir daire diliminin alanı nasıl bulunur (α: merkez açı, r: yarıçap)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "π·r²·(α/360)"
+        },
+        {
+          "key": "B",
+          "text": "2·π·r·(α/360)"
+        },
+        {
+          "key": "C",
+          "text": "π·r²"
+        },
+        {
+          "key": "D",
+          "text": "π·r·α"
+        },
+        {
+          "key": "E",
+          "text": "r²·α"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Daire diliminin alanı, tüm dairenin alanının (πr²) açı oranıyla (α/360) çarpımıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-15",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde iç açı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezde kesişen iki kirişin açısı"
+        },
+        {
+          "key": "B",
+          "text": "Çemberin içinde kesişen iki kirişin oluşturduğu açı"
+        },
+        {
+          "key": "C",
+          "text": "Teğet ile kirişin açısı"
+        },
+        {
+          "key": "D",
+          "text": "Merkez açı"
+        },
+        {
+          "key": "E",
+          "text": "Çevre açı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çemberin iç bölgesinde kesişen iki kirişin oluşturduğu açıya iç açı denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-16",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Aynı çemberde eşit uzunluktaki kirişler merkezden ne kadar uzaklıktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eşit uzaklıkta"
+        },
+        {
+          "key": "B",
+          "text": "Daha yakın"
+        },
+        {
+          "key": "C",
+          "text": "Daha uzak"
+        },
+        {
+          "key": "D",
+          "text": "Belirlenemez"
+        },
+        {
+          "key": "E",
+          "text": "Kirişle aynıdır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Eşit kirişler merkeze eşit uzaklıktadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-17",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde teğet, yarıçapa değme noktasında nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paraleldir"
+        },
+        {
+          "key": "B",
+          "text": "Dik kesişir"
+        },
+        {
+          "key": "C",
+          "text": "60 derecedir"
+        },
+        {
+          "key": "D",
+          "text": "Kesişmez"
+        },
+        {
+          "key": "E",
+          "text": "İki katıdır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Teğet değme noktasında yarıçapa her zaman diktir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-18",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberin uzunluğu kaç derecelik yay ölçüsüne eşittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "180"
+        },
+        {
+          "key": "C",
+          "text": "270"
+        },
+        {
+          "key": "D",
+          "text": "360"
+        },
+        {
+          "key": "E",
+          "text": "540"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Bir çemberin yay ölçüsü 360 derecedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-19",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Yay uzunluğu nasıl hesaplanır (α: merkez açı, r: yarıçap)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2·π·r · (α/360)"
+        },
+        {
+          "key": "B",
+          "text": "π·r² · (α/360)"
+        },
+        {
+          "key": "C",
+          "text": "2·π·r"
+        },
+        {
+          "key": "D",
+          "text": "π·r"
+        },
+        {
+          "key": "E",
+          "text": "α·r"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yay uzunluğu, çevrenin açı oranına (α/360) çarpımıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-20",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde dış açı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezdeki açı"
+        },
+        {
+          "key": "B",
+          "text": "Çemberin dışındaki bir noktadan gelen iki kesenin/teğetin açısı"
+        },
+        {
+          "key": "C",
+          "text": "Çevre açı"
+        },
+        {
+          "key": "D",
+          "text": "Yay açısı"
+        },
+        {
+          "key": "E",
+          "text": "İç açı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çemberin dışında kesişen doğruların (kesen, teğet) oluşturduğu açıya dış açı denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-21",
+      "topic_id": "topic-geo-cember",
+      "question_text": "İki çember birbirine dıştan teğetse merkezleri arasındaki mesafe nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "r1 + r2"
+        },
+        {
+          "key": "B",
+          "text": "|r1 - r2|"
+        },
+        {
+          "key": "C",
+          "text": "r1 - r2"
+        },
+        {
+          "key": "D",
+          "text": "r1 · r2"
+        },
+        {
+          "key": "E",
+          "text": "Sıfır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dıştan teğet çemberlerin merkezleri arasındaki uzaklık yarıçaplarının toplamına eşittir (r1 + r2).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-cember-22",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberin içindeki bir noktadan geçen en kısa ve en uzun kirişler nasıl tanımlanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezle birleştirilen doğruya dik geçen en kısa, merkezden geçen en uzundur"
+        },
+        {
+          "key": "B",
+          "text": "Her zaman eşit boydadır"
+        },
+        {
+          "key": "C",
+          "text": "Yarıçapa eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Tüm kirişler aynı uzunluktadır"
+        },
+        {
+          "key": "E",
+          "text": "Sadece merkezde kiriş olur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kiriş, merkezden geçecek şekilde en uzun (çap), o noktadaki yarıçapa dik olacak şekilde en kısadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-geo-cember-23",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberin çapı 20 cm ise, çevresi kaç cm'dir (π=3)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çevre = π · Çap = 3 · 20 = 60 cm.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-24",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Yarıçapı 4 cm olan dairenin alanı kaç cm²'dir (π=3)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "36"
+        },
+        {
+          "key": "D",
+          "text": "48"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Alan = π · r² = 3 · 4² = 3 · 16 = 48 cm².",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-25",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde teğetler dörtgeninin özelliği nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karşılıklı kenarlar toplamı eşittir"
+        },
+        {
+          "key": "B",
+          "text": "Alanlar eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Köşegenler eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Tüm kenarlar eşittir"
+        },
+        {
+          "key": "E",
+          "text": "Açılar 90 derecedir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Teğetler dörtgeninde karşılıklı kenar uzunlukları toplamı birbirine eşittir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-geo-cember-26",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde kirişler dörtgeninin özelliği nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karşılıklı açılar toplamı 180°'dir"
+        },
+        {
+          "key": "B",
+          "text": "Karşılıklı kenarlar eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Tüm kenarlar eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Köşegenler diktir"
+        },
+        {
+          "key": "E",
+          "text": "Alan köşegen çarpımıdır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kirişler dörtgeninde karşılıklı açıların toplamı 180 derecedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-geo-cember-27",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Bir çemberde 90 derecelik yayın uzunluğu çevrenin kaçta kaçıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "key": "C",
+          "text": "1/4"
+        },
+        {
+          "key": "D",
+          "text": "1/6"
+        },
+        {
+          "key": "E",
+          "text": "1/8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "360 / 90 = 4. Yani çevrenin 1/4'üdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-cember-28",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Dairenin alanı r² ile orantılıdır. Yarıçap 2 katına çıkarsa alan nasıl değişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 katına çıkar"
+        },
+        {
+          "key": "B",
+          "text": "4 katına çıkar"
+        },
+        {
+          "key": "C",
+          "text": "Değişmez"
+        },
+        {
+          "key": "D",
+          "text": "Yarısına iner"
+        },
+        {
+          "key": "E",
+          "text": "8 katına çıkar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "(2r)² = 4r². Yarıçap 2 katına çıkarsa alan 4 katına çıkar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-29",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Merkez açı 60 derece ise, daire diliminin alanı toplam alanın kaçta kaçıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "key": "C",
+          "text": "1/4"
+        },
+        {
+          "key": "D",
+          "text": "1/6"
+        },
+        {
+          "key": "E",
+          "text": "1/12"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "360 / 60 = 6. Toplam alanın 1/6'sıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-cember-30",
+      "topic_id": "topic-geo-cember",
+      "question_text": "Çemberde aynı yayı gören merkez açı ile çevre açı arasındaki ilişki nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkez açı, çevre açının iki katıdır"
+        },
+        {
+          "key": "B",
+          "text": "Eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Çevre açı, merkez açının iki katıdır"
+        },
+        {
+          "key": "D",
+          "text": "Toplamları 180'dir"
+        },
+        {
+          "key": "E",
+          "text": "İlgisi yoktur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Aynı yayı gören çevre açı, merkez açının yarısı; merkez açı çevre açının iki katıdır.",
+      "difficulty_level": 2
+    }
+  ]
+}

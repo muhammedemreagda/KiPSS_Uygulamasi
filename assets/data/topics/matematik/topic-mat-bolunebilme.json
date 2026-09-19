@@ -1,0 +1,827 @@
+{
+  "topic_id": "topic-mat-bolunebilme",
+  "title": "Bölünebilme Kuralları",
+  "course_id": "course-matematik",
+  "question_count": 25,
+  "quick_note": {
+    "id": "qn-topic-mat-bolunebilme",
+    "topic_id": "topic-mat-bolunebilme",
+    "title": "Bölünebilme Kuralları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Bölünebilme Kuralları' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Bölünebilme Kuralları konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nBölünebilme Kuralları konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Bölünebilme Kuralları konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "2 İle Bölünebilme Kuralı",
+        "body": "Bir sayının birler basamağı çift (0, 2, 4, 6, 8) ise sayı 2 ile tam bölünür."
+      },
+      {
+        "card_number": 2,
+        "title": "3 İle Bölünebilme Kuralı",
+        "body": "Bir sayının rakamları toplamı 3 veya 3'ün katı ise sayı 3 ile tam bölünür."
+      },
+      {
+        "card_number": 3,
+        "title": "4 İle Bölünebilme Kuralı",
+        "body": "Bir sayının son iki basamağı 00 veya 4'ün katı ise sayı 4 ile tam bölünür. Örnek: 316, 500."
+      },
+      {
+        "card_number": 4,
+        "title": "5 İle Bölünebilme Kuralı",
+        "body": "Bir sayının birler basamağı 0 veya 5 ise sayı 5 ile tam bölünür."
+      },
+      {
+        "card_number": 5,
+        "title": "8 İle Bölünebilme Kuralı",
+        "body": "Bir sayının son üç basamağı 000 veya 8'in katı ise sayı 8 ile tam bölünür."
+      },
+      {
+        "card_number": 6,
+        "title": "9 İle Bölünebilme Kuralı",
+        "body": "Bir sayının rakamları toplamı 9 veya 9'un katı ise sayı 9 ile tam bölünür."
+      },
+      {
+        "card_number": 7,
+        "title": "10 İle Bölünebilme Kuralı",
+        "body": "Bir sayının birler basamağı 0 ise sayı 10 ile tam bölünür. Birler basamağındaki rakam aynı zamanda 10'a bölümünden kalandır."
+      },
+      {
+        "card_number": 8,
+        "title": "11 İle Bölünebilme Testi (+ - +)",
+        "body": "Sayının rakamları sağdan sola doğru sırasıyla +, -, +, - işaretleriyle çarpılıp toplanır. Sonuç 11'in katı olmalıdır."
+      },
+      {
+        "card_number": 9,
+        "title": "Aralarında Asal Çarpan Kuralı",
+        "body": "Bir sayı aralarında asal iki sayıya tam bölünüyorsa çarpımlarına da bölünür. Örnek: Hem 3 hem 4'e bölünen sayı 12'ye de bölünür."
+      },
+      {
+        "card_number": 10,
+        "title": "45 İle Bölünebilme Şifresi",
+        "body": "Bir sayının 45 ile bölünebilmesi için aralarında asal olan hem 5'e hem de 9'a tam bölünmesi gerekir. Önce 5 kuralı incelenir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-bolunebilme-1",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı 4a5b sayısı 5 ile bölündüğünde 2 kalanını vermektedir. Bu sayı 3 ile tam bölünebildiğine göre, a'nın alabileceği farklı değerler toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "27"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "33"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "5 ile bölümünden kalan 2 ise birler basamağı b = 2 veya b = 7 olmalıdır. 1. Durum: b = 2 için 4a52 sayısının 3 ile bölünmesi için rakamlar toplamı 4 + a + 5 + 2 = 11 + a sayısının 3'ün katı olması gerekir. Buradan a = 1, 4, 7 değerlerini alır. 2. Durum: b = 7 için 4a57 sayısının 3 ile bölünmesi için 4 + a + 5 + 7 = 16 + a sayısının 3'ün katı olması gerekir. Buradan a = 2, 5, 8 değerlerini alır. a'nın alabileceği değerler toplamı 1 + 4 + 7 + 2 + 5 + 8 = 27 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-2",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Beş basamaklı 2a34b sayısı 11 ile tam bölünebildiğine göre, a - b farkının değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "11 ile bölünebilme kuralı için basamaklar sağdan sola sırasıyla (+, -, +, -, +) işaretleriyle çarpılıp toplanır: (+b) + (-4) + (+3) + (-a) + (+2) = b - a + 1. Bu ifadenin 11'in katı olması gerekir. a ve b birer rakam olduğundan b - a + 1 = 0 olmalıdır. Buradan b - a = -1 yani a - b = 1 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-3",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Rakamları farklı dört basamaklı 3a4b sayısı 4 ve 9 ile tam bölünebildiğine göre, a + b toplamının en büyük değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "11"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "4 ile bölünebilmesi için son iki basamağı olan 4b sayısı 4'ün katı olmalıdır. Buradan b = 0, 4, 8 olabilir. Ancak rakamları farklı dendiği için b = 4 olamaz (4 zaten onlar basamağında vardır). 1. Durum: b = 0 ise 3a40 sayısı 9 ile tam bölüneceğinden 3 + a + 4 + 0 = 7 + a = 9k olur ve a = 2 bulunur (3,2,4,0 rakamları farklıdır). Buradan a + b = 2 + 0 = 2 elde edilir. 2. Durum: b = 8 ise 3a48 sayısı 9 ile tam bölüneceğinden 3 + a + 4 + 8 = 15 + a = 9k olur ve a = 3 olmalıdır; fakat 3 rakamı binler basamağında bulunduğundan rakamları farklı kuralı ihlal edilir. Dolayısıyla a + b tek geçerli değer olan 2'yi alır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-4",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı x52y sayısı 12 ile tam bölünebildiğine göre, x + y toplamının alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "13"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "17"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "12 ile bölünebilen sayı aralarında asal olan 3 ve 4 ile tam bölünmelidir. 4 ile bölünmesi için son iki basamağı 2y sayısı 4'ün katı olmalı, yani y = 0, 4, 8 olabilir. x + y toplamının en büyük olması için y = 8 seçilir. Sayı x528 olur. 3 ile tam bölünmesi için rakamlar toplamı x + 5 + 2 + 8 = x + 15 sayısının 3'ün katı olması gerekir. x en büyük 9 seçilebilir. Buradan x + y = 9 + 8 = 17 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-5",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Altı basamaklı 5a3b2c sayısı 30 ile tam bölünebildiğine göre, a + b toplamı en fazla kaç olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "13"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "17"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "30 ile bölünebilen sayı aralarında asal 3 ve 10 ile tam bölünür. 10 ile tam bölünmesi için c = 0 olmalıdır. Sayı 5a3b20 olur. 3 ile bölünmesi için rakamlar toplamı 5 + a + 3 + b + 2 + 0 = 10 + a + b sayısının 3'ün katı olması gerekir. a ve b birer rakam olduğundan a + b en çok 17 olabilir (10 + 17 = 27 3'ün katıdır, örn: a = 9, b = 8).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-6",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı 7a4b sayısı 45 ile tam bölünebildiğine göre, a'nın alabileceği değerler toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "11"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "45 ile tam bölünen sayı 5 ve 9 ile tam bölünür. 5 ile bölünmesi için b = 0 veya b = 5 olmalıdır. 1. Durum: b = 0 için 7a40 sayısının 9 ile bölünmesi gerekir. Rakamlar toplamı 7 + a + 4 + 0 = 11 + a = 9k ⇒ a = 7 bulunur. 2. Durum: b = 5 için 7a45 sayısının 9 ile bölünmesi gerekir. Rakamlar toplamı 7 + a + 4 + 5 = 16 + a = 9k ⇒ a = 2 bulunur. a'nın alabileceği değerler toplamı 7 + 2 = 9 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-7",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı 2a6b sayısının 10 ile bölümünden kalan 4'tür. Bu sayı 9 ile tam bölünebildiğine göre a kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "10 ile bölümünden kalan 4 ise birler basamağı b = 4'tür. Sayı 2a64 biçimini alır. 9 ile tam bölünmesi için rakamları toplamının 9'un katı olması gerekir: 2 + a + 6 + 4 = 12 + a = 9k. Buradan a = 6 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-8",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı A3BC sayısı 36 ile tam bölünebilmektedir. A3BC sayısının 5 ile bölümünden kalan 2 olduğuna göre, A'nın alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "4"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "36 ile tam bölünen sayı 4 ve 9 ile tam bölünür. 5 ile bölümden kalan 2 ise C = 2 veya C = 7 olur. Ancak sayı 4 ile de tam bölüneceğinden C çift olmalıdır, bu durumda C = 2'dir. Sayı A3B2 olur. 4 ile bölünmesi için B2 sayısı 4'ün katı olmalıdır; B = 1, 3, 5, 7, 9 olabilir. 9 ile bölünmesi için rakamlar toplamı A + 3 + B + 2 = A + B + 5 = 9k olmalıdır. A'yı en büyük yapmak için B = 5 seçilirse A + 5 + 5 = A + 10 = 18 ⇒ A = 8 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-9",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "x sayısının 7 ile bölümünden kalan 3, y sayısının 7 ile bölümünden kalan 5'tir. Buna göre, x² + y² + 2xy sayısının 7 ile bölümünden kalan kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        },
+        {
+          "key": "E",
+          "text": "4"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "x² + 2xy + y² = (x + y)² tam kare özdeşliğidir. Kalanlar yöntemi kullanılarak x ≡ 3 ve y ≡ 5 (mod 7) yazılırsa x + y ≡ 3 + 5 = 8 ≡ 1 (mod 7) bulunur. Buradan (x + y)² ≡ 1² = 1 (mod 7) elde edilir. Kalan 1'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-10",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Altı basamaklı 4a25b3 sayısı 3 ile tam bölünebildiğine göre, a + b toplamının alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "14"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "16"
+        },
+        {
+          "key": "D",
+          "text": "17"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "3 ile bölünebilme kuralına göre rakamlar toplamı 3'ün katı olmalıdır: 4 + a + 2 + 5 + b + 3 = 14 + a + b = 3k. a ve b birer rakam olduğundan en büyük toplam a + b ≤ 18 olabilir. 14 + (a + b) ifadesini 3'ün katı yapan en büyük a + b değeri 16'dır (14 + 16 = 30, örn: a = 9, b = 7).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-11",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı a5b2 sayısı 18 ile tam bölünebildiğine göre, a'nın alabileceği farklı değerlerin toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "36"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "42"
+        },
+        {
+          "key": "D",
+          "text": "45"
+        },
+        {
+          "key": "E",
+          "text": "48"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "18 ile bölünebilen sayı 2 ve 9 ile tam bölünür. Birler basamağı 2 olduğundan sayı çift olup 2 ile tam bölünür. 9 ile bölünmesi için rakamlar toplamı a + 5 + b + 2 = a + b + 7 sayısının 9'un katı olması gerekir. Buradan a + b + 7 = 9 k ⇒ a + b = 2 veya a + b = 11 olur. a baş basamak olduğundan a ≠ 0 olmalıdır. a = 1, 2, 3, 4, 5, 6, 7, 8, 9 rakamlarının her biri için uygun bir b rakamı bulunabilir. Dolayısıyla a'nın değerleri 1'den 9'a kadar tüm rakamlardır ve toplamı (9 · 10) / 2 = 45 olur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-12",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Beş basamaklı 3a45b sayısının 10 ile bölümünden kalan 3'tür. Bu sayı 3 ile tam bölünebildiğine göre, a'nın alabileceği kaç farklı değer vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "10 ile bölümünden kalan 3 ise b = 3 olur. Sayı 3a453 haline gelir. 3 ile tam bölünmesi için rakamlar toplamı 3 + a + 4 + 5 + 3 = 15 + a = 3k olmalıdır. 15 zaten 3'ün katı olduğundan a yerine 3'ün katı olan rakamlar gelebilir: a = 0, 3, 6, 9. Dolayısıyla a'nın alabileceği 4 farklı değer vardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-14",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Altı basamaklı A2B3C4 sayısı 11 ile tam bölünebildiğine göre, (A + B + C) toplamı aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "22"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "11 ile bölünebilme kuralı uygulanırsa sağdan sola (+, -, +, -, +, -): (+4) + (-C) + (+3) + (-B) + (+2) + (-A) = 9 - (A + B + C). Bu sonucun 11'in katı olması gerekir. 9 - (A + B + C) = -11 eşitliği sağlandığında A + B + C = 20 elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-16",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Beş basamaklı 24a3b sayısı 6 ile tam bölünebildiğine göre, a + b toplamı en fazla kaç olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "13"
+        },
+        {
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "16"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "6 ile bölünebilmesi için 2 ve 3 ile tam bölünmelidir. 2 ile bölünmesi için b çift rakam olmalıdır (b = 0, 2, 4, 6, 8). 3 ile bölünmesi için rakamlar toplamı 2 + 4 + a + 3 + b = 9 + a + b sayısının 3'ün katı olması gerekir. a + b toplamını büyütmek için b = 8 seçilirse 9 + a + 8 = 17 + a = 3k denkleminden a en çok 7 bulunabilir. Buradan a + b = 7 + 8 = 15 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-17",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "a tam sayısı 8 ile bölündüğünde kalan 5'tir. Buna göre, a² + 3a + 2 sayısının 8 ile bölümünden kalan kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        },
+        {
+          "key": "E",
+          "text": "2"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "a yerine kalanı olan 5 yazılabilir: a² + 3a + 2 ⇒ 5² + 3(5) + 2 = 25 + 15 + 2 = 42. 42 sayısının 8 ile bölümünden kalan: 42 = 8 · 5 + 2 olduğundan kalan 2 olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-18",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Rakamları farklı dört basamaklı 2a5b sayısı 4 ve 3 ile tam bölünebildiğine göre, a'nın alabileceği değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        },
+        {
+          "key": "E",
+          "text": "2"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "4 ile bölünebilmesi için 5b sayısının 4'ün katı olması gerekir, yani b = 2 veya b = 6 olmalıdır. Ancak rakamları farklı olduğu için binler basamağındaki 2 ile çakışmaması amacıyla b = 2 seçilemez, b = 6'dır. Sayı 2a56 olur. 3 ile bölünmesi için rakamlar toplamı 2 + a + 5 + 6 = 13 + a = 3k olmalıdır. Buradan a = 2, 5, 8 olabilir. Rakamları farklı kuralından dolayı a = 2 ve a = 5 elenir. a yalnız 8 değerini alabilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-19",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı 3a8b sayısı 8 ile tam bölünebildiğine göre, a'nın alabileceği en büyük değer ile en küçük değerin farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "8 ile bölünebilme kuralı son üç basamağın (a8b) 8'in katı olmasıdır. a8b = 100a + 80 + b = 8k. 80 zaten 8'in katı olduğundan 100a + b sayısı 8'in katı olmalıdır. a = 0 ve b = 0 için 080 sayısı 8'in katıdır (a en küçük 0 olabilir). a = 9 ve b = 4 için 984 sayısı (8 · 123 = 984) 8'in katıdır (a en büyük 9 olabilir). En büyük a ile en küçük a'nın farkı 9 - 0 = 9 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-20",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Altı basamaklı 1a2b3c sayısı 9 ile bölündüğünde kalan 4'tür. Buna göre, a + b + c toplamı en az kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "9"
+        },
+        {
+          "key": "E",
+          "text": "11"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "9 ile bölümünden kalan 4 ise rakamlar toplamı 1 + a + 2 + b + 3 + c = 6 + a + b + c sayısı 9k + 4 formundadır. 6 + a + b + c = 9k + 4 ⇒ a + b + c + 2 = 9k elde edilir. a + b + c ifadesini en küçük yapan pozitif tam sayı k = 1 için a + b + c = 7 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-21",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Dört basamaklı 8a3b sayısının 5 ile bölümünden kalan 3'tür. Bu sayı 9 ile tam bölünebildiğine göre, a'nın alabileceği değerler toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "14"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "5 ile bölümünden kalan 3 ise b = 3 veya b = 8 olmalıdır. 1. Durum: b = 3 için 8a33 sayısının 9 ile bölünmesi gerekir. 8 + a + 3 + 3 = 14 + a = 9k ⇒ a = 4. 2. Durum: b = 8 için 8a38 sayısının 9 ile bölünmesi gerekir. 8 + a + 3 + 8 = 19 + a = 9k ⇒ a = 8. a'nın alabileceği değerler toplamı 4 + 8 = 12 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-22",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "x ve y doğal sayılardır. x sayısının 6 ile bölümünden kalan 4, y sayısının 6 ile bölümünden kalan 5 olduğuna göre, x · y sayısının 6 ile bölümünden kalan kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "2"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Çarpımın kalanı kalanların çarpımına eşittir: x ≡ 4 ve y ≡ 5 (mod 6) iken x · y ≡ 4 · 5 = 20 (mod 6). 20 sayısının 6 ile bölümünden kalan 2'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-23",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Üç basamaklı 2a5 sayısı 3 ile, üç basamaklı 3b4 sayısı 4 ile tam bölünebildiğine göre, a + b toplamının alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "key": "D",
+          "text": "13"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "2a5 sayısının 3 ile bölünmesi için 2 + a + 5 = 7 + a = 3k ⇒ a en büyük 8 olabilir. 3b4 sayısının 4 ile bölünmesi için b4 sayısının 4'ün katı olması gerekir ⇒ b = 0, 2, 4, 6, 8 arasından en büyük b = 8 seçilir. a + b toplamı en fazla 8 + 8 = 16 olur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-24",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Beş basamaklı 7a32b sayısı 12 ile tam bölünebildiğine göre, a + b toplamı kaç farklı değer alabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "9"
+        },
+        {
+          "key": "E",
+          "text": "10"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "12 ile bölünmesi için 3 ve 4 ile tam bölünmelidir. 4 ile bölünmesi için 2b sayısı 4'ün katı olmalı ⇒ b = 0, 4, 8. 1. b = 0 ise 7a320 ⇒ 12 + a = 3k ⇒ a = 0, 3, 6, 9 (a+b = 0, 3, 6, 9). 2. b = 4 ise 7a324 ⇒ 16 + a = 3k ⇒ a = 2, 5, 8 (a+b = 6, 9, 12). 3. b = 8 ise 7a328 ⇒ 20 + a = 3k ⇒ a = 1, 4, 7 (a+b = 9, 12, 15). Oluşan a + b kümesi {0, 2, 3, 6, 9, 12, 15} olup 7 farklı değer vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-26",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "x bir doğal sayıdır. x sayısının 9 ile bölümünden kalan 7 olduğuna göre, x² + 2x + 5 sayısının 9 ile bölümünden kalan kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "x yerine kalanı olan 7 yazılabilir: 7² + 2(7) + 5 = 49 + 14 + 5 = 68. 68 sayısının 9 ile bölümünden kalan: 68 = 9 · 7 + 5 olduğundan kalan 5'tir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-27",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Rakamları farklı beş basamaklı 3a71b sayısı 10 ile bölündüğünde 4 kalanını vermektedir. Bu sayı 3 ile tam bölünebildiğine göre, a'nın alabileceği kaç farklı değer vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "3"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "10 ile bölümünden kalan 4 ise birler basamağı b = 4'tür. Sayı 3a714 olur. 3 ile tam bölünmesi için rakamlar toplamı 3 + a + 7 + 1 + 4 = 15 + a = 3k ⇒ a = 0, 3, 6, 9 olabilir. Rakamları farklı kuralı gereğince kümede {3, a, 7, 1, 4} rakamları bulunur, bu sebeple a = 3 olamaz. a sayısının alabileceği geçerli değerler 0, 6, 9 olmak üzere 3 tanedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-bolunebilme-29",
+      "topic_id": "topic-mat-bolunebilme",
+      "question_text": "Altı basamaklı 8a52b4 sayısı 11 ile tam bölünebildiğine göre, b - a farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "11 ile bölünebilme kuralı uygulanırsa (+, -, +, -, +, -): (+4) + (-b) + (+2) + (-5) + (+a) + (-8) = a - b - 7 = 11k. k = -1 için a - b - 7 = -11 ⇒ a - b = -4 elde edilir. Buradan b - a = 4 bulunur.",
+      "difficulty_level": 4
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "topic_id": "topic-turkce-cumlede-anlam",
+  "title": "Cümlede Anlam",
+  "course_id": "course-turkce",
+  "question_count": 21,
+  "quick_note": {
+    "id": "qn-topic-turkce-cumlede-anlam",
+    "topic_id": "topic-turkce-cumlede-anlam",
+    "title": "Cümlede Anlam Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Cümlede Anlam' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Cümlede Anlam konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nCümlede Anlam başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Cümlede Anlam konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Öznel (Subjektif) Cümle",
+        "body": "Kişisel duygu, beğeni veya yorum içeren, kanıtlanamayan yargılardır. Örnek: 'Bu roman Türk edebiyatının en sürükleyici eseridir' ifadesi kişisel değerlendirmedir."
+      },
+      {
+        "card_number": 2,
+        "title": "Nesnel (Objektif) Cümle",
+        "body": "Kişiden kişiye değişmeyen, ölçülebilen veya doğruluğu kanıtlanabilen yargılardır. Örnek: 'Roman toplam 320 sayfadan oluşmaktadır' cümlesi nesnel bir bilgidir."
+      },
+      {
+        "card_number": 3,
+        "title": "Neden-Sonuç Cümlesi Testi",
+        "body": "Eylemin gerçekleşme gerekçesini belirtir; '-dığı için' kelimesiyle test edilir ve her iki eylem de gerçekleşmiştir. Örnek: 'Yağmur yağdığı için maç iptal edildi.'"
+      },
+      {
+        "card_number": 4,
+        "title": "Amaç-Sonuç Cümlesi Ayrımı",
+        "body": "Henüz gerçekleşmemiş bir hedefe ulaşmak amacıyla yapılan eylemleri anlatır; '-mek amacıyla' ifadesi koyulabilir. Örnek: 'Sınavı kazanmak amacıyla gece gündüz çalıştı.'"
+      },
+      {
+        "card_number": 5,
+        "title": "Koşul-Sonuç (Şart) Cümlesi",
+        "body": "Bir olayın gerçekleşmesinin başka bir olaya bağlandığı yargılardır. Örnek: 'Düzenli tekrar yaparsan konuları daha hızlı kavrarsın' cümlesinde -se/-sa koşul ekidir."
+      },
+      {
+        "card_number": 6,
+        "title": "Doğrudan Anlatım Şifresi",
+        "body": "Başkasının sözünün hiçbir değişikliğe uğratılmadan, tırnak içinde veya 'dedi' ifadesiyle iletilmesidir. Örnek: Öğretmen, 'Yarın sözlü var' dedi."
+      },
+      {
+        "card_number": 7,
+        "title": "Dolaylı Anlatım Şifresi",
+        "body": "Başkasının söylediği sözün kendi cümlelerimizle değiştirilerek aktarılmasıdır; genellikle '-diğini söyledi' kalıbı kullanılır. Örnek: Öğretmen yarın sözlü yapacağını söyledi."
+      },
+      {
+        "card_number": 8,
+        "title": "Üslup (Biçem) Cümlesi",
+        "body": "Yazarın duygu ve düşüncelerini nasıl anlattığını, dil ve anlatım özelliklerini belirtir. Örnek: 'Yazar eserinde süslü ve devrik cümlelere sıkça yer vermiştir.'"
+      },
+      {
+        "card_number": 9,
+        "title": "İçerik (Konu) Cümlesi",
+        "body": "Eserde ne anlatıldığını, konunun ne olduğunu belirten cümlelerdir. Örnek: 'Şair bu şiirinde çocukluğuna duyduğu özlemi dile getirmiştir.'"
+      },
+      {
+        "card_number": 10,
+        "title": "Sitem ve Kanıksama Farkı",
+        "body": "Sitem, sevilen birine kırgınlığı hafifçe belirtmektir ('Düğününe beni çağırmadın'). Kanıksama ise çok tekrarlanan bir duruma alışmaktır ('Benzin zamlarına alıştık')."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-cumlede-anlam-1",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde öznel bir anlatım söz konusudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şairin son şiir kitabındaki derin ve etkileyici imgeler okuru bambaşka dünyalara götürüyor."
+        },
+        {
+          "key": "B",
+          "text": "Yazarın bu romanı üç bölümden ve toplam dört yüz sayfadan oluşmaktadır."
+        },
+        {
+          "key": "C",
+          "text": "Türkiye'nin en yüksek dağı olan Ağrı Dağı, Doğu Anadolu Bölgesi'nde yer alır."
+        },
+        {
+          "key": "D",
+          "text": "Türkiye Büyük Millet Meclisi 23 Nisan 1920 tarihinde Ankara'da açılmıştır."
+        },
+        {
+          "key": "E",
+          "text": "Film, uluslararası bir film festivalinde en iyi senaryo ödülünü kazandı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde yer alan 'derin ve etkileyici imgeler' ve 'bambaşka dünyalara götürüyor' ifadeleri kişisel görüş, beğeni ve duygu içerdiği için öznel bir yargıdır. Diğer seçenekler ise kanıtlanabilir, kişiden kişiye değişmeyen nesnel yargılardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-2",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde gerekçeli bir yargı (neden-sonuç ilişkisi) bulunmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınavda başarılı olabilmek için düzenli ve disiplinli bir şekilde çalışıyordu."
+        },
+        {
+          "key": "B",
+          "text": "Yolların buz tutması sebebiyle sabah saatlerinde şehir trafiği kilitlenme noktasına geldi."
+        },
+        {
+          "key": "C",
+          "text": "Projeyi zamanında yetiştirmek üzere tüm ekip hafta sonu da mesaiye kalacak."
+        },
+        {
+          "key": "D",
+          "text": "Hava güzel olursa yarın sabah sahilde yürüyüş yapmayı düşünüyoruz."
+        },
+        {
+          "key": "E",
+          "text": "Eleştirmenler, yapıtın dilini sade bulduklarını her fırsatta dile getiriyorlar."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde trafiğin kilitlenme noktasına gelmesi bir sonuçtur; bu sonucun gerçekleşme nedeni/gerekçesi ise yolların buz tutmasıdır. A ve C seçeneklerinde amaç-sonuç, D seçeneğinde ise koşul-sonuç ilişkisi vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-3",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde eylemin hangi amaçla gerçekleştirildiği belirtilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kar yağışı aniden bastırınca köy yolları ulaşıma kapandı."
+        },
+        {
+          "key": "B",
+          "text": "Yorgunluktan kolunu kıpırdatacak hali kalmadığı için erken yattı."
+        },
+        {
+          "key": "C",
+          "text": "Yeni açılacak kütüphaneye kaynak sağlamak maksadıyla geniş çaplı bir kitap kampanyası başlatıldı."
+        },
+        {
+          "key": "D",
+          "text": "Elektrikler kesildiği için dükkândaki dondurucular çalışmadı."
+        },
+        {
+          "key": "E",
+          "text": "Yağmurun yağmasıyla birlikte topraktan mis gibi bir koku yayıldı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde kitap kampanyasının başlatılması eylemi, 'yeni açılacak kütüphaneye kaynak sağlamak' amacıyla yapılmıştır. A, B, D ve E seçenekleri ise neden-sonuç (sebep-sonuç) cümleleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-4",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir koşula bağlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kitabı baştan sona okudum ama aradığım bilgiye bir türlü ulaşamadım."
+        },
+        {
+          "key": "B",
+          "text": "Sabah erkenden yola çıktık çünkü akşam hava kararmadan varmak istiyorduk."
+        },
+        {
+          "key": "C",
+          "text": "Gürültü yüzünden konsantre olamayınca çalışmayı yarıda bıraktı."
+        },
+        {
+          "key": "D",
+          "text": "Düzenli spor yapar ve beslenmene dikkat edersen hedeflediğin kiloya ulaşırsın."
+        },
+        {
+          "key": "E",
+          "text": "Bütün gün evde oturup televizyon izlemekten sıkıldığı için dışarı çıktı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 'hedeflediğin kiloya ulaşma' eyleminin gerçekleşmesi, 'düzenli spor yapma ve beslenmeye dikkat etme' koşuluna (şartına) bağlanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-5",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir eserin 'nasıl anlatıldığı' üsluba (biçeme), 'ne anlatıldığı' ise içeriğe (konuya) aittir. Buna göre aşağıdaki cümlelerin hangisinde doğrudan bir 'üslup (biçem)' değerlendirmesi yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazar, son romanında Kurtuluş Savaşı döneminde Anadolu halkının yaşadığı zorlukları ele alıyor."
+        },
+        {
+          "key": "B",
+          "text": "Şiirde, çocukluk yıllarına duyulan özlem ve gurbet teması ağırlıklı olarak işlenmiştir."
+        },
+        {
+          "key": "C",
+          "text": "Tiyatro oyunu, üç kuşak boyunca aynı konakta yaşayan bir ailenin çatışmalarını konu ediniyor."
+        },
+        {
+          "key": "D",
+          "text": "Yapıtta, Ege kıyılarında balıkçılıkla geçinen insanların yaşam mücadelesi aktarılmaktadır."
+        },
+        {
+          "key": "E",
+          "text": "Şair, süssüz ve yalın bir dille oluşturduğu dizelerinde kısa ve akıcı cümleler tercih etmiştir."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde eserin 'dilinin süssüz ve yalın olması' ile 'cümlelerin kısa ve akıcı tercih edilmesi' ifadeleri eserin anlatım tarzını ve üslubunu (biçemini) ortaya koymaktadır. Diğer seçenekler eserin içeriğinden (konusundan) bahsetmektedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-6",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Başkasına ait bir sözün hiç değiştirilmeden aktarılmasına 'doğrudan anlatım', başkasının sözünün kendi kelimelerimizle değiştirilerek aktarılmasına ise 'dolaylı anlatım' denir. Buna göre aşağıdaki cümlelerin hangisi 'dolaylı anlatım' örneğidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğretmenimiz, önümüzdeki hafta yapılması planlanan sınavın ertelendiğini söyledi."
+        },
+        {
+          "key": "B",
+          "text": "Descartes, \"Düşünüyorum, öyleyse varım.\" diyerek felsefe tarihine damga vurmuştur."
+        },
+        {
+          "key": "C",
+          "text": "Atatürk: \"Beni Türk hekimlerine emanet ediniz.\" sözüyle güvenini dile getirmiştir."
+        },
+        {
+          "key": "D",
+          "text": "\"Bu projeyi zamanında bitirmek için elimizden geleni yapacağız.\" dedi müdür bey."
+        },
+        {
+          "key": "E",
+          "text": "Yazar, \"Sanat, gerçeği olduğu gibi yansıtmak değil; onu yeniden biçimlendirmektir.\" görüşünü savunur."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde öğretmenin kurduğu orijinal cümle aktaran kişinin kendi ifadesine uyarlanarak '...ertelendiğini söyledi' şeklinde aktarıldığı için dolaylı anlatımdır. B, C, D ve E seçeneklerinde ise doğrudan anlatım yapılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-7",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir cümlede açıkça ifade edilmediği hâlde, cümlenin anlamından veya sözcüklerin diziliminden çıkarılabilen yan anlamlara 'örtülü anlam' denir. Buna göre aşağıdaki cümlelerin hangisinde örtülü anlam vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplantı salonundaki iklimlendirme sistemi bugün arızalandı."
+        },
+        {
+          "key": "B",
+          "text": "Bu yılki kitap fuarına yine binlerce edebiyatsever katıldı."
+        },
+        {
+          "key": "C",
+          "text": "Otobüs terminalinden kalkan ilk araç sabah saat altıda hareket etti."
+        },
+        {
+          "key": "D",
+          "text": "Üniversite kütüphanesi hafta sonları saat sekize kadar açıktır."
+        },
+        {
+          "key": "E",
+          "text": "Derginin yeni sayısı önümüzdeki pazartesi günü bayi raflarında yerini alacak."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde yer alan 'yine' sözcüğünden, kitap fuarına edebiyatseverlerin katılımının bu yıla özgü olmadığı, geçmiş yıllarda da benzer şekilde yoğun bir katılım gerçekleştiği örtülü anlamı çıkarılmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-8",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir cümlede gereksiz sözcük bulunmaması, aynı anlama gelen kelimelerin bir arada kullanılmaması 'duruluk' ilkesiyle açıklanır. Aşağıdaki cümlelerin hangisinde 'duruluk' ilkesine aykırı bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehrin tarihi sokaklarında yürürken geçmişin izlerini hissettim."
+        },
+        {
+          "key": "B",
+          "text": "Kararlarını alırken her zaman mantığını ön planda tutardı."
+        },
+        {
+          "key": "C",
+          "text": "Gizli sırlarımı başkasıyla paylaşmaktan her zaman çekinirim."
+        },
+        {
+          "key": "D",
+          "text": "Yeni projenin detayları yarın yapılacak toplantıda netleşecek."
+        },
+        {
+          "key": "E",
+          "text": "Yağmurun dinmesiyle birlikte çocuklar parka koştu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde yer alan 'gizli' ve 'sır' sözcükleri aynı anlam alanına girer; çünkü sır zaten gizli olan şeydir. İkisinin bir arada kullanımı gereksiz sözcük kullanımına yol açarak duruluk ilkesini ihlal etmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-9",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir insanın kendi davranışları, eserleri veya tutumları hakkında tarafsızca olumsuz veya olumlu değerlendirmelerde bulunmasına 'öz eleştiri' denir. Aşağıdaki cümlelerin hangisinde bir öz eleştiri yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Romanın son bölümlerindeki olay akışı oldukça kopuk ve yetersizdi."
+        },
+        {
+          "key": "B",
+          "text": "Genç şairin ikinci kitabında kullandığı imgelemi ilk kitabına göre daha olgundu."
+        },
+        {
+          "key": "C",
+          "text": "Yönetmenin son filmi gişede beklenen başarıyı gösteremedi."
+        },
+        {
+          "key": "D",
+          "text": "Konuşmamda hazırlıksız olmam sebebiyle dinleyicilere mesajımı yeterince net aktaramadım."
+        },
+        {
+          "key": "E",
+          "text": "Sanatçının sergideki tablolarında renk uyumu dikkat çekici boyuttaydı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde konuşmacı, kendi hazırlıksızlığını ve mesajı yeterince net aktaramadığını ifade ederek kendi eylemini doğrudan eleştirmekte, yani öz eleştiri yapmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-10",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "'Hayıflanma', yapılmayan veya kaçırılan bir fırsattan dolayı duyulan üzüntüyü ifade ederken; 'pişmanlık' yapılan bir davranışın sonucundan duyulan rahatsızlığı belirtir. Buna göre aşağıdaki cümlelerin hangisinde bir 'hayıflanma' söz konusudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Onu herkesin içinde sert bir dille eleştirmemeliydim."
+        },
+        {
+          "key": "B",
+          "text": "Keşke o kadar parayı işe yaramaz bir cihaza vermeseydim."
+        },
+        {
+          "key": "C",
+          "text": "Sınavda acele edip soruları dikkatli okumadığım için üzgünüm."
+        },
+        {
+          "key": "D",
+          "text": "Öfkeyle hareket edip kalbini kırdığım için kendimi affetmiyorum."
+        },
+        {
+          "key": "E",
+          "text": "Gençlik yıllarımda bol bol kitap okuyup ufkumu genişletmek vardı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde geçmişte yapılmayan bir durumdan (gençlikte bol okumamak) dolayı duyulan üzüntü verilmiştir; bu durum hayıflanmadır. A, B, C ve D seçeneklerinde ise yapılmış bir eylemden duyulan pişmanlık anlatılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-11",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Gerçekleşmemiş bir olayı veya durumu bir an için gerçekleşmiş gibi kabul etmeyi bildiren cümlelere 'varsayım cümlesi' denir. Aşağıdaki cümlelerin hangisinde varsayım anlamı vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tut ki sınavdan beklediğin puanı alamadın, B planın nedir?"
+        },
+        {
+          "key": "B",
+          "text": "Sanırım akşam saatlerinde hafif bir kar yağışı başlayacak."
+        },
+        {
+          "key": "C",
+          "text": "Belki yarınki toplantıya şirket yetkilileri de katılır."
+        },
+        {
+          "key": "D",
+          "text": "Yarın sabah erkenden otobüse binip köye gidebiliriz."
+        },
+        {
+          "key": "E",
+          "text": "Büyük ihtimalle bu projeyi ay sonuna kadar teslim ederiz."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde kullanılan 'Tut ki...' ifadesi, henüz gerçekleşmemiş bir durumu geçici olarak olmuş kabul etmeyi sağlayan bir varsayım kalıbıdır. B, C, D ve E seçenekleri ise olasılık veya tahmin bildirmektedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-12",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir durumun veya olayın zamana bağlı olarak kademeli bir şekilde değişmesini anlatan cümlelere 'aşamalı durum bildiren cümleler' denir. Aşağıdaki cümlelerin hangisinde aşamalı bir durum anlatılmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hava aniden soğuyunca sokaktaki insanlar evlerine çekildi."
+        },
+        {
+          "key": "B",
+          "text": "Hasta, verilen yeni ilaç tedavisi sayesinde günden güne iyileşiyor."
+        },
+        {
+          "key": "C",
+          "text": "Sınav saatine doğru öğrencilerin heyecanı tavan yapmıştı."
+        },
+        {
+          "key": "D",
+          "text": "Elektriklerin kesilmesiyle birlikte tüm fabrika karanlığa gömüldü."
+        },
+        {
+          "key": "E",
+          "text": "Şirket yönetimi radikal kararlar alarak yeni bir yapılanmaya gitti."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde yer alan 'günden güne' ifadesi, iyileşme sürecinin zaman içinde kademeli olarak gerçekleştiğini (aşamalılık) açıkça gösterir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-13",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Çok tekrarlanması sebebiyle bir duruma alışmak, artık ondan etkilenmez veya şaşırmaz hâle gelmek durumuna 'kanıksama' denir. Aşağıdaki cümlelerin hangisinde kanıksama anlamı vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sürekli aynı hataları yapmasına rağmen kimse ona ders vermiyordu."
+        },
+        {
+          "key": "B",
+          "text": "Yol boyunca uzanan yeşil tarlaları seyrederken huzur buluyordu."
+        },
+        {
+          "key": "C",
+          "text": "Mahalledeki bitmek bilmeyen inşaat gürültüsüne artık hiçbirimiz tepki vermiyoruz."
+        },
+        {
+          "key": "D",
+          "text": "Her zamanki gibi randevusuna geç kalınca salondakiler söylenmeye başladı."
+        },
+        {
+          "key": "E",
+          "text": "Beklediğimiz haber bir türlü gelmeyince hepimiz büyük bir endişeye kapıldık."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde inşaat gürültüsünün zamanla çok tekrarlanması sonucu mahallelinin duruma alışması ve tepki vermez hâle gelmesi kanıksama durumunu örneklendirmektedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-14",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "\"Dünyada her yıl üretilen gıdaların üçte biri, henüz tüketiciye ulaşmadan tedarik zincirindeki aksaklıklar sebebiyle israf edilmektedir.\" cümlesinden kesin olarak çıkarılabilecek yargı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gıda israfının tek kaynağı tüketim sonrasındaki hatalı kullanımlardır."
+        },
+        {
+          "key": "B",
+          "text": "Dünyadaki gıda yetersizliğinin ana sebebi tarımsal üretimin düşüklüğüdür."
+        },
+        {
+          "key": "C",
+          "text": "İsraf edilen gıdaların tamamı gelişmekte olan ülkelerde yer alır."
+        },
+        {
+          "key": "D",
+          "text": "Tüketiciye ulaşan gıda miktarı, tedarik zincirinde kaybolan gıda miktarından daha fazladır."
+        },
+        {
+          "key": "E",
+          "text": "Tedarik zinciri iyileştirilirse dünyada gıda üretimine ihtiyaç kalmaz."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Cümlede üretilen gıdanın 1/3'ünün israf edildiği belirtilmiştir. Bu durumda gıdanın kalan 2/3'lük kısmı tüketiciye ulaşmaktadır. 2/3 oranı 1/3'ten büyük olduğu için tüketiciye ulaşan gıda miktarı israf edilen miktardan kesinlikle daha fazladır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-15",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir kimsenin yaptığı bir hareketten veya söylediği sözden dolayı duyulan üzüntünün, kırıcı olmadan sitemkâr bir dille kendisine bildirilmesine 'sitem' denir. Aşağıdaki cümlelerin hangisinde sitem anlamı vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu kadar uyarıya rağmen aynı hatayı tekrarlamana inanamıyorum."
+        },
+        {
+          "key": "B",
+          "text": "Bütün gün o sıcakta beklediğim için kendime kızıyorum."
+        },
+        {
+          "key": "C",
+          "text": "Keşke onunla o şekilde sert konuşup kalbini kırmasaydım."
+        },
+        {
+          "key": "D",
+          "text": "Zamanında yatırım yapıp bu fırsatı değerlendirmeliydik."
+        },
+        {
+          "key": "E",
+          "text": "Memlekete kadar geldin de bir çayımı içmeye uğramadın."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde kişinin şehre gelip de uğramamasına duyulan hassasiyet ve üzüntü, öfke içermeyen sitemkâr bir tonla ifade edilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-16",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir kimse veya olay hakkında yeterli bilgiye sahip olmadan önceden varılan olumlu ya da olumsuz peşin kararlara 'ön yargı' denir. Aşağıdaki cümlelerin hangisinde ön yargılı bir tutum sergilenmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ne kadar çalışırsa çalışsın bu zor sınavı kazanması mümkün değil."
+        },
+        {
+          "key": "B",
+          "text": "Sınav sonuçları açıklandıktan sonra durumu yeniden değerlendireceğiz."
+        },
+        {
+          "key": "C",
+          "text": "Son yazdığı kitap ilk haftadan itibaren satış rekorları kırdı."
+        },
+        {
+          "key": "D",
+          "text": "Takımımız bu maçta oldukça hırslı ve istekli bir oyun sergiledi."
+        },
+        {
+          "key": "E",
+          "text": "Proje sunumunu zamanında tamamlamak için gece geç saatlere kadar çalıştılar."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde henüz sınav gerçekleşip sonuçlanmadan, kişinin çalışmasına veya performansına bakılmaksızın 'kazanmasının mümkün olmadığı' yönünde peşin ve olumsuz bir yargı yürütülmüştür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-17",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Nesnel bir veriden, gözlemden veya durumdan yola çıkarak kişisel bir sonuca varılmasına 'çıkarım' denir. Aşağıdaki cümlelerin hangisinde bir çıkarım yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehrin tarihi bölgesindeki restorasyon çalışmaları hız kesmeden devam ediyor."
+        },
+        {
+          "key": "B",
+          "text": "Yazarın son kitabının dördüncü baskıyı yapması, okuyucunun bu tarz öykülere ilgi duyduğunu gösteriyor."
+        },
+        {
+          "key": "C",
+          "text": "Kütüphanedeki sessizlik, öğrencilerin verimli çalışmasını kolaylaştırıyordu."
+        },
+        {
+          "key": "D",
+          "text": "Üniversite senatosu bahar dönemi ders programını internet sitesinde ilan etti."
+        },
+        {
+          "key": "E",
+          "text": "Mağaza açılışına katılan davetlilere çeşitli hediyeler dağıtıldı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde 'kitabın dördüncü baskıyı yapması' nesnel bir veridir. Bu veriden hareketle 'okuyucunun bu tarz öykülere ilgi duyduğu' sonucuna ulaşılması bir çıkarımdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-18",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Aralarında ilişki bulunan iki kavram, durum ya da varlığın benzer veya farklı yönlerinin ortaya konulmasına 'karşılaştırma' denir. Aşağıdaki cümlelerin hangisinde karşılaştırma yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sahildeki küçük çay bahçesinde dostlarla sohbet etmek çok keyifliydi."
+        },
+        {
+          "key": "B",
+          "text": "Yağmurun ardından gökyüzünde beliren gökkuşağı rengârenk görüntüler sundu."
+        },
+        {
+          "key": "C",
+          "text": "Bu yılki fuar, geçen yılkine göre çok daha geniş bir katılımcı kitlesine ulaştı."
+        },
+        {
+          "key": "D",
+          "text": "Şehrin gürültüsünden uzaklaşmak isteyenler hafta sonu yaylalara akın etti."
+        },
+        {
+          "key": "E",
+          "text": "Okul tiyatrosunun hazırladığı oyun izleyicilerden büyük alkış topladı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde 'bu yılki fuar' ile 'geçen yılki fuar' katılımcı kitlesinin genişliği bakımından 'göre' edatı kullanılarak kıyaslanmış ve karşılaştırma yapılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-19",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Bir eser, sanatçı ya da durum hakkında inceleme sonucunda bir görüş veya yargı ortaya koymaya 'değerlendirme' denir. Aşağıdaki cümlelerin hangisinde bir eser hakkında değerlendirme yapılmamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazar, karakterlerin ruh hallerini betimlerken psikolojik derinliği yakalamayı başarmış."
+        },
+        {
+          "key": "B",
+          "text": "Şairin son şiirindeki imgeler, okuyucuda özgün ve güçlü izlenimler bırakıyor."
+        },
+        {
+          "key": "C",
+          "text": "Tiyatro oyunundaki dekor ve kostüm seçimi oyunun dönem ruhunu başarıyla yansıtıyor."
+        },
+        {
+          "key": "D",
+          "text": "Romancı, beşinci kitabını gelecek ay düzenlenecek imza gününde okurlarıyla buluşturacak."
+        },
+        {
+          "key": "E",
+          "text": "Filmin senaryosu, toplumsal sorunlara getirdiği gerçekçi yaklaşımla takdiri hak ediyor."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde sadece gelecek bir etkinliğe ilişkin duyuru verilmiştir; eser üzerine herhangi bir eleştirel inceleme, görüş veya değerlendirme bildirilmemiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-20",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Geleceğe yönelik bir düşüncenin, umudun veya planın gerçekleşmediğini belirten cümlelere 'gerçekleşmemiş beklenti cümlesi' denir. Aşağıdaki cümlelerin hangisinde gerçekleşmemiş bir beklenti söz konusudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mezuniyetten sonra birlikte ortak bir mimarlık bürosu açmayı planlıyoruz."
+        },
+        {
+          "key": "B",
+          "text": "Sanırım bu yılki tatilde Ege sahillerine doğru bir geziye çıkacağız."
+        },
+        {
+          "key": "C",
+          "text": "Umarız yeni aldığımız bu cihaz uzun yıllar sorunsuz şekilde çalışır."
+        },
+        {
+          "key": "D",
+          "text": "Sınavı kazandığını duyunca o akşam kutlama yapacağımızı düşünmüştüm."
+        },
+        {
+          "key": "E",
+          "text": "Onun bu önemli toplantıda bize destek olacağını sanmıştık ama gelmedi bile."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde 'bize destek olacağı' yönündeki beklentinin 'gelmedi bile' ifadesiyle boşa çıktığı, yani gerçekleşmediği açıkça belirtilmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlede-anlam-72",
+      "topic_id": "topic-turkce-cumlede-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde 'varsayım' anlamı vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keşke daha önce gelseydin."
+        },
+        {
+          "key": "B",
+          "text": "Diyelim ki yarın sınav iptal oldu, ne yaparsın?"
+        },
+        {
+          "key": "C",
+          "text": "Bence bu kitap okunmaya değer."
+        },
+        {
+          "key": "D",
+          "text": "Yağmur yağacağı için dışarı çıkmadık."
+        },
+        {
+          "key": "E",
+          "text": "Sınavı kazanırsam hediye alacağım."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Varsayım, gerçekleşmemiş bir durumu gerçekleşmiş gibi kabul etmektir; 'diyelim ki' ifadesi bu anlamı taşır.",
+      "difficulty_level": 2
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-yer-sekilleri",
+  "title": "Türkiye'nin Yer Şekilleri",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-yer-sekilleri",
+    "topic_id": "topic-cog-yer-sekilleri",
+    "title": "Türkiye'nin Yer Şekilleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'nin Yer Şekilleri' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'nin Yer Şekilleri konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'nin Yer Şekilleri başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'nin Yer Şekilleri konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Türkiye'nin Ortalama Yükseltisi",
+        "body": "Türkiye'nin ortalama yükseltisi 1132 metredir. Yükselti genel olarak batıdan doğuya doğru gidildikçe artar."
+      },
+      {
+        "card_number": 2,
+        "title": "Orojenez (Dağ Oluşumu) Türleri",
+        "body": "Kıvrım Dağlar (Toroslar ve Kuzey Anadolu Dağları) ve Kırık Dağlar (Ege'deki Kaz, Yunt, Bozdağlar, Aydın, Menteşe - Horst/Graben)."
+      },
+      {
+        "card_number": 3,
+        "title": "Volkanik Dağlarımız (Şifre: KEK - SAN)",
+        "body": "Doğu Anadolu: Ağrı, Tendürek, Süphan, Nemrut. İç Anadolu: Erciyes, Hasan Dağ, Melendiz, Karadağ, Karacadağ."
+      },
+      {
+        "card_number": 4,
+        "title": "Epirojenez (Kıta Oluşumu) Örnekleri",
+        "body": "Türkiye Alp-Himalaya orojenezi sonrası III. ve IV. Jeolojik zamanda toptan yükselmiştir. Çukurova ve Ergene çöküntü alanlarıdır."
+      },
+      {
+        "card_number": 5,
+        "title": "Karstik Aşınım ve Birikim Şekilleri",
+        "body": "Kireç taşı (Kalker), Jips ve Kaya tuzu arazilerde görülür. Lapya -> Dolin -> Uvala -> Polye (En büyük aşınım) ve Traverten (Birikim)."
+      },
+      {
+        "card_number": 6,
+        "title": "Rüzgarların En Etkili Olduğu Bölgeler",
+        "body": "Bitki örtüsünün cılız, iklimin kurak olduğu İç Anadolu ve Güneydoğu Anadolu'da rüzgar aşınım (Mantar kaya) ve birikim (Kumul) şekilleri görülür."
+      },
+      {
+        "card_number": 7,
+        "title": "Buzul (Glasyal) Şekilleri Yükseltisi",
+        "body": "Türkiye'de buzul şekilleri 2000-2200 metrenin üzerindeki yüksek dağlarda (Hakkari Cilo, Kaçkarlar, Erciyes, Ağrı, Uludağ) görülür."
+      },
+      {
+        "card_number": 8,
+        "title": "Delta Ovalarımızın Oluşum Şartları",
+        "body": "Kıyıda derinliğin az olması (sığ kıyı), kıyı akıntısının zayıf olması ve akarsuyun bol alüvyon taşıması gerekir."
+      },
+      {
+        "card_number": 9,
+        "title": "Önemli Delta Ovalarımız",
+        "body": "Karadeniz: Bafra (Kızılırmak), Çarşamba (Yeşilırmak). Akdeniz: Çukurova (Seyhan-Ceyhan), Silifke (Göksu). Ege: Dikili, Menemen, Selçuk, Balat."
+      },
+      {
+        "card_number": 10,
+        "title": "Fay Hatlarımız ve Deprem Risk Alanları",
+        "body": "Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay hatları aktiftir. Tuz Gölü çevresi, Taşeli ve Ergene deprem riski düşük alanlardır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-yer-sekilleri-1",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'nin bulunduğu coğrafyanın bugünkü genel görünümünü kazanmasında en etkili jeolojik dönem hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paleozoik"
+        },
+        {
+          "key": "B",
+          "text": "Mezozoik"
+        },
+        {
+          "key": "C",
+          "text": "Kuvaterner"
+        },
+        {
+          "key": "D",
+          "text": "Tersiyer (Neojen)"
+        },
+        {
+          "key": "E",
+          "text": "Prekambriyen"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Türkiye'nin günümüzdeki yer şekillerinin büyük kısmı, Tersiyer (Neojen) dönemindeki şiddetli orojenik hareketlerle oluşmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-2",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de dağların kıyıya paralel uzandığı kıyılarda görülen kıyı tipi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dalmaçya"
+        },
+        {
+          "key": "B",
+          "text": "Boyuna"
+        },
+        {
+          "key": "C",
+          "text": "Enine"
+        },
+        {
+          "key": "D",
+          "text": "Ria"
+        },
+        {
+          "key": "E",
+          "text": "Limanlı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Karadeniz ve Akdeniz'de dağlar kıyıya paralel uzandığı için boyuna kıyı tipi görülür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-3",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdakilerden hangisi Türkiye'nin oluşumunda etkili olan iç kuvvetlerden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orojenez"
+        },
+        {
+          "key": "B",
+          "text": "Epirojenez"
+        },
+        {
+          "key": "C",
+          "text": "Volkanizma"
+        },
+        {
+          "key": "D",
+          "text": "Akarsular"
+        },
+        {
+          "key": "E",
+          "text": "Depremler"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Akarsular, dış kuvvetlerdendir. Orojenez, epirojenez, volkanizma ve depremler iç kuvvetlerdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-4",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'nin kuzeyinde Kuzey Anadolu Dağları'nı oluşturan dağ sistemi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toroslar"
+        },
+        {
+          "key": "B",
+          "text": "Alp-Himalaya Kıvrım Sistemi"
+        },
+        {
+          "key": "C",
+          "text": "Kuzey Anadolu Fay Hattı (KAF)"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu Fay Hattı (DAF)"
+        },
+        {
+          "key": "E",
+          "text": "Batı Anadolu Fay Hattı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'nin kuzeyindeki dağlar, Alp-Himalaya kıvrım kuşağı içerisinde yer alan Kuzey Anadolu Dağlarıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-5",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdaki platolardan hangisi karstik oluşumludur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Obruk"
+        },
+        {
+          "key": "B",
+          "text": "Erzurum-Kars"
+        },
+        {
+          "key": "C",
+          "text": "Haymana"
+        },
+        {
+          "key": "D",
+          "text": "Cihanbeyli"
+        },
+        {
+          "key": "E",
+          "text": "Yazılıkaya"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Obruk Platosu, kireç taşı (kalker) yapısı nedeniyle karstik bir platodur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-6",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de volkanik dağların en yoğun olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege"
+        },
+        {
+          "key": "B",
+          "text": "Marmara"
+        },
+        {
+          "key": "C",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "E",
+          "text": "Akdeniz"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Erciyes, Hasan Dağı, Melendiz gibi volkanik dağlar nedeniyle İç Anadolu Bölgesi volkanik dağların en yoğun olduğu yerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-7",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de Delta ovası oluşabilmesi için aşağıdakilerden hangisi şarttır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kıta sahanlığının geniş ve sığ olması"
+        },
+        {
+          "key": "B",
+          "text": "Dağların kıyıya dik uzanması"
+        },
+        {
+          "key": "C",
+          "text": "Akarsuların debisinin düşük olması"
+        },
+        {
+          "key": "D",
+          "text": "Kıyı akıntısının çok güçlü olması"
+        },
+        {
+          "key": "E",
+          "text": "Denizin çok derin olması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Delta oluşumu için kıta sahanlığının geniş ve sığ olması, akarsuyun bol alüvyon taşıması gerekir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-8",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'nin en büyük delta ovası hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çarşamba"
+        },
+        {
+          "key": "B",
+          "text": "Bafra"
+        },
+        {
+          "key": "C",
+          "text": "Çukurova"
+        },
+        {
+          "key": "D",
+          "text": "Silifke"
+        },
+        {
+          "key": "E",
+          "text": "Menemen"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çukurova, Seyhan ve Ceyhan nehirlerinin taşıdığı alüvyonlarla oluşmuş Türkiye'nin en büyük delta ovasıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-9",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdaki topraklardan hangisi zonal (yerli) toprak türü değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Terra Rossa"
+        },
+        {
+          "key": "B",
+          "text": "Çernezyom"
+        },
+        {
+          "key": "C",
+          "text": "Lös"
+        },
+        {
+          "key": "D",
+          "text": "Kahverengi Orman"
+        },
+        {
+          "key": "E",
+          "text": "Podzol"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Lös, dış kuvvetler (rüzgar) tarafından taşınan azonal bir topraktır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-10",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Ege Bölgesi'ndeki 'Horst' dağlar hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaz, Madra, Yunt, Aydın"
+        },
+        {
+          "key": "B",
+          "text": "Erciyes, Hasan Dağı"
+        },
+        {
+          "key": "C",
+          "text": "Kaçkar, Küre"
+        },
+        {
+          "key": "D",
+          "text": "Bolkar, Aladağlar"
+        },
+        {
+          "key": "E",
+          "text": "Süphan, Tendürek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ege Bölgesi'nde kırılma sonucu oluşan yükseltilere horst, alçak kısımlara graben denir. Kaz, Madra, Yunt, Aydın dağları horst örnekleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-11",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de buzul şekillerine en çok nerede rastlanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu alçak düzlükleri"
+        },
+        {
+          "key": "C",
+          "text": "Yüksek dağlık alanlar (Ağrı, Erciyes, Hakkari, Cilo)"
+        },
+        {
+          "key": "D",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Trakya plato alanı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye'de buzul şekillerine ancak yükseltisi fazla olan yüksek dağlarda (sirk gölleri, morenler) rastlanır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-12",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdakilerden hangisi Türkiye'nin genç oluşumlu bir ülke olduğunun kanıtıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yeraltı kaynaklarının çeşitliliği"
+        },
+        {
+          "key": "B",
+          "text": "Deprem riskinin ve sıcak su kaynaklarının fazla olması"
+        },
+        {
+          "key": "C",
+          "text": "İklim çeşitliliği"
+        },
+        {
+          "key": "D",
+          "text": "Kıyı uzunluğu"
+        },
+        {
+          "key": "E",
+          "text": "Bitki örtüsünün zenginliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Deprem riskinin yüksek olması, sıcak su kaynaklarının fazlalığı, genç oluşumlu (alp-himalaya) yapının kanıtıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-13",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Toroslar'da görülen 'Dalmaçya' kıyı tipine en iyi örnek hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Finike-Kaş kıyıları"
+        },
+        {
+          "key": "B",
+          "text": "İstanbul Boğazı"
+        },
+        {
+          "key": "C",
+          "text": "Çanakkale Boğazı"
+        },
+        {
+          "key": "D",
+          "text": "İzmir körfezi"
+        },
+        {
+          "key": "E",
+          "text": "Sinop yarımadası"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Antalya'nın Finike-Kaş kıyıları, adaların kıyıya paralel uzanmasıyla oluşan dalmaçya kıyı tipine örnektir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-14",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de 'Ria' kıyı tipine en iyi örnek hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul ve Çanakkale Boğazları"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz kıyıları"
+        },
+        {
+          "key": "C",
+          "text": "Antalya kıyıları"
+        },
+        {
+          "key": "D",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "E",
+          "text": "İskenderun Körfezi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Akarsu vadilerinin deniz altında kalmasıyla oluşan ria kıyı tipi, İstanbul ve Çanakkale Boğazlarında görülür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-15",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'nin nemli orman alanlarında en fazla görülen toprak türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Terra Rossa"
+        },
+        {
+          "key": "B",
+          "text": "Kahverengi Orman Toprakları"
+        },
+        {
+          "key": "C",
+          "text": "Çernezyom"
+        },
+        {
+          "key": "D",
+          "text": "Alüvyal"
+        },
+        {
+          "key": "E",
+          "text": "Regosol"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Karadeniz ve Marmara gibi nemli bölgelerdeki orman alanlarında kahverengi orman toprakları yaygındır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-16",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'deki 'Linyit' yataklarının oluşumu hangi jeolojik döneme aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paleozoik"
+        },
+        {
+          "key": "B",
+          "text": "Mezozoik"
+        },
+        {
+          "key": "C",
+          "text": "Tersiyer (3. Zaman)"
+        },
+        {
+          "key": "D",
+          "text": "Kuvaterner"
+        },
+        {
+          "key": "E",
+          "text": "Kambriyen"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye'deki yaygın linyit yatakları Tersiyer (3. zaman) döneminde oluşmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-17",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Ege Bölgesi'ndeki 'Graben' ovalarına aşağıdakilerden hangisi örnek değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gediz"
+        },
+        {
+          "key": "B",
+          "text": "Küçük Menderes"
+        },
+        {
+          "key": "C",
+          "text": "Büyük Menderes"
+        },
+        {
+          "key": "D",
+          "text": "Bakırçay"
+        },
+        {
+          "key": "E",
+          "text": "Konya Ovası"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Konya Ovası, İç Anadolu'da yer alan tektonik bir ovadır, Ege'deki grabenlerden değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-18",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdakilerden hangisi dış kuvvetlerin etkisiyle oluşan bir şekil değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Peri bacaları"
+        },
+        {
+          "key": "B",
+          "text": "Kanyon vadiler"
+        },
+        {
+          "key": "C",
+          "text": "Kırık dağlar (Horstlar)"
+        },
+        {
+          "key": "D",
+          "text": "Falezler"
+        },
+        {
+          "key": "E",
+          "text": "Tombolo"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kırık dağlar, yer kabuğunun iç basınçla kırılması sonucu oluşan bir iç kuvvettir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-19",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de 'Terra Rossa' (Kırmızı Akdeniz Toprakları) hangi bölgede daha çok görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Terra Rossa, Akdeniz iklim bölgesinde, kalkerli arazilerde demir oksitlenmesiyle oluşan kırmızı renkli topraklardır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-20",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de 'Çernezyom' (Kara Topraklar) en çok hangi yörede görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Erzurum-Kars Platosu"
+        },
+        {
+          "key": "B",
+          "text": "Çukurova"
+        },
+        {
+          "key": "C",
+          "text": "Konya Ovası"
+        },
+        {
+          "key": "D",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "E",
+          "text": "Marmara kıyıları"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Çernezyomlar, Erzurum-Kars gibi sert karasal iklimin hüküm sürdüğü yerlerdeki çayır örtüsü altında oluşur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-21",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdakilerden hangisi bir 'tombolo' (saplı ada) örneğidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sinop İnceburun Yarımadası"
+        },
+        {
+          "key": "B",
+          "text": "Çukurova"
+        },
+        {
+          "key": "C",
+          "text": "Büyük Menderes"
+        },
+        {
+          "key": "D",
+          "text": "Antalya falezleri"
+        },
+        {
+          "key": "E",
+          "text": "Kızılırmak deltası"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sinop İnceburun ve Kapıdağ Yarımadası, bir adanın kıyı oku ile karaya bağlanmasıyla oluşmuş tombololardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-22",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de 'kırgıbayır' (badlands) oluşumu en fazla nerede görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz kıyıları"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu kurak/yarı kurak alanları"
+        },
+        {
+          "key": "C",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "D",
+          "text": "Marmara düzlükleri"
+        },
+        {
+          "key": "E",
+          "text": "Akdeniz kıyıları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yarı kurak iklim bölgelerinde bitki örtüsünün cılız olduğu İç Anadolu'da sel sularının aşındırmasıyla kırgıbayır oluşur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-23",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Erciyes Dağı"
+        },
+        {
+          "key": "B",
+          "text": "Ağrı Dağı (5137 m)"
+        },
+        {
+          "key": "C",
+          "text": "Kaçkar Dağı"
+        },
+        {
+          "key": "D",
+          "text": "Süphan Dağı"
+        },
+        {
+          "key": "E",
+          "text": "Toroslar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ağrı Dağı (5137 m), Türkiye'nin en yüksek noktasıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-24",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de epirojenezin (alçalma-yükselme) en net kanıtlarından biri nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çukurova'nın oluşumu"
+        },
+        {
+          "key": "B",
+          "text": "Anadolu karasının toptan yükselmesi ve taraçalar"
+        },
+        {
+          "key": "C",
+          "text": "Peri bacaları"
+        },
+        {
+          "key": "D",
+          "text": "Falez oluşumu"
+        },
+        {
+          "key": "E",
+          "text": "Krater gölleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anadolu karasının toptan yükselmesi ve kıyı taraçaları epirojenik hareketlerin kanıtıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-25",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Aşağıdakilerden hangisi karstik bir çökelim birikim şeklidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Traverten"
+        },
+        {
+          "key": "B",
+          "text": "Barkan"
+        },
+        {
+          "key": "C",
+          "text": "Moren"
+        },
+        {
+          "key": "D",
+          "text": "Delta"
+        },
+        {
+          "key": "E",
+          "text": "Peneplen"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Traverten, kireçli suların çökmesiyle oluşan karstik bir birikim şeklidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-26",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'nin kıyı uzunluğu ve yaygınlığı göz önüne alındığında en hakim kıyı tipi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Enine"
+        },
+        {
+          "key": "B",
+          "text": "Boyuna kıyılar"
+        },
+        {
+          "key": "C",
+          "text": "Dalmaçya"
+        },
+        {
+          "key": "D",
+          "text": "Ria"
+        },
+        {
+          "key": "E",
+          "text": "Fiyort"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'de dağların kıyıya paralel uzandığı Akdeniz ve Karadeniz kıyılarında boyuna kıyılar en geniş alana sahiptir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-27",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Toprağı rüzgar ve su aşındırmasına karşı koruyan en önemli 'koruyucu' unsur nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akarsu debisi"
+        },
+        {
+          "key": "B",
+          "text": "Gür bitki örtüsü"
+        },
+        {
+          "key": "C",
+          "text": "Buzullar"
+        },
+        {
+          "key": "D",
+          "text": "Rüzgar hızı"
+        },
+        {
+          "key": "E",
+          "text": "Dalgalar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bitki örtüsü, dış kuvvetlerin (rüzgar, yağmur) toprağı süpürmesini ve erozyonu engellediği için koruyucudur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-28",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de karstik arazilerde görülen dik yamaçlı derin vadi tipi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geniş tabanlı vadi"
+        },
+        {
+          "key": "B",
+          "text": "Çentik vadi"
+        },
+        {
+          "key": "C",
+          "text": "Kanyon vadi"
+        },
+        {
+          "key": "D",
+          "text": "Alüvyal vadi"
+        },
+        {
+          "key": "E",
+          "text": "Asimetrik vadi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kanyon vadiler, özellikle Akdeniz'deki kalkerli (karstik) arazilerde oluşan dik yamaçlı vadilerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-29",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Türkiye'de kimyasal çözünmeyi ve dolayısıyla toprak oluşumunu hızlandıran ana iklim faktörü nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yüksek sıcaklık ve bol nem/yağış"
+        },
+        {
+          "key": "B",
+          "text": "Eğim"
+        },
+        {
+          "key": "C",
+          "text": "Denize uzaklık"
+        },
+        {
+          "key": "D",
+          "text": "Rüzgar hızı"
+        },
+        {
+          "key": "E",
+          "text": "Nüfus"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sıcaklık ve yağışın (nem) fazla olduğu kıyı bölgelerinde kimyasal çözünme arttığı için toprak oluşumu daha hızlıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-yer-sekilleri-30",
+      "topic_id": "topic-cog-yer-sekilleri",
+      "question_text": "Buzulların taşıyıp biriktirdiği kırıntılı kaya ve toprak örtüsüne ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sirk gölü"
+        },
+        {
+          "key": "B",
+          "text": "Hörgüç kaya"
+        },
+        {
+          "key": "C",
+          "text": "Moren"
+        },
+        {
+          "key": "D",
+          "text": "Buzul vadisi"
+        },
+        {
+          "key": "E",
+          "text": "Fiyort"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Moren, buzulların eriterek aşındırıp biriktirdiği kaya ve toprak parçalarıdır.",
+      "difficulty_level": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-sozel-mantik",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Sözel Mantık Tablo Kurma",
+      "body": "Verilen bilgilere göre sabit olan öge (günler, katlar, kişiler) tablo başlığı yapılır; değişken unsurlar tabloya yerleştirilir."
+    },
+    {
+      "card_number": 2,
+      "title": "Kesin Bilgiler İle Başla",
+      "body": "Metinde 'kesinlikle', 'tam olarak' şeklinde belirtilen bilgileri doğrudan tabloya işleyin; olasılıkları kenara not edin."
+    },
+    {
+      "card_number": 3,
+      "title": "Olasılıkları İki Tablo ile Çöz",
+      "body": "İki farklı ihtimal varsa tek tabloda karıştırmak yerine 1. ve 2. ihtimal tabloları oluşturup ayrı ayrı deneyin."
+    },
+    {
+      "card_number": 4,
+      "title": "Sıralama Soruları Taktiği",
+      "body": "Önce-sonra, hemen önünde-hemen arkasında ifadelerine dikkat edin; paket (blok) bilgiler (örn: A ve B peş peşe) oluşturun."
+    },
+    {
+      "card_number": 5,
+      "title": "Eşleştirme Soruları Taktiği",
+      "body": "Kişi-ürün veya kişi-şehir eşleştirmelerinde sayıca az olan grubu sabit başlık olarak tabloya yerleştirin."
+    },
+    {
+      "card_number": 6,
+      "title": "Olumsuz İfadeleri Kaçırma",
+      "body": "'A kişisi X ürününü almamıştır' gibi olumsuz verileri tablonun ilgili hücresine üstü çizili olarak not edin."
+    },
+    {
+      "card_number": 7,
+      "title": "Kalan Ögeler Mantığı",
+      "body": "Tabloda dolmayan boşluklara sadece geriye kalan ögeler girebilir; seçeneklerde bu kalan ögeleri sorgulayın."
+    },
+    {
+      "card_number": 8,
+      "title": "Paket (Blok) Oluşturma",
+      "body": "'A ile B arasından bir kişi vardır' ifadesini A _ B şeklinde paket yapıp tablo boşluklarına sığdırın."
+    },
+    {
+      "card_number": 9,
+      "title": "Soru Köküne Göre Çözüm",
+      "body": "'Hangisi kesinlikle doğrudur?' sorularında her iki olasılıkta da değişmeyen tek ortak bilgiyi arayın."
+    },
+    {
+      "card_number": 10,
+      "title": "Zaman Yönetimi Altın Kuralı",
+      "body": "Tabloyu doğru kurmak sorunun %80'ini çözer. Tablo kurulumuna 1.5-2 dakika ayırmaktan çekinmeyin, sorular saniyeler içinde çözülecektir."
+    }
+  ]
+}

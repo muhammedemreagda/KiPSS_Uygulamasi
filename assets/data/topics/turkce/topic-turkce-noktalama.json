@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-noktalama",
+  "title": "Noktalama İşaretleri",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-noktalama",
+    "topic_id": "topic-turkce-noktalama",
+    "title": "Noktalama İşaretleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Noktalama İşaretleri' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Noktalama İşaretleri konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nNoktalama İşaretleri başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Noktalama İşaretleri konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Nokta (.) Kullanım Alanları",
+        "body": "Cümlenin sonuna, bazı kısaltmaların sonuna (Dr.), sayılardan sonra sıra bildirmek için (3.) ve tarihlerin arasına konur."
+      },
+      {
+        "card_number": 2,
+        "title": "Virgül (,) Altın Kuralları",
+        "body": "Eş görevli sözcükleri ayırmak, sıralı cümleleri bölmek ve özneyi vurgulamak için konur. Metinde ve, veya, de, ki bağlaçlarından önce/sonra konmaz!"
+      },
+      {
+        "card_number": 3,
+        "title": "Noktalı Virgül (;) Şifresi",
+        "body": "Cümle içinde virgüllerle ayrılmış tür veya takımları ayırmak ve ögeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır."
+      },
+      {
+        "card_number": 4,
+        "title": "İki Nokta (:) Kullanımı",
+        "body": "Kendisiyle ilgili örnek verilecek veya açıklama yapılacak cümlenin sonuna konur. İki noktadan sonra gelen açıklama cümle ise büyük, örnekler dizisiyse küçük başlar."
+      },
+      {
+        "card_number": 5,
+        "title": "Üç Nokta (...) Kullanımı",
+        "body": "Tamamlanmamış (eksiltili) cümlelerin sonuna ve kaba sayıldığı için açıklanmak istenmeyen kelimelerin yerine konur."
+      },
+      {
+        "card_number": 6,
+        "title": "Soru İşareti (?) İpucu",
+        "body": "Soru eki veya sözü içeren cümlelerin sonuna konur. Soru ifadesi taşıyan ancak yan cümlecik olan yapılarda konmaz (Ne zaman geleceğini bilmiyorum.)."
+      },
+      {
+        "card_number": 7,
+        "title": "Ünlem İşareti (!) Kullanımı",
+        "body": "Sevinç, korku, şaşma gibi duyguları belirten söz veya cümlelerin sonuna konur. Yay ayraç içinde (!) alay/küçümseme anlamı katar."
+      },
+      {
+        "card_number": 8,
+        "title": "Kısa Çizgi (-) Kullanımı",
+        "body": "Satıra sığmayan kelimeleri bölerken, kelimelerin kök ve eklerini ayırırken ve ara sözlerin başında/sonunda kullanılır."
+      },
+      {
+        "card_number": 9,
+        "title": "Kesme İşareti (') Kullanımı",
+        "body": "Özel isimlere gelen çekim eklerini ayırmak için kullanılır. Kurum, kuruluş ve kurul adlarına gelen ekler kesmeyle ayrılmaz! (Türk Dil Kurumuna)"
+      },
+      {
+        "card_number": 10,
+        "title": "Tırnak İşareti (\") Kullanımı",
+        "body": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler ile özellikle vurgulanmak istenen sözler tırnak içine alınır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-noktalama-1",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Metin içinde zarf-fiil eki (-ıp, -arak, -ınca, -dikçe vb.) almış sözcüklerden sonra virgül konmaz. Ancak zarf-fiil eki almış sözcükler art arda sıralanmışsa aralarına virgül konur. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için noktalama hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sabah erkenden kalkıp, sahil boyunca yürüyüş yapmayı alışkanlık edinmişti."
+        },
+        {
+          "key": "B",
+          "text": "Sınav maratonunu tamamlayıp, sonuçları bekleyip rahat bir nefes aldı."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler sınıfa girip sıralarına sessizce oturdular."
+        },
+        {
+          "key": "D",
+          "text": "Soruları dikkatle okuyarak, inceleyerek cevap kâğıdına işaretledi."
+        },
+        {
+          "key": "E",
+          "text": "Güneş batınca ortalık yavaşça kararmaya başladı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Metin içinde tek başına kullanılan zarf-fiil eki almış sözcüklerden sonra virgül konmaz. A seçeneğindeki 'kalkıp' zarf-fiilinden sonra virgül konulması noktalama hatasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-2",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) 'ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak' amacıyla kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Erkek çocuklara Ahmet, Mehmet; kız çocuklara ise Ayşe, Fatma isimleri verilir."
+        },
+        {
+          "key": "B",
+          "text": "At ölür, meydan kalır; yiğit ölür, şan kalır."
+        },
+        {
+          "key": "C",
+          "text": "Yeni şiirimiz; sade, akıcı ve özgün diliyle dikkat çekiyordu."
+        },
+        {
+          "key": "D",
+          "text": "Pazardan elma, armut; marketten ise deterjan, sabun satın aldı."
+        },
+        {
+          "key": "E",
+          "text": "Yazar; romanda, öyküde ve tiyatroda başarılı eserler vermiştir."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde virgülle ayrılmış iki ayrı sıralı cümle ('At ölür, meydan kalır' ile 'yiğit ölür, şan kalır') noktalı virgülle (;) birbirine bağlanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-3",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Kendisiyle ilgili örnek verilecek cümlenin sonuna iki nokta (:) konur. İki noktadan sonra gelen kısım örnek niteliğindeki özel isim olmayan sözcüklerden oluşuyorsa küçük harfle başlar. Aşağıdaki cümlelerin hangisinde iki noktadan sonra büyük harfle başlanarak bir yazım/noktalama hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milli Edebiyat akımının temsilcilerinden bazılarını sıralayalım: Ömer Seyfettin, Ziya Gökalp, Ali Canip Yöntem."
+        },
+        {
+          "key": "B",
+          "text": "Bahçede rengârenk çiçekler vardı: Gül, lale, karanfil, sümbül."
+        },
+        {
+          "key": "C",
+          "text": "Yazarın en büyük hedefi şuydu: Toplumsal sorunlara edebiyat aracılığıyla ışık tutmak."
+        },
+        {
+          "key": "D",
+          "text": "Size tek bir tavsiyem var: Her gün en az otuz sayfa kitap okumalısınız."
+        },
+        {
+          "key": "E",
+          "text": "Toplantıda şu iki konu görüşüldü: Bütçe planlaması ve personel alımı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İki noktadan sonra bir cümle değil de özel isim olmayan örnekler sıralanıyorsa ilk sözcük küçük harfle başlar. B seçeneğinde cins isim olan 'gül' sözcüğünün 'Gül' şeklinde büyük harfle başlatılması hatadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-4",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Özel adlara getirilen iyelik, durum ve ilgi ekleri kesme işaretiyle ayrılır. Ancak özel adlara getirilen yapım ekleri, çokluk eki ve kurum/kuruluş adlarına gelen ekler kesmeyle ayrılmaz. Buna göre aşağıdaki cümlelerin hangisinde kesme işaretinin (') kullanımı **doğrudur**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkçe'nin zengin söz varlığını korumak hepimizin ortak görevidir."
+        },
+        {
+          "key": "B",
+          "text": "İstanbullu'ların tarihi yapılara olan ilgisi günden güne artıyor."
+        },
+        {
+          "key": "C",
+          "text": "Türk Dil Kurumu'na yapılan aday üyelik başvuruları değerlendirildi."
+        },
+        {
+          "key": "D",
+          "text": "Cumhuriyet Dönemi'nde kaleme alınan eserler sergide yerini aldı."
+        },
+        {
+          "key": "E",
+          "text": "Avrupalı'laşma sürecinde milli kültür değerlerimizi korumalıyız."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Tarihi dönem ve devir adlarına getirilen çekim ekleri kesme işaretiyle ayrılır ('Cumhuriyet Dönemi'nde'). A, B ve E seçeneklerinde yapım ekinden sonra gelen ekler kesmeyle ayrılmamalıdır; C seçeneğinde ise kurum adlarına gelen ekler kesmeyle ayrılmaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-5",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Anlatım olarak tamamlanmamış (yüklemi bulunmayan) cümlelerin sonuna üç nokta (...) konur. Aşağıdaki cümlelerin hangisinde üç noktanın kullanımı **yanlıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kentin tarihi sokaklarında sessiz ve huzurlu bir yürüyüş..."
+        },
+        {
+          "key": "B",
+          "text": "Penceremizin karşısında masmavi bir deniz, martı sesleri..."
+        },
+        {
+          "key": "C",
+          "text": "Sokağın başında yaşlı bir adam, elinde ağır çuvallar..."
+        },
+        {
+          "key": "D",
+          "text": "Okul kütüphanesinde aradığı tüm kaynak kitapları buldu..."
+        },
+        {
+          "key": "E",
+          "text": "Derin vadilerin arasından süzülen coşkun bir nehir..."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 'buldu' yüklemi mevcuttur. Yüklemi olan tamamlanmış yargıların sonuna üç nokta değil, nokta (.) konmalıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-6",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Anadolu’nun bu şirin kasabasında neler yok ki ( ) Tarihi konaklar ( ) gürül gürül akan dereler ( ) yemyeşil meyve bahçeleri ( ) Bütün bunlar insanı büyülemeye yetiyor ( )\n\nBu parçada yay ayraçla ( ) gösterilen yerlere sırasıyla aşağıdaki noktalama işaretlerinden hangileri getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(:) (,) (,) (...) (.)"
+        },
+        {
+          "key": "B",
+          "text": "(.) (,) (,) (.) (.)"
+        },
+        {
+          "key": "C",
+          "text": "(:) (;) (,) (...) (.)"
+        },
+        {
+          "key": "D",
+          "text": "(;) (,) (,) (.) (...)"
+        },
+        {
+          "key": "E",
+          "text": "(:) (,) (;) (.) (.)"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İlk boşluğa örnek açıklama geleceği için 'iki nokta (:)', eş görevli sözcükler arasına 'virgül (,)', örnekler devam edip yüklem bulunmadığı için 'üç nokta (...)', son tamamlanmış cümleye ise 'nokta (.)' getirilmelidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-7",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Cümle içindeki ara sözleri veya ara cümleleri ayırmak için ara sözlerin veya ara cümlelerin başına ve sonuna virgül (,) ya da kısa çizgi (-) konur. Aşağıdaki cümlelerin hangisinde kısa çizginin kullanımı **yanlıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğup büyüdüğüm kenti -Ankara'yı- hiç unutamadım."
+        },
+        {
+          "key": "B",
+          "text": "Tüm uyarılara rağmen -okula geç gelen öğrenciler- salona alınmadı."
+        },
+        {
+          "key": "C",
+          "text": "Ankara - İstanbul otobüs seferleri olumsuz hava şartları sebebiyle iptal edildi."
+        },
+        {
+          "key": "D",
+          "text": "2024 - 2025 eğitim-öğretim yılı takvimi açıklandı."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphaneden Türkçe - Almanca sözlük satın aldı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'okula geç gelen öğrenciler' grubu cümlenin öznesidir ve bir ara söz veya ara cümle değildir. Özne grubu kısa çizgi arasına alınamaz, kullanımı yanlıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-8",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Aşağıdaki cümlelerin hangisinde 'eğik çizgi (/)' **yanlış** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dizeler yan yana yazıldığında aralarına eğik çizgi konur: Ne yanar kimse bana âteş-i dilden özge / Ne açar kimse kapım bâd-ı sabâdan özge."
+        },
+        {
+          "key": "B",
+          "text": "Adres yazılırken daire numarası ile yol numarası arasına eğik çizgi konur: Atatürk Caddesi No.: 15/4."
+        },
+        {
+          "key": "C",
+          "text": "Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları ayırmak için eğik çizgi konur: 29/10/1923."
+        },
+        {
+          "key": "D",
+          "text": "Dil bilgisinde eklerin farklı biçimlerini göstermek için eğik çizgi kullanılır: -a/-e, -dan/-den."
+        },
+        {
+          "key": "E",
+          "text": "Saat ve dakika sayılarını ayırmak için eğik çizgi kullanılır: Sınav 10/15'te başlayacaktır."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Saat ve dakika sayılarını ayırmak için TDK kurallarına göre yalnızca nokta (.) kullanılır (örn: 10.15). Eğik çizgi veya iki nokta kullanımı bu alanda yanlıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-9",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler tırnak içine alınır. Tırnak içindeki alıntının sonunda bulunan noktalama işareti (nokta, soru işareti, ünlem vb.) tırnak içinde kalır. Aşağıdaki cümlelerin hangisinde tırnak işaretinin (\" \") kullanımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Atatürk: \"Milli egemenlik öyle bir güneştir ki onun karşısında zincirler erir.\" demiştir."
+        },
+        {
+          "key": "B",
+          "text": "Yazarın \"Kiralık Konak\" romanı Tanzimat sonrası kuşak çatışmasını işler."
+        },
+        {
+          "key": "C",
+          "text": "Öğretmenimiz: \"Yarınki sınava mutlaka hazırlıklı gelin!\" diyerek bizi uyardı."
+        },
+        {
+          "key": "D",
+          "text": "Descartes'ın \"Düşünüyorum, öyleyse varım.\" sözü felsefe tarihine damga vurmuştur."
+        },
+        {
+          "key": "E",
+          "text": "Şair, \"Şiir, kelimelerle resim çizme sanatıdır\". görüşünü savunuyordu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde tırnak içindeki cümlenin noktalama işareti (nokta) tırnak işaretinin dışına konulmuştur. Tırnak içindeki alıntı cümlenin noktası tırnak kapanmadan önce konulmalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-10",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Soru eki (-mı / -mi) veya soru sözcüğü içeren ancak soru anlamı taşımayan, cevap beklenmeyen cümlelerin sonuna soru işareti (?) konmaz. Aşağıdaki cümlelerin hangisinin sonuna soru işareti (?) **getirilmelidir**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınav sonuçlarının ne zaman açıklanacağını bilmiyorum"
+        },
+        {
+          "key": "B",
+          "text": "Ankara'ya varınca beni arar mısın bilmem"
+        },
+        {
+          "key": "C",
+          "text": "Hangi otobüsün şehir merkezine gittiğini sormak için durağa yaklaştı"
+        },
+        {
+          "key": "D",
+          "text": "Bunca yıllık emeğin ardından bu sınavı kazanabilir miyim acaba"
+        },
+        {
+          "key": "E",
+          "text": "Neden bu kadar karamsar olduğunu bir türlü anlayamadım"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'Bunca yıllık emeğin ardından bu sınavı kazanabilir miyim acaba?' cümlesi gerçek bir soru cümlesidir ve merak/cevap barındırdığından sonuna soru işareti getirilmelidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-11",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Aşağıdaki cümlelerin hangisinde virgül (,) 'uzun cümlelerde yüklemden uzak düşmüş olan özneyi belirtmek' amacıyla kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kitaplar, dergiler, gazeteler masanın üzerine gelişi güzel dizilmişti."
+        },
+        {
+          "key": "B",
+          "text": "Sınava çok çalıştı, fakat istediği dereceyi elde edemedi."
+        },
+        {
+          "key": "C",
+          "text": "Genç araştırmacı, yıllardır üzerinde çalıştığı kapsamlı biyografi eserini nihayet tamamladı."
+        },
+        {
+          "key": "D",
+          "text": "Pazardan elma, armut, muz alıp eve döndü."
+        },
+        {
+          "key": "E",
+          "text": "Evet, bu zor kararı hep birlikte vermek zorundayız."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde 'Genç araştırmacı' ögesi cümlenin öznesidir ve uzun cümlenin yüklemi olan 'tamamladı' eyleminden uzak düştüğü için virgülle vurgulanmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-12",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Metin içinde 'fakat, ama, lakin, ancak, çünkü' gibi bağlaçlardan önce ve sonra nokta veya virgül dâhil hiçbir noktalama işareti konmaz. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir noktalama hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Erkek çocuklara Ahmet, Mehmet; kız çocuklara ise Ayşe, Fatma isimleri verildi."
+        },
+        {
+          "key": "B",
+          "text": "At ölür, meydan kalır; yiğit ölür, şan kalır."
+        },
+        {
+          "key": "C",
+          "text": "Yeni şiirimiz; sade, akıcı ve özgün bir dille kaleme alınmıştır."
+        },
+        {
+          "key": "D",
+          "text": "Kütüphaneden aldığı kaynak kitabı iki günde okudu; fakat özetini yazamadı."
+        },
+        {
+          "key": "E",
+          "text": "Pazardan elma, armut; marketten ise un, şeker aldık."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde yer alan 'fakat' bağlacından önce noktalı virgül kullanılması TDK noktalama kurallarına aykırıdır; bağlaçlardan önce veya sonra noktalama işareti konmaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-13",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Kurum, kuruluş, kurul ve iş yeri adlarına getirilen ekler kesme işaretiyle ayrılmaz. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir noktalama hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM'nin yeni yasama yılı açılış töreni dün gerçekleştirildi."
+        },
+        {
+          "key": "B",
+          "text": "Ahmet Bey'in sunumu salondakiler tarafından büyük beğeni topladı."
+        },
+        {
+          "key": "C",
+          "text": "Türk Dil Kurumu'nun ilan ettiği yeni kılavuz satışa sunuldu."
+        },
+        {
+          "key": "D",
+          "text": "Yakup Kadri'nin Yaban romanı Milli Edebiyat Dönemi'nin önemli eseridir."
+        },
+        {
+          "key": "E",
+          "text": "Boğaz'dan geçen yabancı bandıralı gemiler denetlendi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kurum ve kuruluş adlarına getirilen ekler kesme işaretiyle ayrılmaz. C seçeneğinde 'Türk Dil Kurumunun' şeklinde kesmesiz yazılması gerekirken kesme işareti kullanılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-14",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Tırnak içinde verilen alıntının içinde yeniden tırnağa alınması gereken bir söz dizimi veya eser adı varsa bu sözler 'tek tırnak işareti (' ')' içine alınır. Aşağıdaki cümlelerin hangisinde tek tırnak işareti **doğru** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğretmenimiz: \"Edebiyatımızda 'Çalıkuşu' romanının yeri bambaşkadır.\" dedi."
+        },
+        {
+          "key": "B",
+          "text": "Şair: 'Şiir ses ile anlam arasındaki musikidir' görüşünü savundu."
+        },
+        {
+          "key": "C",
+          "text": "Yazar: \"Son kitabımda 'Ege kasabalarını' anlattım.\" diyerek gülümsedi."
+        },
+        {
+          "key": "D",
+          "text": "Müdür bey: 'Yarınki sınava hazırlıklı olun' uyarısını tekrarladı."
+        },
+        {
+          "key": "E",
+          "text": "Eleştirmen: \"Bu yapıt 'postmodern' romanın ilk örneğidir.\" tespiti yaptı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde dışta çift tırnak (\" \") kullanılırken, alıntı içindeki eser adı ('Çalıkuşu') tek tırnak (' ') içine alınarak kurala tam uyulmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-15",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Cümle içinde bir sözcüğün söylenmesiyle birlikte alay, kinaye veya küçümseme anlamı kazandırılmak isteniyorsa o sözcükten hemen sonra yay ayraç içinde ünlem işareti (! ) kullanılır. Aşağıdaki cümlelerin hangisinde bu kurala uygun bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eyvah! Otobüsü kaçırdık, sınava geç kalacağız."
+        },
+        {
+          "key": "B",
+          "text": "Onun ne kadar dürüst (!) bir insan olduğunu mahalledeki herkes çok iyi bilir."
+        },
+        {
+          "key": "C",
+          "text": "Ne kadar güzel bir gün! Sahilde yürüyüş yapalım."
+        },
+        {
+          "key": "D",
+          "text": "Arkamdan konuşan o kişiye en sonunda dersini verdim!"
+        },
+        {
+          "key": "E",
+          "text": "Yaşasın! Sınavı kazandığımı öğrendim."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde 'dürüst (!)' kullanımı, kişinin aslında dürüst olmadığını vurgulamak, ona alay ve kinaye katmak amacıyla parantez içinde ünlem işaretiyle verilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-16",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Şüpheli, kesin olmayan veya bilinmeyen tarih, yer vb. durumlar için yay ayraç içinde soru işareti (? ) kullanılır. Aşağıdaki cümlelerin hangisinde soru işareti bu işleviyle kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ankara'dan İstanbul'a otobüsle kaç saatte gittiniz?"
+        },
+        {
+          "key": "B",
+          "text": "Yunus Emre (1240? - 1320) Anadolu tasavvuf şiirinin en büyük ustasıdır."
+        },
+        {
+          "key": "C",
+          "text": "Bu zor matematik sorularını tek başına nasıl çözebildin?"
+        },
+        {
+          "key": "D",
+          "text": "Kütüphaneden aldığın kaynak kitabı ne zaman teslim edeceksin?"
+        },
+        {
+          "key": "E",
+          "text": "Sınav sonuçlarının yayımlandığını kimden öğrendin?"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde Yunus Emre'nin doğum tarihi net olarak bilinmediği için '(1240?)' biçiminde parantez içinde soru işareti kullanılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-17",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Kısa çizgi (-), sözcüklerin kök ve eklerini ayırmada, fiil gövdelerini göstermede ve hecelemeyde kullanılır. Aşağıdaki cümlelerin hangisinde kısa çizgi **farklı bir işlevle** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkçede -lık / -lik eki isimden isim türeten en verimli yapım eklerinden biridir."
+        },
+        {
+          "key": "B",
+          "text": "Yazar -son romanında Ege kasabasını anlatıyor- dün akşam okurlarıyla buluştu."
+        },
+        {
+          "key": "C",
+          "text": "Gel- fiili dil bilgisinde durum fiillerine örnek gösterilebilir."
+        },
+        {
+          "key": "D",
+          "text": "Yazı yazarken kelimeleri sa-tır so-nu-na sığmadığında kısa çizgiyle ayırırız."
+        },
+        {
+          "key": "E",
+          "text": "Al-ı-ş-kan-lık sözcüğü beş heceden oluşan türemiş bir sözcüktür."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde kısa çizgi ara cümleyi (ara sözü) ayırmak amacıyla cümlenin ögeleri arasında kullanılmıştır. Diğer seçeneklerde ise dil bilgisi ve heceleme işlevindedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-18",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Metin içinde 'hem... hem...', 'ne... ne...', 'gerek... gerekse...' gibi tekrarlı bağlaçlardan önce ve sonra virgül konmaz. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir noktalama hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneye gitti ve saatlerce araştırma yaptı."
+        },
+        {
+          "key": "B",
+          "text": "Sınava çok çalıştı ancak heyecanına yenik düştü."
+        },
+        {
+          "key": "C",
+          "text": "Hem ders çalışıyor, hem de müzik dinliyor."
+        },
+        {
+          "key": "D",
+          "text": "Gerek öğrenciler gerekse öğretmenler tören alanında toplandı."
+        },
+        {
+          "key": "E",
+          "text": "Ne kitap okudu ne de ders çalıştı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Tekrarlı bağlaçlar ('hem... hem...') arasına virgül konmaz. C seçeneğindeki 'çalışıyor, hem de' kullanımı bir noktalama hatasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-noktalama-19",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Nokta (.) kullanımıyla ilgili olarak aşağıda verilen bilgilerden hangisi **yanlıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tamamlanmış cümlenin sonuna konur."
+        },
+        {
+          "key": "B",
+          "text": "Saat ve dakika gösteren sayıları ayırmak için konur."
+        },
+        {
+          "key": "C",
+          "text": "Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları ayırmak için konur."
+        },
+        {
+          "key": "D",
+          "text": "Sayılardan sonra sıra bildirmek için (-ıncı ekinin yerine) konur."
+        },
+        {
+          "key": "E",
+          "text": "Üleştirme sayılarının eklerini rakamdan ayırmak için konur."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Üleştirme sayıları rakamla yazılmaz, yazıyla yazılır (örn: beşer, ikişer). Dolayısıyla nokta veya kesme işaretiyle ek ayırma söz konusu değildir; E seçeneğindeki bilgi yanlıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-noktalama-20",
+      "topic_id": "topic-turkce-noktalama",
+      "question_text": "Aşağıdaki cümlelerin hangisinde noktalama işaretlerinin kullanımıyla ilgili herhangi bir **hata yapılmamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TDK'nın yayımladığı son sözlük tartışmaları sona erdirdi."
+        },
+        {
+          "key": "B",
+          "text": "Sınav 10:30'da başlayacağı için öğrencilerin 10:00'da salonda olması istendi."
+        },
+        {
+          "key": "C",
+          "text": "Ağrı Dağı'nın zirvesine tırmanan dağcılar zorlu hava şartlarına rağmen hedeflerine ulaştılar."
+        },
+        {
+          "key": "D",
+          "text": "Öğretmenimiz: \"Yarınki sınava hazırlıklı gelin!\"."
+        },
+        {
+          "key": "E",
+          "text": "Sabah erkenden kalkıp, sahil boyunca yürüdü."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde tüm noktalama kurallarına eksiksiz uyulmuştur. A'da TDK'nin olmalı, B'de saatlerde nokta (10.30) kullanılmalı, D'de tırnaktan sonra gereksiz nokta konulmamalı, E'de tek zarf-fiilden sonra virgül konmamalıdır.",
+      "difficulty_level": 4
+    }
+  ]
+}

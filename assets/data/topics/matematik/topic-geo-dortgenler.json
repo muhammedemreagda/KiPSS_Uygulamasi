@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-geo-dortgenler",
+  "title": "Dörtgenler",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-geo-dortgenler",
+    "topic_id": "topic-geo-dortgenler",
+    "title": "Dörtgenler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Dörtgenler' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Dörtgenler konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nDörtgenler konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Dörtgenler konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Dörtgenin İç Açıları Toplamı",
+        "body": "Bütün konveks dörtgenlerin iç açıları toplamı 360 derece, dış açıları toplamı 360 derecedir."
+      },
+      {
+        "card_number": 2,
+        "title": "Paralelkenar Özellikleri",
+        "body": "Karşılıklı kenarları paralel ve eşittir. Karşılıklı açılar eşit, komşu açılar toplamı 180 derecedir. Köşegenler birbirini ortalar."
+      },
+      {
+        "card_number": 3,
+        "title": "Eşkenar Dörtgen Özellikleri",
+        "body": "Tüm kenarları eşittir. KÖŞEGENLER DİK KESİŞİR ve açıortaydır. Alan = (e . f) / 2 (Köşegenler çarpımının yarısı)."
+      },
+      {
+        "card_number": 4,
+        "title": "Dikdörtgen Özellikleri",
+        "body": "Açıları 90'ar derece olan paralelkenardır. Köşegen uzunlukları birbirine eşittir (e = f). Alan = a . b."
+      },
+      {
+        "card_number": 5,
+        "title": "Kare Özellikleri",
+        "body": "Tüm kenarları eşit, açıları 90 derece olan düzgün dörtgendir. Köşegenler eşit, dik kesişir ve 45 derecelik açıortaydır."
+      },
+      {
+        "card_number": 6,
+        "title": "Yamuk (Trapez) ve Orta Taban",
+        "body": "Alt ve üst tabanı paralel olan dörtgendir. Orta Taban = (Alt Taban + Üst Taban) / 2. Alan = Orta Taban x Yükseklik."
+      },
+      {
+        "card_number": 7,
+        "title": "İkizkenar Yamuk Özellikleri",
+        "body": "Paralel olmayan yan kenarları eşit olan yamuktur. Taban açıları eşittir ve köşegen uzunlukları birbirine eşittir."
+      },
+      {
+        "card_number": 8,
+        "title": "Deltoid Özellikleri",
+        "body": "Tabanları ortak iki ikizkenar üçgenin birleşimidir. KÖŞEGENLER DİK KESİŞİR ve simetri köşegeni açıortaydır."
+      },
+      {
+        "card_number": 9,
+        "title": "Çokgenlerin İç Açıları Toplamı",
+        "body": "n kenarlı bir çokgenin iç açıları toplamı (n - 2) . 180 derece formülüyle bulunur."
+      },
+      {
+        "card_number": 10,
+        "title": "Düzgün Beşgen ve Altıgen Açısı",
+        "body": "Düzgün beşgenin bir iç açısı 108 derece; Düzgün altıgenin bir iç açısı 120 derecedir (Dış açı = 360 / n)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-geo-dortgenler-1",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir dışbükey (konveks) dörtgenin iç açılarının ölçüleri toplamı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "180"
+        },
+        {
+          "key": "B",
+          "text": "270"
+        },
+        {
+          "key": "C",
+          "text": "360"
+        },
+        {
+          "key": "D",
+          "text": "540"
+        },
+        {
+          "key": "E",
+          "text": "720"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "n kenarlı bir çokgenin iç açıları toplamı (n-2)·180 formülü ile bulunur. Dörtgen için (4-2)·180 = 360 derecedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-2",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Dışbükey bir dörtgenin dış açılarının ölçüleri toplamı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "180"
+        },
+        {
+          "key": "B",
+          "text": "270"
+        },
+        {
+          "key": "C",
+          "text": "360"
+        },
+        {
+          "key": "D",
+          "text": "540"
+        },
+        {
+          "key": "E",
+          "text": "720"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Tüm dışbükey çokgenlerin dış açıları toplamı her zaman 360 derecedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-3",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir paralelkenarın ardışık iki açısının ölçüleri oranı 2:3 ise, büyük açının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "72"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "108"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Paralelkenarda ardışık açılar toplamı 180°'dir. 2k + 3k = 180 ⇒ 5k = 180 ⇒ k = 36. Büyük açı 3k = 3 · 36 = 108 derecedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-4",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir dikdörtgenin çevresi 40 cm ve kısa kenarı 8 cm ise, alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "64"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "96"
+        },
+        {
+          "key": "D",
+          "text": "112"
+        },
+        {
+          "key": "E",
+          "text": "128"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çevre = 2(kısa + uzun) = 40 ⇒ kısa + uzun = 20. 8 + uzun = 20 ⇒ uzun = 12 cm. Alan = 8 · 12 = 96 cm².",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-5",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Köşegenleri birbirini dik kesen dörtgene ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yamuk"
+        },
+        {
+          "key": "B",
+          "text": "Paralelkenar"
+        },
+        {
+          "key": "C",
+          "text": "Dikdörtgen"
+        },
+        {
+          "key": "D",
+          "text": "Eşkenar dörtgen"
+        },
+        {
+          "key": "E",
+          "text": "Düzgün beşgen"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Eşkenar dörtgen ve karede köşegenler dik kesişir. Seçeneklerdeki en uygun cevap eşkenar dörtgendir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-6",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir yamuğun paralel kenarlarının uzunlukları 6 cm ve 10 cm, yüksekliği 5 cm ise alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Alan = (Alt taban + Üst taban) / 2 · Yükseklik = (6 + 10) / 2 · 5 = 8 · 5 = 40 cm².",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-7",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir eşkenar dörtgenin köşegenleri 12 cm ve 16 cm'dir. Bu dörtgenin alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "72"
+        },
+        {
+          "key": "C",
+          "text": "96"
+        },
+        {
+          "key": "D",
+          "text": "192"
+        },
+        {
+          "key": "E",
+          "text": "200"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Eşkenar dörtgenin alanı = (Köşegen1 · Köşegen2) / 2 = (12 · 16) / 2 = 6 · 16 = 96 cm².",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-8",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Düzgün bir altıgenin bir iç açısının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "108"
+        },
+        {
+          "key": "C",
+          "text": "120"
+        },
+        {
+          "key": "D",
+          "text": "135"
+        },
+        {
+          "key": "E",
+          "text": "144"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Düzgün çokgenlerde bir iç açı = (n-2)·180 / n. Altıgen için (4·180) / 6 = 120 derecedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-9",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Karenin köşegenleri birbirini nasıl keser?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paraleldir"
+        },
+        {
+          "key": "B",
+          "text": "Dik kesişir"
+        },
+        {
+          "key": "C",
+          "text": "60 derecelik açıyla kesişir"
+        },
+        {
+          "key": "D",
+          "text": "Kesişmezler"
+        },
+        {
+          "key": "E",
+          "text": "30 derecelik açıyla kesişir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Karenin köşegenleri birbirini ortalar ve dik kesişir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-10",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir çokgenin iç açılarının ölçüleri toplamı 720 derece ise bu çokgen kaç kenarlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "(n-2)·180 = 720 ⇒ n-2 = 4 ⇒ n = 6 kenarlıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-11",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Dikdörtgenin köşegenleri birbirine eşit midir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, eşittir"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, değildir"
+        },
+        {
+          "key": "C",
+          "text": "Dikdörtgenin köşegeni yoktur"
+        },
+        {
+          "key": "D",
+          "text": "Sadece karede eşittir"
+        },
+        {
+          "key": "E",
+          "text": "Kenar uzunluğuna bağlıdır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dikdörtgenin köşegenleri birbirine eşit uzunluktadır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-12",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir paralelkenarın alanı nasıl bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taban * Kenar"
+        },
+        {
+          "key": "B",
+          "text": "Taban * Yükseklik"
+        },
+        {
+          "key": "C",
+          "text": "2 * (Taban + Yükseklik)"
+        },
+        {
+          "key": "D",
+          "text": "(Taban * Yükseklik) / 2"
+        },
+        {
+          "key": "E",
+          "text": "Kenarların toplamı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Paralelkenarın alanı taban çarpı o tabana ait yüksekliktir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-13",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir yamukta orta taban uzunluğu nasıl bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Alt taban * Üst taban"
+        },
+        {
+          "key": "B",
+          "text": "(Alt taban + Üst taban) / 2"
+        },
+        {
+          "key": "C",
+          "text": "Alt taban - Üst taban"
+        },
+        {
+          "key": "D",
+          "text": "Alt taban + Üst taban"
+        },
+        {
+          "key": "E",
+          "text": "2 * Alt taban"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yamukta orta taban, paralel kenarların aritmetik ortalamasıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-14",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Düzgün bir çokgenin dış açısı 40 derece ise bu çokgen kaç kenarlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dış açılar toplamı 360°'dir. 360 / 40 = 9 kenarlıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-15",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Karenin alanı 64 cm² ise bir kenarı kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "32"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Alan = a² = 64 ⇒ a = 8 cm.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-16",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Eşkenar dörtgenin tüm kenarları nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Farklıdır"
+        },
+        {
+          "key": "B",
+          "text": "İkisi eşit"
+        },
+        {
+          "key": "C",
+          "text": "Eşittir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece paraleldir"
+        },
+        {
+          "key": "E",
+          "text": "Dik kesişir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Eşkenar dörtgenin tüm kenarları birbirine eşittir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-17",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir dörtgenin köşegenleri dik kesişiyorsa alanı nasıl bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a · b"
+        },
+        {
+          "key": "B",
+          "text": "(e · f) / 2"
+        },
+        {
+          "key": "C",
+          "text": "Taban · Yükseklik"
+        },
+        {
+          "key": "D",
+          "text": "Çevre / 2"
+        },
+        {
+          "key": "E",
+          "text": "a²"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Köşegenleri dik kesişen dörtgenlerin alanı, köşegenler çarpımının yarısıdır: (e · f) / 2.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-dortgenler-18",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir yamuğun paralel olmayan kenarlarına ne denir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taban"
+        },
+        {
+          "key": "B",
+          "text": "Yan kenar"
+        },
+        {
+          "key": "C",
+          "text": "Yükseklik"
+        },
+        {
+          "key": "D",
+          "text": "Köşegen"
+        },
+        {
+          "key": "E",
+          "text": "Orta taban"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yamuğun paralel olmayan kenarlarına yan kenarlar denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-19",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Düzgün çokgenlerin iç açıları birbirine nasıl bağlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hepsi farklıdır"
+        },
+        {
+          "key": "B",
+          "text": "Hepsi eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Toplamı 180'dir"
+        },
+        {
+          "key": "D",
+          "text": "Kenar sayısına bağlı değildir"
+        },
+        {
+          "key": "E",
+          "text": "Hepsi 90 derecedir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Düzgün çokgenlerin tüm iç açıları birbirine eşittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-20",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir deltoidin özellikleri arasında hangisi yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tüm kenarlar eşittir"
+        },
+        {
+          "key": "B",
+          "text": "Köşegenler birbirini ortalar"
+        },
+        {
+          "key": "C",
+          "text": "Köşegenler dik kesişir"
+        },
+        {
+          "key": "D",
+          "text": "Karşılıklı açılar eşittir"
+        },
+        {
+          "key": "E",
+          "text": "Hepsi paraleldir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Deltoidde köşegenler dik kesişir ve bir köşegen diğerini ortalar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-dortgenler-21",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Paralelkenarın karşılıklı açıları nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Farklıdır"
+        },
+        {
+          "key": "B",
+          "text": "Eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Toplamı 180'dir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece 90 derecedir"
+        },
+        {
+          "key": "E",
+          "text": "Biri diğerinin iki katıdır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Paralelkenarda karşılıklı açılar birbirine eşittir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-22",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir dörtgenin kenar orta noktalarının birleştirilmesiyle hangi şekil oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kare"
+        },
+        {
+          "key": "B",
+          "text": "Dikdörtgen"
+        },
+        {
+          "key": "C",
+          "text": "Paralelkenar"
+        },
+        {
+          "key": "D",
+          "text": "Eşkenar dörtgen"
+        },
+        {
+          "key": "E",
+          "text": "Yamuk"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Herhangi bir dörtgenin kenar orta noktaları birleştirildiğinde bir paralelkenar oluşur (Varignon Paralelkenarı).",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-geo-dortgenler-23",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Düzgün bir sekizgenin bir dış açısı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "72"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "360 / 8 = 45 derecedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-dortgenler-24",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir yamuğun alanı 60 cm² ve yüksekliği 6 cm ise, orta tabanı kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "20"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Alan = Orta Taban · Yükseklik ⇒ 60 = Orta Taban · 6 ⇒ Orta Taban = 10 cm.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-dortgenler-25",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Dikdörtgenin bir köşegeni alanı nasıl böler?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İki eş parçaya"
+        },
+        {
+          "key": "B",
+          "text": "Üçe böler"
+        },
+        {
+          "key": "C",
+          "text": "Dörde böler"
+        },
+        {
+          "key": "D",
+          "text": "Oranlamaz"
+        },
+        {
+          "key": "E",
+          "text": "Eşit olmayan iki parça"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dikdörtgenin köşegeni alanı birbirine eşit iki üçgene böler.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-26",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Bir çokgenin iç açısı ile dış açısının toplamı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "180"
+        },
+        {
+          "key": "C",
+          "text": "270"
+        },
+        {
+          "key": "D",
+          "text": "360"
+        },
+        {
+          "key": "E",
+          "text": "Düzgünlüğüne bağlıdır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bir köşedeki iç ve dış açı birbirini 180 dereceye tamamlar.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-27",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Eşkenar dörtgenin alanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İki köşegenin çarpımının yarısıdır"
+        },
+        {
+          "key": "B",
+          "text": "Kenar uzunluğunun karesidir"
+        },
+        {
+          "key": "C",
+          "text": "Kenar çarpı yüksekliktir"
+        },
+        {
+          "key": "D",
+          "text": "İki köşegenin çarpımıdır"
+        },
+        {
+          "key": "E",
+          "text": "İç açısının sinüsü ile çarpımıdır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Eşkenar dörtgenin alanı köşegenler çarpımının yarısına eşittir: (e · f) / 2.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-dortgenler-28",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Kare için aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tüm kenarları eşittir"
+        },
+        {
+          "key": "B",
+          "text": "Tüm iç açıları 90 derecedir"
+        },
+        {
+          "key": "C",
+          "text": "Köşegenler dik kesişir"
+        },
+        {
+          "key": "D",
+          "text": "Köşegenler birbirini ortalar"
+        },
+        {
+          "key": "E",
+          "text": "Köşegenler birbirine eşit değildir"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Karenin köşegenleri birbirine eşit uzunluktadır, E seçeneği yanlıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-29",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Dışbükey bir çokgenin en az kaç kenarı olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "En küçük çokgen üçgendir ve 3 kenarlıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-dortgenler-30",
+      "topic_id": "topic-geo-dortgenler",
+      "question_text": "Dikdörtgenin köşegenleri arasında kalan açılardan biri 60 derece ise, bu açının bütünleyeni olan komşu açı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "150"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Köşegenlerin kesiştiği noktadaki komşu açılar birbirini 180°'ye tamamlar: 180 - 60 = 120 derecedir.",
+      "difficulty_level": 2
+    }
+  ]
+}

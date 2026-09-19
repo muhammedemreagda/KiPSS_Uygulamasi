@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-kesir-problemleri",
+  "title": "Kesir Problemleri",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-kesir-problemleri",
+    "topic_id": "topic-mat-kesir-problemleri",
+    "title": "Kesir Problemleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Kesir Problemleri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Kesir Problemleri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nKesir Problemleri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Kesir Problemleri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Kesrin Değeri ve Katları",
+        "body": "Değeri a/b olan bir kesrin payına a.k, paydasına b.k denilerek denklem kurulur."
+      },
+      {
+        "card_number": 2,
+        "title": "Payda Çarpımı Katı Verme Taktiği",
+        "body": "Kesir problemlerinde bütüne (telin boyuna, paraya) paydaların EKOK'u veya çarpımı kat olarak verilir (Örn: 1/3 ve 1/4 için 12x)."
+      },
+      {
+        "card_number": 3,
+        "title": "Telin Orta Noktası Kayma Miktarı",
+        "body": "Bir telin bir ucundan x uzunluğunda parça kesilirse, telin orta noktası kalkan parçanın yarısı kadar (x / 2) kayar."
+      },
+      {
+        "card_number": 4,
+        "title": "Kalanın Kesri İfadesi",
+        "body": "Paranın 1/3'ünü harcayıp 'kalanın' 1/4'ü denirse; önce kalan (2/3) bulunur, sonra 2/3 . 1/4 hesabı yapılır."
+      },
+      {
+        "card_number": 5,
+        "title": "Kova / Depo Ağırlığı Problemi",
+        "body": "Kabın kendi ağırlığı (dara) c olsun. Tam dolu kova ağırlığı = c + Su. Yarısı dolu kova = c + Su/2."
+      },
+      {
+        "card_number": 6,
+        "title": "Merdiven Basamakları Problemi",
+        "body": "Basamakları 2'şer 2'şer çıkıp 3'er 3'er inen kişinin adım sayısı x ise: Toplam Basamak = 2 . x1 = 3 . x2."
+      },
+      {
+        "card_number": 7,
+        "title": "Topun Zıplama Problemi",
+        "body": "h yüksekliğinden bırakılan top her seferinde k/m oranında zıplıyorsa; 1. zıplama = h.(k/m), 2. zıplama = h.(k/m)^2."
+      },
+      {
+        "card_number": 8,
+        "title": "Kesirlerde Toplama-Çıkarma",
+        "body": "Paydaları eşit olmayan kesirlerde önce paydalar eşitleme (genişletme) yapılır, sonra işlem tamamlanır."
+      },
+      {
+        "card_number": 9,
+        "title": "Kesirlerde Bölme İşlemi",
+        "body": "Birinci kesir aynen yazılır, ikinci kesir ters çevrilip (takla attırılarak) birinciyle çarpılır."
+      },
+      {
+        "card_number": 10,
+        "title": "Bileşik ve Basit Kesir Farkı",
+        "body": "Payı paydasından mutlak değerce küçük olanlar Basit kesir (|a| < |b|); büyük veya eşit olanlar Bileşik kesirdir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-kesir-problemleri-1",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir kumaşın önce 2/7'si, sonra kalanın 3/5'i satılıyor. Geriye 24 metre kumaş kaldığına göre, başlangıçtaki kumaş kaç metredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "84"
+        },
+        {
+          "key": "B",
+          "text": "70"
+        },
+        {
+          "key": "C",
+          "text": "96"
+        },
+        {
+          "key": "D",
+          "text": "105"
+        },
+        {
+          "key": "E",
+          "text": "112"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kumaşın tamamı K olsun. Önce 2/7'si satılınca geriye 5/7 K kalır. Kalanın 3/5'i satılırsa geriye kalanın 2/5'i kalır. Son durumda kalan kumaş miktarı: (5/7 K) · (2/5) = 2/7 K olur. 2/7 K = 24 denkleminden K = 24 · 7 / 2 = 84 metre bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-2",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir sayının 2/5'inin 3/4'ü ile aynı sayının 1/10'unun toplamı 20 olduğuna göre, bu sayı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "70"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayı x olsun. Sayının 2/5'inin 3/4'ü: (2/5 · 3/4)x = (6/20)x tir. Bu değere (1/10)x yani (2/20)x eklenirse: (6/20)x + (2/20)x = (8/20)x = (2/5)x elde edilir. (2/5)x = 20 denkleminden x = 50 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-3",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Değeri 3/5 olan bir kesrin payından 3 çıkarılıp paydasına 3 eklendiğinde kesrin değeri 1/2 oluyor. Buna göre, ilk kesrin payı ile paydasının toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "72"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        },
+        {
+          "key": "E",
+          "text": "96"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kesrin payı 3k, paydası 5k olsun. Verilen işlem uygulandığında: (3k - 3) / (5k + 3) = 1/2 olur. İçler dışlar çarpımı yapılırsa: 2(3k - 3) = 1(5k + 3) ⇒ 6k - 6 = 5k + 3 ⇒ k = 9 bulunur. İlk kesrin payı 3 · 9 = 27, paydası 5 · 9 = 45 olur. Toplamları 27 + 45 = 72 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-4",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir sürahinin 3/8'i su ile doludur. Sürahiye 150 ml daha su eklendiğinde sürahinin yarısı dolduğuna göre, sürahinin tamamı kaç ml su alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "800"
+        },
+        {
+          "key": "B",
+          "text": "960"
+        },
+        {
+          "key": "C",
+          "text": "1000"
+        },
+        {
+          "key": "D",
+          "text": "1200"
+        },
+        {
+          "key": "E",
+          "text": "1500"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sürahinin kapasitesi V olsun. (3/8)V + 150 = (1/2)V denkleminden 150 = (1/2)V - (3/8)V. Paydalar eşitlenirse 150 = (4/8 - 3/8)V ⇒ 150 = (1/8)V ⇒ V = 1200 ml olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-5",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir yolun önce 1/4'ünü, sonra kalanın 2/3'ünü giden bir araç toplam 180 km yol gittiğine göre, yolun tamamı kaç km'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200"
+        },
+        {
+          "key": "B",
+          "text": "210"
+        },
+        {
+          "key": "C",
+          "text": "220"
+        },
+        {
+          "key": "D",
+          "text": "230"
+        },
+        {
+          "key": "E",
+          "text": "240"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Yolun tamamı Y olsun. Önce 1/4 Y gidilir, kalan yol 3/4 Y olur. Kalanın 2/3'ü: (3/4 Y) · (2/3) = 2/4 Y = 1/2 Y gidilir. Toplam gidilen yol: 1/4 Y + 1/2 Y = 3/4 Y dir. 3/4 Y = 180 km ise Y = 180 · 4 / 3 = 240 km bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-6",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir depodaki benzin miktarı deponun 2/9'udur. Depoya 34 litre daha benzin ilave edildiğinde deponun 3/5'i dolu hale geldiğine göre, deponun kapasitesi kaç litredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "105"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Deponun kapasitesi V olsun. (2/9)V + 34 = (3/5)V denkleminden 34 = (3/5 - 2/9)V. Paydalar 45'te eşitlenirse: 34 = (27/45 - 10/45)V ⇒ 34 = (17/45)V ⇒ V = 34 · 45 / 17 = 90 litre bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-7",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir kitabın sayfalarının 2/7'sini ilk gün, kalan sayfaların 3/5'ini ikinci gün okuyan bir öğrencinin geriye 40 sayfası kalmıştır. Buna göre, kitap toplam kaç sayfadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "120"
+        },
+        {
+          "key": "B",
+          "text": "140"
+        },
+        {
+          "key": "C",
+          "text": "160"
+        },
+        {
+          "key": "D",
+          "text": "175"
+        },
+        {
+          "key": "E",
+          "text": "210"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayfa sayısı S olsun. 1. gün 2/7 S okunduktan sonra kalan 5/7 S olur. 2. gün kalanın 3/5'i okunursa kalanın 2/5'i geriye kalır. Son durumda kalan sayfa sayısı: (5/7 S) · (2/5) = 2/7 S dir. 2/7 S = 40 denkleminden S = 140 sayfa bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-8",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir sınıftaki öğrencilerin 3/8'i kız öğrencidir. Sınıfa 6 kız öğrenci daha katıldığında kız öğrencilerin sayısı sınıf mevcudunun yarısına eşit olduğuna göre, başlangıçta sınıfta kaç öğrenci vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "32"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Başlangıçtaki sınıf mevcudu x olsun. Kız sayısı (3/8)x olur. Sınıfa 6 kız eklenince yeni kız sayısı (3/8)x + 6, yeni sınıf mevcudu x + 6 olur. Denklem: (3/8)x + 6 = (1/2)(x + 6) ⇒ (3/8)x + 6 = (1/2)x + 3 ⇒ 3 = (1/2 - 3/8)x ⇒ 3 = (1/8)x ⇒ x = 24 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-9",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Ali parasının 2/5'i ile bir roman, kalan parasının 1/3'ü ile bir defter alıyor. Geride 60 TL'si kaldığına göre, Ali'nin aldığı romanın fiyatı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "45"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "75"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Ali'nin toplam parası P olsun. Roman = 2/5 P, kalan para = 3/5 P. Defter = (3/5 P) · (1/3) = 1/5 P. Kalan para = 3/5 P - 1/5 P = 2/5 P dir. 2/5 P = 60 TL ⇒ P = 150 TL bulunur. Romanın fiyatı = 2/5 P = 2/5 · 150 = 60 TL elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-10",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Hangi sayının 1/3'ünün 4 fazlası, aynı sayının 1/2'sinin 2 eksiğine eşittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "28"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "36"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Sayı x olsun. Denklem: (1/3)x + 4 = (1/2)x - 2 ⇒ 4 + 2 = (1/2)x - (1/3)x ⇒ 6 = (1/6)x ⇒ x = 36 olarak hesaplanır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-11",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir su deposunun 4/7'si doludur. Depodan 30 litre su boşaltılınca deponun yarısı dolu kaldığına göre, deponun tamamı kaç litre su alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "420"
+        },
+        {
+          "key": "B",
+          "text": "350"
+        },
+        {
+          "key": "C",
+          "text": "280"
+        },
+        {
+          "key": "D",
+          "text": "490"
+        },
+        {
+          "key": "E",
+          "text": "560"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Deponun hacmi V olsun. (4/7)V - 30 = (1/2)V denkleminden (4/7 - 1/2)V = 30. Paydalar 14'te eşitlenirse: (8/14 - 7/14)V = 30 ⇒ (1/14)V = 30 ⇒ V = 420 litre bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-12",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir yarışmada soruların 3/10'unu yanlış cevaplayan, 1/5'ini boş bırakan bir yarışmacı 25 soruyu doğru cevaplamıştır. Buna göre yarışmada toplam kaç soru sorulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "70"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yanlış oranı = 3/10, Boş oranı = 1/5 = 2/10. Yanlış + Boş oranı = 3/10 + 2/10 = 5/10 = 1/2 dir. Doğru cevapların oranı = 1 - 1/2 = 1/2 olur. Toplam soru sayısı S olsun. (1/2)S = 25 ⇒ S = 50 soru bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-13",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir işçi maaşının 1/5'ini kiraya, kalan parasının 1/4'ünü faturalara harcıyor. Geride kalan parasının yarısını birikim hesabına yatırdığında elinde 3600 TL kaldığına göre, işçinin maaşı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9000"
+        },
+        {
+          "key": "B",
+          "text": "10000"
+        },
+        {
+          "key": "C",
+          "text": "12000"
+        },
+        {
+          "key": "D",
+          "text": "15000"
+        },
+        {
+          "key": "E",
+          "text": "18000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İşçinin maaşı M olsun. Kiradan sonra kalan = 4/5 M. Faturalara harcanan = (4/5 M) · (1/4) = 1/5 M. Faturalardan sonra kalan = 4/5 M - 1/5 M = 3/5 M. Birikime yatırılan harici elde kalan = (3/5 M) / 2 = 3/10 M dır. 3/10 M = 3600 TL ⇒ M = 3600 · 10 / 3 = 12000 TL bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-14",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "80 litrelik bir karışımdaki alkol oranı 1/4'tür. Bu karışıma kaç litre saf alkol eklenirse yeni karışımdaki alkol oranı 2/5 olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Başlangıçtaki alkol miktarı = 80 · (1/4) = 20 litre. Eklenen alkol x litre olsun. Yeni alkol miktarı = 20 + x, yeni karışım miktarı = 80 + x olur. Oran denklemi: (20 + x) / (80 + x) = 2/5 ⇒ 5(20 + x) = 2(80 + x) ⇒ 100 + 5x = 160 + 2x ⇒ 3x = 60 ⇒ x = 20 litre bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-15",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir depoya içindeki suyun 2/3'ü kadar su ilave edildiğinde depodan 20 litre su taşmaktadır. Depo başlangıçta 3/4 oranında dolu olduğuna göre, deponun tamamı kaç litre su alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "64"
+        },
+        {
+          "key": "D",
+          "text": "72"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Deponun kapasitesi V olsun. Başlangıçtaki su = (3/4)V. İlave edilen su = (3/4 V) · (2/3) = (1/2)V. Toplam su = 3/4 V + 1/2 V = 5/4 V. Deponun kapasitesi V olduğundan taşan su = 5/4 V - V = 1/4 V olur. 1/4 V = 20 litre denkleminden V = 80 litre bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-16",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir traktörün ön tekerleğinin yarıçapının arka tekerleğin yarıçapına oranı 2/5'tir. Traktör 120 metre yol aldığında ön tekerlek arka tekerlekten 18 tur fazla attığına göre, arka tekerleğin çevresi kaç metredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "20"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yarıçap oranı 2/5 ise çevrelerin oranı da 2/5 tir. Ön tekerlek çevresi = 2c, arka tekerlek çevresi = 5c olsun. 120 metrede tur sayıları: Ön tekerlek = 120 / (2c) = 60/c, Arka tekerlek = 120 / (5c) = 24/c. Tur farkı: 60/c - 24/c = 36/c = 18 ⇒ c = 2. Arka tekerleğin çevresi = 5c = 5 · 2 = 10 metre bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-17",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir memur, birinci gün maaşının 1/6'sını, ikinci gün kalan parasının 1/5'ini harcıyor. İki günün sonunda elinde 8000 TL kaldığına göre, bu memurun maaşı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10000"
+        },
+        {
+          "key": "B",
+          "text": "12000"
+        },
+        {
+          "key": "C",
+          "text": "14000"
+        },
+        {
+          "key": "D",
+          "text": "15000"
+        },
+        {
+          "key": "E",
+          "text": "16000"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Maaş M olsun. 1. gün kalan = 5/6 M. 2. gün harcanan = (5/6 M) · (1/5) = 1/6 M. Toplam harcanan = 1/6 M + 1/6 M = 2/6 M = 1/3 M. Kalan para = M - 1/3 M = 2/3 M dir. 2/3 M = 8000 TL ⇒ M = 8000 · 3 / 2 = 12000 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-18",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir sınıftaki erkek öğrencilerin sayısının kız öğrencilerin sayısına oranı 4/5'tir. Sınıf mevcudu 36 olduğuna göre, sınıftaki kız öğrencilerin sayısı erkek öğrencilerin sayısından kaç fazladır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Erkek sayısı = 4k, Kız sayısı = 5k. Toplam mevcut = 4k + 5k = 9k = 36 ⇒ k = 4. Kız sayısı = 5 · 4 = 20, Erkek sayısı = 4 · 4 = 16. Kız ve erkek öğrenci sayısı farkı = 20 - 16 = 4 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-19",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Değeri 2/3 olan bir kesrin payına 4 eklenip paydasından 2 çıkarıldığında kesrin değeri 6/5 olmaktadır. Buna göre, başlangıçtaki kesrin paydası kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Kesir 2k / 3k olsun. Denklem: (2k + 4) / (3k - 2) = 6/5 ⇒ 5(2k + 4) = 6(3k - 2) ⇒ 10k + 20 = 18k - 12 ⇒ 32 = 8k ⇒ k = 4 bulunur. Başlangıçtaki payda = 3k = 3 · 4 = 12 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-20",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir sepet elmanın önce 1/4'ü, sonra kalanın 1/3'ü satılıyor. En son sepete 10 elma daha eklendiğinde sepetteki elma sayısı başlangıçtaki elma sayısının 3/4'üne eşit olduğuna göre, başlangıçta sepette kaç elma vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "36"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Başlangıçtaki elma E olsun. 1/4'ü satılınca 3/4 E kalır. Kalanın 1/3'ü (3/4 E · 1/3 = 1/4 E) satılırsa elde 3/4 E - 1/4 E = 1/2 E kalır. 10 elma eklenince 1/2 E + 10 olur. Bu miktar 3/4 E ye eşittir: 1/2 E + 10 = 3/4 E ⇒ 10 = 3/4 E - 1/2 E ⇒ 10 = 1/4 E ⇒ E = 40 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-21",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir aracın deposundaki benzinin 2/5'i doludur. Depoya 18 litre daha benzin eklendiğinde deponun 7/10'u dolu olduğuna göre, deponun kapasitesi kaç litredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "70"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Depo V olsun. (2/5)V + 18 = (7/10)V ⇒ (4/10)V + 18 = (7/10)V ⇒ (3/10)V = 18 ⇒ V = 60 litre bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-22",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir bilgi yarışmasında sorulan soruların 2/9'unu doğru cevaplayan bir yarışmacı, kalan soruların 3/7'sini yanlış cevaplamış ve 16 soruyu boş bırakmıştır. Buna göre, yarışmada toplam kaç soru sorulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "32"
+        },
+        {
+          "key": "B",
+          "text": "36"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "54"
+        },
+        {
+          "key": "E",
+          "text": "63"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Soru sayısı S olsun. Doğru = 2/9 S, kalan sorular = 7/9 S. Yanlış = (7/9 S) · (3/7) = 3/9 S. Boş kalan sorular = 7/9 S - 3/9 S = 4/9 S dir. 4/9 S = 16 ⇒ S = 36 soru bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-23",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir tüccar elindeki kumaşın önce 1/3'ünü, sonra kalanın 2/5'ini satıyor. Satılan toplam kumaş miktarı 45 metre olduğuna göre, geriye kaç metre kumaş kalmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "35"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam kumaş K olsun. 1. satış = 1/3 K, kalan = 2/3 K. 2. satış = (2/3 K) · (2/5) = 4/15 K. Satılan toplam kumaş = 1/3 K + 4/15 K = 9/15 K = 3/5 K dir. 3/5 K = 45 m ⇒ K = 75 m bulunur. Geriye kalan kumaş = 2/5 K = 2/5 · 75 = 30 metre elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-24",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Ahmet bilyelerinin 1/4'ünü Mehmet'e veriyor. Mehmet ise aldığı bilyelerin 1/3'ünü Can'a veriyor. Can'a verilen bilye sayısı 5 olduğuna göre, Ahmet'in başlangıçta kaç bilyesi vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "48"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "72"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Ahmet'in bilye sayısı B olsun. Mehmet'e verilen = (1/4)B. Can'a verilen = (1/4 B) · (1/3) = (1/12)B dir. (1/12)B = 5 ⇒ B = 60 bilye bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-25",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir varilin 3/5'i su ile doludur. Varilden 12 litre su alındığında varildeki su miktarı varilin 3/10'u olduğuna göre, varilin tamamı kaç litre su alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "32"
+        },
+        {
+          "key": "D",
+          "text": "36"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Varil kapasitesi V olsun. (3/5)V - 12 = (3/10)V ⇒ (6/10)V - (3/10)V = 12 ⇒ (3/10)V = 12 ⇒ V = 40 litre bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-26",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir manav elindeki domateslerin önce 2/5'ini, sonra kalanın 1/2'sini satıyor. Geriye 18 kg domates kaldığına göre, manav toplam kaç kg domates satmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "42"
+        },
+        {
+          "key": "B",
+          "text": "36"
+        },
+        {
+          "key": "C",
+          "text": "48"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "54"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Toplam domates D olsun. 1. satış = 2/5 D, kalan = 3/5 D. 2. satış = (3/5 D) · (1/2) = 3/10 D. Geriye kalan = 3/5 D - 3/10 D = 3/10 D dir. 3/10 D = 18 ⇒ D = 60 kg bulunur. Satılan toplam domates = 60 - 18 = 42 kg elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-27",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Hangi sayının 2/3'ünün 5 eksiği, aynı sayının 1/4'ünün 10 fazlasına eşittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "32"
+        },
+        {
+          "key": "B",
+          "text": "36"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "48"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayı x olsun. (2/3)x - 5 = (1/4)x + 10 ⇒ (2/3 - 1/4)x = 15 ⇒ (8/12 - 3/12)x = 15 ⇒ (5/12)x = 15 ⇒ x = 36 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-28",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir miktar para 4 kişi arasında eşit olarak paylaştırılacaktır. Eğer aynı para 6 kişi arasında eşit olarak paylaştırılsaydı kişi başı 50 TL daha az düşecekti. Buna göre, paylaştırılan toplam para kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "400"
+        },
+        {
+          "key": "B",
+          "text": "500"
+        },
+        {
+          "key": "C",
+          "text": "600"
+        },
+        {
+          "key": "D",
+          "text": "720"
+        },
+        {
+          "key": "E",
+          "text": "800"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam para P olsun. P/4 - P/6 = 50 denkleminden (3P - 2P) / 12 = 50 ⇒ P / 12 = 50 ⇒ P = 600 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-29",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "Bir terzi 60 metre kumaşın önce 1/3'ünü, sonra kalan kumaşın 3/4'ünü kullanıyor. Buna göre, terzinin kullanmadığı kaç metre kumaş kalmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "1. kullanım = 60 · (1/3) = 20 m. Kalan kumaş = 60 - 20 = 40 m. 2. kullanım = 40 · (3/4) = 30 m. Kullanılmayan kalan kumaş = 40 - 30 = 10 metre bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kesir-problemleri-30",
+      "topic_id": "topic-mat-kesir-problemleri",
+      "question_text": "A kabının hacmi B kabının hacminin 3/4'üdür. A kabının 2/3'ü, B kabının ise 1/2'si su ile doludur. İki kaptaki toplam su miktarı 30 litre olduğuna göre, B kabının tamamı kaç litre su alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "30"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "B kabının hacmi V olsun. A kabının hacmi (3/4)V olur. A kabındaki su = (3/4 V) · (2/3) = (1/2)V. B kabındaki su = (1/2)V. Toplam su = (1/2)V + (1/2)V = V dir. V = 30 litre bulunur.",
+      "difficulty_level": 3
+    }
+  ]
+}

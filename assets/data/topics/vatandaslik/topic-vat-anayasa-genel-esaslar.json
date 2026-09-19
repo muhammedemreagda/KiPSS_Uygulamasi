@@ -1,0 +1,1547 @@
+{
+  "topic_id": "topic-vat-anayasa-genel-esaslar",
+  "title": "Anayasa Hukuku & Devletin Genel Esasları",
+  "course_id": "course-vatandaslik",
+  "question_count": 49,
+  "quick_note": {
+    "id": "qn-topic-vat-anayasa-genel-esaslar",
+    "topic_id": "topic-vat-anayasa-genel-esaslar",
+    "title": "Anayasa Hukuku & Devletin Genel Esasları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'Anayasa Hukuku & Devletin Genel Esasları' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "Anayasa Hukuku & Devletin Genel Esasları konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nAnayasa Hukuku & Devletin Genel Esasları konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. Anayasa Hukuku & Devletin Genel Esasları konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "1982 Anayasası'nın İlk 3 Maddesi",
+        "body": "1. Madde: Devletin şekli Cumhuriyettir. 2. Madde: Devletin nitelikleri (Demokratik, laik, sosyal, hukuk devleti). 3. Madde: Dili Türkçe, başkenti Ankara, bayrağı Ay Yıldızlı al bayrak, marşı İstiklal Marşı'dır."
+      },
+      {
+        "card_number": 2,
+        "title": "Değiştirilemez 4. Madde Şifresi",
+        "body": "Anayasanın 1, 2 ve 3. maddeleri değiştirilemez, değiştirilmesi teklif dahi edilemez."
+      },
+      {
+        "card_number": 3,
+        "title": "Sert (Katı) ve Yumuşak Anayasa",
+        "body": "Değiştirilmesi zor usullere bağlanan ve değiştirilemez maddeleri olan anayasalar Serttir. 1921 Anayasası hariç tüm anayasalarımız serttir."
+      },
+      {
+        "card_number": 4,
+        "title": "Çerçeve Anayasa Tanımı",
+        "body": "Kısa, öz ve sadece genel esasları düzenleyen anayasadır. Türk tarihinin TEK çerçeve anayasası 1921 Anayasası (Teşkilat-ı Esasiye)'dır."
+      },
+      {
+        "card_number": 5,
+        "title": "Sosyal Devlet İlkesi Gereği",
+        "body": "Fırsat eşitliği sağlamak, kamulaştırma, devletleştirme, vergi adaleti ve sosyal güvenlik hakları sunmaktır."
+      },
+      {
+        "card_number": 6,
+        "title": "Hukuk Devleti İlkesi Gereği",
+        "body": "Kanuni hakim güvencesi, idarenin yargısal denetimi, mahkemelerin bağımsızlığı ve kazanılmış haklara saygıdır."
+      },
+      {
+        "card_number": 7,
+        "title": "Egemenliğin Kullanılması (Madde 6)",
+        "body": "Egemenlik kayıtsız şartsız milletindir. Türk milleti egemenliğini anayasanın koyduğu esaslara göre yetkili organları eliyle kullanır."
+      },
+      {
+        "card_number": 8,
+        "title": "Kuvvetler Ayrılığı İlkesi",
+        "body": "Yasama yetkisi TBMM'ye, Yürütme yetkisi Cumhurbaşkanı'na, Yargı yetkisi Bağımsız ve Tarafsız Mahkemelere aittir."
+      },
+      {
+        "card_number": 9,
+        "title": "Üniter Devlet Yapısı",
+        "body": "Devletin ülkesi ve milletiyle bölünmez bir bütün olması; tek anayasa, tek meclis ve tek yargı sisteminin bulunmasıdır."
+      },
+      {
+        "card_number": 10,
+        "title": "Anayasanın Bağlayıcılığı ve Üstünlüğü",
+        "body": "Anayasa hükümleri yasama, yürütme, yargı organlarını ve idare makamlarını bağlayan en üstün hukuk kurallarıdır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-52",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'ilk 3 madde'nin değiştirilemezliği hangi maddeyle güvence altına alınmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Madde 1"
+        },
+        {
+          "key": "B",
+          "text": "Madde 2"
+        },
+        {
+          "key": "C",
+          "text": "Madde 3"
+        },
+        {
+          "key": "D",
+          "text": "Madde 4"
+        },
+        {
+          "key": "E",
+          "text": "Madde 5"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Anayasa'nın 4. maddesi, ilk üç maddenin değiştirilemeyeceğini ve değiştirilmesinin teklif dahi edilemeyeceğini emreder.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-62",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin 'yönetim şekli' ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üniter devlet"
+        },
+        {
+          "key": "B",
+          "text": "Federal devlet"
+        },
+        {
+          "key": "C",
+          "text": "Konfederasyon"
+        },
+        {
+          "key": "D",
+          "text": "Meşruti monarşi"
+        },
+        {
+          "key": "E",
+          "text": "Teokratik devlet"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye Cumhuriyeti, merkeziyetçi yapının ve tek bir anayasal düzenin geçerli olduğu üniter devlet yapısına sahiptir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-102",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda yer alan 'Sosyal Devlet' ilkesinin bir gereği olarak devletin görevi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece asayişi ve düzeni sağlamak"
+        },
+        {
+          "key": "B",
+          "text": "Kişilerin ekonomik refahına katkı sağlamak ve sosyal adaleti gerçekleştirmek"
+        },
+        {
+          "key": "C",
+          "text": "Özel mülkiyeti tamamen kaldırmak"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi partileri sınırlandırmak"
+        },
+        {
+          "key": "E",
+          "text": "Hukuk kurallarını kaldırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sosyal devlet, devletin bireylerin yaşam standartlarını yükseltmek, sosyal adaleti sağlamak ve toplumun refahını artırmak için müdahale etmesidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-112",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'Hukuk Devleti' ilkesinin temel bir gereği olarak aşağıdakilerden hangisi kabul edilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdarenin her türlü eylem ve işleminin yargı denetimine tabi olması"
+        },
+        {
+          "key": "B",
+          "text": "İdarenin yargı denetiminden bağışık tutulması"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanının yargı denetimi dışı bırakılması"
+        },
+        {
+          "key": "D",
+          "text": "Yasama organının hiçbir denetime tabi tutulmaması"
+        },
+        {
+          "key": "E",
+          "text": "Mahkemelerin idareye bağlı çalışması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Hukuk devletinin en temel teminatı idarenin tüm işlem ve eylemlerinin bağımsız yargı organlarınca denetlenmesidir (Madde 125).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-122",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre aşağıdakilerden hangisi Türkiye Cumhuriyeti'nin temel niteliklerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Demokratik devlet"
+        },
+        {
+          "key": "B",
+          "text": "Laik devlet"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal devlet"
+        },
+        {
+          "key": "D",
+          "text": "Hukuk devleti"
+        },
+        {
+          "key": "E",
+          "text": "Federal devlet"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Anayasa'nın 2. maddesinde belirtilen Türkiye Cumhuriyeti'nin temel nitelikleri arasında üniter devlet yapısı esastır, federal devlet yapısı bulunmaz.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-132",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre 'değiştirilemez ve değiştirilmesi teklif edilemez' ilke hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanının görevleri"
+        },
+        {
+          "key": "B",
+          "text": "Milletvekili seçim usulleri"
+        },
+        {
+          "key": "C",
+          "text": "Devletin şekli ve Anayasa'nın ilk 3 maddesi"
+        },
+        {
+          "key": "D",
+          "text": "Yargı organlarının yapısı"
+        },
+        {
+          "key": "E",
+          "text": "Bütçe kanunu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa'nın 4. maddesi gereği, ilk üç maddede yer alan devletin şekli, cumhuriyetin nitelikleri ve temel ilkeler değiştirilemez.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-142",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre Türkiye Cumhuriyeti'nin egemenlik ve yetki yapısı bakımından 'yönetim şekli' hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Federal devlet"
+        },
+        {
+          "key": "B",
+          "text": "Üniter devlet"
+        },
+        {
+          "key": "C",
+          "text": "Konfederasyon"
+        },
+        {
+          "key": "D",
+          "text": "Mutlak monarşi"
+        },
+        {
+          "key": "E",
+          "text": "Teokrasi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye Cumhuriyeti, ülkesi ve milletiyle bölünmez bir bütün olan tek bir merkezi anayasaya dayalı üniter bir devlet yapısına sahiptir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-1",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin şekli aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Parlamenter sistem"
+        },
+        {
+          "key": "B",
+          "text": "Federasyon"
+        },
+        {
+          "key": "C",
+          "text": "Cumhuriyet"
+        },
+        {
+          "key": "D",
+          "text": "Başkanlık sistemi"
+        },
+        {
+          "key": "E",
+          "text": "Demokratik monarşi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1982 Anayasası'nın 1. maddesi, Türkiye Devleti'nin bir Cumhuriyet olduğunu hükme bağlamıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-2",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'nın ilk üç maddesinin değiştirilmesinin teklif dahi edilemeyeceği hangi maddede düzenlenmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Madde 1"
+        },
+        {
+          "key": "B",
+          "text": "Madde 2"
+        },
+        {
+          "key": "C",
+          "text": "Madde 3"
+        },
+        {
+          "key": "D",
+          "text": "Madde 4"
+        },
+        {
+          "key": "E",
+          "text": "Madde 5"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Anayasa'nın 4. maddesi, ilk üç maddenin değiştirilemeyeceğini ve değiştirilmesinin teklif edilemeyeceğini açıkça belirtir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-3",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Aşağıdakilerden hangisi Türkiye Cumhuriyeti'nin 'nitelikleri' arasında yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Demokratik devlet"
+        },
+        {
+          "key": "B",
+          "text": "Laik devlet"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal devlet"
+        },
+        {
+          "key": "D",
+          "text": "Federatif devlet"
+        },
+        {
+          "key": "E",
+          "text": "Hukuk devleti"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Türkiye Cumhuriyeti nitelikleri arasında demokratik, laik, sosyal hukuk devleti vardır; federasyon yoktur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-4",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Türk anayasa tarihinde 'ilk' yazılı belge niteliğinde olan ve anayasal düzene geçişi sağlayan belge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1921 Anayasası"
+        },
+        {
+          "key": "B",
+          "text": "1876 Kanun-ı Esasi"
+        },
+        {
+          "key": "C",
+          "text": "Sened-i İttifak"
+        },
+        {
+          "key": "D",
+          "text": "1961 Anayasası"
+        },
+        {
+          "key": "E",
+          "text": "Tanzimat Fermanı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1876 Kanun-ı Esasi, Türk tarihinde anayasal düzene geçişi başlatan ilk yazılı anayasadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-5",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin başkenti hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul"
+        },
+        {
+          "key": "B",
+          "text": "Ankara"
+        },
+        {
+          "key": "C",
+          "text": "İzmir"
+        },
+        {
+          "key": "D",
+          "text": "Bursa"
+        },
+        {
+          "key": "E",
+          "text": "Erzurum"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'nın 3. maddesi uyarınca Türkiye Devleti'nin başkenti Ankara'dır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-6",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'da belirtilen 'değiştirilemez hükümler' kapsamında hangisi yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milli marşın İstiklal Marşı olması"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanının süresi"
+        },
+        {
+          "key": "C",
+          "text": "Bakanların görevleri"
+        },
+        {
+          "key": "D",
+          "text": "Mahkemelerin yapısı"
+        },
+        {
+          "key": "E",
+          "text": "İdari bölümler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Milli marş (İstiklal Marşı) anayasanın 3. maddesinde yer alır ve 4. madde güvencesiyle değiştirilemez hükümler kapsamındadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-7",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1921 Anayasası'nın (Teşkilat-ı Esasiye) en belirgin özelliği nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kapsamlı ve uzun olması"
+        },
+        {
+          "key": "B",
+          "text": "Çerçeve ve kısa olması"
+        },
+        {
+          "key": "C",
+          "text": "Sert olması"
+        },
+        {
+          "key": "D",
+          "text": "Monarşiyi savunması"
+        },
+        {
+          "key": "E",
+          "text": "Yargı denetimi olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1921 Anayasası, savaş döneminde hazırlanmış kısa, öz ve çerçeve bir anayasadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-8",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin 'dil'i nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkçe"
+        },
+        {
+          "key": "B",
+          "text": "Osmanlıca"
+        },
+        {
+          "key": "C",
+          "text": "Arapça"
+        },
+        {
+          "key": "D",
+          "text": "Türk lehçeleri"
+        },
+        {
+          "key": "E",
+          "text": "İngilizce"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 3. maddesi gereği devletin resmi dili Türkçedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-9",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa kavramı ile ne kastedilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece kanunlar"
+        },
+        {
+          "key": "B",
+          "text": "Devletin temel yapısını ve hakları düzenleyen en üst hukuk normu"
+        },
+        {
+          "key": "C",
+          "text": "Sadece idari kararlar"
+        },
+        {
+          "key": "D",
+          "text": "Gelenekler"
+        },
+        {
+          "key": "E",
+          "text": "Mahkeme kararları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa, devletin işleyişini, organlarını ve vatandaşların temel haklarını belirleyen temel metindir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-10",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Türk anayasa tarihinde halk oylaması (referandum) ile kabul edilen ilk anayasa hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1921 Anayasası"
+        },
+        {
+          "key": "B",
+          "text": "1924 Anayasası"
+        },
+        {
+          "key": "C",
+          "text": "1961 Anayasası"
+        },
+        {
+          "key": "D",
+          "text": "1982 Anayasası"
+        },
+        {
+          "key": "E",
+          "text": "1876 Kanun-ı Esasi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1961 Anayasası, Türkiye tarihinde halk oylamasına sunulan ilk anayasadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-11",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda yapılan en kapsamlı hükümet sistemi değişikliği hangi yılda yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2000"
+        },
+        {
+          "key": "B",
+          "text": "2005"
+        },
+        {
+          "key": "C",
+          "text": "2010"
+        },
+        {
+          "key": "D",
+          "text": "2017"
+        },
+        {
+          "key": "E",
+          "text": "2020"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "2017 değişikliği, hükümet sistemini Cumhurbaşkanlığı Hükümet Sistemine dönüştüren en kapsamlı değişikliktir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-12",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'nın değiştirilmesi teklifi kime yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanına"
+        },
+        {
+          "key": "B",
+          "text": "TBMM Başkanlığına"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesine"
+        },
+        {
+          "key": "D",
+          "text": "Halk oylamasına"
+        },
+        {
+          "key": "E",
+          "text": "YSK'ya"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa değişikliği teklifi, en az 200 milletvekilinin yazılı imzasıyla TBMM Başkanlığına yapılır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-13",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin bayrağı nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anayasa'da belirtilmemiştir"
+        },
+        {
+          "key": "B",
+          "text": "Kanunla değiştirilebilir"
+        },
+        {
+          "key": "C",
+          "text": "Şekli kanununda belirtilen, beyaz ay yıldızlı al bayraktır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bir semboldür"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanınca belirlenir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa'nın 3. maddesi gereği Türkiye'nin bayrağı, şekli kanununda belirtilen, beyaz ay yıldızlı al bayraktır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-14",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasal sistemde 'sert anayasa' ne demektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Değiştirilemeyen anayasa"
+        },
+        {
+          "key": "B",
+          "text": "Değiştirilmesi normal kanunlardan daha ağır usul ve çoğunluklara bağlanan anayasa"
+        },
+        {
+          "key": "C",
+          "text": "Halk tarafından yazılan anayasa"
+        },
+        {
+          "key": "D",
+          "text": "Sadece hükümetin değiştirebildiği anayasa"
+        },
+        {
+          "key": "E",
+          "text": "Kısa olan anayasa"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sert anayasa, değiştirilmesi normal kanunlardan daha ağır ve özel usullere (nitelikli çoğunluk vb.) bağlanmış olan anayasadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-15",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'Yargı yetkisi' kim tarafından kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı adına"
+        },
+        {
+          "key": "B",
+          "text": "TBMM adına"
+        },
+        {
+          "key": "C",
+          "text": "Türk Milleti adına bağımsız ve tarafsız mahkemelerce"
+        },
+        {
+          "key": "D",
+          "text": "Hükümet adına"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Anayasa Mahkemesi tarafından"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa'nın 9. maddesi gereği yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-16",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Cumhuriyetin nitelikleri Anayasa'nın hangi maddesinde yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Madde 1"
+        },
+        {
+          "key": "B",
+          "text": "Madde 2"
+        },
+        {
+          "key": "C",
+          "text": "Madde 3"
+        },
+        {
+          "key": "D",
+          "text": "Madde 4"
+        },
+        {
+          "key": "E",
+          "text": "Madde 5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhuriyetin nitelikleri (demokratik, laik, sosyal hukuk devleti) Anayasa'nın 2. maddesinde tanımlanmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-17",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin 'milli marşı' hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gençlik Marşı"
+        },
+        {
+          "key": "B",
+          "text": "İstiklal Marşı"
+        },
+        {
+          "key": "C",
+          "text": "10. Yıl Marşı"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa'da belirtilmemiştir"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanınca belirlenir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'nın 3. maddesi gereği Türkiye Devleti'nin milli marşı İstiklal Marşı'dır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-18",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'nın değiştirilmesi teklifinin TBMM Genel Kurulu'nda kabul edilmesi için en az kaç oy gereklidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Salt çoğunluk"
+        },
+        {
+          "key": "B",
+          "text": "301"
+        },
+        {
+          "key": "C",
+          "text": "360 (üye tamsayısının beşte üçü)"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "Oybirliği"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa değişikliği teklifinin TBMM tarafından kabul edilebilmesi için en az üye tamsayısının 3/5 çoğunluğu (360 kabul oyu) gerekir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-19",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Aşağıdakilerden hangisi bir 'hükümet sistemi' değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Parlamenter sistem"
+        },
+        {
+          "key": "B",
+          "text": "Başkanlık sistemi"
+        },
+        {
+          "key": "C",
+          "text": "Yarı başkanlık"
+        },
+        {
+          "key": "D",
+          "text": "Üniter devlet sistemi"
+        },
+        {
+          "key": "E",
+          "text": "Meclis hükümeti sistemi"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Üniter sistem bir devlet yapısı (yapılanması) biçimidir, hükümet sistemi değildir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-20",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'Egemenlik' kayıtsız şartsız kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece TBMM'ye"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanına"
+        },
+        {
+          "key": "C",
+          "text": "Türk Milletine"
+        },
+        {
+          "key": "D",
+          "text": "Hükümete"
+        },
+        {
+          "key": "E",
+          "text": "Yargı organlarına"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa'nın 6. maddesi gereği egemenlik, kayıtsız şartsız Türk Milletinindir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-21",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Egemenliğin kullanımı ile ilgili Anayasa hükmü aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğrudan halk tarafından kullanılır"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa'nın koyduğu esaslara göre yetkili organlarca kullanılır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece TBMM tarafından kullanılır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanı tarafından kullanılır"
+        },
+        {
+          "key": "E",
+          "text": "Sadece yargı tarafından kullanılır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Egemenlik, Anayasa'nın koyduğu esaslara göre yetkili organlar eliyle kullanılır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-22",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Egemenliğin kullanılmasının bir kişiye veya zümreye 'devredilmesi' mümkün müdür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, devredilebilir"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, hiçbir surette devredilemez"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Meclise devredilebilir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanına devredilebilir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece hükümete devredilebilir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre egemenliğin kullanılması hiçbir surette hiçbir kişiye, zümreye veya sınıfa bırakılamaz.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-25",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre 'kanun önünde eşitlik' ilkesi ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Herkes dil, ırk, renk, cinsiyet, siyasi düşünce vb. ayrımı gözetilmeksizin eşittir"
+        },
+        {
+          "key": "B",
+          "text": "Sadece vatandaşlar eşittir"
+        },
+        {
+          "key": "C",
+          "text": "Eşitlik sadece ekonomik konulardadır"
+        },
+        {
+          "key": "D",
+          "text": "Eşitlik sadece oy kullanmada vardır"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbir konuda eşitlik yoktur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 10. maddesi uyarınca herkes, dil, ırk, renk, cinsiyet, siyasi düşünce vb. ayrımı gözetilmeksizin kanun önünde eşittir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-27",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'Sosyal Devlet' ilkesinin bir gereği olarak devletin temel görevi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece asayişi sağlamak"
+        },
+        {
+          "key": "B",
+          "text": "Kişilerin ekonomik refahına katkı sağlamak ve sosyal adaleti gerçekleştirmek"
+        },
+        {
+          "key": "C",
+          "text": "Özel mülkiyeti tamamen kaldırmak"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi partileri sınırlandırmak"
+        },
+        {
+          "key": "E",
+          "text": "Hukuk kurallarını kaldırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sosyal devlet, devletin bireylerin yaşam standartlarını yükseltmek, sosyal adaleti sağlamak ve toplumun refahını artırmak için müdahale etmesidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-28",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre 'egemenliğin sahibi' kime işaret eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Hükümet"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "Türk Milleti"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Anayasa'nın 6. maddesi gereği egemenlik, kayıtsız şartsız Türk Milletinindir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-29",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'Laik Devlet' ilkesi neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Din ve devlet işlerinin ayrılığını, inanç hürriyetinin korunmasını"
+        },
+        {
+          "key": "B",
+          "text": "Dinin devletin kontrolünde olmasını"
+        },
+        {
+          "key": "C",
+          "text": "Sadece belli bir dinin serbest olmasını"
+        },
+        {
+          "key": "D",
+          "text": "Devletin resmi dini olmasını"
+        },
+        {
+          "key": "E",
+          "text": "Dinlerin tamamen yasaklanmasını"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Laik devlet, devletin dini inançlardan bağımsız olduğu, din ve devlet işlerinin birbirinden ayrıldığı bir yapıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-30",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre 'Anayasa'nın bağlayıcılığı ve üstünlüğü' neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Meclisi bağlar"
+        },
+        {
+          "key": "B",
+          "text": "Sadece vatandaşları bağlar"
+        },
+        {
+          "key": "C",
+          "text": "Yasama, yürütme, yargı organlarını, idare makamlarını ve kişileri bağlar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanını bağlar"
+        },
+        {
+          "key": "E",
+          "text": "Hiç kimseden üstün değildir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa hükümleri, yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan en üst normdur (Madde 11).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-31",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'nın 'değiştirilmesi teklif dahi edilemez' hükümleri arasında hangisi yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Devletin şeklinin Cumhuriyet olduğu"
+        },
+        {
+          "key": "B",
+          "text": "Devletin başkentinin Ankara olduğu"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanının görev süresi"
+        },
+        {
+          "key": "D",
+          "text": "Bayrağının beyaz ay yıldızlı al bayrak olduğu"
+        },
+        {
+          "key": "E",
+          "text": "Milli marşının İstiklal Marşı olduğu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa'nın 4. maddesi ilk 3 maddeyi korumaktadır; Cumhurbaşkanının görev süresi (Madde 101) değiştirilebilir bir maddedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-32",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'nın 2. maddesinde belirtilen 'Demokratik Devlet' ilkesi neyi gerektirir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Halkın özgür ve serbest seçimlerle yönetime katılımını"
+        },
+        {
+          "key": "B",
+          "text": "Sadece atama ile yönetilmeyi"
+        },
+        {
+          "key": "C",
+          "text": "Tek partili sistemi"
+        },
+        {
+          "key": "D",
+          "text": "Seçimlerin yasaklanmasını"
+        },
+        {
+          "key": "E",
+          "text": "Meclisin lağvedilmesini"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Demokratik devlet, halkın iradesinin serbest seçimler yoluyla yönetime yansıdığı sistemdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-33",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Türkiye Cumhuriyeti'nde 'Yargı yetkisi' Türk Milleti adına kim tarafından kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Meclis"
+        },
+        {
+          "key": "B",
+          "text": "Bağımsız ve tarafsız mahkemelerce"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Hükümetçe"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanınca"
+        },
+        {
+          "key": "E",
+          "text": "İçişleri Bakanlığınca"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'nın 9. maddesine göre yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-34",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Hangi anayasa ile 'Anayasa Mahkemesi' Türk hukuk sisteminde ilk kez kurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1921 Anayasası"
+        },
+        {
+          "key": "B",
+          "text": "1924 Anayasası"
+        },
+        {
+          "key": "C",
+          "text": "1961 Anayasası"
+        },
+        {
+          "key": "D",
+          "text": "1982 Anayasası"
+        },
+        {
+          "key": "E",
+          "text": "1876 Anayasası"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa Mahkemesi, 1961 Anayasası ile Türk hukuk sistemine girmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-35",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'Hukuk Devleti'nin en belirgin zorunlu şartı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdarenin her türlü işlem ve eyleminin yargısal denetimi"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi partilerin yasaklanması"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa'nın bulunmaması"
+        },
+        {
+          "key": "D",
+          "text": "Yargının yürütmeye tabi olması"
+        },
+        {
+          "key": "E",
+          "text": "Kanunların askıya alınması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Hukuk devletinde idarenin yaptığı her türlü işlem yargı denetimine açıktır (Madde 125).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-36",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Cumhuriyetin temel nitelikleri arasında hangisi yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Demokratik"
+        },
+        {
+          "key": "B",
+          "text": "Laik"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal"
+        },
+        {
+          "key": "D",
+          "text": "Hukuk devleti"
+        },
+        {
+          "key": "E",
+          "text": "Monarşik"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Türkiye Cumhuriyeti demokratik, laik, sosyal hukuk devletidir; monarşik değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-37",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nın 3. maddesine göre devletin resmi dili nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkçe"
+        },
+        {
+          "key": "B",
+          "text": "İngilizce"
+        },
+        {
+          "key": "C",
+          "text": "Arapça"
+        },
+        {
+          "key": "D",
+          "text": "Türk lehçeleri"
+        },
+        {
+          "key": "E",
+          "text": "Osmanlıca"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 3. maddesi gereği devletin dili Türkçedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-38",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasal sistemde 'sert anayasa' değişikliği için ne aranır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece basit Meclis kararı"
+        },
+        {
+          "key": "B",
+          "text": "Nitelikli çoğunluk veya ağırlaştırılmış özel usuller"
+        },
+        {
+          "key": "C",
+          "text": "Sadece hükümet kararı"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanı kararı"
+        },
+        {
+          "key": "E",
+          "text": "Mahkeme kararı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sert anayasaların değiştirilmesi, normal kanunlardan daha ağır ve özel usullere bağlıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-39",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "Anayasa'nın 5. maddesinde belirtilen devletin temel amaç ve görevlerinden biri nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişilerin ve toplumun refahını, huzurunu ve mutluluğunu sağlamak"
+        },
+        {
+          "key": "B",
+          "text": "Sadece vergi toplamak"
+        },
+        {
+          "key": "C",
+          "text": "Sadece dış ticareti yönetmek"
+        },
+        {
+          "key": "D",
+          "text": "Sadece asker yetiştirmek"
+        },
+        {
+          "key": "E",
+          "text": "Siyasi partileri yasaklamak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 5. maddesi, devletin temel amaç ve görevlerini tanımlar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-40",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'nda 'egemenlik' kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türk Milleti"
+        },
+        {
+          "key": "B",
+          "text": "TBMM"
+        },
+        {
+          "key": "C",
+          "text": "Hükümet"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "E",
+          "text": "Mahkemeler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 6. maddesi gereği egemenlik, kayıtsız şartsız Türk Milletinindir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-41",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin 'yönetim şekli' hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Federal devlet"
+        },
+        {
+          "key": "B",
+          "text": "Üniter devlet"
+        },
+        {
+          "key": "C",
+          "text": "Konfederasyon"
+        },
+        {
+          "key": "D",
+          "text": "Mutlak monarşi"
+        },
+        {
+          "key": "E",
+          "text": "Teokrasi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye Cumhuriyeti üniter devlet yapısına sahiptir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-42",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre seçimlerin genel yönetimi ve denetimi kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Yüksek Seçim Kurulu (YSK)"
+        },
+        {
+          "key": "C",
+          "text": "İçişleri Bakanlığı"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "E",
+          "text": "Yargıtay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Seçimlerin yönetimi ve denetimi yargı organı olan Yüksek Seçim Kurulu'na aittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-46",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre 'egemenlik' başka bir organa devredilebilir mi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, devredilebilir"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, hiçbir surette hiçbir kişiye, zümreye devredilemez"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Meclise devredilebilir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanına devredilebilir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece hükümete devredilebilir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre egemenlik, kayıtsız şartsız milletin olup, devredilemez.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-47",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre devletin 'nitelikleri' açısından ne doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Demokratik, laik, sosyal hukuk devletidir"
+        },
+        {
+          "key": "B",
+          "text": "Teokratik devlet yapısına sahiptir"
+        },
+        {
+          "key": "C",
+          "text": "Federal bir devlettir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece cumhuriyettir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece hukuk devletidir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 2. maddesi, Türkiye Cumhuriyeti'nin demokratik, laik, sosyal bir hukuk devleti olduğunu belirtir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-anayasa-genel-esaslar-49",
+      "topic_id": "topic-vat-anayasa-genel-esaslar",
+      "question_text": "1982 Anayasası'na göre 'yargı yetkisi' neye dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milletin iradesine"
+        },
+        {
+          "key": "B",
+          "text": "Bağımsız ve tarafsız mahkemelere"
+        },
+        {
+          "key": "C",
+          "text": "Sadece yasalara"
+        },
+        {
+          "key": "D",
+          "text": "Hükümetin kararına"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanına"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yargı yetkisi, bağımsız ve tarafsız mahkemelerce kullanılır.",
+      "difficulty_level": 3
+    }
+  ]
+}

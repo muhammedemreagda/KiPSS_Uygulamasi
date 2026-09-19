@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-geo-ucgenler",
+  "title": "Üçgenler & Özel Üçgenler",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-geo-ucgenler",
+    "topic_id": "topic-geo-ucgenler",
+    "title": "Üçgenler & Özel Üçgenler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Üçgenler & Özel Üçgenler' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Üçgenler & Özel Üçgenler konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nÜçgenler & Özel Üçgenler konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Üçgenler & Özel Üçgenler konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Üçgenin İç ve Dış Açıları",
+        "body": "Herhangi bir üçgenin iç açıları toplamı 180 derece, dış açıları toplamı 360 derecedir."
+      },
+      {
+        "card_number": 2,
+        "title": "İki İç Açı Bir Dış Açıya Eşittir",
+        "body": "Bir üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri toplamına eşittir."
+      },
+      {
+        "card_number": 3,
+        "title": "Üçgen Eşitsizliği Kuralı",
+        "body": "Bir üçgende bir kenar uzunluğu diğer iki kenarın toplamından küçük, farkının mutlak değerinden büyüktür: |b-c| < a < b+c."
+      },
+      {
+        "card_number": 4,
+        "title": "Pisagor Teoremi (Dik Üçgen)",
+        "body": "Bir dik üçgende hipotenüsün karesi dik kenarların kareleri toplamına eşittir: a^2 + b^2 = c^2."
+      },
+      {
+        "card_number": 5,
+        "title": "Özel Dik Üçgenler (Kenarlarına Göre)",
+        "body": "3-4-5, 5-12-13, 8-15-17, 7-24-25 ve bunların katları olan üçgenler soru çözdürür."
+      },
+      {
+        "card_number": 6,
+        "title": "30-60-90 Özel Dik Üçgeni",
+        "body": "30 derecenin karşısı x ise; 90 derecenin karşısı 2x, 60 derecenin karşısı x.kök(3) olur."
+      },
+      {
+        "card_number": 7,
+        "title": "45-45-90 İkizkenar Dik Üçgen",
+        "body": "Dik kenarlar x ise hipotenüs kenarların kök(2) katıdır (x.kök(2))."
+      },
+      {
+        "card_number": 8,
+        "title": "Öklid Bağıntıları (Dikine Dik)",
+        "body": "Dik açıdan dik inildiğinde yükseklik h^2 = p . k ; kenarlar b^2 = k . a dır."
+      },
+      {
+        "card_number": 9,
+        "title": "Muhteşem Üçlü Kuralı",
+        "body": "Bir dik üçgende hipotenüse ait kenarortay uzunluğu, hipotenüste böldüğü parçaların uzunluğuna eşittir."
+      },
+      {
+        "card_number": 10,
+        "title": "Üçgende Alan Formülü",
+        "body": "Üçgenin Alanı = (Taban x O Taban Ait Yükseklik) / 2 veya Sinüslü Alan = 1/2 . a . b . sin(C)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-geo-ucgenler-1",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin iç açılarının ölçüleri toplamı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90"
+        },
+        {
+          "key": "B",
+          "text": "180"
+        },
+        {
+          "key": "C",
+          "text": "270"
+        },
+        {
+          "key": "D",
+          "text": "360"
+        },
+        {
+          "key": "E",
+          "text": "540"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Öklid geometrisinde tüm üçgenlerin iç açıları toplamı 180 derecedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-2",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin bir dış açısının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri toplamına eşittir. Bir üçgenin iç açıları 50° ve 60° olduğuna göre, bu açılara komşu olmayan dış açısı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "70"
+        },
+        {
+          "key": "B",
+          "text": "100"
+        },
+        {
+          "key": "C",
+          "text": "110"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "130"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dış açı = 50 + 60 = 110 derecedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-3",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Dik kenar uzunlukları 6 cm ve 8 cm olan bir dik üçgenin hipotenüs uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "14"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Pisagor bağıntısı: 6² + 8² = c² ⇒ 36 + 64 = 100 ⇒ c = 10.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-4",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir 30-60-90 dik üçgeninde, 30 derecelik açının karşısındaki kenar 5 cm ise, 90 derecelik açının (hipotenüs) karşısındaki kenar kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "5√3"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "10√3"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "30-60-90 üçgeninde hipotenüs, 30'un karşısındakinin 2 katıdır. 5 · 2 = 10.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-5",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir ikizkenar dik üçgende (45-45-90), dik kenarlardan biri 4 cm ise hipotenüs uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "4√2"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "8√2"
+        },
+        {
+          "key": "E",
+          "text": "16"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "45-45-90 üçgeninde hipotenüs, dik kenarın √2 katıdır. 4 · √2 = 4√2.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-6",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin kenar uzunlukları 5 cm, 7 cm ve x cm'dir. Buna göre x'in alabileceği tam sayı değerlerinin sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "11"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Üçgen eşitsizliği: |7 - 5| < x < 7 + 5 ⇒ 2 < x < 12. Değerler: {3, 4, 5, 6, 7, 8, 9, 10, 11}. Toplam 9 değer.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-7",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Taban uzunluğu 10 cm ve yüksekliği 6 cm olan bir üçgenin alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Alan = (Taban · Yükseklik) / 2 = (10 · 6) / 2 = 30.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-8",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir ABC üçgeninde D ve E noktaları sırasıyla AB ve AC kenarlarının orta noktalarıdır. BC uzunluğu 12 cm ise DE uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Orta taban teoremi: Orta taban, paralel olduğu tabanın yarısıdır. 12 / 2 = 6.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-9",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "ABC üçgeninde AB/AC = BD/DC oranı (iç açıortay teoremi) sağlanmaktadır. AB=6, AC=9 ve BC=10 cm ise, BD uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "6/9 = BD/DC ⇒ BD/DC = 2/3. BD = (2/5) · 10 = 4.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-10",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Kenar uzunlukları 6, 8, 10 cm olan bir üçgenin çevrel çemberinin yarıçapı kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dik üçgenin çevrel çemberinin merkezi hipotenüsün orta noktasıdır. Yarıçap hipotenüsün yarısıdır: 10 / 2 = 5.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-11",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir ABC üçgeninde a² = b² + c² - 2bc · cos(A) formülü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sinüs teoremi"
+        },
+        {
+          "key": "B",
+          "text": "Kosinüs teoremi"
+        },
+        {
+          "key": "C",
+          "text": "Pisagor bağıntısı"
+        },
+        {
+          "key": "D",
+          "text": "Alan formülü"
+        },
+        {
+          "key": "E",
+          "text": "Stewart teoremi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bu formül Kosinüs teoremidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-12",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Eşkenar üçgenin bir iç açısı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "70"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Eşkenar üçgenin tüm açıları eşittir (180 / 3 = 60).",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-13",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir dik üçgende dik kenarlara ait kenarortayların kareleri toplamı ile hipotenüse ait kenarortayın karesi arasındaki ilişki nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5(Va² + Vb²) = 4Vc²"
+        },
+        {
+          "key": "B",
+          "text": "Va² + Vb² = Vc²"
+        },
+        {
+          "key": "C",
+          "text": "Va² + Vb² = 5Vc²"
+        },
+        {
+          "key": "D",
+          "text": "4(Va² + Vb²) = 5Vc²"
+        },
+        {
+          "key": "E",
+          "text": "Va² + Vb² = 2Vc²"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dik üçgende kenarortaylar arasında 5(Va² + Vb²) = 4Vc² bağıntısı vardır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-geo-ucgenler-14",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Dik kenarları 3 ve 4 olan bir dik üçgenin alanı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Alan = (3 · 4) / 2 = 6.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-15",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "ABC üçgeninde AB=AC, m(A)=40° ise, m(B) kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "70"
+        },
+        {
+          "key": "C",
+          "text": "80"
+        },
+        {
+          "key": "D",
+          "text": "90"
+        },
+        {
+          "key": "E",
+          "text": "100"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İkizkenar üçgende taban açıları eşittir: (180 - 40) / 2 = 70.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-16",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin iç teğet çemberinin merkezi nasıl oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kenarortayların kesişimi"
+        },
+        {
+          "key": "B",
+          "text": "Yüksekliklerin kesişimi"
+        },
+        {
+          "key": "C",
+          "text": "Açıortayların kesişimi"
+        },
+        {
+          "key": "D",
+          "text": "Kenar orta dikmelerin kesişimi"
+        },
+        {
+          "key": "E",
+          "text": "Dış açıortayların kesişimi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İç teğet çemberin merkezi, üçgenin iç açıortaylarının kesişim noktasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-17",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Kenarları 5, 12, 13 olan bir üçgenin alanı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "35"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bu bir dik üçgendir (5-12-13). Alan = (5 · 12) / 2 = 30.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-18",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "G noktası ABC üçgeninin ağırlık merkezi ise AG/GD oranı nedir (D, BC kenarının orta noktası)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "1/2"
+        },
+        {
+          "key": "E",
+          "text": "1/3"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ağırlık merkezi kenarortayı 1'e 2 oranında böler (köşeye yakın olan kısım 2 birim, kenara yakın 1 birim).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-19",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgende kenar orta dikmelerin kesişim noktası hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ağırlık merkezi"
+        },
+        {
+          "key": "B",
+          "text": "Diklik merkezi"
+        },
+        {
+          "key": "C",
+          "text": "İç teğet çemberin merkezi"
+        },
+        {
+          "key": "D",
+          "text": "Çevrel çemberin merkezi"
+        },
+        {
+          "key": "E",
+          "text": "Dış teğet çemberin merkezi"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Kenar orta dikmelerin kesişim noktası, üçgenin çevrel çemberinin merkezidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-20",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Üç kenarı da eşit olan üçgenin alanı a kenarı için hangi formülle hesaplanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a²√3 / 2"
+        },
+        {
+          "key": "B",
+          "text": "a²√3 / 4"
+        },
+        {
+          "key": "C",
+          "text": "a² / 2"
+        },
+        {
+          "key": "D",
+          "text": "a²√2 / 4"
+        },
+        {
+          "key": "E",
+          "text": "a²"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Eşkenar üçgenin alan formülü a²√3 / 4'tür.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-21",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "ABC üçgeninde AB=AC=10 cm, BC=12 cm ise bu üçgenin alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "48"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "56"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İkizkenar üçgende tepeden tabana dikme iner (6-8-10 üçgeni oluşur). Yükseklik 8, taban 12. Alan = (12 · 8) / 2 = 48.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-22",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "ABC üçgeninde m(A)=90 derece, AH hipotenüse dik indirilmiş. BH=2 cm, HC=8 cm ise AH uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Öklid teoremi: h² = p · k ⇒ h² = 2 · 8 = 16 ⇒ h = 4.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-geo-ucgenler-23",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Dik üçgende hipotenüs uzunluğu 20 cm ise, hipotenüse ait kenarortayın uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Muhteşem üçlü: Dik üçgende hipotenüse ait kenarortay, hipotenüsün yarısına eşittir. 20 / 2 = 10.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-24",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgende açıortayların kesişim noktası üçgenin neyidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ağırlık merkezi"
+        },
+        {
+          "key": "B",
+          "text": "Diklik merkezi"
+        },
+        {
+          "key": "C",
+          "text": "İç teğet çemberin merkezi"
+        },
+        {
+          "key": "D",
+          "text": "Çevrel çemberin merkezi"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Açıortayların kesişim noktası iç teğet çemberin merkezidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-25",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "ABC üçgeninde a=3, b=4, c=5 ise bu üçgenin alanı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "3-4-5 üçgeni dik üçgendir. Alan = (3 · 4) / 2 = 6.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-geo-ucgenler-26",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "ABC üçgeninde bir dış açı 120° ve kendisine komşu olmayan iç açılardan biri 40° ise diğeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "80"
+        },
+        {
+          "key": "D",
+          "text": "100"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dış açı = İç açı1 + İç açı2 ⇒ 120 = 40 + İç açı2 ⇒ İç açı2 = 80°.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-27",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin kenarları 3 cm, 5 cm ve x cm'dir. x'in en büyük tam sayı değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Eşitsizlik: |5-3| < x < 5+3 ⇒ 2 < x < 8. En büyük tam sayı 7'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-28",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin iç açılarının ölçüleri 2:3:4 oranındadır. En büyük iç açı kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "80"
+        },
+        {
+          "key": "D",
+          "text": "90"
+        },
+        {
+          "key": "E",
+          "text": "100"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "2k + 3k + 4k = 180 ⇒ 9k = 180 ⇒ k = 20. En büyük açı 4k = 80°.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-29",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Dik kenarlarından biri 5 cm, hipotenüsü 13 cm olan dik üçgenin alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "5-12-13 dik üçgenidir. Diğer dik kenar 12'dir. Alan = (5 · 12) / 2 = 30.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-geo-ucgenler-30",
+      "topic_id": "topic-geo-ucgenler",
+      "question_text": "Bir üçgenin dik koordinat düzlemindeki köşeleri A(0,0), B(3,0) ve C(0,4) noktaları ise alanı kaç birimkaredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dik kenarları 3 ve 4 birim olan dik üçgendir. Alan = (3 · 4) / 2 = 6.",
+      "difficulty_level": 2
+    }
+  ]
+}

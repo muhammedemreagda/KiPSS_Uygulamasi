@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-ebob-ekok",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "EBOB (En Büyük Ortak Bölen)",
+      "body": "İki veya daha fazla sayıyı aynı anda bölen en büyük pozitif tam sayıdır. Örnek: EBOB(12, 18) = 6'dır."
+    },
+    {
+      "card_number": 2,
+      "title": "EKOK (En Küçük Ortak Kat)",
+      "body": "İki veya daha fazla sayının ortak katı olan en küçük pozitif tam sayıdır. Örnek: EKOK(12, 18) = 36'dır."
+    },
+    {
+      "card_number": 3,
+      "title": "EBOB x EKOK Formülü",
+      "body": "İki a ve b doğal sayısı için: EBOB(a,b) x EKOK(a,b) = a x b formülü daima geçerlidir."
+    },
+    {
+      "card_number": 4,
+      "title": "Aralarında Asal Sayılarda EBOB-EKOK",
+      "body": "a ve b aralarında asal ise EBOB(a,b) = 1 ve EKOK(a,b) = a x b olur. Örnek: EBOB(8,9)=1, EKOK(8,9)=72."
+    },
+    {
+      "card_number": 5,
+      "title": "Bidon / Poşet Problemleri (EBOB)",
+      "body": "Büyük parçalardan küçük parçalar elde ediliyorsa (çuvaldaki pirinçleri torbalara koyma, tarlanın etrafına direk dikme) EBOB kullanılır."
+    },
+    {
+      "card_number": 6,
+      "title": "Zil / Otobüs Problemleri (EKOK)",
+      "body": "Küçük parçalardan büyük zamanlar veya yapılar oluşturuluyorsa (zillerin aynı anda çalması, nöbet tutma) EKOK kullanılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Karesel Fayans Kaplama (EKOK)",
+      "body": "Boyutları verilen tuğlalarla küp yapma veya dikdörtgen yüzeyi kare fayanslarla kaplama sorularında EKOK hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "Bahçe Etrafına Direk Dikme",
+      "body": "Kenarları a ve b olan dikdörtgen bahçenin köşelerine de gelmek şartıyla eşit aralıklarla direk dikilirse, direk sayısı = Çevre / EBOB(a,b)."
+    },
+    {
+      "card_number": 9,
+      "title": "Kesirli Sayılarda EKOK Formülü",
+      "body": "a/b ve c/d kesirlerinin EKOK'u = EKOK(a,c) / EBOB(b,d) formülü ile bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Ardışık Sayılarda EBOB",
+      "body": "Ardışık iki pozitif tam sayının EBOB'u daima 1'dir. Örnek: EBOB(14, 15) = 1."
+    }
+  ]
+}

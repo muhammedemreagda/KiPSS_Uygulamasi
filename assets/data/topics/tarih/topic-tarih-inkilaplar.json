@@ -1,0 +1,947 @@
+{
+  "topic_id": "topic-tarih-inkilaplar",
+  "title": "Atatürk Dönemi İnkılapları",
+  "course_id": "course-tarih",
+  "question_count": 29,
+  "quick_note": {
+    "id": "qn-topic-tarih-inkilaplar",
+    "topic_id": "topic-tarih-inkilaplar",
+    "title": "Atatürk Dönemi İnkılapları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Tarih testinde 'Atatürk Dönemi İnkılapları' konusu, kronolojik akışın, sebep-sonuç ilişkilerinin ve dönemsel ıslahat/antlaşmaların sorgulandığı yüksek soru potansiyeline sahip bir alandır.",
+    "content": "Atatürk Dönemi İnkılapları konusu, KPSS Tarih testinde adayların bilgi düzeyini ve tarihsel mantık yürütme kabiliyetini ölçer.\n\n1. Tarihsel Süreç ve Dönemin Önemi:\nAtatürk Dönemi İnkılapları dönemi, Türk ve dünya tarihinin şekillenmesinde kritik bir evredir. Bu dönemde yaşanan siyasi, askeri, ekonomik ve kültürel gelişmeler bir sonraki dönemin temelini oluşturmuştur.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Antlaşmaların maddelerindeki bağımsızlık, egemenlik ve sınır değişiklikleri detaylarına dikkat edin.\n- Islahatlarda yapılan yeniliklerin hangi alana (askeri, hukuki, idari, eğitim) ait olduğunu ayırt edin.\n- Kurtuluş Savaşı ve İnkılap Tarihi konularında Atatürk'ün sözlerini ve bu sözlerin hangi olay üzerine söylendiğini mutlaka bilin.\n\n3. Soru Çözüm Stratejisi:\n- Öncüllü (I, II, III) sorularda verilen bilgilerin sorudaki öncüle tam uyup uymadığını kontrol edin.\n- Tarih sorularını çözerken günümüz değerleriyle değil, olayın yaşandığı dönemin şartlarıyla değerlendirin.",
+    "key_points": [
+      "1. Atatürk Dönemi İnkılapları dönemindeki olayları ezberlemek yerine sebep-sonuç zinciri kurarak öğrenin.",
+      "2. Dönemin önemli antlaşmalarını, maddelerini ve getirdiği yenilikleri zihninize oturtun.",
+      "3. Devlet adamlarının, padişahların veya komutanların döneme damga vuran unvanlarını bilin.",
+      "4. Kültür ve Medeniyet kavramlarını (kurumlar, meclisler, vergi türleri) karıştırmayın.",
+      "5. Soru çözerken dönemin koşullarını ve 'Yalnızca bu bilgiye dayanarak' kuralını unutmayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Cumhuriyetin İlanı (29 Ekim 1923)",
+        "body": "Devletin rejimi belirlenmiş, Meclis Hükümeti sisteminden Kabine Sistemine geçilmiş, M. Kemal ilk Cumhurbaşkanı, İsmet Paşa ilk Başbakan olmuştur."
+      },
+      {
+        "card_number": 2,
+        "title": "Halifeliğin Kaldırılması (3 Mart 1924)",
+        "body": "Laikliğin en önemli adımıdır. Aynı gün Tevhid-i Tedrisat Kanunu çıkarılmış ve Şer'iye ve Evkaf Vekaleti kaldırılmıştır."
+      },
+      {
+        "card_number": 3,
+        "title": "Şer'iye ve Evkaf Vekaleti Yerine Kurulanlar",
+        "body": "Din işleri için Diyanet İşleri Başkanlığı, vakıf işleri için Vakıflar Genel Müdürlüğü kurulmuştur."
+      },
+      {
+        "card_number": 4,
+        "title": "Erkan-ı Harbiye Umumiye Vekaleti",
+        "body": "Kaldırılarak Genelkurmay Başkanlığı kurulmuş, böylece ordu siyasetten tamamen ayrılmıştır."
+      },
+      {
+        "card_number": 5,
+        "title": "Tevhid-i Tedrisat Kanunu (1924)",
+        "body": "Tüm öğretim kurumları Milli Eğitim Bakanlığı'na bağlanmış, eğitimde birlik ve laikleşme sağlanmıştır."
+      },
+      {
+        "card_number": 6,
+        "title": "Türk Medeni Kanunu (17 Şubat 1926)",
+        "body": "İsviçre'den uyarlanmıştır. Kadın-erkek hukuki ve sosyal eşitliği sağlanmış, tek eşlilik ve resmi nikah zorunlu olmuştur (Siyasi hak İÇERMEZ!)."
+      },
+      {
+        "card_number": 7,
+        "title": "Kadınlara Siyasi Hakların Verilmesi (BMI)",
+        "body": "1930 Belediye seçimleri, 1933 Muhtarlık seçimleri, 1934 Milletvekili seçilme hakkı (Şifre: BMW / BMI)."
+      },
+      {
+        "card_number": 8,
+        "title": "Harf İnkılabı (1 Kasım 1928)",
+        "body": "Latin alfabesi kabul edilmiş, okuma-yazma oranını artırmak için Millet Mektepleri açılmıştır."
+      },
+      {
+        "card_number": 9,
+        "title": "Kabotaj Kanunu (1 Temmuz 1926)",
+        "body": "Türk karasularında gemi işletme ve liman hakkı Türk denizcilerine verilmiş, milliyetçilik ilkesi doğrultusunda deniz bağımsızlığı sağlanmıştır."
+      },
+      {
+        "card_number": 10,
+        "title": "Soyadı Kanunu (1934)",
+        "body": "Ayrıcalık belirten unvanlar (Ağa, Paşa, Hoca) kaldırılmış, Mustafa Kemal'e TBMM tarafından 'Atatürk' soyadı verilmiştir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-tarih-inkilaplar-1",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Saltanatın kaldırılması (1 Kasım 1922) ile aşağıdakilerden hangisi doğrudan gerçekleşmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhuriyetin ilanı"
+        },
+        {
+          "key": "B",
+          "text": "Hilafetin kaldırılması"
+        },
+        {
+          "key": "C",
+          "text": "Devlet yönetimindeki ikiliğin sona ermesi"
+        },
+        {
+          "key": "D",
+          "text": "Kadınlara seçme hakkı verilmesi"
+        },
+        {
+          "key": "E",
+          "text": "Harf İnkılabı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Saltanatın kaldırılması ile Lozan'a İstanbul ve Ankara hükümetlerinin birlikte çağrılmasının yarattığı ikilik sona erdirilmiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-2",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Türk Medeni Kanunu'nun (1926) kabulüyle aşağıdakilerden hangisi hukuk sistemine girmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Laik hukuk anlayışı ve kadın-erkek sosyal eşitliği"
+        },
+        {
+          "key": "B",
+          "text": "Şer'i mahkemelerin yetkilerinin artırılması"
+        },
+        {
+          "key": "C",
+          "text": "Çok eşliliğin yasal hale gelmesi"
+        },
+        {
+          "key": "D",
+          "text": "Mecelle'nin yürürlüğe girmesi"
+        },
+        {
+          "key": "E",
+          "text": "Padişahın üstünlüğü"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türk Medeni Kanunu ile aile hukukunda laikleşme sağlanmış, kadın-erkek eşitliği (miras, şahitlik, boşanma vb.) getirilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-3",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Tevhid-i Tedrisat Kanunu (Öğretim Birliği) neyi amaçlamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eğitimde yabancı okulların denetimi"
+        },
+        {
+          "key": "B",
+          "text": "Eğitim-öğretimin tek bir merkezde toplanması ve laikleştirilmesi"
+        },
+        {
+          "key": "C",
+          "text": "Okulların kapatılması"
+        },
+        {
+          "key": "D",
+          "text": "Üniversitenin kurulması"
+        },
+        {
+          "key": "E",
+          "text": "Sadece dini eğitim"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Tevhid-i Tedrisat Kanunu ile eğitimde birlik sağlanmış ve tüm eğitim kurumları Milli Eğitim Bakanlığı'na bağlanmıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-4",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Halifeliğin kaldırılmasıyla (3 Mart 1924) birlikte ne amaçlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Padişahı geri getirmek"
+        },
+        {
+          "key": "B",
+          "text": "Laik devlet yapısına geçişi kolaylaştırmak ve milli egemenliği pekiştirmek"
+        },
+        {
+          "key": "C",
+          "text": "Yabancı devletlerle ittifak kurmak"
+        },
+        {
+          "key": "D",
+          "text": "Eğitimi özelleştirmek"
+        },
+        {
+          "key": "E",
+          "text": "Anayasayı iptal etmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Halifeliğin kaldırılması, devlet yönetiminde ve toplum hayatında dinin etkisini azaltarak laikleşme sürecini hızlandırmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-5",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Soyadı Kanunu (1934) ile amaçlanan temel hedef nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vergi toplamak"
+        },
+        {
+          "key": "B",
+          "text": "Toplumsal düzeni sağlamak ve lakap karmaşasını önlemek"
+        },
+        {
+          "key": "C",
+          "text": "Yabancı soyadı almayı zorunlu kılmak"
+        },
+        {
+          "key": "D",
+          "text": "Askerlik işlemlerini düzenlemek"
+        },
+        {
+          "key": "E",
+          "text": "Soylu sınıflar oluşturmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Soyadı Kanunu ile toplumsal hayatta karışıklığa yol açan lakaplar kaldırılmış, herkesin öz Türkçe bir soyadı olması sağlanmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-6",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Harf İnkılabı'nın (1 Kasım 1928) temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Din dilini değiştirmek"
+        },
+        {
+          "key": "B",
+          "text": "Okuma-yazmayı kolaylaştırmak ve okuryazarlık oranını artırmak"
+        },
+        {
+          "key": "C",
+          "text": "Batı dillerini yasaklamak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece edebiyatı geliştirmek"
+        },
+        {
+          "key": "E",
+          "text": "Matbaayı kapatmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Arap harflerinin Türk dil yapısına uygun olmaması nedeniyle Latin esaslı Türk harflerinin kabulü, okuryazarlığı artırmayı ve modernleşmeyi hedeflemiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-7",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Kabotaj Kanunu'nun (1 Temmuz 1926) kabul edilmesinin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Denizlerdeki ulaşım ve ticaret hakkını Türk vatandaşlarına tanımak"
+        },
+        {
+          "key": "B",
+          "text": "Deniz ticaretini yabancılara açmak"
+        },
+        {
+          "key": "C",
+          "text": "Limanları kapatmak"
+        },
+        {
+          "key": "D",
+          "text": "Gemi ihracatını artırmak"
+        },
+        {
+          "key": "E",
+          "text": "Yabancı limanları ele geçirmek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kabotaj Kanunu, Türk karasularında deniz ticareti ve liman işletme hakkını tamamen millileştirmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-8",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Türk kadınına milletvekili seçme ve seçilme hakkı hangi yıl yapılan Anayasa değişikliği ile tanınmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1926"
+        },
+        {
+          "key": "B",
+          "text": "1930"
+        },
+        {
+          "key": "C",
+          "text": "1933"
+        },
+        {
+          "key": "D",
+          "text": "1934"
+        },
+        {
+          "key": "E",
+          "text": "1935"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Türk kadınına 1930'da belediye, 1933'te muhtarlık ve 1934 yılında ise milletvekili seçme ve seçilme hakkı tanınmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-9",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "1925 yılında Aşar vergisinin kaldırılmasının temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Devlet gelirini artırmak"
+        },
+        {
+          "key": "B",
+          "text": "Köylüyü üzerindeki ağır ekonomik yükten kurtarmak ve tarımsal üretimi teşvik etmek"
+        },
+        {
+          "key": "C",
+          "text": "Tarımı yasaklamak"
+        },
+        {
+          "key": "D",
+          "text": "Tüccarı korumak"
+        },
+        {
+          "key": "E",
+          "text": "Padişahın gelirini artırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Aşar vergisi köylü üzerinde büyük bir yük oluşturuyordu. Bu verginin kaldırılması tarımsal üretimi ve köylünün refahını artırmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-10",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Osmanlı'da var olan şer'i borçlar ve aile kanunları içeren 'Mecelle' hangi düzenleme ile yürürlükten kalkmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türk Ceza Kanunu"
+        },
+        {
+          "key": "B",
+          "text": "1926 Türk Medeni Kanunu"
+        },
+        {
+          "key": "C",
+          "text": "Borçlar Kanunu"
+        },
+        {
+          "key": "D",
+          "text": "İcra ve İflas Kanunu"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "17 Şubat 1926'da kabul edilen Türk Medeni Kanunu ile Mecelle yürürlükten kaldırılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-11",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Cumhuriyet döneminde I. Beş Yıllık Sanayi Planı hangi amaçla uygulanmaya konulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarımı tamamen bırakmak"
+        },
+        {
+          "key": "B",
+          "text": "Devletçilik ilkesi doğrultusunda temel tüketim maddelerini üreten fabrikalar kurmak"
+        },
+        {
+          "key": "C",
+          "text": "Sadece yabancı sermayeyi çekmek"
+        },
+        {
+          "key": "D",
+          "text": "Ticaret yollarını kontrol etmek"
+        },
+        {
+          "key": "E",
+          "text": "Askeri okullar açmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1933 yılında hazırlanan I. Beş Yıllık Sanayi Planı ile dokuma, şeker, çimento gibi alanlarda devlet eliyle fabrikalar açılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-12",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Türk Tarih Kurumu'nun (1931) kurulmasının temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Osmanlı tarihini incelemek"
+        },
+        {
+          "key": "B",
+          "text": "Türk tarihini bilimsel metodlarla araştırmak ve kökenlerini ortaya koymak"
+        },
+        {
+          "key": "C",
+          "text": "Sadece İslam tarihini incelemek"
+        },
+        {
+          "key": "D",
+          "text": "Avrupa tarihini yazmak"
+        },
+        {
+          "key": "E",
+          "text": "Okul kitaplarını yasaklamak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TTK, Türk tarihinin İslam öncesi ve sonrasını kapsayan zengin geçmişini bilimsel verilere dayanarak ortaya çıkarmak amacıyla kurulmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-13",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "1925 Şapka Kanunu ile ne amaçlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ekonomik kazanç"
+        },
+        {
+          "key": "B",
+          "text": "Toplumda görünüş itibarıyla çağdaş ve uygar kılık kıyafet anlayışını yerleştirmek"
+        },
+        {
+          "key": "C",
+          "text": "Modayı belirlemek"
+        },
+        {
+          "key": "D",
+          "text": "Askeri düzeni sağlamak"
+        },
+        {
+          "key": "E",
+          "text": "Din adamlarını ayırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Şapka İnkılabı, Türk toplumunda dış görünüş alanında modern ve çağdaş standartları benimsetmek amacıyla yapılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-14",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Takvim, saat, rakam ve ölçü birimlerindeki değişikliklerin (1925-1935) temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ekonomik kazanç"
+        },
+        {
+          "key": "B",
+          "text": "Batılı devletlerle ticari ve sosyal ilişkilerde uyum sağlamak ve karmaşayı önlemek"
+        },
+        {
+          "key": "C",
+          "text": "Yeni icatlar yapmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece ticareti artırmak"
+        },
+        {
+          "key": "E",
+          "text": "Dini günleri değiştirmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Uluslararası saat, takvim, metre ve kilo gibi ölçü birimlerine geçilerek Batı ile ticari ilişkilerde birlik sağlanmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-16",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Tekke, zaviye ve türbelerin kapatılmasının (30 Kasım 1925) temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece ekonomik tasarruf"
+        },
+        {
+          "key": "B",
+          "text": "Toplumsal alanda laikleşmeyi sağlamak ve dini duyguların istismarını önlemek"
+        },
+        {
+          "key": "C",
+          "text": "Dini tamamen yasaklamak"
+        },
+        {
+          "key": "D",
+          "text": "Yeni binalar yapmak"
+        },
+        {
+          "key": "E",
+          "text": "Tarihi eserleri korumak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Tekke ve zaviyelerin kapatılması, toplum hayatındaki hurafeleri bitirmek ve sosyal yapıyı laikleştirmek amacı taşır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-17",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "1925 yılında çıkarılan 'Takrir-i Sükûn Kanunu' hangi olayın rejimi tehdit etmesi üzerine kabul edilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şeyh Sait İsyanı"
+        },
+        {
+          "key": "B",
+          "text": "Menemen Olayı"
+        },
+        {
+          "key": "C",
+          "text": "Dersim İsyanı"
+        },
+        {
+          "key": "D",
+          "text": "31 Mart Vakası"
+        },
+        {
+          "key": "E",
+          "text": "Kavalalı isyanı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Doğu Anadolu'da çıkan cumhuriyet rejimi karşıtı Şeyh Sait İsyanı'nı bastırmak için Takrir-i Sükûn Kanunu çıkarılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-18",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "29 Ekim 1923'te Cumhuriyetin ilanı ile çözülen en temel devlet sorunu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ekonomik kriz"
+        },
+        {
+          "key": "B",
+          "text": "Devletin rejim adı ve Devlet Başkanlığı sorunu"
+        },
+        {
+          "key": "C",
+          "text": "Eğitim sorunu"
+        },
+        {
+          "key": "D",
+          "text": "Dış borçlar sorunu"
+        },
+        {
+          "key": "E",
+          "text": "Askeri terhis sorunu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhuriyetin ilanı ile yeni devletin rejiminin adı konulmuş ve devlet başkanlığı boşluğu doldurulmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-19",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "3 Mart 1924'te Osmanlı hanedan mensuplarının yurt dışına çıkarılmasının temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece cezalandırmak"
+        },
+        {
+          "key": "B",
+          "text": "Cumhuriyet rejimini kökleştirmek ve eski rejim yanlılarının odağı olmasını engellemek"
+        },
+        {
+          "key": "C",
+          "text": "Tarihi mirasları korumak"
+        },
+        {
+          "key": "D",
+          "text": "Halkı korumak"
+        },
+        {
+          "key": "E",
+          "text": "Sadece sürgün etmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Hanedanın yurt dışına çıkarılması, cumhuriyet rejimi üzerindeki iç ve dış tehditleri engelleme stratejisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-20",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "17 Şubat 1923 İzmir İktisat Kongresi'nde alınan kararların temel vizyonu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dışa bağımlı tarım yapmak"
+        },
+        {
+          "key": "B",
+          "text": "Misak-ı İktisadi ile milli ve bağımsız bir ekonomi modeli oluşturmak"
+        },
+        {
+          "key": "C",
+          "text": "Yabancı sermayeye tam bağımlı olmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece sanayi odaklılık"
+        },
+        {
+          "key": "E",
+          "text": "Ticaretin yasaklanması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İzmir İktisat Kongresi'nde kabul edilen Misak-ı İktisadi, yerli üretimi ve ekonomik bağımsızlığı ilke edinmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-21",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Atatürk döneminde çok partili hayata geçiş denemelerinde kurulan ve kapatılan ilk muhalefet partisi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Terakkiperver Cumhuriyet Fırkası"
+        },
+        {
+          "key": "B",
+          "text": "Serbest Cumhuriyet Fırkası"
+        },
+        {
+          "key": "C",
+          "text": "Cumhuriyet Halk Fırkası"
+        },
+        {
+          "key": "D",
+          "text": "Millet Partisi"
+        },
+        {
+          "key": "E",
+          "text": "Demokrat Parti"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1924'te kurulan Terakkiperver Cumhuriyet Fırkası, Şeyh Sait İsyanı gerekçesiyle kapatılan ilk muhalefet partisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-22",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "1934 Soyadı Kanunu'na göre, ailenin soyadını seçme yetkisi kime verilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Padişaha"
+        },
+        {
+          "key": "B",
+          "text": "Aile reisine (koca)"
+        },
+        {
+          "key": "C",
+          "text": "Nüfus memuruna"
+        },
+        {
+          "key": "D",
+          "text": "Muhtarlara"
+        },
+        {
+          "key": "E",
+          "text": "Valiliğe"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Soyadı Kanunu hükümleri gereğince soyadını belirleme yetkisi aile reisine bırakılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-23",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "1932 yılında faaliyete geçen 'Halkevleri'nin temel kuruluş amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Atatürk inkılaplarını halka anlatmak, okuma-yazma ve kültürel seviyeyi yükseltmek"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi propaganda yapmak"
+        },
+        {
+          "key": "C",
+          "text": "Sanayi yatırımlarını yönetmek"
+        },
+        {
+          "key": "D",
+          "text": "Sadece sanat eğitimi vermek"
+        },
+        {
+          "key": "E",
+          "text": "Ordunun ihtiyaçlarını karşılamak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Halkevleri, Cumhuriyet devrimlerini halka benimsetmek ve kitlelerin kültürel gelişimini sağlamak için açılmış yaygın eğitim kurumlarıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-24",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Osmanlı Devleti'ndeki Divan-ı Hümayun sisteminin Cumhuriyet dönemindeki karşılığı ne olmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bakanlar Kurulu (İcra Vekilleri Heyeti)"
+        },
+        {
+          "key": "B",
+          "text": "Meclis-i Ayan"
+        },
+        {
+          "key": "C",
+          "text": "Mebusan Meclisi"
+        },
+        {
+          "key": "D",
+          "text": "Danıştay"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Divan-ı Hümayun yürütme işlevini üstlendiği için Cumhuriyet kurulduktan sonra yerini Bakanlar Kurulu'na (İcra Vekilleri Heyeti) devretmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-25",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Ankara'nın resmi olarak Türkiye Cumhuriyeti'nin başkenti ilan edildiği tarih hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "23 Nisan 1920"
+        },
+        {
+          "key": "B",
+          "text": "16 Mart 1920"
+        },
+        {
+          "key": "C",
+          "text": "1 Kasım 1922"
+        },
+        {
+          "key": "D",
+          "text": "13 Ekim 1923"
+        },
+        {
+          "key": "E",
+          "text": "29 Ekim 1923"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Ankara, 13 Ekim 1923 tarihinde çıkarılan kanunla resmi başkent ilan edilmiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-26",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "26 Aralık 1925'te kabul edilip 1926'da yürürlüğe giren Miladi takvimin kabul edilme amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Batılı devletlerle ekonomik ve diplomatik ilişkilerde zaman birliği sağlamak"
+        },
+        {
+          "key": "B",
+          "text": "Dini bayramları kaldırmak"
+        },
+        {
+          "key": "C",
+          "text": "Sadece sanayiyi geliştirmek"
+        },
+        {
+          "key": "D",
+          "text": "Hicri takvimi korumak"
+        },
+        {
+          "key": "E",
+          "text": "Ekonomik kaybı önlemek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Miladi takvimin kabulü ile Hicri ve Rumi takvim uygulamalarından doğan uluslararası zamansal karmaşa giderilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-27",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Soyadı Kanunu ile 'Ağa, Hacı, Hafız, Hoca, Molla' gibi ayrıcalık belirten unvanlar hakkında ne karar alınmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kullanılması tamamen yasaklanmıştır"
+        },
+        {
+          "key": "B",
+          "text": "Kullanılmaya devam etmiştir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece mecliste kullanılmıştır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece orduda kullanılmıştır"
+        },
+        {
+          "key": "E",
+          "text": "Valilik iznine bağlanmıştır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Halkçılık ilkesi gereği toplumsal eşitliği sağlamak amacıyla ayrıcalık bildiren eski unvan ve lakaplar kanunen yasaklanmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-28",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "1926 Maarif Teşkilatı Hakkında Kanun ile ne amaçlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eğitim müfredatını çağdaş, laik ve milli esaslara göre düzenlemek"
+        },
+        {
+          "key": "B",
+          "text": "Üniversiteleri kapatmak"
+        },
+        {
+          "key": "C",
+          "text": "İlköğretimi kaldırmak"
+        },
+        {
+          "key": "D",
+          "text": "Eğitimi paralı hale getirmek"
+        },
+        {
+          "key": "E",
+          "text": "Sadece meslek eğitimi vermek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Maarif Teşkilatı Kanunu, okul açma yetkisini Bakanlığa vermiş ve müfredatı laik-çağdaş çizgiye oturtmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-29",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "Atatürk'ün 'Siyasi ve askeri zaferler ne kadar büyük olursa olsun, ekonomik zaferlerle taçlandırılmazsa sönük kalır' sözü doğrudan hangi girişimle uyuşmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Harf İnkılabı"
+        },
+        {
+          "key": "B",
+          "text": "İzmir İktisat Kongresi ve Misak-ı İktisadi"
+        },
+        {
+          "key": "C",
+          "text": "Kılık Kıyafet Kanunu"
+        },
+        {
+          "key": "D",
+          "text": "Soyadı Kanunu"
+        },
+        {
+          "key": "E",
+          "text": "Teşkilat-ı Esasiye"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ekonomik bağımsızlığı hedefleyen İzmir İktisat Kongresi bu anlayışın somut adımıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-inkilaplar-30",
+      "topic_id": "topic-tarih-inkilaplar",
+      "question_text": "29 Ekim 1923'te Cumhuriyetin ilanı ile oy birliğiyle seçilen ilk Türkiye Cumhuriyeti Cumhurbaşkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İsmet İnönü"
+        },
+        {
+          "key": "B",
+          "text": "Fevzi Çakmak"
+        },
+        {
+          "key": "C",
+          "text": "Mustafa Kemal Atatürk"
+        },
+        {
+          "key": "D",
+          "text": "Rauf Orbay"
+        },
+        {
+          "key": "E",
+          "text": "Kazım Karabekir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhuriyetin ilanı ile birlikte meclis tarafından yapılan oylamada Mustafa Kemal Atatürk oy birliğiyle ilk Cumhurbaşkanı seçilmiştir.",
+      "difficulty_level": 1
+    }
+  ]
+}

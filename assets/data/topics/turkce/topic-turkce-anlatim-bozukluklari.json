@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-anlatim-bozukluklari",
+  "title": "Anlatım Bozuklukları",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-anlatim-bozukluklari",
+    "topic_id": "topic-turkce-anlatim-bozukluklari",
+    "title": "Anlatım Bozuklukları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Anlatım Bozuklukları' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Anlatım Bozuklukları konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nAnlatım Bozuklukları başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Anlatım Bozuklukları konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Gereksiz Sözcük Kullanımı",
+        "body": "Aynı anlama gelen sözcüklerin veya eklerin bir arada kullanılmasıdır. Örnek: 'Gizli sırlarını bana anlattı' (Sır zaten gizlidir)."
+      },
+      {
+        "card_number": 2,
+        "title": "Sözcüğün Yanlış Anlamda Kullanımı",
+        "body": "Yazılışları benzeyen veya karıştırılan sözcüklerin yanlış yerde kullanılmasıdır. Örnek: 'Öğrencilerin fidan dikmesini sağladı' (Sağladı değil, sağladı olumlu; neden oldu olumsuzdur)."
+      },
+      {
+        "card_number": 3,
+        "title": "Çelişen Sözcüklerin Kullanılması",
+        "body": "Kesinlik ve olasılık bildiren sözcüklerin aynı cümlede kullanılmasıdır. Örnek: 'Tam olarak 5 yıl kadar önceydi.'"
+      },
+      {
+        "card_number": 4,
+        "title": "Sözcüğün Yanlış Yerde Kullanımı",
+        "body": "Sözcüğün cümledeki yerinin yanlış olması anlam karışıklığına yol açar. Örnek: 'Çok güneşte kalma' yerine 'Güneşte çok kalma' olmalı."
+      },
+      {
+        "card_number": 5,
+        "title": "Mantar Mantık Hatası",
+        "body": "Mantık ve sıralama hatalarıdır. Örnek: 'Bırakın patates doğramayı, yemek bile yapamaz' (Yemek yapmak daha zordur, sıra yanlış)."
+      },
+      {
+        "card_number": 6,
+        "title": "Özne-Yüklem Uyumsuzluğu",
+        "body": "Tekillik-çoğulluk veya kişi uyumsuzluğudur. Örnek: 'Ağaçlar yapraklarını döktüler' yanlış; organ ve bitki çoğul özneyse yüklem tekil olur: döktü."
+      },
+      {
+        "card_number": 7,
+        "title": "Öge Eksikliği (Sıralı Cümlelerde)",
+        "body": "Ortak öge kullanımından doğan bozukluktur. Örnek: 'Sana inanıyor ve (seni) destekliyoruz' cümlesinde nesne eksiktir."
+      },
+      {
+        "card_number": 8,
+        "title": "Tamlama Hataları",
+        "body": "İsim ve sıfatların aynı tamlayana bağlanmasıdır. Örnek: 'Resmi ve özel kuruluşlar' yerine 'Resmi kuruluşlar ve özel kuruluşlar' olmalı."
+      },
+      {
+        "card_number": 9,
+        "title": "Zamire Bağlı Anlam Belirsizliği",
+        "body": "Cümlede kastedilen kişinin kim olduğunun açık olmamasıdır. Örnek: 'Okula gitmediğini duydum' (Senin mi, onun mu?)."
+      },
+      {
+        "card_number": 10,
+        "title": "Çatı Uyumsuzluğu",
+        "body": "Bir birleşik cümlede fiilimsiler ile yüklemin etkenlik/edilgenlik yönünden uyumsuz olmasıdır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-1",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Cümlede aynı anlama gelen sözcüklerin veya eklerin bir arada kullanılması 'gereksiz sözcük kullanımı' kaynaklı anlatım bozukluğuna yol açar. Aşağıdaki cümlelerin hangisinde bu açıklamaya uygun bir anlatım bozukluğu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gizli sırlarımı başkalarıyla paylaşmandan hiç hoşlanmadığımı biliyorsun."
+        },
+        {
+          "key": "B",
+          "text": "Sınavda gösterdiği yüksek performans sayesinde dereceye girmeyi başardı."
+        },
+        {
+          "key": "C",
+          "text": "Yağmurun bastırmasıyla birlikte caddedeki insanlar dükkânlara sığındı."
+        },
+        {
+          "key": "D",
+          "text": "Yazarın son yayınlanan kitabı okuyucular tarafından ilgiyle karşılandı."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphaneden aldığı kaynak kitapları iki gün içinde okuyup geri teslim etti."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Sır' kelimesi zaten yapısı gereği 'gizli olan bilgi' anlamına gelir. Bu nedenle 'sır' kelimesinin önünde 'gizli' sıfatının kullanılması gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğudur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-2",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Sözcüğün anlamca yanlış yapılandırılması veya anlamına uygun düşmeyen bir cümlede kullanılması anlatım bozukluğuna yol açar. Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış anlamda kullanımı'ndan kaynaklanan bir bozukluk vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneşli havalarda sahilde yürüyüş yapmak insana huzur verir."
+        },
+        {
+          "key": "B",
+          "text": "Projedeki aksaklıklar sebebiyle şirketin bu yıl zarar etme şansı bir hayli yükseldi."
+        },
+        {
+          "key": "C",
+          "text": "Tarihi kütüphanedeki eski el yazması eserler özenle koruma altına alındı."
+        },
+        {
+          "key": "D",
+          "text": "Sınav marathonunda başarılı olmak için planlı çalışmak şarttır."
+        },
+        {
+          "key": "E",
+          "text": "Akşam saatlerinde kütüphaneden çıkıp durağa doğru yürüdük."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Şans' kelimesi olumlu durumlar için kullanılır. Olumsuz ve istenmeyen durumlar için 'şans' yerine 'riski' veya 'ihtimali' sözcüğü getirilmelidir ('zarar etme riski yükseldi').",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-3",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Bir cümlede kesinlik bildiren sözcüklerle olasılık/tahmin bildiren sözcüklerin bir arada kullanılması anlamca çelişen sözcüklerin kullanımından kaynaklanan anlatım bozukluğu oluşturur. Aşağıdaki cümlelerin hangisinde bu durumun bir örneği vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sokağın başındaki fırından taze ekmek alıp eve döndü."
+        },
+        {
+          "key": "B",
+          "text": "Toplantı salonundaki evrakların tamamını titizlikle inceledi."
+        },
+        {
+          "key": "C",
+          "text": "Şüphesiz ki yazarın bu son romanı okuyucular tarafından kesinlikle beğenilebilir."
+        },
+        {
+          "key": "D",
+          "text": "Güneş dağların ardından süzülerek yavaşça batıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Okul bahçesindeki ulu çam ağacının altında oturup sohbet ettik."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cümledeki 'Şüphesiz ki' ve 'kesinlikle' ifadeleri tam kesinlik bildirirken, fiildeki '-ebilmek' (beğenilebilir) eki olasılık/ihtimal bildirmektedir. Çelişen ifadelerin bir arada kullanımı anlatımı bozmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-4",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Bir sözcüğün cümle içinde olması gereken yerden farklı bir yerde kullanılması cümlenin mantık akışını bozar ve farklı/yanlış anlamlara yol açar. Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış yerde kullanımı'ndan kaynaklanan bir anlatım bozukluğu mevcuttur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sabah erkenden kalkıp sahil kenarında uzun yürüyüşler yapardı."
+        },
+        {
+          "key": "B",
+          "text": "Kütüphanedeki tüm kaynak kitapları tek tek inceleyip raflara dizdi."
+        },
+        {
+          "key": "C",
+          "text": "Yağmurun ardından açan berrak güneş etrafı iyice ısıttı."
+        },
+        {
+          "key": "D",
+          "text": "Yaz sıcağında çok güneşte kaldığı için teninde ciddi yanıklar oluşmuştu."
+        },
+        {
+          "key": "E",
+          "text": "Sınav sonuçları açıklandığında salondaki herkes büyük bir heyecan yaşadı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Çok güneşte kalmak' ifadesi sanki birden fazla güneş varmış izlenimi yaratmaktadır. Sözcük 'Güneşte çok kaldığı için...' biçiminde eylemin önüne getirilerek doğru yere yerleştirilmelidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-5",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Cümlede virgül eksikliği veya zamir eksikliği birden fazla anlama yol açarak 'anlam belirsizliği' oluşturur. Aşağıdaki cümlelerin hangisinde virgül eksikliğinden kaynaklanan bir anlam belirsizliği vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşlı adam parktaki bankta saatlerce sessizce oturdu."
+        },
+        {
+          "key": "B",
+          "text": "Genç öğretmen ilk ders gününde öğrencilerine güler yüzle sarıldı."
+        },
+        {
+          "key": "C",
+          "text": "Okul bahçesindeki ulu çam ağacının gölgesinde dinlendik."
+        },
+        {
+          "key": "D",
+          "text": "Sınav maratonunda en önemli unsur planlı çalışmaktır."
+        },
+        {
+          "key": "E",
+          "text": "Gazeteci kadının çantasını çalan hırsızın peşinden hızla koştu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde 'Gazeteci' sözcüğünden sonra virgül konulmazsa, 'kadın gazeteci mi çalanın peşinden koştu' yoksa 'bir gazeteci, bir kadının çantasını çalan hırsızın peşinden mi koştu' anlamı belirsizleşmektedir. Virgül kullanımı bu belirsizliği giderir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-6",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Cümledeki düşüncelerin veya durumların önem derecesine göre mantıklı bir sırayla dizilmemesi 'mantık ve sıralama hatası' oluşturur. Aşağıdaki cümlelerin hangisinde böyle bir anlatım bozukluğu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uzmanlar, bu tehlikeli ameliyatın hastanın ölümüne, hatta sakat kalmasına yol açabileceğini belirtti."
+        },
+        {
+          "key": "B",
+          "text": "Sokağın başındaki fırından sıcacık ekmek alıp eve doğru yürüdü."
+        },
+        {
+          "key": "C",
+          "text": "Kütüphanedeki görevli memur evrakları dosyaya dikkatle yerleştirdi."
+        },
+        {
+          "key": "D",
+          "text": "Güneş dağların ardından süzülerek yavaşça kayboluyordu."
+        },
+        {
+          "key": "E",
+          "text": "Bahçedeki kurumuş yaprakları sabah erkenden bir araya topladılar."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Sakat kalmak', 'ölüm' durumuna göre daha hafif bir sonuçtur. 'Hatta' bağlacından sonra daha ileri boyuttaki bir durum anlatılmalıdır. Doğrusu: '...hastanın sakat kalmasına, hatta ölümüne...' şeklinde olmalıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-7",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "İnsan dışındaki varlıkların (bitki, hayvan, nesne, soyut kavramlar) çoğul özne olduğu cümlelerde yüklem tekil olur; yüklemin çoğul yapılması özne-yüklem uyumsuzluğuna yol açar. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir anlatım bozukluğu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrenciler sınav sonuçlarının açıklanmasını heyecanla bekliyorlar."
+        },
+        {
+          "key": "B",
+          "text": "Sonbaharın gelmesiyle birlikte ağaçların sararmış yaprakları birer birer yere dökülüyorlar."
+        },
+        {
+          "key": "C",
+          "text": "Eski dostlar yıllar sonra kasaba meydanındaki çay bahçesinde buluştular."
+        },
+        {
+          "key": "D",
+          "text": "Yolcular otobüsün gelmesiyle birlikte durağa doğru hareket ettiler."
+        },
+        {
+          "key": "E",
+          "text": "Sporcular zorlu maraton koşusu için sabah erkenden çizgide toplandılar."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki özne insan dışı bir varlık olan 'ağaçların sararmış yaprakları'dır. İnsan dışı çoğul öznelerde yüklem tekil olmalıdır ('dökülüyor' olmalı, 'dökülüyorlar' kullanımı özne-yüklem uyumsuzluğudur).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-8",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Sıralı veya bağlı cümlelerde birinci cümlenin öznesinin ikinci cümleye uymaması 'özne eksikliği'nden kaynaklanan anlatım bozukluğu doğurur. Aşağıdaki cümlelerin hangisinde özne eksikliği vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşlı kadın bahçedeki çiçekleri suladı ve kurumuş olanları tek tek budadı."
+        },
+        {
+          "key": "B",
+          "text": "Yazar yeni kitabını dün bitirdi, hemen yayınevine teslim etti."
+        },
+        {
+          "key": "C",
+          "text": "Hastanın ağır tedavisi hafta sonu tamamlandı ve dün taburcu edildi."
+        },
+        {
+          "key": "D",
+          "text": "Öğrenciler sınıfa girdi, sıralarına geçip ders kitabını açtı."
+        },
+        {
+          "key": "E",
+          "text": "Müdür bey evrakları inceledi ve onaylamak üzere kenara koydu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde ilk cümlenin öznesi 'Hastanın ağır tedavisi'dir. Ancak ikinci cümlede 'taburcu edildi' yüklemine bağlandığında 'Hastanın ağır tedavisi taburcu edildi' gibi anlamsız bir durum çıkar. İkinci cümleye 'hasta' öznesi eklenmelidir ('...ve hasta dün taburcu edildi').",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-9",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Sıralı ya da bağlı cümlelerde ikinci cümlenin yükleminin gerektirdiği nesnenin yazılmaması 'nesne eksikliği'ne yol açar. Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocuklar bahçede neşeyle koşuyor, doyasıya eğleniyorlardı."
+        },
+        {
+          "key": "B",
+          "text": "Yazar son romanında Ege kasabasını anlatıyor ve övüyordu."
+        },
+        {
+          "key": "C",
+          "text": "Kütüphanedeki eski kitaplar temizlendi ve raflara dizildi."
+        },
+        {
+          "key": "D",
+          "text": "Mahalledeki yaşlı adama herkes saygı duyuyor, hiç kimse üzmüyordu."
+        },
+        {
+          "key": "E",
+          "text": "Sokağın başındaki fırından taze ekmek alıp eve döndük."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 'üzmüyordu' yüklemi nesne alabilen geçişli bir fiildir ('Kimi üzmüyordu?'). İkinci cümleye 'onu / yaşlı adamı' belirtili nesnesi eklenmelidir. Ekleme yapılmadığı için nesne eksikliği vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-10",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "İkinci yüklemin yaklaşma, bulunma veya uzaklaşma hâli gerektirdiği durumlarda ilgili tümlecin yazılmaması 'dolaylı tümleç eksikliği' yaratır. Aşağıdaki cümlelerin hangisinde bu tür bir anlatım bozukluğu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç adam kütüphaneye girdi ve saatlerce kütüphanede çalıştı."
+        },
+        {
+          "key": "B",
+          "text": "Yaşlı kadın çocuklarına çok güvenir, her zaman destek olurdu."
+        },
+        {
+          "key": "C",
+          "text": "Sınav soruları açıklandı ve adaylar derhal kontrol etti."
+        },
+        {
+          "key": "D",
+          "text": "Bahçedeki ağaçlar budandı ve iyice sulandı."
+        },
+        {
+          "key": "E",
+          "text": "Öğretmenimiz öğrencilerini çok sever, her zaman desteklerdi."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde ikinci yüklem 'destek olurdu' ifadesidir ('Kime destek olurdu?'). İkinci cümleye 'onlara / çocuklarına' dolaylı tümlecinin eklenmesi gerekir. Eklenmediği için dolaylı tümleç eksikliği mevcuttur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-11",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Birden fazla öznesi bulunan sıralı veya bağlı cümlelerde, farklı kişilere bağlanan öznelerin aynı yükleme ortak edilmesi yüklem uyumsuzluğuna veya yüklem eksikliğine yol açar. Aşağıdaki cümlelerin hangisinde 'yüklem eksikliği / uyumsuzluğu' vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sabah kahvaltısında ben çay, arkadaşım ise taze sıkılmış portakal suyu içti."
+        },
+        {
+          "key": "B",
+          "text": "Öğrenciler sınıfa girdi ve sıralarına sessizce oturdu."
+        },
+        {
+          "key": "C",
+          "text": "Yağmur dindi, fırtına etkisini tamamen kaybetti."
+        },
+        {
+          "key": "D",
+          "text": "Yazar yeni romanını tamamladı ve yayınevine teslim etti."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphanedeki kitaplar düzenlendi ve kullanıma sunuldu."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde 'ben çay içti' biçiminde bir uyumsuzluk doğmaktadır. İlk cümleye kendi yüklemi eklenmelidir: 'Sabah kahvaltısında ben çay içtim, arkadaşım ise portakal suyu içti.' Yüklem eksikliği anlatımı bozmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-12",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "'Sebep' veya 'neden' kelimelerinin kullanıldığı cümlelerde yükleme ayrılma eki (-den/-dan) getirilmesi gereksiz ek kullanımından kaynaklanan anlatım bozukluğuna yol açar. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir bozukluk vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınavda başarılı olmasının ana nedeni düzenli çalışmasıdır."
+        },
+        {
+          "key": "B",
+          "text": "Sınavı kazanamamasının tek sebebi, soruları dikkatsizce okumasındandır."
+        },
+        {
+          "key": "C",
+          "text": "Kütüphanedeki sessizlik öğrencilerin verimli çalışmasını sağladı."
+        },
+        {
+          "key": "D",
+          "text": "Yağmurun aniden bastırması sebebiyle etkinlik ertelendi."
+        },
+        {
+          "key": "E",
+          "text": "Yazarın son kitabı sürükleyici dili sayesinde çok satıldı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cümlede 'sebebi' kelimesi kullanıldığı halde yükleme gereksiz yere '-den' eki getirilmiştir ('...okumasındandır'). Cümle ya '...okumasıdır' ya da '...okumasından dolayıdır' biçiminde kurulmalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-13",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Sıfat tamlaması ile isim tamlamasının aynı tamlanana bağlanması 'tamlama hatası' oluşturur. Aşağıdaki cümlelerin hangisinde bu açıklamaya uygun bir anlatım bozukluğu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehrin tarihi ve doğal güzellikleri koruma altına alındı."
+        },
+        {
+          "key": "B",
+          "text": "Okul kütüphanesindeki ahşap masalar özenle temizlendi."
+        },
+        {
+          "key": "C",
+          "text": "Toplantıda özel ve devlet kuruluşları temsilcileri bir araya geldi."
+        },
+        {
+          "key": "D",
+          "text": "Genç adamın cüzdanı otobüste unutulunca karakola teslim edildi."
+        },
+        {
+          "key": "E",
+          "text": "Tarihi kentin sokaklarında rehber eşliğinde gezdiler."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde 'özel' sıfatı ile 'devlet' ismi aynı tamlanana bağlanmıştır ('özel kuruluşları' denemez). Doğrusu: 'Özel kuruluşlar ve devlet kuruluşları temsilcileri...' şeklinde olmalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-14",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Bir cümlede yan cümledeki eylemsi ile temel cümledeki yüklemin çatı bakımından (etkenlik-edilgenlik) uyumsuz olması anlatım bozukluğuna yol açar. Aşağıdaki cümlelerin hangisinde 'çatı uyumsuzluğu' vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden alınan kaynak kitaplar iki gün içinde teslim edildi."
+        },
+        {
+          "key": "B",
+          "text": "Sokağın başındaki fırından taze ekmek alıp eve döndük."
+        },
+        {
+          "key": "C",
+          "text": "Yağmurun ardından açan berrak güneş etrafı ısıttı."
+        },
+        {
+          "key": "D",
+          "text": "Sınavdaki bütün sorular dikkatlice okuyup cevap kâğıdı görevliye teslim edildi."
+        },
+        {
+          "key": "E",
+          "text": "Bahçedeki kurumuş yapraklar sabah erkenden toplandı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 'okuyup' eylemsisi etken çatılıyken, temel cümlenin yüklemi olan 'teslim edildi' edilgen çatılıdır. Yan cümle ve temel cümlenin çatısı uyumlu olmalıdır ('okunup ... teslim edildi' olmalı).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-15",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Bağlaçlar cümleler arasında anlam bağı kurar. Olumlu ve olumsuz yargıları birbirine bağlayan zıtlık bağlaçlarının yanlış kullanılması anlatım bozukluğu yaratır. Aşağıdaki cümlelerin hangisinde 'bağlaç yanlışlığı' vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınava çok iyi hazırlanmıştı ancak sorular beklenenden kolay geldi."
+        },
+        {
+          "key": "B",
+          "text": "Kitabı okumak istiyordu fakat zaman bulmakta zorlanıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Yarın sabah erkenden yola çıkacağız çünkü yapacak çok işimiz var."
+        },
+        {
+          "key": "D",
+          "text": "Hava çok soğuktu ama yine de dışarı çıkıp yürüdüler."
+        },
+        {
+          "key": "E",
+          "text": "Derslerine gece gündüz disiplinle çalışıyordu ama sınavda hedeflerine ulaşarak derece yaptı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde iki olumlu yargı 'ama' zıtlık bağlacıyla bağlanmıştır. Çalışıp derece yapmak birbirini destekleyen olumlu durumlardır. 'Ama' yerine 'bu yüzden' veya 've' getirilmelidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-16",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Deyimler kalıplaşmış anlamlı ifadelerdir. Deyimdeki bir kelimenin yerine eş anlamlısının getirilmesi veya deyimin anlamına uymayan bir durumda kullanılması anlatım bozukluğu oluşturur. Aşağıdaki cümlelerin hangisinde deyim yanlışlığından kaynaklanan bir bozukluk vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınavı kazandığını duyunca sevinçten ne yapacağını bilemeyip etekleri tutuştu."
+        },
+        {
+          "key": "B",
+          "text": "Kütüphanedeki sessizliği bozan gürültü karşısında çileden çıktı."
+        },
+        {
+          "key": "C",
+          "text": "Olayın detaylarını öğrenince hemen harekete geçip olaya el koydu."
+        },
+        {
+          "key": "D",
+          "text": "Yıllardır görmediği eski dostunu karşısında görünce gözlerine inanamadı."
+        },
+        {
+          "key": "E",
+          "text": "Müdür beyin sert ve uyarısı karşısında kulaklarına kadar kızardı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Etekleri tutuşmak' deyimi telaşlanmak, paniklemek durumlarında kullanılır. Büyük bir sevinç yaşandığında ise 'etekleri zil çalmak' deyimi kullanılmalıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-17",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Sıralı cümlelerde birliktelik, araç, edat öbeği veya durum bildiren zarf tümlecinin ikinci cümlede eksik kalması anlatım bozukluğuna yol açar. Aşağıdaki cümlelerin hangisinde 'zarf tümleci eksikliği' vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç adam kütüphaneye girdi ve kütüphanede saatlerce çalıştı."
+        },
+        {
+          "key": "B",
+          "text": "Lise arkadaşını çok sever, her konuda mükemmel anlaşırdı."
+        },
+        {
+          "key": "C",
+          "text": "Sınav sonuçları açıklandı ve panoya asıldı."
+        },
+        {
+          "key": "D",
+          "text": "Bahçedeki kurumuş yapraklar toplandı ve yakıldı."
+        },
+        {
+          "key": "E",
+          "text": "Yaşlı kadın evini çok sever, her gün temizlerdi."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki ikinci yüklem 'anlaşırdı' eylemidir ('Kim ile / ne ile anlaşırdı?'). İkinci cümleye 'onunla / arkadaşıyla' zarf tümleci (edat tümleci) eklenmelidir. Eklenmediği için zarf tümleci eksikliği vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-18",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Cümlede 2. veya 3. şahıs iyelik zamirinin (senin / onun) kullanılmaması, cümlenin kimin eşyasından/durumundan bahsettiğini belirsiz kılar. Aşağıdaki cümlelerin hangisinde 'zamir eksikliği' kaynaklı bir anlam bulanıklığı mevcuttur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden aldığı eski kitabı masanın üzerine bıraktı."
+        },
+        {
+          "key": "B",
+          "text": "Sokağın başındaki fırından sıcacık ekmek alıp eve gitti."
+        },
+        {
+          "key": "C",
+          "text": "Yarışmada birinci olduğuna hepinizden çok sevindim."
+        },
+        {
+          "key": "D",
+          "text": "Bahçedeki ulu çam ağacının altında oturup dinlendik."
+        },
+        {
+          "key": "E",
+          "text": "Güneş dağların ardından süzülerek yavaşça kayboldu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'birinci olduğuna' ifadesinin başına hem 'senin' hem de 'onun' zamiri getirilebilir ('Senin birinci olduğuna mı, Onun birinci olduğuna mı?'). Zamir kullanılmadığı için anlam bulanıklığı oluşmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-19",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Sıralı cümlelerde isim tamlamalarının tamlayanının yazılmaması ikinci cümlede anlam karışıklığı veya eksiklik yaratır. Aşağıdaki cümlelerin hangisinde 'tamlayan eksikliği' bulunmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşlı kadın bahçedeki çiçekleri suladı, kurumuş dalları kesti."
+        },
+        {
+          "key": "B",
+          "text": "Sokağın başındaki fırından taze ekmek alıp eve döndü."
+        },
+        {
+          "key": "C",
+          "text": "Yazar son kitabını tamamladı, haftaya okurlarıyla buluşturacak."
+        },
+        {
+          "key": "D",
+          "text": "Küçük çocuğun eğitimiyle yakından ilgilenilmeli, geleceğe dönük hedefleri desteklenmelidir."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphanedeki eski kitaplar temizlendi ve raflara dizildi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde ikinci cümlede 'hedefleri' tamlananının tamlayanı yazılmamıştır. İkinci cümlenin başına '(çocuğun) geleceğe dönük hedefleri' biçiminde tamlayan getirilmelidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-anlatim-bozukluklari-20",
+      "topic_id": "topic-turkce-anlatim-bozukluklari",
+      "question_text": "Aşağıdaki cümlelerin hangisinde öge eksikliğinden kaynaklanan bir anlatım bozukluğu **yoktur**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hastaya gerekli müdahaleler yapıldı ve hemen yoğun bakıma alındı."
+        },
+        {
+          "key": "B",
+          "text": "Genç adam kardeşini çok sever, her konuda yardım ederdi."
+        },
+        {
+          "key": "C",
+          "text": "Tarihi binanın restorasyonu tamamlandı ve ziyarete açıldı."
+        },
+        {
+          "key": "D",
+          "text": "Müdür bey memurlarına güvenir, sürekli teşvik ederdi."
+        },
+        {
+          "key": "E",
+          "text": "Bahçedeki kurumuş yapraklar rüzgâr estikçe etrafa savruluyordu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde herhangi bir öge eksikliği veya anlatım bozukluğu yoktur. A'da özne ('hasta'), B'de dolaylı tümleç ('kardeşine'), C'de özne ('tarihi bina'), D'de nesne ('memurlarını') eksikliği bulunmaktadır.",
+      "difficulty_level": 4
+    }
+  ]
+}

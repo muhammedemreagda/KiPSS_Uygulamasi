@@ -1,0 +1,917 @@
+{
+  "topic_id": "topic-cog-cografi-konum",
+  "title": "Türkiye'nin Coğrafi Konumu & Sınırları",
+  "course_id": "course-cografya",
+  "question_count": 28,
+  "quick_note": {
+    "id": "qn-topic-cog-cografi-konum",
+    "topic_id": "topic-cog-cografi-konum",
+    "title": "Türkiye'nin Coğrafi Konumu & Sınırları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'nin Coğrafi Konumu & Sınırları' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'nin Coğrafi Konumu & Sınırları konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'nin Coğrafi Konumu & Sınırları başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'nin Coğrafi Konumu & Sınırları konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Türkiye'nin Matematiksel (Mutlak) Konumu",
+        "body": "Türkiye 36° - 42° Kuzey Paralelleri ile 26° - 45° Doğu Meridyenleri arasında yer alır."
+      },
+      {
+        "card_number": 2,
+        "title": "En Doğu ve En Batı Uçları",
+        "body": "En doğusu Iğdır (Dilucu), en batısı Çanakkale (Gökçeada - Avlaka Burnu)'dur. Aralarında 19 meridyen (76 dakika) fark vardır."
+      },
+      {
+        "card_number": 3,
+        "title": "En Kuzey ve En Güney Uçları",
+        "body": "En kuzeyi Sinop (İnceburun), en güneyi Hatay (Beysun köyü)'dur. Aralarında 6 paralellik (666 km) kuş uçuşu mesafe vardır."
+      },
+      {
+        "card_number": 4,
+        "title": "Orta Kuşakta Olmanın Sonuçları (AABC)",
+        "body": "Akdeniz iklimi görülür, Batı rüzgarları etkilidir, Dört mevsim belirgin yaşanır, Cephesel yağışlar görülür."
+      },
+      {
+        "card_number": 5,
+        "title": "Yengeç Dönencesi ve Bakı Etkisi",
+        "body": "Türkiye Yengeç Dönencesi'nin kuzeyinde olduğu için Güneş ışınları asla 90 dereceyle düşmez, dağların güney yamacı (bakı) daha sıcaktır."
+      },
+      {
+        "card_number": 6,
+        "title": "Gölge Boyu ve Yönü",
+        "body": "Türkiye'de yatay düzlemdeki cisimlerin gölge boyu asla sıfır olmaz. Gölge yönü yıl boyunca daima KUZEYİ gösterir."
+      },
+      {
+        "card_number": 7,
+        "title": "En Uzun Sınırımız ve Komşumuz",
+        "body": "En uzun kara sınırımız Suriye (911 km), en kısa kara sınırımız Nahçıvan (Azerbaycan - 18 km) ile olan sınırdır."
+      },
+      {
+        "card_number": 8,
+        "title": "En Eski ve Değişmeyen Sınırımız",
+        "body": "İran ile olan sınırımız 1639 Kasr-ı Şirin Antlaşması ile çizilmiş olup en eski ve hemen hemen hiç değişmeyen sınırımızdır."
+      },
+      {
+        "card_number": 9,
+        "title": "Demiryolu Bağlantısı Olmayan Komşular",
+        "body": "Irak ve Nahçıvan (Azerbaycan) ile demiryolu sınır kapımız yoktur. Diğer komşularla demiryolu bağlantısı mevcuttur."
+      },
+      {
+        "card_number": 10,
+        "title": "Ulusal Saat (Yerel Saat) Kuralı",
+        "body": "Türkiye'de 2016'dan beri yıl boyunca 45° Doğu (Iğdır) meridyeninin yerel saati (+3 GMT) ortak ulusal saat olarak kullanılır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-cografi-konum-1",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin matematiksel (mutlak) konumu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "26°-45° Kuzey Paralelleri, 36°-42° Doğu Meridyenleri"
+        },
+        {
+          "key": "B",
+          "text": "36°-42° Kuzey Paralelleri, 26°-45° Doğu Meridyenleri"
+        },
+        {
+          "key": "C",
+          "text": "36°-42° Güney Paralelleri, 26°-45° Batı Meridyenleri"
+        },
+        {
+          "key": "D",
+          "text": "26°-45° Güney Paralelleri, 36°-42° Doğu Meridyenleri"
+        },
+        {
+          "key": "E",
+          "text": "36°-42° Kuzey Paralelleri, 26°-45° Batı Meridyenleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye, 36° ve 42° kuzey paralelleri ile 26° ve 45° doğu meridyenleri arasında yer almaktadır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-2",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin matematiksel konumunun bir sonucu olarak aşağıdakilerden hangisi gerçekleşir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üç tarafının denizlerle çevrili olması"
+        },
+        {
+          "key": "B",
+          "text": "Dört mevsimin belirgin olarak yaşanması"
+        },
+        {
+          "key": "C",
+          "text": "Yer şekillerinin engebeli olması"
+        },
+        {
+          "key": "D",
+          "text": "Yükseltinin batıdan doğuya artması"
+        },
+        {
+          "key": "E",
+          "text": "Zengin yeraltı kaynaklarına sahip olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Orta kuşakta (36°-42° K) yer alması nedeniyle Türkiye'de dört mevsim belirgin olarak yaşanır; bu matematiksel konumun sonucudur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-3",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin en doğusu ile en batısı arasındaki zaman farkı kaç dakikadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "76"
+        },
+        {
+          "key": "C",
+          "text": "80"
+        },
+        {
+          "key": "D",
+          "text": "90"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "45° - 26° = 19 meridyen farkı vardır. 19 x 4 dakika = 76 dakika zaman farkı bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-4",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Aşağıdakilerden hangisi Türkiye'nin özel (göreceli) konumunun bir sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kuzey Yarım Küre'de yer alması"
+        },
+        {
+          "key": "B",
+          "text": "Yengeç Dönencesi'nin kuzeyinde olması"
+        },
+        {
+          "key": "C",
+          "text": "Üç tarafının denizlerle çevrili bir yarımada olması"
+        },
+        {
+          "key": "D",
+          "text": "Batı rüzgarlarının etkisinde kalması"
+        },
+        {
+          "key": "E",
+          "text": "Güneş ışınlarını hiçbir zaman dik açıyla almaması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yarımada olması, kıtalar arasındaki köprü konumu ve yükseltisi özel (göreceli) konum ile ilgilidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-5",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de dağların güney yamaçlarının kuzey yamaçlarından daha sıcak olması (bakı etkisi) neyin sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Matematiksel konum"
+        },
+        {
+          "key": "B",
+          "text": "Yükselti"
+        },
+        {
+          "key": "C",
+          "text": "Denize yakınlık"
+        },
+        {
+          "key": "D",
+          "text": "Bitki örtüsü"
+        },
+        {
+          "key": "E",
+          "text": "Nüfus yoğunluğu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'nin Kuzey Yarım Küre'de, Yengeç Dönencesi'nin kuzeyinde yer alması güneş ışınlarının her zaman güneyden gelmesine neden olur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-6",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin kuzey ve güney uç noktaları arasındaki kuş uçuşu mesafe yaklaşık kaç kilometredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "500 km"
+        },
+        {
+          "key": "B",
+          "text": "666 km"
+        },
+        {
+          "key": "C",
+          "text": "800 km"
+        },
+        {
+          "key": "D",
+          "text": "1000 km"
+        },
+        {
+          "key": "E",
+          "text": "1500 km"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İki paralel arası mesafe 111 km'dir. 42° - 36° = 6 paralel farkı x 111 km = 666 km kuş uçuşu uzaklık bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-7",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin kara sınırları ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "En uzun kara sınırımız Yunanistan iledir."
+        },
+        {
+          "key": "B",
+          "text": "En uzun kara sınırımız Suriye iledir."
+        },
+        {
+          "key": "C",
+          "text": "En uzun kara sınırımız İran iledir."
+        },
+        {
+          "key": "D",
+          "text": "En uzun kara sınırımız Irak iledir."
+        },
+        {
+          "key": "E",
+          "text": "En uzun kara sınırımız Ermenistan iledir."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'nin en uzun kara sınırı Suriye (911 km) ile; en kısa kara sınırı ise Nahçıvan/Özerk Cumhuriyeti (18 km) iledir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-8",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de aynı anda farklı iklim ve mevsim özelliklerinin yaşanabilmesi hangisinin bir sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Özel (Göreceli) Konum"
+        },
+        {
+          "key": "B",
+          "text": "Matematiksel Konum"
+        },
+        {
+          "key": "C",
+          "text": "Ekvator'a yakınlık"
+        },
+        {
+          "key": "D",
+          "text": "Dünya'nın günlük hareketi"
+        },
+        {
+          "key": "E",
+          "text": "Başlangıç meridyenine uzaklık"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kısa mesafelerde yükselti ve engebenin değişmesi gibi özel konum özellikleri, aynı anda farklı iklim ve mevsim koşullarının yaşanmasına yol açar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-9",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin jeopolitik konumu ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Asya ve Avrupa arasında doğal bir köprüdür."
+        },
+        {
+          "key": "B",
+          "text": "İstanbul ve Çanakkale boğazlarına sahiptir."
+        },
+        {
+          "key": "C",
+          "text": "Enerji nakil hatları üzerinde stratejik konumdadır."
+        },
+        {
+          "key": "D",
+          "text": "Üç tarafı denizlerle çevrili bir yarımadadır."
+        },
+        {
+          "key": "E",
+          "text": "Denize kıyısı olmayan karasal bir ülkedir."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Türkiye üç tarafı denizlerle çevrili bir yarımada ülkesidir, denize kıyısı olmayan karasal bir ülke değildir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-10",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de güneyden kuzeye doğru gidildikçe güneş ışınlarının geliş açısı nasıl değişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Daha dikleşir"
+        },
+        {
+          "key": "B",
+          "text": "Daha eğikleşir (daralır)"
+        },
+        {
+          "key": "C",
+          "text": "Hİç değişmez"
+        },
+        {
+          "key": "D",
+          "text": "Sadece kışın dikleşir"
+        },
+        {
+          "key": "E",
+          "text": "Önce artar sonra azalır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kuzeye doğru gidildikçe Ekvator'dan uzaklaşıldığı için enlem etkisine bağlı olarak güneş ışınlarının geliş açısı daralır (eğikleşir).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-11",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Aşağıdaki sınır kapılarından hangisi Türkiye - İran sınırında yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Habur"
+        },
+        {
+          "key": "B",
+          "text": "Gürbulak"
+        },
+        {
+          "key": "C",
+          "text": "Kapıkule"
+        },
+        {
+          "key": "D",
+          "text": "Sarp"
+        },
+        {
+          "key": "E",
+          "text": "Cilvegözü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gürbulak (Ağrı), Esendere (Hakkari) ve Kapıköy (Van) kapıları Türkiye - İran sınırında yer alır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-12",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de enlem derecesine bağlı olarak güneyden kuzeye gidildikçe aşağıdakilerden hangisi düzenli olarak uzar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yerel saat"
+        },
+        {
+          "key": "B",
+          "text": "Cisimlerin öğle vakti gölge boyu"
+        },
+        {
+          "key": "C",
+          "text": "Dönence mesafesi"
+        },
+        {
+          "key": "D",
+          "text": "Çizgisel hız"
+        },
+        {
+          "key": "E",
+          "text": "Gece ile gündüz süresi arasındaki fark (21 Mart hariç)"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kuzeye gidildikçe güneş ışınlarının geliş açısı küçüldüğü için düz zeminlerdeki öğle vakti gölge boyu uzar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-13",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de kuzey sektörlü rüzgarların sıcaklığı düşürmesi aşağıdakilerden hangisinin doğrudan sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kuzey Yarım Küre'de yer almasının (Matematiksel Konum)"
+        },
+        {
+          "key": "B",
+          "text": "Ortalama yükseltisinin fazla olmasının"
+        },
+        {
+          "key": "C",
+          "text": "Üç tarafının denizlerle çevrili olmasının"
+        },
+        {
+          "key": "D",
+          "text": "Dağların doğu-batı yönünde uzanmasının"
+        },
+        {
+          "key": "E",
+          "text": "Doğu meridyenlerinde bulunmasının"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye Kuzey Yarım Küre'de olduğu için kuzeyden gelen rüzgarlar kutup kaynaklı olup sıcaklığı düşürür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-14",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin başlangıç meridyeninin (Greenwich) doğusunda yer aldığının temel kanıtı hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "26°-45° Doğu meridyenleri arasında bulunması"
+        },
+        {
+          "key": "B",
+          "text": "36°-42° Kuzey paralellerinde bulunması"
+        },
+        {
+          "key": "C",
+          "text": "Ortalama yükseltisinin 1132 metre olması"
+        },
+        {
+          "key": "D",
+          "text": "Yerel saatin Greenwich'ten ileri olması"
+        },
+        {
+          "key": "E",
+          "text": "A ve D seçeneklerinin ikisi de"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Doğu meridyenlerinde yer alması ve yerel saatinin Greenwich'ten ileri olması başlangıç meridyeninin doğusunda olduğunu gösterir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-16",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin orta kuşakta bulunmasının sonuçlarından biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tropikal iklimlerin etkili olması"
+        },
+        {
+          "key": "B",
+          "text": "Batı rüzgarları kuşağında yer alması ve 4 mevsimin belirgin yaşanması"
+        },
+        {
+          "key": "C",
+          "text": "Kutup ikliminin görülmesi"
+        },
+        {
+          "key": "D",
+          "text": "Dönenceler arasında yer alması"
+        },
+        {
+          "key": "E",
+          "text": "6 ay gece 6 ay gündüz yaşanması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Orta kuşakta bulunmanın sonuçları A-B-C-D şifresiyle hatırlanır: Akdeniz iklimi, Batı rüzgarları, Cephesel yağışlar ve Dört mevsim belirginliği.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-18",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de doğu ile batı ucu arasındaki yerel saat farkının sadece 76 dakika olması neyin bir sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yükseltinin az olmasının"
+        },
+        {
+          "key": "B",
+          "text": "Doğu-batı yönlü meridyen farkının az (19 meridyen) olmasının"
+        },
+        {
+          "key": "C",
+          "text": "Paralellerin daralmasının"
+        },
+        {
+          "key": "D",
+          "text": "Denizellik etkisinin"
+        },
+        {
+          "key": "E",
+          "text": "Yüzölçümünün geniş olmasının"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye 26° - 45° doğu meridyenleri arasında yer aldığı için doğu-batı meridyen farkı 19'dur; bu da 76 dakikalık az bir zaman farkı yaratır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-19",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin kuzey ucu (Sinop İnceburun) ile güney ucu (Hatay Beysun) arasındaki paralel farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "42° Kuzey (Sinop) - 36° Kuzey (Hatay) = 6 derecelik paralel farkı bulunmaktadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-20",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'de yerel saati en ileri olan ve güneşin en erken doğduğu merkezimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul"
+        },
+        {
+          "key": "B",
+          "text": "İzmir"
+        },
+        {
+          "key": "C",
+          "text": "Iğdır (Dilucu)"
+        },
+        {
+          "key": "D",
+          "text": "Edirne"
+        },
+        {
+          "key": "E",
+          "text": "Antalya"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye'nin en doğu ucu Iğdır (45° Doğu) olduğu için yerel saat en ileridir ve güneş en erken burada doğar.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-21",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin engebeli ve dağlık bir arazi yapısına sahip olması hangi konum türüyle açıklanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Matematiksel konum"
+        },
+        {
+          "key": "B",
+          "text": "Özel (Göreceli) konum"
+        },
+        {
+          "key": "C",
+          "text": "Enlem konumu"
+        },
+        {
+          "key": "D",
+          "text": "Boylam konumu"
+        },
+        {
+          "key": "E",
+          "text": "Açısal konum"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yer şekilleri, dağların uzanışı, engebe ve yükselti özellikleri özel (göreceli) konuma dahildir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-22",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye Dünya üzerinde hangi yarım kürelerin kesişiminde yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güney Yarım Küre - Doğu Yarım Küre"
+        },
+        {
+          "key": "B",
+          "text": "Kuzey Yarım Küre - Batı Yarım Küre"
+        },
+        {
+          "key": "C",
+          "text": "Kuzey Yarım Küre - Doğu Yarım Küre"
+        },
+        {
+          "key": "D",
+          "text": "Güney Yarım Küre - Batı Yarım Küre"
+        },
+        {
+          "key": "E",
+          "text": "Tam Ekvator çizgisi üzerinde"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye, Ekvator'un kuzeyinde (Kuzey Yarım Küre) ve Başlangıç Meridyeni'nin doğusunda (Doğu Yarım Küre) yer alır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-23",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin Karadeniz Dağlarının kıyıya paralel uzanması sebebiyle iç kesimlere deniz etkisinin girememesi neyin sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Matematiksel konum"
+        },
+        {
+          "key": "B",
+          "text": "Özel (Göreceli) konum"
+        },
+        {
+          "key": "C",
+          "text": "Enlem etkisi"
+        },
+        {
+          "key": "D",
+          "text": "Boylam etkisi"
+        },
+        {
+          "key": "E",
+          "text": "Ekvator'a uzaklık"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Dağların kıyıya göre uzanış doğrultusu özel (göreceli) konum şartıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-24",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin kuzeyinde yer alan deniz aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "B",
+          "text": "Ege Denizi"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Marmara Denizi"
+        },
+        {
+          "key": "E",
+          "text": "Hazar Denizi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye'nin kuzey kıyılarını Karadeniz çevreler.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-25",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin hem Asya hem de Avrupa (Trakya) kıtalarında toprağının bulunması ne tür bir coğrafi durumdur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Matematiksel konum"
+        },
+        {
+          "key": "B",
+          "text": "Özel (Göreceli) konum"
+        },
+        {
+          "key": "C",
+          "text": "Sadece enlem konumu"
+        },
+        {
+          "key": "D",
+          "text": "Sadece boylam konumu"
+        },
+        {
+          "key": "E",
+          "text": "İklimsel zorunluluk"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kıtaların kavşak noktasında yer almak kıtasal özel konumun (göreceli konum) sonucudur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-26",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin en batı ucundan (Çanakkale Avlaka Burnu) geçen meridyen hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "26° Doğu Meridyeni"
+        },
+        {
+          "key": "B",
+          "text": "36° Doğu Meridyeni"
+        },
+        {
+          "key": "C",
+          "text": "45° Doğu Meridyeni"
+        },
+        {
+          "key": "D",
+          "text": "42° Kuzey Paraleli"
+        },
+        {
+          "key": "E",
+          "text": "26° Batı Meridyeni"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'nin en batı ucu Çanakkale Gökçeada Avlaka Burnu'ndan geçen 26° Doğu meridyenidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-27",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin en güney ucundan (Hatay Beysun) geçen paralel derecesi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "36° Kuzey Paraleli"
+        },
+        {
+          "key": "B",
+          "text": "42° Kuzey Paraleli"
+        },
+        {
+          "key": "C",
+          "text": "26° Doğu Meridyeni"
+        },
+        {
+          "key": "D",
+          "text": "45° Doğu Meridyeni"
+        },
+        {
+          "key": "E",
+          "text": "36° Güney Paraleli"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'nin en güney ucu 36° Kuzey paralelidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-28",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "21 Haziran tarihinde Türkiye'de güneyden kuzeye doğru gidildikçe gündüz süresinin uzaması neyin sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Özel konum"
+        },
+        {
+          "key": "B",
+          "text": "Matematiksel (Mutlak) konum"
+        },
+        {
+          "key": "C",
+          "text": "Yükselti"
+        },
+        {
+          "key": "D",
+          "text": "Denizellik"
+        },
+        {
+          "key": "E",
+          "text": "Jeolojik yapı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kuzey Yarım Küre'de yaz mevsiminde (21 Haziran) kuzeye gidildikçe gündüz süresi uzar; bu durum enlem (matematiksel konum) ile açıklanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-29",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Türkiye'nin kısa mesafelerde yer şekilleri, iklim ve bitki örtüsünün değişkenlik göstermesinin temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jeolojik yapısının genç ve engebeli olması (Özel konum)"
+        },
+        {
+          "key": "B",
+          "text": "Denizlerin varlığı"
+        },
+        {
+          "key": "C",
+          "text": "Enlem farkı"
+        },
+        {
+          "key": "D",
+          "text": "Boylam farkı"
+        },
+        {
+          "key": "E",
+          "text": "Rüzgarlar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kısa mesafede yükselti ve engebenin değişmesi yer şekillerinin genç ve çeşitlilik göstermesinden (özel konum) kaynaklanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-cografi-konum-30",
+      "topic_id": "topic-cog-cografi-konum",
+      "question_text": "Aşağıdakilerden hangisi Türkiye'nin matematiksel (mutlak) konumunun doğrudan bir sonucu değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş ışınlarının düşme açısının güneyden kuzeye daralması"
+        },
+        {
+          "key": "B",
+          "text": "Cisimlerin öğle vakti gölge boylarının kuzeye gidildikçe uzaması"
+        },
+        {
+          "key": "C",
+          "text": "Dört mevsimin belirgin olarak yaşanması"
+        },
+        {
+          "key": "D",
+          "text": "Yer şekillerinin kırıklı ve engebeli yapıda olması"
+        },
+        {
+          "key": "E",
+          "text": "Güney yamaçların bakı etkisinde kalması"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Yer şekillerinin engebeli ve kırıklı yapısı jeolojik süreçlerle ve özel konumla ilgilidir, matematiksel konumla açıklanamaz.",
+      "difficulty_level": 3
+    }
+  ]
+}

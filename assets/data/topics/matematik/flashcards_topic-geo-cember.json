@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-geo-cember",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Çember Çevresi ve Daire Alanı",
+      "body": "Yarıçapı r olan çemberin Çevresi = 2.pi.r ; Dairenin Alanı = pi.r^2 formülü ile hesaplanır."
+    },
+    {
+      "card_number": 2,
+      "title": "Merkez Açı Özelliği",
+      "body": "Köşesi çemberin merkezinde olan açıdır. Merkez açının ölçüsü gördüğü yayın derece ölçüsüne BİREBİR EŞİTTİR."
+    },
+    {
+      "card_number": 3,
+      "title": "Çevre Açı Özelliği",
+      "body": "Köşesi çember üzerinde olan açıdır. Çevre açının ölçüsü gördüğü yayın derece ölçüsünün YARISINA eşittir."
+    },
+    {
+      "card_number": 4,
+      "title": "Çapı Gören Çevre Açı 90 Derecedir",
+      "body": "Çemberde çapı gören çevre açının ölçüsü daima 90 derecedir (Dik açıdır)."
+    },
+    {
+      "card_number": 5,
+      "title": "Aynı Yayı Gören Açıların Eşitliği",
+      "body": "Çemberde aynı yayı gören çevre açıların ölçüleri birbirine eşittir."
+    },
+    {
+      "card_number": 6,
+      "title": "Teğet - Yarıçap Dikliği",
+      "body": "Çemberin merkezinden teğetin değme noktasına çizilen yarıçap teğete DAİMA DİKTİR (90 derece)."
+    },
+    {
+      "card_number": 7,
+      "title": "Dışarıdaki Noktadan Çizilen Teğetler",
+      "body": "Çemberin dışındaki bir noktadan çembere çizilen iki teğet parçasının uzunlukları birbirine eşittir."
+    },
+    {
+      "card_number": 8,
+      "title": "Kirişler Dörtgeni Özelliği",
+      "body": "Köşeleri çember üzerinde olan dörtgenlerde karşılıklı açıların toplamı 180 derecedir (A + C = 180)."
+    },
+    {
+      "card_number": 9,
+      "title": "Daire Diliminin Alanı",
+      "body": "a derecelik açının gördüğü daire diliminin alanı = (pi . r^2) . (a / 360) formülüyle bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Kirişe İnen Dikme Kuralı",
+      "body": "Çemberin merkezinden kirişe inilen dikme, kirişi ve kirişin yayını iki eşit parçaya böler."
+    }
+  ]
+}

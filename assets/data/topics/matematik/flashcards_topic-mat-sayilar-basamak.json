@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-sayilar-basamak",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Asal Sayı Altın Kuralı",
+      "body": "1'den ve kendisinden başka pozitif böleni olmayan 1'den büyük doğal sayılardır. En küçük ve tek çift asal sayı 2'dir (3, 5, 7, 11...)."
+    },
+    {
+      "card_number": 2,
+      "title": "Aralarında Asal Sayılar",
+      "body": "1'den başka ortak pozitif böleni olmayan sayılardır. Sayıların kendilerinin asal olması gerekmez. Örnek: 8 ile 9 aralarında asaldır."
+    },
+    {
+      "card_number": 3,
+      "title": "Çift ve Tek Sayılar Mantığı",
+      "body": "Tek x Tek = Tek; Çift x Her Şey = Çift. Çarpımın sonucu tek ise çarpanların hepsi tektir; çift ise en az bir çarpan çifttir."
+    },
+    {
+      "card_number": 4,
+      "title": "Basamak Değer Çözümlemesi",
+      "body": "AB iki basamaklı sayısı 10A + B; ABC üç basamaklı sayısı 100A + 10B + C olarak çözümlenir."
+    },
+    {
+      "card_number": 5,
+      "title": "AB - BA Çıkarma İpucu",
+      "body": "İki basamaklı AB ve BA sayılarının farkı: AB - BA = 9(A - B) formülü ile pratik şekilde bulunur."
+    },
+    {
+      "card_number": 6,
+      "title": "AB + BA Toplama İpucu",
+      "body": "İki basamaklı AB ve BA sayılarının toplamı: AB + BA = 11(A + B) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 7,
+      "title": "Faktöriyel Tanımı ve 0!",
+      "body": "n! = 1.2.3...n çarpımıdır. 0! = 1 ve 1! = 1 olarak kabul edilir. n! ifadesinde n >= 0 olmalıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Sonu 0 İle Biten Faktöriyel",
+      "body": "n! sayısının sonundaki sıfır sayısını bulmak için n sayısı sürekli 5'e bölünür ve bölüm rakamları toplanır."
+    },
+    {
+      "card_number": 9,
+      "title": "Pozitif Tam Bölen Sayısı (PBS)",
+      "body": "Bir sayının asal çarpanlarına ayrılmış hali a^x . b^y ise, Pozitif Bölen Sayısı = (x+1)(y+1) formülüyle bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Ardışık Sayılar Toplam Formülü",
+      "body": "1'den n'e kadar olan ardışık sayıların toplamı: n.(n+1) / 2 formülü ile hesaplanır."
+    }
+  ]
+}

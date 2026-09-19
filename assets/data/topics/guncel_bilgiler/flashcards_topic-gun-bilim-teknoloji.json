@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-gun-bilim-teknoloji",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "James Webb Uzay Teleskobu (JWST)",
+      "body": "NASA, ESA ve CSA ortaklığıyla fırlatılan, Hubble'ın halefi kızılötesi uzay teleskobudur; evrenin ilk galaksilerini gözlemler."
+    },
+    {
+      "card_number": 2,
+      "title": "Büyük Hadron Çarpıştırıcısı (LHC)",
+      "body": "CERN (İsviçre-Fransa sınırı) altında yer alan dünyanın en büyük parçacık hızlandırıcısıdır (Higgs Bozonu keşfedilmiştir)."
+    },
+    {
+      "card_number": 3,
+      "title": "CRISPR-Cas9 Gen Düzenleme",
+      "body": "Genom üzerinde hassas kesme ve düzenleme yapmayı sağlayan moleküler makas genetik teknolojisidir (Nobel Kimya ödülü almıştır)."
+    },
+    {
+      "card_number": 4,
+      "title": "Mars Drone'u Ingenuity",
+      "body": "NASA'nın Perseverance uzay aracıyla Mars'a gönderilen ve başka bir gezegende uçan ilk motorlu hava aracıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Yapay Zeka Turing Testi",
+      "body": "Alan Turing tarafından önerilen, bir makinenin insan zekasından ayırt edilemeyecek şekilde yanıt verip veremediğini ölçen klasik testtir."
+    },
+    {
+      "card_number": 6,
+      "title": "Kuantum Bilgisayar ve Kubit",
+      "body": "Klasik bilgisayarlardaki 0 ve 1 bitleri yerine süperpozisyon özelliğine sahip 'Kubit' (Qubit) birimini kullanan kuantum sistemleridir."
+    },
+    {
+      "card_number": 7,
+      "title": "Nesnelerin İnterneti (IoT)",
+      "body": "Günlük hayattaki tüm cihazların (akıllı ev, araçlar) internet üzerinden birbirleriyle veri paylaşımı yapması teknolojisidir."
+    },
+    {
+      "card_number": 8,
+      "title": "Lidar Sensör Teknolojisi",
+      "body": "Otonom (sürücüsüz) araçlarda ve haritalamada kullanılan, lazer ışınları ile 3D çevre taraması yapan sensör sistemidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Kötü Amaçlı Yazılım (Malware)",
+      "body": "Bilgisayar sistemlerine sızmak, zarar vermek veya veri çalmak için tasarlanmış virüs, trojan ve fidye yazılımlarının genel adıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Ay'a Ayak Basan İlk İnsan",
+      "body": "Neil Armstrong, 1969 yılında Apollo 11 misyonu ile Ay yüzeyine ayak basan ilk insandır ('İnsan için küçük, insanlık için büyük bir adım')."
+    }
+  ]
+}

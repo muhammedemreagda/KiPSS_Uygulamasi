@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-ses-bilgisi",
+  "title": "Ses Bilgisi & Ses Olayları",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-ses-bilgisi",
+    "topic_id": "topic-turkce-ses-bilgisi",
+    "title": "Ses Bilgisi & Ses Olayları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Ses Bilgisi & Ses Olayları' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Ses Bilgisi & Ses Olayları konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nSes Bilgisi & Ses Olayları başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Ses Bilgisi & Ses Olayları konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Ünlü (Sesli) Düşmesi",
+        "body": "İki heceli bazı kelimeler ünlü ile başlayan ek aldığında ikinci hecedeki dar ünlü düşer. Örnek: akıl + ı → aklı, burun + um → burnum."
+      },
+      {
+        "card_number": 2,
+        "title": "Ünsüz Yumuşaması (Değişimi)",
+        "body": "p, ç, t, k ile biten kelimeler ünlüyle başlayan ek aldığında b, c, d, ğ'ye dönüşür. Örnek: kitap + ı → kitabı, ağaç + a → ağaca."
+      },
+      {
+        "card_number": 3,
+        "title": "Ünsüz Sertleşmesi (Benzeşmesi)",
+        "body": "Fıstıkçı Şahap (f, s, t, k, ç, ş, h, p) ile biten kelimelere c, d, g ile başlayan ek gelirse ek ç, t, k'ye dönüşür. Örnek: kitap + cı → kitapçı."
+      },
+      {
+        "card_number": 4,
+        "title": "Ünlü Daralması İpucu",
+        "body": "a, e geniş ünlüleriyle biten fiillere '-yor' eki geldiğinde a, e sesleri ı, i, u, ü'ye daralır. Örnek: başla - yor → başlıyor."
+      },
+      {
+        "card_number": 5,
+        "title": "Ünsüz Türemesi (İkizleşme)",
+        "body": "Arapça kökenli bazı kelimeler etmek/olmak yardımcı fiili veya ünlüyle başlayan ek aldığında ikizleşir. Örnek: his + etmek → hissetmek, hak + ı → hakkı."
+      },
+      {
+        "card_number": 6,
+        "title": "Ünlü Türemesi",
+        "body": "Cık/cik küçültme eki alan bazı kelimelerde türeme olur. Örnek: az + cık → azıcık, dar + cık → daracık, bir + cik → biricik."
+      },
+      {
+        "card_number": 7,
+        "title": "Ünsüz Düşmesi İpucu",
+        "body": "k ünsüzüyle biten bazı kelimeler -cık/-cik küçültme eki aldığında k ünsüzü düşer. Örnek: küçük + cük → küçücük, minik + cik → minicik."
+      },
+      {
+        "card_number": 8,
+        "title": "Dudak Ünsüzlerinin Benzeşmesi (n-m değişimi)",
+        "body": "b sesinden önce gelen n sesi m'ye dönüşür. Örnek: saklan-baç → saklambaç, dolan-baç → dolambaç (Özel isimlerde uygulanmaz: İstanbul)."
+      },
+      {
+        "card_number": 9,
+        "title": "Ulama İpucu",
+        "body": "Ünsüzle biten bir kelimeden sonra ünlüyle başlayan bir kelime geldiğinde iki kelimenin birleşikmiş gibi okunmasıdır (Noktalama işareti varsa ulama olmaz)."
+      },
+      {
+        "card_number": 10,
+        "title": "Büyük Ünlü Uyumu Kuralı",
+        "body": "Bir kelimenin ilk hecesindeki ünlü kalınsa (a, ı, o, u) diğer heceler de kalın; inceyse (e, i, ö, ü) diğerleri de ince olmalıdır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-ses-bilgisi-1",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Sert ünsüzle (f, s, t, k, ç, ş, h, p) biten bir sözcükten sonra yumuşak ünsüzle (c, d, g) başlayan bir ek geldiğinde, ekin başındaki yumuşak ünsüz sertleşir. Buna 'ünsüz benzeşmesi' (sertleşmesi) denir. Aşağıdaki cümlelerin hangisinde bu kurala örnek bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sokaktaki lambalar aniden sönünce mahalle sakinleri büyük bir şaşkınlık yaşadı."
+        },
+        {
+          "key": "B",
+          "text": "Gelen evrakları dikkatlice inceleyip masanın üzerindeki dosyaya kaldırdı."
+        },
+        {
+          "key": "C",
+          "text": "Akşamüzeri sahil boyunca yürüyerek günün yorgunluğunu atmaya çalıştılar."
+        },
+        {
+          "key": "D",
+          "text": "Yeni aldığı kütüphane masasını odanın en aydınlık köşesine yerleştirdi."
+        },
+        {
+          "key": "E",
+          "text": "Sabahın ilk ışıklarıyla birlikte köylüler tarlaya gitmek üzere yola çıktı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Sokak' sözcüğü sert ünsüz olan 'k' ile bitmiştir. Bu sözcüğe bulunma hâl eki '-da' getirildiğinde ekin başındaki 'd' sesi sertleşerek 't'ye dönüşmüş ve 'sokaktaki' biçimini alarak ünsüz benzeşmesi oluşturmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-2",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçede bazı sözcükler türetilirken (yapım eki alırken) kökteki ünlü ses düşer. Buna 'türeme sırasında ünlü düşmesi' denir. Aşağıdaki cümlelerin hangisinde bu açıklamaya uygun bir sözcük kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aklına gelen özgün fikirleri zaman kaybetmeden ajandasına not ediyordu."
+        },
+        {
+          "key": "B",
+          "text": "Dağların arasından süzülen kıvrımlı yollar sürücülere zor anlar yaşatıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Oğlunun üniversite sınavını kazandığını öğrenince sevinç gözyaşlarına boğuldu."
+        },
+        {
+          "key": "D",
+          "text": "Karnı acıkan küçük çocuk mutfağa girip dolapta yiyecek aradı."
+        },
+        {
+          "key": "E",
+          "text": "Gönlünden geçenleri cesurca dile getirmesi çevresindekileri şaşırtmıştı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Kıvrımlı' sözcüğünün kökü 'kıvır-' fiilidir. Bu fiil '-ım' yapım ekini alarak isimleşirken ikinci hecedeki 'ı' ünlüsü düşmüştür (kıvır-ım > kıvrım). A, C, D ve E seçeneklerindeki kelimelerde ise çekim eki alırken ünlü düşmesi gerçekleşmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-3",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçede 'a, e' geniş ünlüleriyle biten bir fiile '-yor' eki getirildiğinde, fiilin sonundaki geniş ünlü daralarak 'ı, i, u, ü' seslerine dönüşür. Aşağıdaki cümlelerin hangisinde ünlü daralmasına uğramış bir sözcük vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocuklar parktaki geniş çim alanda neşeyle koşuyor."
+        },
+        {
+          "key": "B",
+          "text": "Hafta sonu yapılacak etkinlik için salon düzenleniyor."
+        },
+        {
+          "key": "C",
+          "text": "Sonbaharın gelmesiyle birlikte bahçedeki ağaçların yaprakları sararmaya başlıyor."
+        },
+        {
+          "key": "D",
+          "text": "Tüm uyarılara rağmen aynı hataları tekrarlamaktan vazgeçmiyor."
+        },
+        {
+          "key": "E",
+          "text": "Güneş dağların ardında süzülerek yavaşça batıyor."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Başlıyor' sözcüğünün kök/gövdesi 'başla-' fiilidir. 'a' geniş ünlüsüyle biten bu eyleme '-yor' şimdiki zaman eki getirildiğinde kökteki 'a' ünlüsü daralarak 'ı' sesine dönüşmüştür (başla-yor > başlıyor).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-4",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçede 'p, ç, t, k' sert ünsüzleriyle biten sözcükler ünlüyle başlayan bir ek aldıklarında bu ünsüzler 'b, c, d, ğ' seslerine dönüşür. Ancak yabancı kökenli bazı sözcükler ve özel isimler bu kurala uymaz. Aşağıdaki cümlelerin hangisinde ünsüz yumuşamasına aykırı bir sözcük kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçedeki ulu ağacın gölgesinde oturup koyu bir sohbete daldılar."
+        },
+        {
+          "key": "B",
+          "text": "Çocuğun elindeki oyuncağı düşürmemesi için annesi uyardı."
+        },
+        {
+          "key": "C",
+          "text": "Cebinden çıkardığı not kâğıdına adresi hızlıca yazdı."
+        },
+        {
+          "key": "D",
+          "text": "Hukukun üstünlüğü ilkesi, adil bir toplum yapısının teminatıdır."
+        },
+        {
+          "key": "E",
+          "text": "Sokağın başındaki fırından taze pişmiş sıcacık ekmek aldı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Hukuk' sözcüğü Arapça kökenli bir kelimedir. Ünlüyle başlayan ilgi eki (-un) aldığında sondaki 'k' ünsüzü yumuşamayarak 'hukukun' şeklinde kalmıştır. Bu durum ünsüz yumuşamasına aykırılığa örnektir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-5",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Arapça kökenli bazı tek heceli sözcükler ünlüyle başlayan bir ek aldıklarında veya 'etmek, eylemek' gibi yardımcı eylemlerle birleştiklerinde kökteki son ünsüz tekrarlanır. Buna 'ünsüz türemesi' (ikizleşme) denir. Aşağıdaki cümlelerin hangisinde ünsüz türemesine uğramış bir sözcük yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınav evraklarının tamamını titizlikle kontrol etti."
+        },
+        {
+          "key": "B",
+          "text": "Yağmurun ardından açan güneş çevredeki tüm doğayı aydınlattı."
+        },
+        {
+          "key": "C",
+          "text": "Yıllar sonra lise arkadaşıyla karşılaşınca ne yapacağını bilemedi."
+        },
+        {
+          "key": "D",
+          "text": "Kararlarını alırken duygularından ziyade mantığını ön planda tutardı."
+        },
+        {
+          "key": "E",
+          "text": "Uğradığı haksızlık karşısında sessiz kalmayıp derhal hakkını aradı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Hakkını' sözcüğünün kökü 'hak' sözcüğüdür. Bu kelimeye ünlüyle başlayan üçüncü şahıs iyelik eki (-ı) getirildiğinde kök sonundaki 'k' sesi tekrarlanarak 'hakkı' biçimini almış ve ünsüz türemesi gerçekleşmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-6",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "'k' ünsüzüyle biten bazı sözcükler '-cik / -cek' küçültme eklerini veya '-el / -al' fiil türetme eklerini aldıklarında kökteki 'k' sesi düşer. Aşağıdaki cümlelerin hangisinde bu açıklamaya uygun bir ünsüz düşmesi gerçekleşmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Minicik elleriyle annesinin elbisesine sıkıca sarılmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Sıcak havalarda ince ve pamuklu kıyafetler giyilmesi önerilir."
+        },
+        {
+          "key": "C",
+          "text": "Sevimli çocuk bahçede uçuşan kelebeklerin peşinden koşuyordu."
+        },
+        {
+          "key": "D",
+          "text": "Tarihi binanın büyük kapısının önünde saatlerce beklediler."
+        },
+        {
+          "key": "E",
+          "text": "Alçak tepelerin ardına saklanmış şirin bir kentsel yerleşim vardı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Minicik' sözcüğünün kökü 'minik' sözcüğüdür. 'k' ünsüzü ile biten bu kelimeye '-cik' küçültme eki getirildiğinde kök sonundaki 'k' ünsüzü düşmüştür (minik-cik > minicik).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-7",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Tek heceli bazı sözcükler '-cik' küçültme ekini aldıklarında kök ile ek arasında bir ünlü ortaya çıkar. Bu ses olayına 'ünlü türemesi' denir. Aşağıdaki cümlelerin hangisinde ünlü türemesinin bir örneği vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutu içerisindeki küçücük hediyeyi görünce gözlerinin içi güldü."
+        },
+        {
+          "key": "B",
+          "text": "Yolun kenarındaki daracık sokaktan geçerek tarihi çarşıya ulaştılar."
+        },
+        {
+          "key": "C",
+          "text": "Sıcak çorbaya aromatik bir tat katmak için biraz karabiber ekledi."
+        },
+        {
+          "key": "D",
+          "text": "Bahçede buldukları incecik kedi yavrusunu hemen korumaya aldılar."
+        },
+        {
+          "key": "E",
+          "text": "Büyük kentin keşmekeşi insanı zamanla ruhen ve bedenen yoruyor."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Daracık' sözcüğünün kökü 'dar' sözcüğüdür. Tek heceli bu kelime '-cık' ekini aldığında kök ile ek arasında 'a' ünlüsü türemiştir (dar-cık > dar-a-cık). A'da ise ünsüz düşmesi vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-8",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçe sözcüklerde 'b' ünsüzünden önce gelen 'n' ünsüzü, dudak ünsüzü olan 'b'nin etkisiyle 'm' ünsüzüne dönüşür. Buna 'dudak ünsüzlerinin benzeşmesi' (n-b değişimi) denir. Özel isimlerde ve birleşik sözcüklerde yazıda gösterilmeyen bu ses olayı aşağıdaki cümlelerin hangisinde gerçekleşmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul'un tarihi sokaklarında rehber eşliğinde uzun bir tura katıldılar."
+        },
+        {
+          "key": "B",
+          "text": "Sonbahar mevsiminde Safranbolu evlerinin mimarisini incelediler."
+        },
+        {
+          "key": "C",
+          "text": "Sokağın köşesindeki eski kambur adam bastonuna dayanarak yürüyordu."
+        },
+        {
+          "key": "D",
+          "text": "Yol boyunca uzanan yeşil tarlaların arasından trenle geçtik."
+        },
+        {
+          "key": "E",
+          "text": "Çocuklar parktaki çimlerin üzerinde neşeyle yuvarlanıyordu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Kambur' sözcüğünün aslı 'kanbur' şeklindedir. 'b' dudak ünsüzünün etkisiyle 'n' sesi 'm'ye dönüşmüştür (kanbur > kambur). A ve B seçeneklerindeki özel isimlerde ise kural gereği yazıda 'm'ye dönüştürülmez (İstanbul, Safranbolu).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-9",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçede ünlüyle biten bir sözcüğe ünlüyle başlayan bir ek getirildiğinde iki ünlü arasına 'y, ş, s, n' kaynaştırma harfleri girer. Buna göre aşağıdaki cümlelerin hangisinde altı/belirtilen sözcükte kaynaştırma ünsüzü **kullanılmamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Onun çantası toplantı salonındaki masanın üzerinde kalmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Okulun geniş bahçesine yeni çam fidanları dikildi."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler ikişerli gruplara ayrılarak laboratuvara girdi."
+        },
+        {
+          "key": "D",
+          "text": "Çocukların sesleri bahçeden salona kadar yankılanıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Sorunun doğru cevabını tahmin eden ilk öğrenci o oldu."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Çocukların' kelimesinde 'çocuk' (kök) + '-lar' (çoğul eki) + '-ın' (ilgi/tamlayan eki) yapıları bulunur. 'ın' eki doğrudan ünsüzle biten kelimeye eklendiği için kaynaştırma ünsüzü yoktur. A'da 'çanta-s-ı', B'de 'bahçe-s-i-n-e', C'de 'iki-ş-er', E'de 'cevap-ı-n-ı' örneklerinde kaynaştırma harfleri yer alır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-10",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Ünsüzle biten bir sözcükten sonra ünlüyle başlayan bir sözcük geldiğinde iki sözcük birbirine bağlanarak okunur. Buna 'ulama' denir. Sözcükler arasında herhangi bir noktalama işareti varsa ulama yapılmaz. Buna göre aşağıdaki cümlelerin hangisinde ulama vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akşam, yemeğini yedikten sonra çalışma odasına çekildi."
+        },
+        {
+          "key": "B",
+          "text": "Güneş, dağların ardından nazlı nazlı batıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Yağmur, gün boyunca aralıksız yağmaya devam etti."
+        },
+        {
+          "key": "D",
+          "text": "Kitap, insan zihnini besleyen en sadık dosttur."
+        },
+        {
+          "key": "E",
+          "text": "Son anlarda atılan gol maçı kazanmamızı sağladı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Son anlarda' ifadesinde 'Son' sözcüğü ünsüzle (n) bitmiş, ardından gelen 'anlarda' sözcüğü ünlüyle (a) başlamıştır. Aralarında herhangi bir noktalama işareti olmadığı için 'Son anlarda' arasında ulama gerçekleşmiştir. A, B, C ve D şıklarında virgül olduğu için ulama yapılmaz.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-11",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Bazı birleşik sözcüklerin oluşumu sırasında birden fazla ses olayı aynı anda gerçekleşebilir. Aşağıdaki cümlelerin hangisinde yer alan bir sözcükte 'ünlü düşmesi, ünsüz yumuşaması ve ünsüz benzeşmesi' ses olaylarının tamamı gerçekleşmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Takımımız son dakikalarda sergilediği kötü performans yüzünden şampiyonluk şansını kaybetti."
+        },
+        {
+          "key": "B",
+          "text": "Aklına gelen güzel düşünceleri vakit kaybetmeden kâğıda aktardı."
+        },
+        {
+          "key": "C",
+          "text": "Sokaktaki çocukların neşeli sesleri odasını dolduruyordu."
+        },
+        {
+          "key": "D",
+          "text": "Kırılan cam bardağın parçalarını eline batırmadan topladı."
+        },
+        {
+          "key": "E",
+          "text": "Sıcak çayını yudumlarken bir yandan da gazetesini okuyordu."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Kaybetti' sözcüğü 'kayıp' ve 'et-di' yapılarının birleşmesinden oluşur. 1. kayıp > kayb (ikinci hecedeki 'ı' ünlüsü düşmüştür), 2. kayıp > kayb (sondaki 'p' ünsüzü 'b'ye yumuşamıştır), 3. et-di > etti (eki temsil eden 'd' ünsüzü 't'ye sertleşmiştir/benzeşmiştir). Üç ses olayı tek sözcükte mevcuttur.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-12",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "İki sözcüğün birleşip tek bir sözcük oluşturması esnasında gerçekleşen ünlü düşmesine 'aşınma' adı verilir. Aşağıdaki cümlelerin hangisinde aşınmaya uğramış bir sözcük vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gönlünden geçenleri açıkça dile getirmekte tereddüt ediyordu."
+        },
+        {
+          "key": "B",
+          "text": "Pazartesi günü başlayacak olan seminer için tüm hazırlıklar tamamlandı."
+        },
+        {
+          "key": "C",
+          "text": "Sokağın dar geçidinde iki otomobil karşı karşıya geldi."
+        },
+        {
+          "key": "D",
+          "text": "Aklını kurcalayan sorulara cevap bulmak amacıyla kütüphaneye gitti."
+        },
+        {
+          "key": "E",
+          "text": "Resmin detaylarını daha iyi inceleyebilmek için tabloya yaklaştı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Pazartesi' sözcüğü 'pazar' ve 'ertesi' sözcüklerinin birleşmesiyle oluşmuştur. Birleşme esnasında 'ertesi' sözcüğünün başındaki 'e' ünlüsü düşmüştür (pazar-ertesi > pazartesi). İki sözcük birleşirken meydana gelen bu ünlü düşmesi 'aşınma'dır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-13",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçe bir sözcükte kalın ünlülerden (a, ı, o, u) sonra kalın; ince ünlülerden (e, i, ö, ü) sonra ince ünlü gelir. Buna 'büyük ünlü uyumu' (kalınlık-incelik uyumu) denir. Ekler genellikle eklendikleri sözcüğün son hecesine uyarlar; ancak bazı ekler bu uyumu bozabilir. Aşağıdaki cümlelerin hangisinde aldığı ek sebebiyle büyük ünlü uyumuna **uymayan** bir sözcük yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçedeki ağaçların kurumuş dallarını budamak gerekiyordu."
+        },
+        {
+          "key": "B",
+          "text": "Öğrenciler ders saatinin gelmesini koridorda beklerken sohbet ettiler."
+        },
+        {
+          "key": "C",
+          "text": "Sabahleyin erkenden kalkan köylüler tarlanın yolunu tuttular."
+        },
+        {
+          "key": "D",
+          "text": "Okulun kütüphanesinden ödünç aldığı kitabı iki günde bitirdi."
+        },
+        {
+          "key": "E",
+          "text": "Yolculuk boyunca pencereden dışarıdaki manzarayı seyretti."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Sabahleyin' sözcüğünde 'sabah' kökü kalın ünlülerden (a, a) oluşmaktadır. Ancak eklenen '-leyin' zaman eki ince ünlüler (e, i) içerdiği için sözcük ek aldıktan sonra büyük ünlü uyumuna uymamıştır (sa-bah-le-yin).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-14",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Aşağıdaki cümlelerin hangisinde yer alan bir sözcükte **hem** ünsüz benzeşmesi (sertleşmesi) **hem de** ünsüz yumuşaması gerçekleşmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazıların çoğunu bilgisayarda hazırlayıp yazıcıdan çıktısını aldı."
+        },
+        {
+          "key": "B",
+          "text": "Masanın üzerindeki süs bardağı yere düşüp kırıldı."
+        },
+        {
+          "key": "C",
+          "text": "Sıcak havalarda sahilde yürüyüş yapmak insanı rahatlatır."
+        },
+        {
+          "key": "D",
+          "text": "Toplantıda yaptığı etkileyici konuşmayla salondakilerin beğenisini kazandı."
+        },
+        {
+          "key": "E",
+          "text": "Çocuğun elindeki balonu görünce gülümsedi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Yaptığı' sözcüğünün kökü 'yap-' eylemidir. Bu eyleme fiilden sıfat-fiil türeten '-dik' eki ve ardından 3. şahıs iyelik eki (-ı) getirilmiştir: yap-dik-i > yap-tik-i (p ünsüzünden dolayı d>t sertleşmiş/benzeşmiştir) > yap-tığ-ı (ünlüyle başlayan ekten dolayı k>ğ yumuşamıştır). Tek sözcükte her iki ses olayı da vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-15",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçe tek heceli sözcüklerin çoğunda ünsüz yumuşaması gerçekleşmez. Aşağıdaki cümlelerin hangisinde bu duruma örnek bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cebinden çıkardığı mendille alnındaki teri sildi."
+        },
+        {
+          "key": "B",
+          "text": "Ağacın altındaki bankta saatlerce sessizce oturdular."
+        },
+        {
+          "key": "C",
+          "text": "Çocuğun ayakkabısı yoğun çamur içinde kalmıştı."
+        },
+        {
+          "key": "D",
+          "text": "Sokağın başındaki mahalle fırınından taze ekmek aldı."
+        },
+        {
+          "key": "E",
+          "text": "Sıcak çayını yudumlarken ipin ucunu kaçırdığını fark etti."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'İp' sözcüğü 'p' sert ünsüzüyle biten tek heceli bir sözcüktür. Ünlüyle başlayan ilgi eki (-in) aldığında 'ipin' biçiminde kalmış, 'p' ünsüzü 'b'ye yumuşamamıştır. A'da cep>cebin, B'de ağaç>ağacın yumuşamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-16",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Türkçede '-yor' şimdiki zaman eki dışında veya olumsuzluk eki '-me/-ma' bulunmadıkça fiillerde ünlü daralması yapılmaz. Gerekçesiz yapılan daralmalar yazım ve ses kuralı hatası sayılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarın yapılacak olan törende bir konuşma yapacağını söyliyerek salondan ayrıldı."
+        },
+        {
+          "key": "B",
+          "text": "Sınav maratonu başladığından beri hiç ara vermeden ders çalışıyor."
+        },
+        {
+          "key": "C",
+          "text": "Soruların cevabını bilmediğini anlayınca sessiz kalmayı tercih etti."
+        },
+        {
+          "key": "D",
+          "text": "Öğrencilerine her zaman güler yüzle yaklaşmayı ilke edinmişti."
+        },
+        {
+          "key": "E",
+          "text": "Bahçedeki elma ağaçlarının meyveleri yavaş yavaş olgunlaşmaya başladı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Söyle-' fiiline zarf-fiil eki '-erek' getirildiğinde kökteki 'e' sesi daralmaz. Doğru yazım ve ses biçimi 'söyleyerek' olmalıdır. 'Söyliyerek' biçiminde gereksiz daralma yapılması bir ses bilgisi ve yazım hatasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-17",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "İsim köklü bazı sözcüklerden fiil türetilirken kök sonundaki 'k' ünsüzü düşer. Aşağıdaki cümlelerin hangisinde bu yolla oluşmuş bir ünsüz düşmesi vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneşin kavurucu sıcağında tarlada saatlerce çalışmak zorunda kaldılar."
+        },
+        {
+          "key": "B",
+          "text": "Kentin yüksek tepelerine doğru yükselen binalar manzarayı tamamen kapladı."
+        },
+        {
+          "key": "C",
+          "text": "Derin düşüncelere dalarak pencereden dışarıyı uzun süre seyretti."
+        },
+        {
+          "key": "D",
+          "text": "Sıcak havalarda serinlemek için buzlu ve meyveli içecekler tüketti."
+        },
+        {
+          "key": "E",
+          "text": "Ağacın yüksek dalından düşen elmaları dikkatlice sepete doldurdu."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Yükselen' sözcüğünün kökü 'yüksek' ismidir. 'Yüksek' isminden '-el' yapım ekiyle eylem türetilirken kök sonundaki 'k' ünsüzü düşmüştür (yüksek-el-en > yükselen).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-18",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Aşağıdaki cümlelerin hangisinde **ünlü düşmesine** uğramış herhangi bir sözcük **yoktur**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Olayın detaylarını öğrenince ne yapacağını bilemeyip burnundan soludu."
+        },
+        {
+          "key": "B",
+          "text": "Çevredeki insanlara karşı her zaman saygılı ve hoşgörülü davranırdı."
+        },
+        {
+          "key": "C",
+          "text": "Sabahın ilk ışıklarıyla birlikte pencereleri açıp odayı havalandırdı."
+        },
+        {
+          "key": "D",
+          "text": "Yıllardır görmediği sararmış fotoğraflara bakarken oldukça duygulandı."
+        },
+        {
+          "key": "E",
+          "text": "Yalnız hissettiği anlarda kitapların dostluğuna sığınmayı tercih ederdi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki hiçbir sözcükte ünlü düşmesi yoktur. A'da burun-undan > burnundan, B'de çevir-e > çevre, D'de sarı-ar-mış > sararmış, E'de yalın-ız > yalnız kelimelerinde ünlü düşmesi mevcuttur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-19",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "3. şahıs iyelik ekinden sonra belirtme, yönelme, bulunma veya ayrılma hâl ekleri getirildiğinde araya 'n' kaynaştırma harfi girer. Aşağıdaki cümlelerin hangisinde bu kurala uygun bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrenciler ikişerli sıralar halinde sessizce içeriye girdiler."
+        },
+        {
+          "key": "B",
+          "text": "Arabanın kapısı açık kaldığı için alarm aniden çalmaya başladı."
+        },
+        {
+          "key": "C",
+          "text": "Yolun kenarındaki irili ufaklı taşlara basarak ilerliyordu."
+        },
+        {
+          "key": "D",
+          "text": "Masanın üzerindeki kitabın kapağına dikkatlice baktı."
+        },
+        {
+          "key": "E",
+          "text": "Sokaktaki sevimli kedilere yiyecek vermeyi hiç ihmal etmezdi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Kapağına' sözcüğünde 'kapak' kök, '-ı' 3. şahıs iyelik ekidir (kitabın kapağı). Bu iyelik ekinden sonra yönelme hâl eki (-a) gelirken araya 'n' kaynaştırma ünsüzü girmiştir (kapak-ı-n-a > kapağına).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-ses-bilgisi-20",
+      "topic_id": "topic-turkce-ses-bilgisi",
+      "question_text": "Aşağıdaki cümlelerin hangisinde **hiçbir** ses olayı (düşme, türeme, benzeşme, yumuşama, daralma, kaynaştırma) **yoktur**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sokaktaki gürültü yüzünden gece boyunca uyuyamadı."
+        },
+        {
+          "key": "B",
+          "text": "Gelecek hafta yapılacak olan büyük toplantıya katılacak."
+        },
+        {
+          "key": "C",
+          "text": "Oğlunun başarısını duyunca çok gururlandı."
+        },
+        {
+          "key": "D",
+          "text": "Sıcak çayı yudumlarken gazetesini okudu."
+        },
+        {
+          "key": "E",
+          "text": "İnsanlar karanlık ortamda ders çalışmak istemez."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki kelimeler incelendiğinde: 'İnsanlar', 'karanlık', 'ortamda', 'ders', 'çalışmak', 'istemez' sözcüklerinin hiçbirinde herhangi bir ses olayı (benzeşme, yumuşama, türeme, düşme, kaynaştırma) bulunmamaktadır. A'da sokaktaki (benzeşme), B'de toplantıya (kaynaştırma), C'de oğlunun (düşme), D'de yudumlarken (yumuşama) vardır.",
+      "difficulty_level": 4
+    }
+  ]
+}

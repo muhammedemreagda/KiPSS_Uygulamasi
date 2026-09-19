@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-siralama-gruplama",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Permütasyon (Sıralama)",
+      "body": "n adet elemanın r'li sıralanışıdır: P(n,r) = n! / (n - r)!. Elemanların sırası (dizilişi) önemlidir."
+    },
+    {
+      "card_number": 2,
+      "title": "Kombinasyon (Seçme / Gruplama)",
+      "body": "n eleman arasından r eleman seçilmesidir: C(n,r) = n! / [r! . (n - r)!]. Sıralama önemsizdir, sadece seçim yapılır."
+    },
+    {
+      "card_number": 3,
+      "title": "Faktöriyel Pratik Permütasyon",
+      "body": "P(5, 3) hesaplanırken 5'ten geriye doğru 3 tane sayı çarpılır: 5 . 4 . 3 = 60."
+    },
+    {
+      "card_number": 4,
+      "title": "Tekrarlı Permütasyon Kuralı",
+      "body": "Bazı elemanları aynı olan n elemanın farklı sıralanışı: n! / (n1! . n2! ...). Örnek: KELEBEK kelimesi harf sıralanışı."
+    },
+    {
+      "card_number": 5,
+      "title": "Yuvarlak Masa Permütasyonu",
+      "body": "n kişinin yuvarlak bir masa etrafında farklı diziliş sayısı (n - 1)! formülü ile bulunur."
+    },
+    {
+      "card_number": 6,
+      "title": "Kombinasyon Özellikleri",
+      "body": "C(n, 0) = 1, C(n, n) = 1 ve C(n, a) = C(n, b) ise a + b = n olur. Örnek: C(10, 3) = C(10, 7)."
+    },
+    {
+      "card_number": 7,
+      "title": "Klasik Olasılık Formülü",
+      "body": "Bir A olayının olasılığı P(A) = İstenen Durum Sayısı / Tüm Olası Durumların Sayısı formülüyle hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "İmkansız ve Kesin Olasılık",
+      "body": "Olasılık değeri daima 0 ile 1 arasındadır (0 <= P(A) <= 1). 0 İmkansız Olay, 1 Kesin Olaydır."
+    },
+    {
+      "card_number": 9,
+      "title": "Bağımsız Olayların Olasılığı",
+      "body": "A ve B olayları birbirinden bağımsız ise birlikte gerçekleşme olasılığı P(A n B) = P(A) . P(B)'dir."
+    },
+    {
+      "card_number": 10,
+      "title": "Tümleyen Olasılık (1 - İstenmeyen)",
+      "body": "'En az bir' sorularında İstenen Olasılık = 1 - (Hiç Olmama Olasılığı) taktiği soruyu çok kısaltır."
+    }
+  ]
+}

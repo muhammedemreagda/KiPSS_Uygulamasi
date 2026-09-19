@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-sayi-problemleri",
+  "title": "Sayı Problemleri",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-sayi-problemleri",
+    "topic_id": "topic-mat-sayi-problemleri",
+    "title": "Sayı Problemleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Sayı Problemleri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Sayı Problemleri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nSayı Problemleri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Sayı Problemleri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Tek Bilinmeyen Kullanma Sanatı",
+        "body": "İki sayının toplamı 50 ise birinciye x, ikinciye (50 - x) diyerek denklem sayısını teke düşürün."
+      },
+      {
+        "card_number": 2,
+        "title": "Kuyruk Problemleri (Önden ve Arkadan)",
+        "body": "Sırada baştan n. sırada, sondan m. sırada olan kişi için Toplam Kişi Sayısı = n + m - 1 (Kişi iki kez sayıldığı için 1 çıkarılır)."
+      },
+      {
+        "card_number": 3,
+        "title": "Kuyrukta İki Kişi Arasındaki Sayı",
+        "body": "A baştan x., B sondan y. ve aralarında k kişi varsa; A ile B yer değiştirmediyse Toplam = x + y + k."
+      },
+      {
+        "card_number": 4,
+        "title": "Adım Problemleri (İleri-Geri)",
+        "body": "7 adım ileri 2 adım geri atan biri 9 adımda 5 adım ilerler. Toplam adım sayısı 9'a bölünerek periyot hesaplanır."
+      },
+      {
+        "card_number": 5,
+        "title": "Mum Problemleri",
+        "body": "Boyları eşit iki mum t1 ve t2 saatte yanıyorsa mumların boyuna t1 ve t2'nin EKOK'u denilerek birim zamandaki erime hesaplanır."
+      },
+      {
+        "card_number": 6,
+        "title": "Ceviz / Sıra Paylaştırma",
+        "body": "Öğrenciler sıralara 2'şer oturunca 5 kişi ayakta kalıyorsa Öğrenci Sayısı = 2x + 5 (x: sıra sayısı)."
+      },
+      {
+        "card_number": 7,
+        "title": "Bilet Fiyatı ve Kişi Sayısı",
+        "body": "Bir grubun ödeyeceği toplam hesap = (Kişi Sayısı) x (Kişi Başına Düşen Miktar). Bazıları ödemezse diğerlerinin payı artar."
+      },
+      {
+        "card_number": 8,
+        "title": "Taksi Metre Problemi",
+        "body": "Ödenecek Taksi Ücreti = Açılış Ücreti + (Gidilen KM x KM Başına Ücret)."
+      },
+      {
+        "card_number": 9,
+        "title": "Yanlış Doğruyu Götüren Sınav",
+        "body": "4 yanlış 1 doğruyu götürüyorsa Net Sayısı = Doğru Sayısı - (Yanlış Sayısı / 4) formülü ile hesaplanır."
+      },
+      {
+        "card_number": 10,
+        "title": "Bozuk Para / Banknot Sayısı",
+        "body": "5 TL ve 10 TL'lik toplam 20 banknot varsa 5 TL'lik x adet, 10 TL'lik (20-x) adet kabul edilip tutar eşitlenir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-sayi-problemleri-1",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir tahta çubuk 8 eşit parçaya bölünüyor. Eğer her bir parça 5 cm daha kısa olsaydı, tahta çubuk 10 eşit parçaya bölünebilecekti. Buna göre, bu tahta çubuğun boyu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "180"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "220"
+        },
+        {
+          "key": "D",
+          "text": "240"
+        },
+        {
+          "key": "E",
+          "text": "250"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Her bir parçanın başlangıçtaki uzunluğuna x cm diyelim. Tahtanın boyu 8x cm olur. Parçalar 5 cm kısa olsaydı uzunlukları (x - 5) cm olurdu ve 10 parçaya bölüneceğinden boyu 10(x - 5) cm olurdu. 8x = 10(x - 5) ⇒ 8x = 10x - 50 ⇒ 2x = 50 ⇒ x = 25 cm bulunur. Tahtanın boyu = 8 · 25 = 200 cm elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-2",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir sınıftaki öğrenciler sıralara 2'şerli oturduklarında 6 öğrenci ayakta kalıyor. 3'erli oturduklarında ise 4 sıra boş kalıyor. Buna göre, sınıftaki öğrenci sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "36"
+        },
+        {
+          "key": "B",
+          "text": "38"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "42"
+        },
+        {
+          "key": "E",
+          "text": "44"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sınıftaki sıra sayısına x diyelim. Öğrenci sayısı 2'şerli oturma durumuna göre 2x + 6 olur. 3'erli oturulduğunda 4 sıra boş kaldığından dolu sıra sayısı (x - 4) olur ve öğrenci sayısı 3(x - 4) şeklinde ifade edilir. 2x + 6 = 3(x - 4) ⇒ 2x + 6 = 3x - 12 ⇒ x = 18 sıra bulunur. Öğrenci sayısı = 2(18) + 6 = 42 olarak hesaplanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-3",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir grup arkadaş ortaklaşa bir hediye almak için kişi başı eşit miktarda para toplamaya karar veriyorlar. Hediyenin tutarı 360 TL'dir. 3 kişi para vermekten vazgeçince, diğerleri kişi başı 20 TL daha fazla ödemek zorunda kalıyor. Buna göre, grupta başlangıçta kaç kişi vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Gruptaki kişi sayısı n olsun. Kişi başı düşen miktar 360/n TL olur. 3 kişi vazgeçince kalan (n - 3) kişi başı 360/(n - 3) TL öder. Aradaki fark 20 TL'dir: 360/(n - 3) - 360/n = 20. Denklem düzenlenirse 360 · 3 / [n(n - 3)] = 20 ⇒ 1080 / [n(n - 3)] = 20 ⇒ n(n - 3) = 54 bulunur. Buradan n = 9 elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-4",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir bilet kuyruğunda Ahmet baştan 14. sırada, Mehmet ise sondan 18. sıradadır. Ahmet ile Mehmet arasında 5 kişi vardır. Ahmet gişeye Mehmet'ten daha yakın olduğuna göre, bu bilet kuyruğunda toplam kaç kişi vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "33"
+        },
+        {
+          "key": "B",
+          "text": "35"
+        },
+        {
+          "key": "C",
+          "text": "37"
+        },
+        {
+          "key": "D",
+          "text": "39"
+        },
+        {
+          "key": "E",
+          "text": "41"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Ahmet gişeye daha yakın olduğu için çakışma (kesişim) yoktur. Kuyruk dizilimi: [Baştan 13 kişi] + Ahmet (1) + [Aradaki 5 kişi] + Mehmet (1) + [Sondan 17 kişi]. Toplam kişi sayısı = 14 + 5 + 18 = 37 kişi olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-5",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir bilet kuyruğunda Ayşe baştan 12. sırada, Fatma ise sondan 15. sıradadır. Ayşe ile Fatma arasında 4 kişi bulunmaktadır. Fatma gişeye Ayşe'den daha yakın olduğuna göre, kuyruktaki toplam kişi sayısı en az kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "23"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        },
+        {
+          "key": "E",
+          "text": "21"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Fatma gişeye Ayşe'den daha yakın olduğu için kuyrukta üst üste binme (çakışma) durumu vardır. Kişi sayısının en az olduğu bu durumda formül: Toplam = (Baştan Sıra) + (Sondan Sıra) - (Aradaki Kişi Sayısı) - 2. Toplam = 12 + 15 - 4 - 2 = 21 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-6",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "50 soruluk bir sınavda 4 yanlış cevap 1 doğru cevabı götürmektedir. Tüm soruları işaretleyen bir öğrenci sınavdan 37,5 net çıkardığına göre, bu öğrenci kaç soruyu doğru cevaplamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "38"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "42"
+        },
+        {
+          "key": "D",
+          "text": "44"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğru sayısı D, yanlış sayısı Y olsun. D + Y = 50 olduğundan Y = 50 - D olur. Net sayısı = D - Y/4 = 37,5 dır. D - (50 - D)/4 = 37,5 ⇒ 4D - 50 + D = 150 ⇒ 5D = 200 ⇒ D = 40 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-7",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir kişi merdiven basamaklarını 2'şer 2'şer çıkıp, 3'er 3'er iniyor. Çıkarken ve inerken attığı toplam adım sayısı 40 olduğuna göre, merdiven kaç basamaklıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "54"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "72"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Merdivenin basamak sayısına x diyelim. Çıkarken atılan adım sayısı x/2, inerken atılan adım sayısı x/3 olur. Toplam adım sayısı = x/2 + x/3 = 40. Paydalar 6'da eşitlenirse 5x/6 = 40 ⇒ 5x = 240 ⇒ x = 48 basamaklı bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-8",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir çiftlikte tavuk ve tavşanlardan oluşan toplam 35 hayvan bulunmaktadır. Çiftlikteki hayvanların toplam ayak sayısı 110 olduğuna göre, çiftlikte kaç tavşan vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "14"
+        },
+        {
+          "key": "B",
+          "text": "16"
+        },
+        {
+          "key": "C",
+          "text": "18"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "22"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Tavşan sayısı T, tavuk sayısı (35 - T) olsun. Tavukların 2, tavşanların 4 ayağı vardır. Toplam ayak sayısı: 2(35 - T) + 4T = 110 ⇒ 70 - 2T + 4T = 110 ⇒ 2T = 40 ⇒ T = 20 tavşan bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-9",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir şişe su ile doluyken ağırlığı 900 gram gelmektedir. İçindeki suyun 1/3'ü döküldüğünde ağırlığı 720 grama düşmektedir. Buna göre, boş şişenin ağırlığı kaç gramdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "300"
+        },
+        {
+          "key": "B",
+          "text": "320"
+        },
+        {
+          "key": "C",
+          "text": "360"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "450"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Boş şişenin ağırlığı Ş, suyun tamamının ağırlığı S olsun. Ş + S = 900. Suyun 1/3'ü dökülünce 2/3'ü kalır: Ş + (2/3)S = 720. İki denklem taraf tarafa çıkarılırsa (1/3)S = 180 ⇒ S = 540 gram bulunur. Boş şişe Ş = 900 - 540 = 360 gram elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-10",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Eşit boydaki iki mumdan biri 4 saatte, diğeri 6 saatte tamamen yanıp bitmektedir. İki mum aynı anda yakıldıktan kaç saat sonra birinin kalan boyu diğerinin kalan boyunun 2 katı olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,5"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "2,4"
+        },
+        {
+          "key": "D",
+          "text": "2,8"
+        },
+        {
+          "key": "E",
+          "text": "3"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Mumların başlangıç boyuna EKOK(4, 6) = 12 birim diyelim. 1. mum saatte 3 birim, 2. mum saatte 2 birim yanar. t saat sonra 1. mumun kalan boyu (12 - 3t), 2. mumun kalan boyu (12 - 2t) olur. Yavaş yanan mumun kalan boyu hızlı yananın 2 katı olacağından: 12 - 2t = 2(12 - 3t) ⇒ 12 - 2t = 24 - 6t ⇒ 4t = 12 ⇒ t = 3 saat bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-11",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Ali'nin elinde 10 TL, 20 TL ve 50 TL'lik banknotlardan oluşan toplam 15 adet banknot vardır. Bu banknotların toplam tutarı 400 TL'dir. Ali'nin elindeki 10 TL'lik banknot sayısı 20 TL'lik banknot sayısına eşit olduğuna göre, kaç adet 50 TL'lik banknotu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "10 TL'lik ve 20 TL'lik banknot sayıları x'er adet olsun. 50 TL'lik banknot sayısı y adet olsun. Toplam banknot: 2x + y = 15 ⇒ y = 15 - 2x. Toplam tutar: 10x + 20x + 50y = 400 ⇒ 30x + 50(15 - 2x) = 400 ⇒ 30x + 750 - 100x = 400 ⇒ 70x = 350 ⇒ x = 5. Buradan 50 TL'lik banknot sayısı y = 15 - 2(5) = 5 adet bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-12",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir kurbağa 5 adım ileri, 2 adım geri atarak ilerlemektedir. Bu kurbağa toplam 68 adım attığında, başlangıç noktasından kaç adım uzaklaşmış olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "32"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "28"
+        },
+        {
+          "key": "D",
+          "text": "34"
+        },
+        {
+          "key": "E",
+          "text": "36"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Bir periyot = 5 ileri + 2 geri = 7 adımdır. Her periyotta net ilerleme = 5 - 2 = 3 adım ileridir. 68 adımlık harekette: 68 / 7 = 9 periyot ve 5 adım artan bulunur. 9 periyotta 9 · 3 = 27 adım ilerler. Artan 5 adımın tamamı ileri yönde atılacağından toplam ilerleme = 27 + 5 = 32 adım olur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-13",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir taksi durağında A taksisi 20 TL açılış ve kilometre başına 15 TL; B taksisi ise 35 TL açılış ve kilometre başına 12 TL ücret almaktadır. Kaç kilometrelik bir yolculukta iki taksinin de ödeyeceği toplam ücret birbirine eşit olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Yolculuk mesafesi x km olsun. A taksisi ücreti = 20 + 15x. B taksisi ücreti = 35 + 12x. Ücretlerin eşitliği kurulursa: 20 + 15x = 35 + 12x ⇒ 3x = 15 ⇒ x = 5 km bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-14",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir sinema salonunda öğrenci bileti 40 TL, tam bilet 60 TL'dir. Bir seansta satılan toplam 80 bilet karşılığında 4100 TL gelir elde edildiğine göre, kaç adet öğrenci bileti satılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Öğrenci bileti sayısı Ö, tam bilet sayısı (80 - Ö) olsun. Toplam tutar: 40Ö + 60(80 - Ö) = 4100 ⇒ 40Ö + 4800 - 60Ö = 4100 ⇒ 20Ö = 700 ⇒ Ö = 35 öğrenci bileti bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-15",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir kitabın sayfalarını 1'den başlayarak numaralandırmak için toplam 252 adet rakam kullanılmıştır. Buna göre, bu kitap kaç sayfadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "110"
+        },
+        {
+          "key": "B",
+          "text": "115"
+        },
+        {
+          "key": "C",
+          "text": "118"
+        },
+        {
+          "key": "D",
+          "text": "122"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "1-9 arası (9 sayfa): 9 · 1 = 9 rakam. 10-99 arası (90 sayfa): 90 · 2 = 180 rakam. Toplam 99 sayfada kullanılan rakam = 189. Kalan rakam sayısı = 252 - 189 = 63 rakam. 3 basamaklı sayfalarda her sayfa 3 rakam kullandığından 63 / 3 = 21 adet 3 basamaklı sayfa vardır. Toplam sayfa sayısı = 99 + 21 = 120 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-16",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "A ve B kamyonlarında belirli sayıda koli bulunmaktadır. A kamyonundaki koli sayısı B kamyonundakinden 20 fazladır. A kamyonundan B kamyonuna 5 koli aktarılırsa, A kamyonundaki koli sayısı B kamyonundaki koli sayısının 2 katı olmaktadır. Buna göre, başlangıçta B kamyonunda kaç koli vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "10"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B kamyonunda x koli olsun. A kamyonunda x + 20 koli olur. A'dan B'ye 5 koli aktarılırsa A'da (x + 15), B'de (x + 5) koli kalır. Eşitlik: x + 15 = 2(x + 5) ⇒ x + 15 = 2x + 10 ⇒ x = 5 koli bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-17",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir telin bir ucundan 1/5'i kesildiğinde, telin orta noktası 6 cm kaymaktadır. Buna göre, telin kesilmeden önceki başlangıçtaki boyu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "54"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "72"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bir telin ucundan kesilen miktarın yarısı kadar orta nokta kayar. Kesilen miktar x/5 cm ise kayma miktarı (x/5) / 2 = x/10 cm olur. x/10 = 6 cm ⇒ x = 60 cm başlangıç boyu bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-18",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir otelde 2 yataklı ve 3 yataklı olmak üzere toplam 30 oda vardır. Oteldeki toplam yatak kapasitesi 72 olduğuna göre, 3 yataklı oda sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "3 yataklı oda sayısı y, 2 yataklı oda sayısı (30 - y) olsun. Yatak sayısı: 2(30 - y) + 3y = 72 ⇒ 60 - 2y + 3y = 72 ⇒ y = 12 adet 3 yataklı oda bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-19",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir otobüs ilk duraktan belirli sayıda yolcu ile harekete başlıyor. İlk durakta otobüsten 4 yolcu inip 8 yolcu biniyor. İkinci durakta ise otobüsteki yolcuların yarısı iniyor. Otobüste son durumda 18 yolcu kaldığına göre, başlangıçta otobüste kaç yolcu vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "26"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "34"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Başlangıçtaki yolcu sayısı x olsun. 1. durak sonrası: x - 4 + 8 = x + 4. 2. durak sonrası yarısı kaldığından: (x + 4) / 2 = 18 ⇒ x + 4 = 36 ⇒ x = 32 yolcu bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-20",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir kırtasiye defterleri 15 TL'den, kalemleri ise 10 TL'den satmaktadır. Düzenlenen bir kampanyada 3 defter ve 2 kalemden oluşan paketler 55 TL'ye satılmaktadır. Bir kurum bu kampanyadan faydalanarak paketler halinde toplam 120 adet ürün (defter ve kalem) almış ve 1320 TL ödemiştir. Buna göre, bu kurum kaç paket satın almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "22"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Bir pakette 3 defter + 2 kalem = 5 adet ürün vardır. Kurum paketler halinde ürün aldığı için paket sayısı P olsun. Toplam ürün sayısı = 5P = 120 ⇒ P = 24 paket bulunur. (24 paket · 55 TL = 1320 TL doğrulamaktadır).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-21",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "İki sayının toplamı 80'dir. Küçük sayının 3 katının 10 fazlası, büyük sayının 2 katına eşit olduğuna göre, büyük sayı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "52"
+        },
+        {
+          "key": "D",
+          "text": "55"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Küçük sayı K, büyük sayı B olsun. K + B = 80 ⇒ B = 80 - K. Eşitlik: 3K + 10 = 2B ⇒ 3K + 10 = 2(80 - K) ⇒ 3K + 10 = 160 - 2K ⇒ 5K = 150 ⇒ K = 30 bulunur. Büyük sayı B = 80 - 30 = 50 olarak elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-22",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Eşit kollu bir terazinin sol kefesinde 3 elma ve 2 armut, sağ kefesinde ise 4 armut ve 1 elma bulunduğunda terazi dengededir. Bir armut 120 gram olduğuna göre, bir elma kaç gramdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "120"
+        },
+        {
+          "key": "B",
+          "text": "140"
+        },
+        {
+          "key": "C",
+          "text": "150"
+        },
+        {
+          "key": "D",
+          "text": "160"
+        },
+        {
+          "key": "E",
+          "text": "180"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Elmanın ağırlığı E, armudun ağırlığı A olsun. Terazi dengesi: 3E + 2A = 4A + 1E ⇒ 2E = 2A ⇒ E = A bulunur. Bir armut 120 gram olduğuna göre bir elma da 120 gramdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-23",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir öğretmen sınıftaki öğrencilere eşit sayıda dağıtmak üzere 192 adet şeker getiriyor. Sınava gelmeyen 4 öğrenci olduğu için, sınava giren öğrencilerin her birine 4'er şeker daha fazla düşüyor. Buna göre, sınıfta başlangıçta kaç öğrenci vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "16"
+        },
+        {
+          "key": "D",
+          "text": "18"
+        },
+        {
+          "key": "E",
+          "text": "20"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Öğrenci sayısı n olsun. Gelmeyenler sonrası öğrenci sayısı (n - 4) olur. Denklem: 192 / (n - 4) - 192 / n = 4. Her taraf 4'e bölünürse: 48 / (n - 4) - 48 / n = 1 ⇒ 48 · 4 / [n(n - 4)] = 1 ⇒ n(n - 4) = 192. 16 · 12 = 192 olduğundan n = 16 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-24",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir kumbarada 50 kuruşluk ve 1 TL'lik madenî paralardan oluşan toplam 40 adet madenî para vardır. Kumbaradaki paraların toplam tutarı 28 TL olduğuna göre, kumbarada kaç adet 50 kuruşluk madenî para vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        },
+        {
+          "key": "E",
+          "text": "28"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "50 kuruşluk para sayısı x, 1 TL'lik para sayısı (40 - x) olsun. 50 kuruş = 0,5 TL dır. Toplam tutar: 0,5x + 1 · (40 - x) = 28 ⇒ 40 - 0,5x = 28 ⇒ 0,5x = 12 ⇒ x = 24 adet 50 kuruşluk para bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-25",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir öğrenci bir kitabı her gün eşit sayıda sayfa okuyarak bitirmek istiyor. Eğer günde 30 sayfa okursa, günde 20 sayfa okuduğu duruma göre kitabı 4 gün daha erken bitiriyor. Buna göre, bu kitap kaç sayfadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200"
+        },
+        {
+          "key": "B",
+          "text": "240"
+        },
+        {
+          "key": "C",
+          "text": "280"
+        },
+        {
+          "key": "D",
+          "text": "300"
+        },
+        {
+          "key": "E",
+          "text": "360"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Günde 20 sayfa okuyarak bitirdiği gün sayısı t olsun. Kitabın sayfa sayısı = 20t olur. Günde 30 sayfa okuduğunda (t - 4) günde bitirir. 20t = 30(t - 4) ⇒ 20t = 30t - 120 ⇒ 10t = 120 ⇒ t = 12 gün. Kitap sayfa sayısı = 20 · 12 = 240 sayfa bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-26",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir spor kulübünde sporcular 6'şarlı gruplara ayrıldığında 3 sporcu açıkta kalıyor. Eğer 8'erli gruplara ayrılırlarsa 1 grup için 5 sporcu eksik kalıyor. Grup sayıları eşit olduğuna göre, kulüpte kaç sporcu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "21"
+        },
+        {
+          "key": "B",
+          "text": "23"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "26"
+        },
+        {
+          "key": "E",
+          "text": "27"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Grup sayısı x olsun. 6'şarlı grupta toplam sporcu = 6x + 3. 8'erli grupta 5 sporcu eksik kaldığından toplam sporcu = 8x - 5. 6x + 3 = 8x - 5 ⇒ 2x = 8 ⇒ x = 4 grup bulunur. Toplam sporcu sayısı = 6(4) + 3 = 27 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-27",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir bilgi yarışmasında her doğru cevaba 10 puan verilmekte, her yanlış cevap için ise 4 puan silinmektedir. Boş bırakılan sorulara puan verilmemektedir. 30 soruluk yarışmada 25 soruya cevap veren bir yarışmacı 180 puan aldığına göre, kaç yanlış cevap vermiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Doğru cevap sayısı D, yanlış cevap sayısı Y olsun. D + Y = 25 ⇒ D = 25 - Y. Puan hesabı: 10D - 4Y = 180 ⇒ 10(25 - Y) - 4Y = 180 ⇒ 250 - 10Y - 4Y = 180 ⇒ 14Y = 70 ⇒ Y = 5 yanlış cevap bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-28",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "180 metre uzunluğundaki düz bir yolun başına ve sonuna da gelmek kaydıyla eşit aralıklarla sokak lambası dikilecektir. Toplam 10 sokak lambası dikildiğine göre, iki lamba arasındaki mesafe kaç metredir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "10 sokak lambası yol boyunca (10 - 1) = 9 eşit aralık oluşturur. İki lamba arasındaki mesafe = Toplam Yol / Aralık Sayısı = 180 / 9 = 20 metre bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-29",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Ali parasının önce 1/3'ünü, sonra kalan parasının 1/4'ünü harcıyor. Geriye 180 TL'si kaldığına göre, Ali'nin başlangıçta kaç TL'si vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "300"
+        },
+        {
+          "key": "B",
+          "text": "320"
+        },
+        {
+          "key": "C",
+          "text": "340"
+        },
+        {
+          "key": "D",
+          "text": "360"
+        },
+        {
+          "key": "E",
+          "text": "400"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Başlangıçtaki para M olsun. 1/3'ünü harcayınca kalan para (2/3)M olur. Kalan parasının 1/4'ünü harcadığında geriye kalan parasının 3/4'ü kalır. Son durumda kalan para = (2/3)M · (3/4) = (1/2)M. (1/2)M = 180 TL ⇒ M = 360 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sayi-problemleri-30",
+      "topic_id": "topic-mat-sayi-problemleri",
+      "question_text": "Bir su deposu 12 büyük kova veya 20 küçük kova su ile dolmaktadır. Boş depoya 6 büyük kova su döküldükten sonra, deponun tamamen dolması için kaç küçük kova su eklenmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "14"
+        },
+        {
+          "key": "E",
+          "text": "15"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Deponun hacmine EKOK(12, 20) = 60 birim diyelim. 1 büyük kova = 60 / 12 = 5 birim, 1 küçük kova = 60 / 20 = 3 birim su alır. 6 büyük kova = 6 · 5 = 30 birim su doldurur. Depoda kalan boş kısım = 60 - 30 = 30 birimdir. Küçük kova sayısı = 30 / 3 = 10 kova bulunur.",
+      "difficulty_level": 3
+    }
+  ]
+}

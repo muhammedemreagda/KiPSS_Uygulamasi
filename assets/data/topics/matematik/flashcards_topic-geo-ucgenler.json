@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-geo-ucgenler",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Üçgenin İç ve Dış Açıları",
+      "body": "Herhangi bir üçgenin iç açıları toplamı 180 derece, dış açıları toplamı 360 derecedir."
+    },
+    {
+      "card_number": 2,
+      "title": "İki İç Açı Bir Dış Açıya Eşittir",
+      "body": "Bir üçgende bir dış açının ölçüsü, kendisine komşu olmayan iki iç açının ölçüleri toplamına eşittir."
+    },
+    {
+      "card_number": 3,
+      "title": "Üçgen Eşitsizliği Kuralı",
+      "body": "Bir üçgende bir kenar uzunluğu diğer iki kenarın toplamından küçük, farkının mutlak değerinden büyüktür: |b-c| < a < b+c."
+    },
+    {
+      "card_number": 4,
+      "title": "Pisagor Teoremi (Dik Üçgen)",
+      "body": "Bir dik üçgende hipotenüsün karesi dik kenarların kareleri toplamına eşittir: a^2 + b^2 = c^2."
+    },
+    {
+      "card_number": 5,
+      "title": "Özel Dik Üçgenler (Kenarlarına Göre)",
+      "body": "3-4-5, 5-12-13, 8-15-17, 7-24-25 ve bunların katları olan üçgenler soru çözdürür."
+    },
+    {
+      "card_number": 6,
+      "title": "30-60-90 Özel Dik Üçgeni",
+      "body": "30 derecenin karşısı x ise; 90 derecenin karşısı 2x, 60 derecenin karşısı x.kök(3) olur."
+    },
+    {
+      "card_number": 7,
+      "title": "45-45-90 İkizkenar Dik Üçgen",
+      "body": "Dik kenarlar x ise hipotenüs kenarların kök(2) katıdır (x.kök(2))."
+    },
+    {
+      "card_number": 8,
+      "title": "Öklid Bağıntıları (Dikine Dik)",
+      "body": "Dik açıdan dik inildiğinde yükseklik h^2 = p . k ; kenarlar b^2 = k . a dır."
+    },
+    {
+      "card_number": 9,
+      "title": "Muhteşem Üçlü Kuralı",
+      "body": "Bir dik üçgende hipotenüse ait kenarortay uzunluğu, hipotenüste böldüğü parçaların uzunluğuna eşittir."
+    },
+    {
+      "card_number": 10,
+      "title": "Üçgende Alan Formülü",
+      "body": "Üçgenin Alanı = (Taban x O Taban Ait Yükseklik) / 2 veya Sinüslü Alan = 1/2 . a . b . sin(C)."
+    }
+  ]
+}

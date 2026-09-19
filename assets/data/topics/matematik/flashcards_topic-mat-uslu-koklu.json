@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-uslu-koklu",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Üslü Sayılarda Çarpma",
+      "body": "Tabanlar aynı ise üsler toplanır (a^x . a^y = a^(x+y)); üsler aynı ise tabanlar çarpılır (a^x . b^x = (a.b)^x)."
+    },
+    {
+      "card_number": 2,
+      "title": "Üslü Sayılarda Bölme",
+      "body": "Tabanlar aynı ise payın üssünden paydanın üssü çıkarılır (a^x / a^y = a^(x-y))."
+    },
+    {
+      "card_number": 3,
+      "title": "Üssün Üssü Kuralı",
+      "body": "(a^x)^y = a^(x.y) şeklinde üsler birbiriyle çarpılır."
+    },
+    {
+      "card_number": 4,
+      "title": "Negatif Üs Kuralı",
+      "body": "a^(-n) = 1 / a^n demektir. Sayının rasyonel tersi alınarak üs pozitif yapılır. Örnek: 2^(-3) = 1/8."
+    },
+    {
+      "card_number": 5,
+      "title": "Sıfırıncı Üs Kuralı",
+      "body": "Sıfır hariç tüm sayıların sıfırıncı üssü 1'dir (a^0 = 1). 0^0 ifadesi ise belirsizdir."
+    },
+    {
+      "card_number": 6,
+      "title": "Köklü Sayıyı Üslü Yazma",
+      "body": "n. dereceden kök(a^m) ifadesi üslü olarak a^(m/n) şeklinde yazılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Köklü Sayılarda Toplama-Çıkarma",
+      "body": "Kök dereceleri ve kök içleri aynı olan köklü sayılar katsayıları toplanıp çıkarılarak işlenir."
+    },
+    {
+      "card_number": 8,
+      "title": "Kökten Dışarı Çıkarma",
+      "body": "kök(a^2 . b) ifadesinde karesi olan a dışarı çıkar, b kök içinde kalır: a.kök(b). Örnek: kök(12) = 2.kök(3)."
+    },
+    {
+      "card_number": 9,
+      "title": "Eşlenik İle Genişletme",
+      "body": "Paydasında köklü sayı olan kesirlerde pay ve payda paydayı kökten kurtarmak için eşleniğiyle çarpılır. Örnek: 1 / kök(2) = kök(2)/2."
+    },
+    {
+      "card_number": 10,
+      "title": "Çift Dereceli Kök İçerisi",
+      "body": "Derecesi çift olan köklü ifadelerin içi asla negatif olamaz (kök(x) için x >= 0 olmalıdır)."
+    }
+  ]
+}

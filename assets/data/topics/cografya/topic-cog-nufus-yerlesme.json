@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-nufus-yerlesme",
+  "title": "Türkiye'de Nüfus, Yerleşme & Göç",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-nufus-yerlesme",
+    "topic_id": "topic-cog-nufus-yerlesme",
+    "title": "Türkiye'de Nüfus, Yerleşme & Göç Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'de Nüfus, Yerleşme & Göç' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'de Nüfus, Yerleşme & Göç konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'de Nüfus, Yerleşme & Göç başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'de Nüfus, Yerleşme & Göç konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Türkiye Nüfus Sayımları",
+        "body": "Cumhuriyet tarihinin ilk nüfus sayımı 1927 yılında yapılmıştır. 2007'den beri Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS) kullanılır."
+      },
+      {
+        "card_number": 2,
+        "title": "Nüfus Piramidimizin Özellikleri",
+        "body": "Türkiye nüfus piramidi arı kovanı şekline yaklaşmaktadır. Doğum oranları azalmakta, yaşlı nüfus oranı ve ortalama yaşam süresi artmaktadır."
+      },
+      {
+        "card_number": 3,
+        "title": "Nüfusun Yoğun Olduğu Yerler",
+        "body": "Marmara (Çatalca-Kocaeli), Kıyı Ege, Çukurova, Doğu Karadeniz Kıyıları, Gaziantep-Doğu Güneydoğu SANAYİ ve TARIM merkezleridir."
+      },
+      {
+        "card_number": 4,
+        "title": "Nüfusun Seyrek Olduğu Yerler",
+        "body": "Taşeli ve Teke Platoları (Karstik arazi), Menteşe Yöresi (Engebeli), Tuz Gölü Çevresi (Kurak), Erzurum-Kars (Soğuk), Yıldız Dağları (Sapa)."
+      },
+      {
+        "card_number": 5,
+        "title": "Aritmetik Nüfus Yoğunluğu",
+        "body": "Toplam Nüfus / Toplam Yüzölçümü. En yüksek olduğu bölge MARMARA, en düşük olduğu bölge DOĞU ANADOLU'dur."
+      },
+      {
+        "card_number": 6,
+        "title": "Fizyolojik Nüfus Yoğunluğu",
+        "body": "Toplam Nüfus / Tarım Alanları. Tarım alanlarının dar, nüfusun fazla olduğu Rize ve Doğu Karadeniz'de çok yüksektir."
+      },
+      {
+        "card_number": 7,
+        "title": "Toplu Yerleşme Şartları",
+        "body": "Yerşekillerinin düz, su kaynaklarının kısıtlı olduğu İç ve Güneydoğu Anadolu'da evler birbirine yakın toplu yerleşmedir."
+      },
+      {
+        "card_number": 8,
+        "title": "Dağınık Yerleşme Şartları",
+        "body": "Yerşekillerinin engebeli, su kaynaklarının bol olduğu Karadeniz Bölgesi'nde evler birbirinden uzak dağınık yerleşmedir."
+      },
+      {
+        "card_number": 9,
+        "title": "Kırsal Konut Malzemesi",
+        "body": "Karadeniz'de Ahşap; İç/Güneydoğu Anadolu'da Kerpiç (Toprak); Akdeniz ve Doğu Anadolu'da Taş malzeme yaygındır."
+      },
+      {
+        "card_number": 10,
+        "title": "Geçici Kırsal Yerleşmeler",
+        "body": "Yayla, Kom, Oba, Ağıl, Dam, Güzle. (Divan, Mezra, Mahalle ise SÜREKLİ kırsal yerleşmelerdir)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-nufus-yerlesme-1",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de nüfusun dağılışını etkileyen faktörler göz önüne alındığında, aşağıdakilerden hangisinde nüfus yoğunluğunun daha az olması beklenir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çukurova"
+        },
+        {
+          "key": "B",
+          "text": "Hakkari Yöresi"
+        },
+        {
+          "key": "C",
+          "text": "Bafra Ovası"
+        },
+        {
+          "key": "D",
+          "text": "Adapazarı Ovası"
+        },
+        {
+          "key": "E",
+          "text": "İzmir çevresi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Hakkari Yöresi, yer şekillerinin çok engebeli ve dağlık olması, ulaşımın zorluğu gibi nedenlerle nüfusun seyrek olduğu bir yerdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-2",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de nüfusun aritmetik nüfus yoğunluğunun en fazla olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "C",
+          "text": "Marmara"
+        },
+        {
+          "key": "D",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Güneydoğu Anadolu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Marmara Bölgesi, sanayi, ticaret ve ulaşımın gelişmiş olması nedeniyle yüz ölçümüne oranla en fazla nüfusu barındırır ve en yüksek aritmetik yoğunluğa sahiptir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-3",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Bir bölgede nüfus piramidinin tabanının daralması neyin göstergesidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğum oranlarının azaldığının"
+        },
+        {
+          "key": "B",
+          "text": "Ölüm oranlarının arttığının"
+        },
+        {
+          "key": "C",
+          "text": "Nüfusun hızla arttığının"
+        },
+        {
+          "key": "D",
+          "text": "Göçlerin durduğunun"
+        },
+        {
+          "key": "E",
+          "text": "Genç nüfus oranının arttığının"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Nüfus piramidinin tabanının daralması, çocuk yaş grubunun (0-14 yaş) azaldığını, yani doğum oranlarının düştüğünü gösterir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-4",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de 1927'den günümüze kadar yapılan nüfus sayımlarında görülen genel eğilim aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nüfus miktarı sürekli azalmıştır"
+        },
+        {
+          "key": "B",
+          "text": "Toplam nüfus miktarı sürekli artmıştır"
+        },
+        {
+          "key": "C",
+          "text": "Nüfus yerinde saymıştır"
+        },
+        {
+          "key": "D",
+          "text": "Kentsel nüfus kırsal nüfustan her zaman az olmuştur"
+        },
+        {
+          "key": "E",
+          "text": "Nüfus artış hızı hiç değişmemiştir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'de doğum oranları ve yaşam standartlarının iyileşmesiyle toplam nüfus miktarı 1927'den bu yana sürekli artış göstermiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-5",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de kırsal yerleşmelerde 'divan' yerleşme tipi en çok hangi bölgede görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Karadeniz"
+        },
+        {
+          "key": "C",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Batı Karadeniz"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Divan yerleşmeleri, birbirine uzak mahallelerin birleşmesiyle oluşur ve özellikle Batı Karadeniz'de (Bolu, Kastamonu vb.) yaygındır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-6",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Aşağıdakilerden hangisi köyden kente iç göçün nedenlerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırsal kesimde tarımda makineleşme"
+        },
+        {
+          "key": "B",
+          "text": "Şehirlerde iş olanaklarının fazla olması"
+        },
+        {
+          "key": "C",
+          "text": "Eğitim ve sağlık hizmetlerinin şehirlerde toplanması"
+        },
+        {
+          "key": "D",
+          "text": "Kırsal alanda toprakların miras yoluyla parçalanması"
+        },
+        {
+          "key": "E",
+          "text": "Kırsal alanda tarımsal verimin artması"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Tarımsal verimin artması çiftçinin gelirini artırarak yerinde kalmasını teşvik eden bir unsurdur, göç nedeni değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-7",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de 1950'li yıllardan sonra iç göçün hızlanmasında aşağıdakilerden hangisinin etkisi en fazladır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sanayileşme ve tarımda makineleşme"
+        },
+        {
+          "key": "B",
+          "text": "İklim değişikliği"
+        },
+        {
+          "key": "C",
+          "text": "Erozyon"
+        },
+        {
+          "key": "D",
+          "text": "Eğitimin yaygınlaşması"
+        },
+        {
+          "key": "E",
+          "text": "Turizm faaliyetleri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tarımda makineleşme kırsalda insan gücüne duyulan ihtiyacı azaltmış; şehirlerde sanayileşme ise iş gücü talebini artırarak göçü patlatmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-8",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Aşağıdakilerden hangisi göç veren bir yörenin temel özelliklerinden biridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eğitim ve sağlık hizmetlerinin gelişmiş olması"
+        },
+        {
+          "key": "B",
+          "text": "İş imkanlarının yetersiz olması ve genç nüfus kaybı"
+        },
+        {
+          "key": "C",
+          "text": "Nüfusun hızla artması"
+        },
+        {
+          "key": "D",
+          "text": "Yatırımların çok fazla olması"
+        },
+        {
+          "key": "E",
+          "text": "Nüfus piramidinin tabanının çok genişlemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Göç veren bölgelerde istihdam alanları yetersizdir ve genç, dinamik nüfus iş bulmak amacıyla dışarıya göç eder.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-9",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de nüfusun dağılışını etkileyen 'iklim' faktörü dikkate alındığında, hangi alanda nüfusun daha seyrek olması beklenir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kıyı Ege"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Anadolu'nun yüksek ve sert karasal alanları (Erzurum-Kars, Hakkari)"
+        },
+        {
+          "key": "C",
+          "text": "Güney Marmara"
+        },
+        {
+          "key": "D",
+          "text": "Akdeniz kıyıları"
+        },
+        {
+          "key": "E",
+          "text": "Karadeniz kıyıları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğu Anadolu'nun yüksek ve sert iklime sahip alanları, kışların uzun ve dondurucu geçmesi nedeniyle nüfusun son derece seyrek olduğu yerlerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-10",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de nüfusun yaş gruplarına göre dağılımı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşlı nüfus oranı genç nüfustan fazladır."
+        },
+        {
+          "key": "B",
+          "text": "Çalışan (aktif) nüfus oranı giderek azalmaktadır."
+        },
+        {
+          "key": "C",
+          "text": "Genç ve dinamik nüfus oranı gelişmiş Batı ülkelerine göre daha yüksektir."
+        },
+        {
+          "key": "D",
+          "text": "Çocuk nüfus oranı tamamen sıfırlanmıştır."
+        },
+        {
+          "key": "E",
+          "text": "Erkek nüfusu bulunmamaktadır."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye, genç ve çalışabilir aktif nüfus oranının gelişmiş Avrupa ülkelerine göre yüksek olduğu bir nüfus yapısına sahiptir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-11",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de Aritmetik Nüfus Yoğunluğu hesaplanırken hangi iki veri esas alınır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplam Nüfus ve Yüz Ölçümü"
+        },
+        {
+          "key": "B",
+          "text": "Doğum Oranı ve Ölüm Oranı"
+        },
+        {
+          "key": "C",
+          "text": "Toplam Nüfus ve Tarım Alanı"
+        },
+        {
+          "key": "D",
+          "text": "Şehir Nüfusu ve Kırsal Nüfus"
+        },
+        {
+          "key": "E",
+          "text": "İl Sayısı ve İlçe Sayısı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Aritmetik nüfus yoğunluğu, toplam nüfusun o yerin yüz ölçümüne bölünmesiyle (Kişi/km²) bulunur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-12",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'den yurt dışına yapılan kitlesel 'dış göçlerin' en önemlisi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1960'lı yıllardan itibaren Avrupa'ya (özellikle Almanya) yapılan İşçi Göçleri"
+        },
+        {
+          "key": "B",
+          "text": "İklim değişikliği göçleri"
+        },
+        {
+          "key": "C",
+          "text": "Toprak reformu göçleri"
+        },
+        {
+          "key": "D",
+          "text": "Eğitim reformu göçleri"
+        },
+        {
+          "key": "E",
+          "text": "Askerlik göçleri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1960'lı yıllardan itibaren Türkiye'den Avrupa ülkelerine (Almanya, Fransa, Hollanda vb.) gerçekleşen işçi göçleri en büyük dış göç hareketidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-13",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de yerleşmeyi ve nüfuslanmayı sınırlayan en önemli fiziki (doğal) faktör nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bitki örtüsü"
+        },
+        {
+          "key": "B",
+          "text": "Engebeli yer şekilleri ve yüksek irtifa"
+        },
+        {
+          "key": "C",
+          "text": "Denizellik"
+        },
+        {
+          "key": "D",
+          "text": "Yeraltı kaynakları"
+        },
+        {
+          "key": "E",
+          "text": "Turizm olanakları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'de dağlık, eğimli ve yüksek yer şekilleri yerleşme, ulaşım ve tarımı olumsuz etkileyen en temel nedendir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-14",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Kırsal yerleşme türlerinden hangisi idari ve hukuki bakımdan 'sürekli' bir yerleşmedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yayla"
+        },
+        {
+          "key": "B",
+          "text": "Köy"
+        },
+        {
+          "key": "C",
+          "text": "Oba"
+        },
+        {
+          "key": "D",
+          "text": "Ağıl"
+        },
+        {
+          "key": "E",
+          "text": "Kom"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Köy, camisi, otlağı ve meşcereliği olan idari bakımdan sürekli en küçük yerleşme birimidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-15",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Göçebe hayvancılık yapan toplulukların (Toroslar'da Yörükler vb.) çadır kurarak oluşturduğu geçici yerleşme tipi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Köy"
+        },
+        {
+          "key": "B",
+          "text": "Kasaba"
+        },
+        {
+          "key": "C",
+          "text": "Oba"
+        },
+        {
+          "key": "D",
+          "text": "Şehir"
+        },
+        {
+          "key": "E",
+          "text": "Divan"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Oba, göçebe hayvancılıkla uğraşan ailelerin çadır kurarak oluşturdukları geçici kır yerleşmesidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-16",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de nüfusun coğrafi dağılışında diğerlerine göre daha az etkili olan faktör hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sanayileşme"
+        },
+        {
+          "key": "B",
+          "text": "Tarım imkanları"
+        },
+        {
+          "key": "C",
+          "text": "Ulaşım ağları"
+        },
+        {
+          "key": "D",
+          "text": "Maden çeşitliliği (Linyit, Krom vb. tek başına)"
+        },
+        {
+          "key": "E",
+          "text": "İklim ve su kaynakları"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Maden çeşitliliği tek başına büyük nüfus kitlelerini çekmez (Zonguldak gibi tektonik/taşkömürü örnekleri hariç), sanayi ve ulaşım kadar genel dağılışta belirleyici değildir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-17",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de kentsel nüfus oranı kırsal nüfus oranını ilk kez hangi dönemde geçmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1950'ler"
+        },
+        {
+          "key": "B",
+          "text": "1980'li yılların başı (1985 sayımı)"
+        },
+        {
+          "key": "C",
+          "text": "2000'ler"
+        },
+        {
+          "key": "D",
+          "text": "1927"
+        },
+        {
+          "key": "E",
+          "text": "1960'lar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'de kent nüfusu ilk kez 1980-1985 sayımları arasında kırsal nüfusu geride bırakmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-18",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Aşağıdakilerden hangisi devletlerarası uluslararası 'dış göç' nedenlerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Savaşlar ve ilticalar"
+        },
+        {
+          "key": "B",
+          "text": "Uluslararası işçi anlaşmaları"
+        },
+        {
+          "key": "C",
+          "text": "Mübadele antlaşmaları"
+        },
+        {
+          "key": "D",
+          "text": "Mevsimlik tarım işçiliği"
+        },
+        {
+          "key": "E",
+          "text": "Yurt dışı lisansüstü eğitim"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Mevsimlik tarım işçiliği (fındık, pamuk vb. toplamaya gitmek) ülke içindeki 'iç göç' hareketidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-19",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de yoğun şekilde dışarıya göç veren kırsal alanlarda (özellikle Karadeniz kırsalı) nüfus yapısında nasıl bir değişim gözlenir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç erkek nüfus azalır, yaşlı nüfus ve kadın oranı nispeten artar."
+        },
+        {
+          "key": "B",
+          "text": "Çocuk nüfus tavan yapar."
+        },
+        {
+          "key": "C",
+          "text": "Doğum oranları patlar."
+        },
+        {
+          "key": "D",
+          "text": "Sanayi işçisi artar."
+        },
+        {
+          "key": "E",
+          "text": "Aritmetik nüfus yoğunluğu katlanır."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Göç veren yerlerde iş aramaya giden genç dinamik (ve erkek) nüfus ayrıldığı için geride kalan yaşlı nüfus ve kadın oranı yükselir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-20",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Demografide 'Yaş Bağımlılık Oranı' tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çalışan nüfusun, çalışmayan nüfusa oranı"
+        },
+        {
+          "key": "B",
+          "text": "Çalışmayan bağımlı nüfusun (0-14 çocuk ve 65+ yaşlı), 15-64 aktif çalışan nüfusa oranı"
+        },
+        {
+          "key": "C",
+          "text": "Genç nüfusun, toplam nüfusa oranı"
+        },
+        {
+          "key": "D",
+          "text": "Erkek nüfusun, kadın nüfusuna oranı"
+        },
+        {
+          "key": "E",
+          "text": "Sadece yaşlı nüfus oranı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yaş bağımlılık oranı; 0-14 yaş çocuk grubu ve 65 yaş üzeri yaşlı nüfusun, 15-64 yaş aktif çalışan gruptan beslenme oranını ifade eder.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-21",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de kırsal alanlarda yerleşmelerin dağılışı üzerinde 'toprak türü ve verimliliği' etkili midir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, Çukurova ve Bafra gibi alüvyal verimli alanlarda yerleşme sıklaşır"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, hiçbir etkisi yoktur"
+        },
+        {
+          "key": "C",
+          "text": "Sadece kurak bölgelerde etkilidir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece dağlık bölgelerde etkilidir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece kıyılarda etkilidir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Alüvyal verimli ovalarda tarımsal potansiyel yüksek olduğu için nüfus ve kırsal yerleşmeler sıklaşır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-22",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de sokağa çıkma yasağı uygulanarak yapılan geleneksel (de facto) nüfus sayımları geçmişte kaç yılda bir tekrarlanırdı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her yıl"
+        },
+        {
+          "key": "B",
+          "text": "5 yılda bir (son rakamı 0 ve 5 ile biten yıllarda)"
+        },
+        {
+          "key": "C",
+          "text": "10 yılda bir"
+        },
+        {
+          "key": "D",
+          "text": "2 yılda bir"
+        },
+        {
+          "key": "E",
+          "text": "3 yılda bir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'de 1935-1990 yılları arasında genel nüfus sayımları her 5 yılda bir sokağa çıkma yasağı eşliğinde yapılmıştır (2007'de ADNKS sistemine geçilmiştir).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-23",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Doğu Anadolu Bölgesi'nde otlatma ve hayvancılık amacıyla yazın kullanılan geçici kırsal yerleşme birimi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahalle"
+        },
+        {
+          "key": "B",
+          "text": "Kom"
+        },
+        {
+          "key": "C",
+          "text": "İlçe"
+        },
+        {
+          "key": "D",
+          "text": "Şehir"
+        },
+        {
+          "key": "E",
+          "text": "Belde"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kom, Doğu Anadolu'da hayvancılık faaliyetleri için yaz aylarında kullanılan geçici köy altı yerleşmesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-24",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de iç göç hareketlerinin ana yönü ve karakteri genel olarak nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırsaldan kırsala"
+        },
+        {
+          "key": "B",
+          "text": "Kırsal alanlardan ve doğu/iç illerden gelişmiş büyük şehirlere ve sanayi merkezlerine"
+        },
+        {
+          "key": "C",
+          "text": "Şehirden kırsala"
+        },
+        {
+          "key": "D",
+          "text": "Şehirden köye"
+        },
+        {
+          "key": "E",
+          "text": "Sadece kıyıdan merkeze"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İç göçün ana doğrultusu doğudan batıya, kırsal kesimden büyük metropollere ve sanayi/turizm merkezlerine doğrudur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-25",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye Cumhuriyet tarihinin nüfus artış hızının en düşük olduğu (‰ 10.6) dönemi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1940-1945 Dönemi (II. Dünya Savaşı yılları seferberlik ve kıtlık)"
+        },
+        {
+          "key": "B",
+          "text": "1960-1965"
+        },
+        {
+          "key": "C",
+          "text": "1980-1985"
+        },
+        {
+          "key": "D",
+          "text": "2000-2005"
+        },
+        {
+          "key": "E",
+          "text": "1950-1955"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "II. Dünya Savaşı sırasında erkek nüfusun silah altına alınması (seferberlik) doğum oranlarını büyük ölçüde düşürerek nüfus artış hızını tarihsel dip noktaya çekmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-26",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de sanayi, ticaret, finans ve ulaşımın kalbi olduğu için en çok iç göç alan bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Marmara Bölgesi"
+        },
+        {
+          "key": "D",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Marmara Bölgesi (İstanbul, Kocaeli, Bursa vb.), Türkiye'nin en çok net göç alan bölgesidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-27",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Aritmetik Nüfus Yoğunluğu kavramı somut olarak neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İşsizlik oranını"
+        },
+        {
+          "key": "B",
+          "text": "Bir kilometrekarelik karasal alana düşen ortalama kişi sayısını"
+        },
+        {
+          "key": "C",
+          "text": "Doğum sayısını"
+        },
+        {
+          "key": "D",
+          "text": "Göç oranını"
+        },
+        {
+          "key": "E",
+          "text": "Eğitim düzeyini"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Aritmetik nüfus yoğunluğu = Toplam Nüfus / Yüzölçümü formülü ile 1 km² alana düşen kişi sayısını gösterir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-28",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de nüfus piramidinde 15-64 yaş grubunu oluşturan kitle ne olarak adlandırılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocuk bağımlı nüfus"
+        },
+        {
+          "key": "B",
+          "text": "Çalışan (Aktif / Üretken) Nüfus"
+        },
+        {
+          "key": "C",
+          "text": "Yaşlı bağımlı nüfus"
+        },
+        {
+          "key": "D",
+          "text": "Emekli nüfusu"
+        },
+        {
+          "key": "E",
+          "text": "İşsiz nüfusu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "15-64 yaş grubu, ekonomik üretim yapan ve bağımlı nüfusu besleyen aktif/çalışan nüfusu temsil eder.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-29",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "İlk çağlardan beri insanların yerleşme yeri seçiminde 'su kaynaklarına yakınlık' ilkesine uymasının en net örneği ülkemizde nerelerdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dağların yüksek zirveleri"
+        },
+        {
+          "key": "B",
+          "text": "Akarsu vadileri, delta ovaları ve göl kenarları"
+        },
+        {
+          "key": "C",
+          "text": "Tuzçölü çanağı"
+        },
+        {
+          "key": "D",
+          "text": "Kireçtaşlı susuz platolar"
+        },
+        {
+          "key": "E",
+          "text": "Orman içleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İçme, kullanma ve tarımsal sulama ihtiyacı nedeniyle akarsu boyları ve göl kenarları yerleşmenin en yoğun kurulduğu alanlardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-nufus-yerlesme-30",
+      "topic_id": "topic-cog-nufus-yerlesme",
+      "question_text": "Türkiye'de fındık, çay, pamuk veya pamuk toplama dönemlerinde tarım işçilerinin geçici olarak başka illere gitmesi ne tür bir göçtür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yurt dışı dış göç"
+        },
+        {
+          "key": "B",
+          "text": "Mevsimlik (Geçici) İç Göç"
+        },
+        {
+          "key": "C",
+          "text": "Sürekli iç göç"
+        },
+        {
+          "key": "D",
+          "text": "Mübadele göçü"
+        },
+        {
+          "key": "E",
+          "text": "Beyin göçü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Belirli aylarda tarım, inşaat veya turizm amacıyla yapılan ve iş bitince geri dönülen göç hareketleri mevsimlik (geçici) iç göçtür.",
+      "difficulty_level": 2
+    }
+  ]
+}

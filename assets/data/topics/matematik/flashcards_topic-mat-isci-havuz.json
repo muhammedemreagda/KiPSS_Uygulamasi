@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-isci-havuz",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Bir Günde Yapılan İş Mantığı",
+      "body": "Bir işçi işin tamamını x günde bitiriyorsa, 1 günde işin 1/x kadarını yapar."
+    },
+    {
+      "card_number": 2,
+      "title": "Birlikte Çalışma Formülü",
+      "body": "A işçi x günde, B işçi y günde bitiriyorsa ikisi birlikte t günde: (1/x + 1/y) . t = 1 (İşin tamamı 1'dir)."
+    },
+    {
+      "card_number": 3,
+      "title": "İşçi Sayısı ile Zaman Orantısı",
+      "body": "İşçi sayısı ile işin bitme süresi TERS ORANTILIDIR. İşçi sayısı artarsa işin bitme süresi kısalır."
+    },
+    {
+      "card_number": 4,
+      "title": "İş Kapasitesi (Hız) İlişkisi",
+      "body": "İşçinin çalışma hızı (kapasitesi) ile işi bitirme süresi TERS ORANTILIDIR. Hızı 2 katına çıkanın süresi yarıya iner."
+    },
+    {
+      "card_number": 5,
+      "title": "Birlikte Başlayıp Ayrılma",
+      "body": "Birlikte t1 gün çalışıp A ayrılırsa: (1/x + 1/y).t1 + (1/y).t2 = 1 formülü kullanılır."
+    },
+    {
+      "card_number": 6,
+      "title": "Orantı Kurma İş Problemi",
+      "body": "Yapılan İş 1 / Diğer Verilerin Çarpımı 1 = Yapılan İş 2 / Diğer Verilerin Çarpımı 2 formülü hayat kurtarır."
+    },
+    {
+      "card_number": 7,
+      "title": "Musluk Havuz Doldurma-Boşaltma",
+      "body": "Dolduran musluklar +, boşaltan musluk - olarak alınır: (1/A + 1/B - 1/C) . t = 1."
+    },
+    {
+      "card_number": 8,
+      "title": "Havuzun Ortasındaki Boşaltan Musluk",
+      "body": "Ortadaki musluk sadece kendi seviyesinin üzerindeki kısmı boşaltabilir, alt kısma etkisi yoktur."
+    },
+    {
+      "card_number": 9,
+      "title": "Eşit Kapasiteli İşçiler",
+      "body": "n tane eşit kapasiteli işçi birlikte çalışırsa iş tek işçinin bitirme süresinin n'e bölünmesiyle bulunur (t / n)."
+    },
+    {
+      "card_number": 10,
+      "title": "İş miktarını 100 Veya EKOK Seçme",
+      "body": "Kesirlerle uğraşmamak için toplam iş miktarına günlerin EKOK'u değer olarak atanabilir."
+    }
+  ]
+}

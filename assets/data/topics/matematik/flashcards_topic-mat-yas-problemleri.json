@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-yas-problemleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Yaş Farkı Asla Değişmez!",
+      "body": "İki kişi arasındaki yaş farkı yıllar geçse de DAİMA SABİTTİR, değişmez."
+    },
+    {
+      "card_number": 2,
+      "title": "n Yıl Sonraki ve Önceki Yaş",
+      "body": "Bugünkü yaşı x olan bir kişinin n yıl sonraki yaşı x + n; n yıl önceki yaşı x - n olur."
+    },
+    {
+      "card_number": 3,
+      "title": "Kişi Sayısına Göre Toplam Yaş",
+      "body": "k kişilik bir grubun bugünkü yaşları toplamı T ise, n yıl sonraki yaş toplamı T + (k . n) olur."
+    },
+    {
+      "card_number": 4,
+      "title": "Doğum Yılı ve Yaş İlişkisi",
+      "body": "Erken doğan kişi daha BÜYÜK, geç doğan kişi daha KÜÇÜK olur. Örnek: 1990 doğumlu, 1995 doğumludan 5 yaş büyüktür."
+    },
+    {
+      "card_number": 5,
+      "title": "'Senin Yaşına Geldiğimde' Şifresi",
+      "body": "A, B'nin yaşına geldiğinde aradan geçen zaman (B - A) kadardır. Her ikisinin yaşına da (B - A) eklenir."
+    },
+    {
+      "card_number": 6,
+      "title": "Yaş Ortalaması Değişimi",
+      "body": "k kişilik grubun yaş ortalaması A ise, n yıl sonra yaş ortalaması A + n olur (gruptan giren/çıkan yoksa)."
+    },
+    {
+      "card_number": 7,
+      "title": "Oran Verilen Yaş Problemleri",
+      "body": "Babanın yaşı çocuğun yaşının 3 katı ise çocuğa x, babaya 3x denir. 5 yıl sonra (x+5) ve (3x+5) denklem kurulur."
+    },
+    {
+      "card_number": 8,
+      "title": "İki Kişinin Yaşları Toplamı",
+      "body": "İki kişinin yaşları toplamı A ise biri x diğeri (A - x) olarak tek bilinmeyenle ifade edilebilir."
+    },
+    {
+      "card_number": 9,
+      "title": "Bugünkü Yaş Bulma",
+      "body": "Yaş hesaplamalarında bulunan x değeri soruda istenen kişinin bugünkü yaşı mı kontrol edilmelidir."
+    },
+    {
+      "card_number": 10,
+      "title": "Geçen Zaman Şifresi",
+      "body": "İki farklı zamandaki yaşlar verildiğinde geçen süre = (Son Yaş - İlk Yaş) kadardır."
+    }
+  ]
+}

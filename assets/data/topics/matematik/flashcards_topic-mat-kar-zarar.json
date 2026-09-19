@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-kar-zarar",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Maliyet, Satış ve Kâr İlişkisi",
+      "body": "Satış Fiyatı = Maliyet + Kâr. Kâr tutarı = Maliyet x (Kâr Yüzdesi / 100)."
+    },
+    {
+      "card_number": 2,
+      "title": "Maliyet ve Zarar İlişkisi",
+      "body": "Satış Fiyatı = Maliyet - Zarar. Zarar tutarı = Maliyet x (Zarar Yüzdesi / 100)."
+    },
+    {
+      "card_number": 3,
+      "title": "Etiket Fiyatı Üzerinden İndirim",
+      "body": "İndirimli Fiyat = Etiket Fiyatı - İndirim Tutarı. İndirim daima Etiket Fiyatı üzerinden hesaplanır."
+    },
+    {
+      "card_number": 4,
+      "title": "Maliyete 100x Verme Taktiği",
+      "body": "Ürünün maliyetine 100x denir. %30 kârla satış 130x, bu fiyat üzerinden %10 indirim ise 130x - 13x = 117x olur."
+    },
+    {
+      "card_number": 5,
+      "title": "Enflasyon ve Alım Gücü",
+      "body": "Maaşa yapılan zam oranı enflasyon oranından düşükse alım gücü düşer, yüksekse alım gücü artar."
+    },
+    {
+      "card_number": 6,
+      "title": "Çürük / Fire Verme Problemleri",
+      "body": "Meyve çürüyüp fire verirse kilogram maliyeti artar. Toplam ödenen para / Kalan sağlam miktar = Yeni Birim Maliyet."
+    },
+    {
+      "card_number": 7,
+      "title": "Hileli Tartı Problemleri",
+      "body": "Eksik tartan tartı satıcıya kâr sağlar. 1000 gr yerine 800 gr tartan satıcı %25 kâr elde eder (200/800 = 1/4)."
+    },
+    {
+      "card_number": 8,
+      "title": "Kâr Oranı Neye Göre Hesaplanır?",
+      "body": "Aksi belirtilmedikçe kâr veya zarar oranı daima MALİYET FİYATINA göre hesaplanır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kapatıyoruz İndirimi Şifresi",
+      "body": "Maliyeti 100 olan mala %50 zam yapıp (150), sonra %50 indirim yapılırsa sonuç 75 olur (%25 zarar edilir)."
+    },
+    {
+      "card_number": 10,
+      "title": "Faiz Hesaplama Formülü",
+      "body": "Yıllık Faiz = (Ana Para . Faiz Oranı . Zaman) / 100 (F = A.n.t / 100)."
+    }
+  ]
+}

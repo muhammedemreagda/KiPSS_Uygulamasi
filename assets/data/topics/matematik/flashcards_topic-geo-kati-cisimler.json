@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-geo-kati-cisimler",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Prizmalarda Hacim Genel Formülü",
+      "body": "Bütün dik prizmaların Hacmi = Taban Alanı x Yükseklik (V = T.A . h) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 2,
+      "title": "Dikdörtgenler Prizması",
+      "body": "Hacim = a . b . c ; Yüzey Alanı = 2(ab + bc + ac) ; Cismin Köşegeni = kök(a^2 + b^2 + c^2)."
+    },
+    {
+      "card_number": 3,
+      "title": "Küp Özellikleri ve Hacmi",
+      "body": "Tüm kenarları a olan küpün Hacmi = a^3 ; Yüzey Alanı = 6.a^2 ; Cisim Köşegeni = a.kök(3)'tür."
+    },
+    {
+      "card_number": 4,
+      "title": "Silindirin Hacmi ve Alanı",
+      "body": "Yarıçapı r, yüksekliği h olan silindirin Hacmi = pi . r^2 . h ; Yanal Alanı = 2.pi.r.h dır."
+    },
+    {
+      "card_number": 5,
+      "title": "Piramit Hacim Formülü (1/3 Kuralı)",
+      "body": "Piramitlerin Hacmi = (Taban Alanı x Yükseklik) / 3 (V = 1/3 . T.A . h) dır."
+    },
+    {
+      "card_number": 6,
+      "title": "Koninin Hacmi ve Yanal Alanı",
+      "body": "Yarıçapı r, ana doğrusu l olan koninin Hacmi = (pi.r^2.h) / 3 ; Yanal Alanı = pi . r . l dır."
+    },
+    {
+      "card_number": 7,
+      "title": "Kürenin Hacmi Formülü",
+      "body": "Yarıçapı R olan kürenin Hacmi = (4/3) . pi . R^3 formülü ile hesaplanır."
+    },
+    {
+      "card_number": 8,
+      "title": "Kürenin Yüzey Alanı Formülü",
+      "body": "Yarıçapı R olan kürenin Yüzey Alanı = 4 . pi . R^2 formülü ile bulunur."
+    },
+    {
+      "card_number": 9,
+      "title": "Benzerlik Oranının Hacme Etkisi",
+      "body": "İki benzer katı cismin alanları oranı benzerlik oranının karesi (k^2); HACİMLERİ ORANI ise benzerlik oranının KÜPÜDÜR (k^3)."
+    },
+    {
+      "card_number": 10,
+      "title": "Silindir Açınımı Yanal Yüzey",
+      "body": "Dik silindir açıldığında yanal yüzeyi bir dikdörtgen olur. Dikdörtgenin kenarları 2.pi.r ve h'dir."
+    }
+  ]
+}

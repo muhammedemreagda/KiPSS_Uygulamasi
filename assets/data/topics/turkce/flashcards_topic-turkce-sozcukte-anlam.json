@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-sozcukte-anlam",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Gerçek (Temel) Anlam",
+      "body": "Bir sözcüğün zihinde uyandırdığı ilk ve asıl anlamdır. Örnek: 'Soğuk sudan boğazı ağrıdı' cümlesindeki soğuk kelimesi ısı düşüklüğünü ifade eder ve gerçek anlamındadır."
+    },
+    {
+      "card_number": 2,
+      "title": "Mecaz Anlam",
+      "body": "Sözcüğün gerçek anlamından tamamen uzaklaşarak kazandığı soyut yeni anlamdır. Örnek: 'Bize karşı çok soğuk davrandı' cümlesinde soğuk kelimesi samimiyetsiz anlamında mecazdır."
+    },
+    {
+      "card_number": 3,
+      "title": "Yan Anlam",
+      "body": "Gerçek anlamla şekil veya işlev benzerliği kurularak kazanılan yaklaştırılmış anlamdır. Örnek: 'Masanın ayağı kırıldı' örneğinde insandaki ayak organından benzetme yapılmıştır."
+    },
+    {
+      "card_number": 4,
+      "title": "Terim Anlam Altın Kuralı",
+      "body": "Bir bilim, sanat, spor veya meslek dalına özgü özel kavramları karşılayan sözcüklerdir. Örnek: 'Hücre' biyolojide terim anlamlıyken, 'hapis hücresi' derken gerçek anlamdadır."
+    },
+    {
+      "card_number": 5,
+      "title": "Somutlaştırma (Somutlama)",
+      "body": "Soyut bir kavramın daha anlaşılır kılınmak için somut bir nesneymiş gibi anlatılmasıdır. Örnek: 'Aşk bir alevdir' derken soyut aşk kavramı somut bir nesneye benzetilmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Soyutlaştırma (Soyutlama)",
+      "body": "Somut anlamlı bir sözcüğün mecazlaşarak soyut bir anlam kazanmasıdır. Örnek: 'Bu işte senin de parmağın var' cümlesindeki parmak somut değil, rol/katkı anlamında soyuttur."
+    },
+    {
+      "card_number": 7,
+      "title": "Ad Aktarması (Mecazımürsel)",
+      "body": "Benzetme amacı gütmeden bir sözcüğün başka bir sözcük yerine kullanılmasıdır. Örnek: 'Tüm ev maçı izliyordu' derken kastedilen ev değil, evin içindeki insanlardır."
+    },
+    {
+      "card_number": 8,
+      "title": "Duyular Arası Aktarma",
+      "body": "Bir duyuya ait algının başka bir duyuya aktarılarak anlatılmasıdır. Örnek: 'Tatlı bir gülüş' ifadesinde tat duyusu (tatlı), görme duyusuna (gülüş) aktarılmıştır."
+    },
+    {
+      "card_number": 9,
+      "title": "Dolaylama Şifresi",
+      "body": "Tek kelimeyle anlatılabilecek bir kavramı birden fazla kelimeyle süsleyerek anlatmaktır. Örnek: Kömür yerine 'kara elmas', balık yerine 'derya kuzusu' denmesi dolaylamadır."
+    },
+    {
+      "card_number": 10,
+      "title": "Güzel Adlandırma",
+      "body": "Korkutucu veya rahatsız edici kavramların daha nazik sözcüklerle ifade edilmesidir. Örnek: Verem hastalığı yerine 'ince hastalık', ölüm yerine 'son yolculuk' denmesi."
+    }
+  ]
+}

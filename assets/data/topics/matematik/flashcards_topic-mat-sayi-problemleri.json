@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-sayi-problemleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Tek Bilinmeyen Kullanma Sanatı",
+      "body": "İki sayının toplamı 50 ise birinciye x, ikinciye (50 - x) diyerek denklem sayısını teke düşürün."
+    },
+    {
+      "card_number": 2,
+      "title": "Kuyruk Problemleri (Önden ve Arkadan)",
+      "body": "Sırada baştan n. sırada, sondan m. sırada olan kişi için Toplam Kişi Sayısı = n + m - 1 (Kişi iki kez sayıldığı için 1 çıkarılır)."
+    },
+    {
+      "card_number": 3,
+      "title": "Kuyrukta İki Kişi Arasındaki Sayı",
+      "body": "A baştan x., B sondan y. ve aralarında k kişi varsa; A ile B yer değiştirmediyse Toplam = x + y + k."
+    },
+    {
+      "card_number": 4,
+      "title": "Adım Problemleri (İleri-Geri)",
+      "body": "7 adım ileri 2 adım geri atan biri 9 adımda 5 adım ilerler. Toplam adım sayısı 9'a bölünerek periyot hesaplanır."
+    },
+    {
+      "card_number": 5,
+      "title": "Mum Problemleri",
+      "body": "Boyları eşit iki mum t1 ve t2 saatte yanıyorsa mumların boyuna t1 ve t2'nin EKOK'u denilerek birim zamandaki erime hesaplanır."
+    },
+    {
+      "card_number": 6,
+      "title": "Ceviz / Sıra Paylaştırma",
+      "body": "Öğrenciler sıralara 2'şer oturunca 5 kişi ayakta kalıyorsa Öğrenci Sayısı = 2x + 5 (x: sıra sayısı)."
+    },
+    {
+      "card_number": 7,
+      "title": "Bilet Fiyatı ve Kişi Sayısı",
+      "body": "Bir grubun ödeyeceği toplam hesap = (Kişi Sayısı) x (Kişi Başına Düşen Miktar). Bazıları ödemezse diğerlerinin payı artar."
+    },
+    {
+      "card_number": 8,
+      "title": "Taksi Metre Problemi",
+      "body": "Ödenecek Taksi Ücreti = Açılış Ücreti + (Gidilen KM x KM Başına Ücret)."
+    },
+    {
+      "card_number": 9,
+      "title": "Yanlış Doğruyu Götüren Sınav",
+      "body": "4 yanlış 1 doğruyu götürüyorsa Net Sayısı = Doğru Sayısı - (Yanlış Sayısı / 4) formülü ile hesaplanır."
+    },
+    {
+      "card_number": 10,
+      "title": "Bozuk Para / Banknot Sayısı",
+      "body": "5 TL ve 10 TL'lik toplam 20 banknot varsa 5 TL'lik x adet, 10 TL'lik (20-x) adet kabul edilip tutar eşitlenir."
+    }
+  ]
+}

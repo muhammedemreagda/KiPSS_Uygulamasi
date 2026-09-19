@@ -1,0 +1,947 @@
+{
+  "topic_id": "topic-mat-sekil-oruntuleri",
+  "title": "Şekil Örüntüleri",
+  "course_id": "course-matematik",
+  "question_count": 29,
+  "quick_note": {
+    "id": "qn-topic-mat-sekil-oruntuleri",
+    "topic_id": "topic-mat-sekil-oruntuleri",
+    "title": "Şekil Örüntüleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Şekil Örüntüleri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Şekil Örüntüleri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nŞekil Örüntüleri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Şekil Örüntüleri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Şekil Örüntüsü Adım Analizi",
+        "body": "Şekil örüntülerinde 1, 2 ve 3. adımlardaki kibrit/çubuk/kare sayıları sayı dizisine çevrilerek genel kural bulunur."
+      },
+      {
+        "card_number": 2,
+        "title": "Adım Miktarı Doğrusal Kural",
+        "body": "Her adımda kibrit sayısı 3 artıyorsa genel terim 3n ile başlar. 1. adımda 4 kibrit varsa kural (3n + 1)'dir."
+      },
+      {
+        "card_number": 3,
+        "title": "Karesel Şekil Örüntüleri",
+        "body": "Nokta veya kare sayısı 1, 4, 9, 16... şeklinde ilerliyorsa n. adımdaki eleman sayısı n^2 ile ifade edilir."
+      },
+      {
+        "card_number": 4,
+        "title": "Üçgensel Sayılar Dizisi",
+        "body": "1, 3, 6, 10, 15... şeklinde giden örüntülerde n. adımdaki eleman sayısı n.(n+1) / 2 formülüdür."
+      },
+      {
+        "card_number": 5,
+        "title": "Periyodik Tekrar Eden Şekiller",
+        "body": "Şekil dizilimi her 5 adımda bir başa dönüyorsa (ABCDEABCDE...), 43. adımdaki şekil için 43'ün 5'e bölümünden kalan 3 kullanılır (C)."
+      },
+      {
+        "card_number": 6,
+        "title": "İçi İçe Geçen Kareler Örüntüsü",
+        "body": "Her adımda karelerin kenarları yarıya iniyorsa alanlar 1/4 oranında küçülür (Geometrik azalış)."
+      },
+      {
+        "card_number": 7,
+        "title": "Köşe Noktaları Çakışması",
+        "body": "Yan yana dizilen altıgen/karelerde ortak kenarlar tekrar sayılmamalıdır (n adet kare için çubuk sayısı 3n + 1)."
+      },
+      {
+        "card_number": 8,
+        "title": "Katlanıp Kesilen Kağıt Şekli",
+        "body": "Kağıt 2'ye katlanıp kesilirse simetri eksenine göre açıldığında 2 katı parça ve simetrik delikler oluşur."
+      },
+      {
+        "card_number": 9,
+        "title": "Küp İstifleme (Birim Küp)",
+        "body": "Piramit şeklinde üst üste konan küplerde katlardaki küp sayıları 1, 3, 6 veya 1, 4, 9 dizilimini takip eder."
+      },
+      {
+        "card_number": 10,
+        "title": "Saat Yönünde Dönme Örüntüsü",
+        "body": "Şekil her adımda 90 derece dönüyorsa 4 adımda bir başa döner. n. adımdaki yön n mod 4 ile bulunur."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-1",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 1, 2. adımda 3, 3. adımda 6, 4. adımda 10 kare bulunmaktadır. Bu örüntünün 10. adımındaki kare sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "55"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "66"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Verilen sayı dizisi üçgensel sayılardır (n(n+1)/2). 10. adımda: 10 · 11 / 2 = 55 kare bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-2",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil örüntüsünde 1. adımda 4 çubuk, 2. adımda 7 çubuk, 3. adımda 10 çubuk kullanılmaktadır. 20. adımda kaç çubuk kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "55"
+        },
+        {
+          "key": "B",
+          "text": "58"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "61"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Örüntü 3n + 1 şeklindedir (1. adım: 3(1)+1=4, 2. adım: 3(2)+1=7...). 20. adım: 3 · 20 + 1 = 61 çubuk bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-3",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Belli bir kurala göre büyüyen bir örüntüde 1. adımda 2 üçgen, 2. adımda 5 üçgen, 3. adımda 8 üçgen vardır. 15. adımda kaç üçgen vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "42"
+        },
+        {
+          "key": "C",
+          "text": "44"
+        },
+        {
+          "key": "D",
+          "text": "46"
+        },
+        {
+          "key": "E",
+          "text": "48"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü 3n - 1 şeklindedir (1. adım: 3(1)-1=2, 2. adım: 3(2)-1=5...). 15. adım: 3 · 15 - 1 = 45 - 1 = 44 üçgen bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-4",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Şekil örüntüsünde her adımda kullanılan toplam nokta sayısı 1, 4, 9, 16 şeklinde artmaktadır. 12. adımda kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "121"
+        },
+        {
+          "key": "C",
+          "text": "144"
+        },
+        {
+          "key": "D",
+          "text": "169"
+        },
+        {
+          "key": "E",
+          "text": "196"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü n² şeklindedir. 12. adımda 12² = 144 nokta vardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-5",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 5, 2. adımda 9, 3. adımda 13 çubuk kullanılmıştır. Toplam 121 çubuk kullanılarak kaçıncı adım oluşturulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü 4n + 1 şeklindedir. 4n + 1 = 121 ⇒ 4n = 120 ⇒ n = 30. adım bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-6",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil dizisinde 1. adımda 3, 2. adımda 8, 3. adımda 15 nokta vardır. Bu örüntünün 6. adımındaki nokta sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "38"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "44"
+        },
+        {
+          "key": "D",
+          "text": "48"
+        },
+        {
+          "key": "E",
+          "text": "50"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Örüntünün genel kuralı a_n = n² + 2n şeklindedir (1. adım: 3, 2. adım: 8, 3. adım: 15). 6. adımda: 6² + 2(6) = 36 + 12 = 48 nokta bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-7",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 2, 2. adımda 6, 3. adımda 12, 4. adımda 20 çember bulunmaktadır. 8. adımda kaç çember vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "56"
+        },
+        {
+          "key": "B",
+          "text": "64"
+        },
+        {
+          "key": "C",
+          "text": "72"
+        },
+        {
+          "key": "D",
+          "text": "81"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü n(n+1) şeklindedir (1·2, 2·3, 3·4, 4·5). 8. adım: 8 · 9 = 72 çember bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-8",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil örüntüsünde 1. adımda 1, 2. adımda 5, 3. adımda 12, 4. adımda 22 nokta kullanılıyor. Buna göre 5. adımda kaç nokta kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "38"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Artış miktarı: 1'den 5'e (+4), 5'ten 12'ye (+7), 12'den 22'ye (+10). Artış miktarı 3'er artmaktadır. Bir sonraki artış 13 olacaktır. 5. adım = 22 + 13 = 35 nokta bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-9",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 3, 2. adımda 9, 3. adımda 27 nokta vardır. 6. adımda kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "81"
+        },
+        {
+          "key": "B",
+          "text": "243"
+        },
+        {
+          "key": "C",
+          "text": "729"
+        },
+        {
+          "key": "D",
+          "text": "1024"
+        },
+        {
+          "key": "E",
+          "text": "2187"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bu bir geometrik örüntüdür (3ⁿ). 6. adım: 3⁶ = 729 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-10",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil dizisinde 1. adımda 2, 2. adımda 7, 3. adımda 14, 4. adımda 23 nokta kullanılıyor. 10. adımda kaç nokta kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "99"
+        },
+        {
+          "key": "B",
+          "text": "101"
+        },
+        {
+          "key": "C",
+          "text": "115"
+        },
+        {
+          "key": "D",
+          "text": "119"
+        },
+        {
+          "key": "E",
+          "text": "123"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Genel terim a_n = n² + 2n - 1 şeklindedir (1. adım: 2, 2. adım: 7, 3. adım: 14, 4. adım: 23). 10. adım: 10² + 2(10) - 1 = 100 + 20 - 1 = 119 nokta bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-11",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil örüntüsünde 1. adımda 3, 2. adımda 6, 3. adımda 10, 4. adımda 15 üçgen vardır. 10. adımda kaç üçgen vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "55"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "66"
+        },
+        {
+          "key": "D",
+          "text": "72"
+        },
+        {
+          "key": "E",
+          "text": "78"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Genel kural a_n = (n+1)(n+2)/2 şeklindedir. 10. adımda: (10+1)(10+2)/2 = 11 · 12 / 2 = 66 üçgen bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-12",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 4, 2. adımda 10, 3. adımda 18 nokta vardır. Örüntünün kuralı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "n² + 3n"
+        },
+        {
+          "key": "B",
+          "text": "n² + 4n"
+        },
+        {
+          "key": "C",
+          "text": "2n² + 2"
+        },
+        {
+          "key": "D",
+          "text": "3n² + 1"
+        },
+        {
+          "key": "E",
+          "text": "n² + 5n"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "n=1 için 1²+3=4, n=2 için 4+6=10, n=3 için 9+9=18. Kural n²+3n şeklindedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-13",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Her adımında kare sayısı 3, 5, 7, 9... şeklinde artan bir örüntünün 15. adımındaki kare sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "29"
+        },
+        {
+          "key": "B",
+          "text": "31"
+        },
+        {
+          "key": "C",
+          "text": "33"
+        },
+        {
+          "key": "D",
+          "text": "35"
+        },
+        {
+          "key": "E",
+          "text": "37"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Örüntü (2n + 1) şeklindedir. 15. adım: 2 · 15 + 1 = 31 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-14",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 1, 2. adımda 5, 3. adımda 9, 4. adımda 13 nokta vardır. 50. adımda kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "193"
+        },
+        {
+          "key": "B",
+          "text": "195"
+        },
+        {
+          "key": "C",
+          "text": "197"
+        },
+        {
+          "key": "D",
+          "text": "199"
+        },
+        {
+          "key": "E",
+          "text": "201"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü (4n - 3) şeklindedir. 50. adım: 4 · 50 - 3 = 197 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-15",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 1, 2. adımda 8, 3. adımda 27, 4. adımda 64 nokta kullanılıyor. 6. adımda kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "125"
+        },
+        {
+          "key": "B",
+          "text": "216"
+        },
+        {
+          "key": "C",
+          "text": "343"
+        },
+        {
+          "key": "D",
+          "text": "512"
+        },
+        {
+          "key": "E",
+          "text": "729"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Örüntü n³ şeklindedir. 6. adım: 6³ = 216 nokta bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-16",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "1. adımda 2, 2. adımda 8, 3. adımda 18, 4. adımda 32 nokta olan örüntünün genel terimi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2n²"
+        },
+        {
+          "key": "B",
+          "text": "n² + 1"
+        },
+        {
+          "key": "C",
+          "text": "3n²"
+        },
+        {
+          "key": "D",
+          "text": "2n + 2"
+        },
+        {
+          "key": "E",
+          "text": "n² + n"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "n=1 için 2·1²=2, n=2 için 2·4=8, n=3 için 2·9=18, n=4 için 2·16=32. Genel terim 2n² dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-17",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde çember sayısı 2, 5, 10, 17, ... şeklinde artmaktadır. 9. adımda kaç çember vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "65"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "82"
+        },
+        {
+          "key": "D",
+          "text": "85"
+        },
+        {
+          "key": "E",
+          "text": "100"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü n² + 1 şeklindedir (1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17). 9. adım: 9² + 1 = 81 + 1 = 82 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-18",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 1, 2. adımda 6, 3. adımda 15, 4. adımda 28 nokta kullanılmıştır. 5. adımda kaç nokta kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "55"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Artış miktarı: 1'den 6'ya (+5), 6'dan 15'e (+9), 15'ten 28'e (+13). Artış miktarı 4'er artmaktadır. Bir sonraki artış 13 + 4 = 17 olacaktır. 5. adım = 28 + 17 = 45 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-19",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "1. adımda 2, 2. adımda 4, 3. adımda 8, 4. adımda 16 çubuk olan örüntünün 7. adımında kaç çubuk vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "64"
+        },
+        {
+          "key": "B",
+          "text": "128"
+        },
+        {
+          "key": "C",
+          "text": "256"
+        },
+        {
+          "key": "D",
+          "text": "512"
+        },
+        {
+          "key": "E",
+          "text": "1024"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Örüntü 2^n şeklindedir (2¹, 2², 2³, ...). 7. adım: 2⁷ = 128 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-20",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde nokta sayıları 1, 3, 5, 7, 9... şeklinde artmaktadır. 20. adımda kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "37"
+        },
+        {
+          "key": "C",
+          "text": "39"
+        },
+        {
+          "key": "D",
+          "text": "41"
+        },
+        {
+          "key": "E",
+          "text": "43"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bu tek sayıların genel terimi 2n - 1 şeklindedir. 20. adım: 2 · 20 - 1 = 39 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-21",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "1. adımda 0, 2. adımda 2, 3. adımda 6, 4. adımda 12 nokta kullanılan bir örüntünün 10. adımında kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "72"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "90"
+        },
+        {
+          "key": "D",
+          "text": "100"
+        },
+        {
+          "key": "E",
+          "text": "110"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü (n-1)n şeklindedir (0·1, 1·2, 2·3, 3·4). 10. adım: 9 · 10 = 90 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-22",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Her adımda kare sayısının 2 katına çıktığı bir örüntüde 1. adımda 1 kare vardır. 6. adımda kaç kare vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "64"
+        },
+        {
+          "key": "D",
+          "text": "128"
+        },
+        {
+          "key": "E",
+          "text": "256"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Örüntü 2^(n-1) şeklindedir. 6. adım: 2^(6-1) = 2⁵ = 32 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-23",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 3, 2. adımda 7, 3. adımda 11, 4. adımda 15 nokta kullanılıyor. Bu örüntünün 30. adımında kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "115"
+        },
+        {
+          "key": "B",
+          "text": "117"
+        },
+        {
+          "key": "C",
+          "text": "119"
+        },
+        {
+          "key": "D",
+          "text": "121"
+        },
+        {
+          "key": "E",
+          "text": "123"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü (4n - 1) şeklindedir. 30. adım: 4 · 30 - 1 = 120 - 1 = 119 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-24",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil örüntüsünde 1. adımda 2, 2. adımda 5, 3. adımda 10, 4. adımda 17 nokta kullanılıyor. 7. adımda kaç nokta vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "52"
+        },
+        {
+          "key": "D",
+          "text": "54"
+        },
+        {
+          "key": "E",
+          "text": "56"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Örüntü n² + 1 şeklindedir (1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17). 7. adım: 7² + 1 = 49 + 1 = 50 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-25",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 1, 2. adımda 3, 3. adımda 7, 4. adımda 13, 5. adımda 21 nokta kullanılıyor. 6. adımda kaç nokta kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "27"
+        },
+        {
+          "key": "B",
+          "text": "29"
+        },
+        {
+          "key": "C",
+          "text": "31"
+        },
+        {
+          "key": "D",
+          "text": "33"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Artış miktarı 2, 4, 6, 8 şeklinde çift sayı olarak artmaktadır. 6. adım için artış 10 olacaktır: 21 + 10 = 31 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-26",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 1, 2. adımda 8, 3. adımda 27, 4. adımda 64 küp kullanılmıştır. 5. adımda kaç küp kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80"
+        },
+        {
+          "key": "B",
+          "text": "100"
+        },
+        {
+          "key": "C",
+          "text": "125"
+        },
+        {
+          "key": "D",
+          "text": "144"
+        },
+        {
+          "key": "E",
+          "text": "150"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü n³ şeklindedir (1³, 2³, 3³, 4³). 5. adım: 5³ = 125 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-27",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir şekil örüntüsünde her adımda kare sayısı 2 artmaktadır. 1. adımda 5 kare olduğuna göre, 10. adımda kaç kare vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "22"
+        },
+        {
+          "key": "C",
+          "text": "23"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        },
+        {
+          "key": "E",
+          "text": "27"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Örüntü 2n + 3 şeklindedir. 10. adım: 2 · 10 + 3 = 23 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-28",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "1. adımda 1, 2. adımda 3, 3. adımda 5 üçgen olan örüntünün 20. adımında kaç üçgen vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "37"
+        },
+        {
+          "key": "C",
+          "text": "39"
+        },
+        {
+          "key": "D",
+          "text": "41"
+        },
+        {
+          "key": "E",
+          "text": "43"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Tek sayı örüntüsü: 2n - 1. 20. adım: 2 · 20 - 1 = 39 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-sekil-oruntuleri-29",
+      "topic_id": "topic-mat-sekil-oruntuleri",
+      "question_text": "Bir örüntüde 1. adımda 2, 2. adımda 4, 3. adımda 6 çember vardır. 25. adımda kaç çember vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "48"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "52"
+        },
+        {
+          "key": "D",
+          "text": "54"
+        },
+        {
+          "key": "E",
+          "text": "56"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çift sayı örüntüsü: 2n. 25. adım: 2 · 25 = 50 bulunur.",
+      "difficulty_level": 1
+    }
+  ]
+}

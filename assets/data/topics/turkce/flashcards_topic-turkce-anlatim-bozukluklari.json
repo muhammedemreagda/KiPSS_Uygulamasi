@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-anlatim-bozukluklari",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Gereksiz Sözcük Kullanımı",
+      "body": "Aynı anlama gelen sözcüklerin veya eklerin bir arada kullanılmasıdır. Örnek: 'Gizli sırlarını bana anlattı' (Sır zaten gizlidir)."
+    },
+    {
+      "card_number": 2,
+      "title": "Sözcüğün Yanlış Anlamda Kullanımı",
+      "body": "Yazılışları benzeyen veya karıştırılan sözcüklerin yanlış yerde kullanılmasıdır. Örnek: 'Öğrencilerin fidan dikmesini sağladı' (Sağladı değil, sağladı olumlu; neden oldu olumsuzdur)."
+    },
+    {
+      "card_number": 3,
+      "title": "Çelişen Sözcüklerin Kullanılması",
+      "body": "Kesinlik ve olasılık bildiren sözcüklerin aynı cümlede kullanılmasıdır. Örnek: 'Tam olarak 5 yıl kadar önceydi.'"
+    },
+    {
+      "card_number": 4,
+      "title": "Sözcüğün Yanlış Yerde Kullanımı",
+      "body": "Sözcüğün cümledeki yerinin yanlış olması anlam karışıklığına yol açar. Örnek: 'Çok güneşte kalma' yerine 'Güneşte çok kalma' olmalı."
+    },
+    {
+      "card_number": 5,
+      "title": "Mantar Mantık Hatası",
+      "body": "Mantık ve sıralama hatalarıdır. Örnek: 'Bırakın patates doğramayı, yemek bile yapamaz' (Yemek yapmak daha zordur, sıra yanlış)."
+    },
+    {
+      "card_number": 6,
+      "title": "Özne-Yüklem Uyumsuzluğu",
+      "body": "Tekillik-çoğulluk veya kişi uyumsuzluğudur. Örnek: 'Ağaçlar yapraklarını döktüler' yanlış; organ ve bitki çoğul özneyse yüklem tekil olur: döktü."
+    },
+    {
+      "card_number": 7,
+      "title": "Öge Eksikliği (Sıralı Cümlelerde)",
+      "body": "Ortak öge kullanımından doğan bozukluktur. Örnek: 'Sana inanıyor ve (seni) destekliyoruz' cümlesinde nesne eksiktir."
+    },
+    {
+      "card_number": 8,
+      "title": "Tamlama Hataları",
+      "body": "İsim ve sıfatların aynı tamlayana bağlanmasıdır. Örnek: 'Resmi ve özel kuruluşlar' yerine 'Resmi kuruluşlar ve özel kuruluşlar' olmalı."
+    },
+    {
+      "card_number": 9,
+      "title": "Zamire Bağlı Anlam Belirsizliği",
+      "body": "Cümlede kastedilen kişinin kim olduğunun açık olmamasıdır. Örnek: 'Okula gitmediğini duydum' (Senin mi, onun mu?)."
+    },
+    {
+      "card_number": 10,
+      "title": "Çatı Uyumsuzluğu",
+      "body": "Bir birleşik cümlede fiilimsiler ile yüklemin etkenlik/edilgenlik yönünden uyumsuz olmasıdır."
+    }
+  ]
+}

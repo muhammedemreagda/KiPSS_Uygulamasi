@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-denklemler-esitsizlikler",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Birinci Dereceden Denklem",
+      "body": "ax + b = 0 denkleminde x = -b/a çözümdür. a = 0 ve b = 0 ise çözüm kümesi Tüm Reel Sayılardır (R)."
+    },
+    {
+      "card_number": 2,
+      "title": "Çözümsüz Denklem (Boş Küme)",
+      "body": "ax + b = 0 denkleminde a = 0 ve b != 0 ise denklem sağlanmaz, Çözüm Kümesi = Boş Küme (Ø) olur."
+    },
+    {
+      "card_number": 3,
+      "title": "Eşitsizliklerde Yön Değiştirme Kuralı",
+      "body": "Bir eşitsizliğin her iki tarafı negatif (-) bir sayı ile çarpılır veya bölünürse eşitsizlik sembolü yön değiştirir."
+    },
+    {
+      "card_number": 4,
+      "title": "Taraf Tarafa Toplama Eşitsizlik",
+      "body": "Aynı yönlü eşitsizlikler taraf tarafa toplanabilir. Fakat taraf tarafa çıkarma veya bölme YAPILAMAZ."
+    },
+    {
+      "card_number": 5,
+      "title": "Mutlak Değer Tanımı",
+      "body": "Bir sayının başlangıç noktasına (0) olan uzaklığıdır; sonucu asla negatif olamaz (|x| >= 0)."
+    },
+    {
+      "card_number": 6,
+      "title": "|x| = a Denklemi Çözümü",
+      "body": "a > 0 olmak üzere |x| = a ise x = a veya x = -a olmak üzere iki farklı durum incelenir."
+    },
+    {
+      "card_number": 7,
+      "title": "|x| < a Eşitsizliği Çözümü",
+      "body": "a > 0 için |x| < a ifadesi -a < x < a şeklinde aralık olarak çözülür."
+    },
+    {
+      "card_number": 8,
+      "title": "|x| > a Eşitsizliği Çözümü",
+      "body": "a > 0 için |x| > a ifadesi x > a veya x < -a şeklinde iki ayrı durum olarak çözülür."
+    },
+    {
+      "card_number": 9,
+      "title": "Karesi Kendisinden Küçük Sayılar",
+      "body": "x^2 < x şartını sağlayan sayılar 0 ile 1 arasındaki pozitif basit kesirlerdir (0 < x < 1)."
+    },
+    {
+      "card_number": 10,
+      "title": "İki Bilinmeyenli Denklem Sistemi",
+      "body": "Yok etme veya yerine koyma metodu kullanılarak değişkenlerden biri elenir ve diğer bilinmeyen bulunur."
+    }
+  ]
+}

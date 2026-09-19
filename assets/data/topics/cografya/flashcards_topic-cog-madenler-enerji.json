@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-madenler-enerji",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Demir Madeni Çıkarım Yerleri",
+      "body": "Sivas (Divriği, Kangal) ve Malatya (Hekimhan, Hasançelebi) ana çıkarım alanlarıdır. Karabük ve Ereğli'de işlenir (Kömüre yakınlık)."
+    },
+    {
+      "card_number": 2,
+      "title": "Bakır Madeni Çıkarım Yerleri (KADER)",
+      "body": "Kastamonu (Küre), Artvin (Murgul), Elazığ (Maden), Rize (Çayeli). Samsun'da işlenir (Ulaşım kolaylığı)."
+    },
+    {
+      "card_number": 3,
+      "title": "Krom Madeni Çıkarım Yerleri",
+      "body": "Paslanmaz çelik yapımında kullanılır. Elazığ (Guleman) ve Muğla (Fethiye-Dalaman). Antalya ve Elazığ Ferro-Krom tesislerinde işlenir."
+    },
+    {
+      "card_number": 4,
+      "title": "Bor Mineralleri Rezervi",
+      "body": "Dünya rezervinin %70'inden fazlası Türkiye'dedir. Balıkesir (Bandırma), Eskişehir (Kırka), Kütahya (Emet), Bursa (Mustafakemalpaşa)."
+    },
+    {
+      "card_number": 5,
+      "title": "Boksit (Alüminyum) Madeni",
+      "body": "Hafif ve dayanıklıdır. Konya (Seydişehir) ve Antalya (Akseki). Seydişehir Alüminyum Tesisleri tek entegre tesistir."
+    },
+    {
+      "card_number": 6,
+      "title": "Mermer Yatakları",
+      "body": "Türkiye'nin ihraç ettiği en önemli madendir. Afyonkarahisar, Balıkesir (Marmara Adası), Denizli, Bilecik ön sıradadır."
+    },
+    {
+      "card_number": 7,
+      "title": "Taş Kömürü (I. Jeolojik Zaman)",
+      "body": "Kalorisi yüksektir, demir-çelik sanayinde kullanılır. Zonguldak ve çevresinde çıkarılır."
+    },
+    {
+      "card_number": 8,
+      "title": "Linyit (III. Jeolojik Zaman)",
+      "body": "Türkiye'nin hemen her bölgesinde çıkarılır. Manisa (Soma), Kütahya (Tunçbilek, Seyitömer), Kahramanmaraş (Afşin-Elbistan)."
+    },
+    {
+      "card_number": 9,
+      "title": "Doğal Gaz Santrallerimiz (O H A)",
+      "body": "Ovaakça (Bursa), Hamitabat (Kırklareli), Ambarlı (İstanbul). Kırklareli (Hamitabat) ve Mardin (Çamurlu)'da çıkarılır."
+    },
+    {
+      "card_number": 10,
+      "title": "Jeotermal Enerji Santralleri",
+      "body": "Yeraltı sıcak su kaynaklarıdır (Fay hatları). Denizli (Sarayköy) ve Aydın (Germencik) santralleri meşhurdur."
+    }
+  ]
+}

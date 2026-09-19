@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-yazim-kurallari",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Bitişik Yazılan Ki Altın Kuralı",
+      "body": "Ki'den sonra '-ler' eki getirildiğinde anlamlı oluyorsa bitişik (kestikiler -> anlamlı), anlamsız oluyorsa ayrı yazılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Bitişik Yazılan De/Da Testi",
+      "body": "Cümleden çıkarıldığında cümlenin anlamı tamamen bozuluyorsa bulunma ekidir ve bitişik yazılır; bozulmuyorsa bağlaçtır ve ayrı yazılır."
+    },
+    {
+      "card_number": 3,
+      "title": "Bitişik Birleşik Kelime Şifresi",
+      "body": "İki kelimeden ikincisi veya her ikisi birleşme sırasında anlam değişikliğine uğrarsa bitişik yazılır. Örnek: Kuşburnu, keçiboynuzu."
+    },
+    {
+      "card_number": 4,
+      "title": "Ses Düşmesi / Türemesi Bitişikliği",
+      "body": "Etmek, olmak yardımcı fiilleriyle kurulan birleşik fiillerde ses düşmesi veya türemesi varsa bitişik yazılır. Örnek: Kaybolmak, hissetmek."
+    },
+    {
+      "card_number": 5,
+      "title": "Büyük Harflerin Kullanımı",
+      "body": "Unvanlar, saygı sözleri, kurum isimleri büyük harfle başlar. Örnek: Mustafa Kemal Paşa, Türk Dil Kurumu."
+    },
+    {
+      "card_number": 6,
+      "title": "Tarihlerin Yazımı Kuralı",
+      "body": "Belirli bir günü ve ayı bildiren tarih sayıları büyük harfle başlar. Örnek: 29 Ekim 1923 (Ekim büyük)."
+    },
+    {
+      "card_number": 7,
+      "title": "Sayıların Yazılışı",
+      "body": "Sayılar metin içerisinde harfle yazılır (on beş gün). Ancak senet, çek vb. ticari belgelerde bitişik yazılır (onbeşTL)."
+    },
+    {
+      "card_number": 8,
+      "title": "İkilemelerin Yazılışı Altın Kuralı",
+      "body": "İkilemeler her zaman ayrı yazılır ve aralarına hiçbir noktalama işareti girmez. Örnek: Baş başa, el ele, ağır ağır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kısaltmalara Gelen Ekler",
+      "body": "Büyük harfle yapılan kısaltmalara gelen ekler kısaltmanın son harfinin okunuşuna göre gelir. Örnek: TDK'den (TDK'dan değil)."
+    },
+    {
+      "card_number": 10,
+      "title": "Yer İsimlerinde Unvan Yazımı",
+      "body": "Yer adlarında ilk isimden sonra gelen deniz, dağ, nehir vb. tür bildiren ikinci isimler büyük harfle başlar. Örnek: Ağrı Dağı, Van Gölü."
+    }
+  ]
+}

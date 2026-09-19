@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-idare-merkezi-tasra",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "İdarenin Kanuniliği İlkesi",
+      "body": "İdarenin tüm eylem, işlem ve kuruluşları kanuna dayanmak zorundadır (Anayasa Madde 123)."
+    },
+    {
+      "card_number": 2,
+      "title": "İdarenin Bütünlüğü (Hiyerarşi ve Vesayet)",
+      "body": "İdarenin birliğini sağlayan iki araç vardır: Hiyerarşi (Aynı tüzel kişilik içindeki üst-üst ilişkisi) ve İdari Vesayet (Ayrı tüzel kişilikler arası denetim)."
+    },
+    {
+      "card_number": 3,
+      "title": "İdari Vesayet Örneği",
+      "body": "İçişleri Bakanı'nın (Merkezi İdare) bir Belediye Başkanı'nı (Mahalli İdare) geçici olarak görevden uzaklaştırması İDARİ VESAYET'tir."
+    },
+    {
+      "card_number": 4,
+      "title": "Hiyerarşi Örneği",
+      "body": "Vali'nin İl Milli Eğitim Müdürü'ne emretmesi veya Kaymakam'ın İlçe Nüfus Müdürü'ne talimat vermesi HİYERARŞİ'dir."
+    },
+    {
+      "card_number": 5,
+      "title": "Merkezden Yönetimin Yetki Genişliği",
+      "body": "Merkeze danışmadan merkezin adına karar alabilme yetkisidir. Türkiye'de yetki genişliği SADECE VALİ'ye tanınmıştır."
+    },
+    {
+      "card_number": 6,
+      "title": "Başkent Teşkilatı Yardımcı Kuruluşları",
+      "body": "Danıştay (İdari danışma), Sayıştay (Mali denetim), Milli Güvenlik Kurulu (MGK - Siyasi danışma)."
+    },
+    {
+      "card_number": 7,
+      "title": "İl Genel İdaresi Organları",
+      "body": "Vali (Devletin ve Cumhurbaşkanının temsilcisi), İl İdare Şube Başkanları (Müdürler) ve İl İdare Kurulu."
+    },
+    {
+      "card_number": 8,
+      "title": "İlçe İdaresi Organları",
+      "body": "Kaymakam (Cumhurbaşkanının temsilcisi), İlçe İdare Şube Başkanları ve İlçe İdare Kurulu."
+    },
+    {
+      "card_number": 9,
+      "title": "Vali ve Kaymakam Atanma Farkı",
+      "body": "Vali Cumhurbaşkanı kararıyla atanır (İstisnai memurluktur). Kaymakam ise Cumhurbaşkanı onayıyla atanır (Meslek memurluğudur)."
+    },
+    {
+      "card_number": 10,
+      "title": "Kamu Tüzel Kişiliği (KTK) Kurulması",
+      "body": "Kamu tüzel kişiliği ancak KANUNLA veya CUMHURBAŞKANLIĞI KARARNAMESİ ile kurulur."
+    }
+  ]
+}

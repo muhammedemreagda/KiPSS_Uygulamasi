@@ -1,0 +1,707 @@
+{
+  "topic_id": "topic-turkce-paragraf-yapi",
+  "title": "Paragraf Yapısı & Akışı Bozan Cümle",
+  "course_id": "course-turkce",
+  "question_count": 21,
+  "quick_note": {
+    "id": "qn-topic-turkce-paragraf-yapi",
+    "topic_id": "topic-turkce-paragraf-yapi",
+    "title": "Paragraf Yapısı & Akışı Bozan Cümle Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Paragraf Yapısı & Akışı Bozan Cümle' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Paragraf Yapısı & Akışı Bozan Cümle konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nParagraf Yapısı & Akışı Bozan Cümle başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Paragraf Yapısı & Akışı Bozan Cümle konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Giriş Cümlesi Özellikleri",
+        "body": "Giriş cümlesi bağımsızdır; 'bu yüzden', 'oysa', 'çünkü', 'ama' gibi bağlayıcı unsurlarla veya kendinden önce bir cümle varmış hissiyle başlamaz."
+      },
+      {
+        "card_number": 2,
+        "title": "Gelişme Bölümü Özellikleri",
+        "body": "Düşüncenin örnekler, karşılaştırmalar ve tanık göstermelerle geliştirildiği, ayrıntılara girildiği bölümdür."
+      },
+      {
+        "card_number": 3,
+        "title": "Sonuç Cümlesi İpuçları",
+        "body": "'Özetle', 'kısacası', 'sonuç olarak', 'demek ki' gibi toparlayıcı ifadelerle başlayan ve ana fikri özetleyen son cümledir."
+      },
+      {
+        "card_number": 4,
+        "title": "Akışı Bozan Cümleyi Bulma",
+        "body": "Paragrafta anlatılan genel konunun dışına çıkan veya konunun farklı bir yönüne değinen cümle akışı bozar."
+      },
+      {
+        "card_number": 5,
+        "title": "Paragrafı İki Parçaya Bölme",
+        "body": "Yazarın yeni bir konuya veya aynı konunun farklı bir bakış açısına geçtiği cümle ikinci paragrafın ilk cümlesidir."
+      },
+      {
+        "card_number": 6,
+        "title": "Cümle Yerleştirme Tekniği",
+        "body": "Verilen cümlenin öncesindeki ve sonrasındaki cümlelerle zamir (bu, şu), bağlaç ve anlam mantığı yönünden tam uyumlu olması gerekir."
+      },
+      {
+        "card_number": 7,
+        "title": "Paragraf Tamamlama (Boşluk Bırakma)",
+        "body": "Boşluktan önceki ve sonraki cümleler arasındaki mantık bağını kuran en uygun seçenek doğru cevaptır."
+      },
+      {
+        "card_number": 8,
+        "title": "Cümlelerin Yerini Değiştirme",
+        "body": "Olay ya da düşünce akışındaki kronolojik/mantıksal kopukluğu düzeltecek ikili cümle değişimini bulma yöntemidir."
+      },
+      {
+        "card_number": 9,
+        "title": "Bağlantı Unsuru Takibi",
+        "body": "'Bu durum', 'söz konusu olay', 'nitelikli eser' gibi gönderme yapan sözcükler cümle sıralamasında rehberdir."
+      },
+      {
+        "card_number": 10,
+        "title": "Paragrafta Kronolojik Akış",
+        "body": "Olay anlatımlarında zaman sıralamasına (önce, sonra, daha sonra, en sonunda) dikkat edilmelidir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-paragraf-yapi-1",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Çöl ekosistemleri, aşırı sıcaklık farkları ve su kıtlığı sebebiyle canlı çeşitliliğinin en az olduğu bölgelerdir. (II) Kentleşmenin kontrolsüz biçimde yayılması, çevredeki tarım arazilerinin ve doğal su kaynaklarının hızla tükenmesine yol açıyor. (III) Büyüyen şehirler, betonlaşmanın etkisiyle ısı adalarına dönüşerek yerel iklim dengelerini bozuyor. (IV) Yeşil alanların yok olması ise hem hava kalitesini düşürüyor hem de biyoçeşitliliği tehdit ediyor. (V) Bu nedenle şehir planlamasında ekolojik dengelerin gözetilmesi hayati bir zorunluluk haline gelmiştir.\n\nBu parçadaki numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I"
+        },
+        {
+          "key": "B",
+          "text": "II"
+        },
+        {
+          "key": "C",
+          "text": "III"
+        },
+        {
+          "key": "D",
+          "text": "IV"
+        },
+        {
+          "key": "E",
+          "text": "V"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Parçada genel olarak kontrolsüz kentleşmenin çevre, tarım arazileri ve yerel iklim üzerindeki olumsuz etkileri anlatılmaktadır. I. cümle ise çöl ekosistemlerinden bahsederek ana konunun tamamen dışına çıkmış ve düşüncenin akışını bozmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-2",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Türk tiyatrosunun kökleri, geleneksel seyirlik oyunlara ve şamanik ritüellere kadar uzanmaktadır. (II) Karagöz, Ortaoyunu ve Meddah gibi türler, yüzyıllar boyunca halkın eğlence ve kültür ihtiyacını karşılamıştır. (III) Bu geleneksel biçimler, yazılı bir metne dayanmaz; oyuncuların doğaçlama yeteneği üzerine kuruludur. (IV) Tanzimat Dönemi ile birlikte Türk edebiyatı Batı tarzı tiyatro eserleriyle tanışmıştır. (V) Şinasi'nin kaleme aldığı Şair Evlenmesi, bu alandaki ilk yerli yazılı tiyatro örneği kabul edilir. (VI) Dönemin diğer yazarları da Batılı tiyatro formlarını adapte ederek yeni bir sahne geleneği oluşturmuşlardır.\n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf hangi cümleyle başlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III"
+        },
+        {
+          "key": "B",
+          "text": "IV"
+        },
+        {
+          "key": "C",
+          "text": "V"
+        },
+        {
+          "key": "D",
+          "text": "VI"
+        },
+        {
+          "key": "E",
+          "text": "II"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İlk üç cümlede geleneksel Türk tiyatrosunun özellikleri ve sözlü doğaçlama yapısı anlatılmıştır. IV. cümleden itibaren ise Tanzimat Dönemi ile başlayan Batı tarzı yazılı tiyatroya geçilmiş, konu farklılaşmıştır. Dolayısıyla ikinci paragraf IV. cümle ile başlamalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-3",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Arkeolojik kazılarda ortaya çıkarılan antik seramikler, geçmiş uygarlıkların günlük yaşamı hakkında en güvenilir bilgileri sunar. (II) Ancak killi toprağın şekillendirilip pişirilmesiyle elde edilen bu kaplar, ısıya ve neme karşı oldukça dirençlidir. (III) Toprak altında binlerce yıl bozulmadan kalabilmelerinin sırrı da tam olarak bu dayanıklılıkta gizlidir. (IV) Araştırmacılar, seramik üzerindeki motiflerden o dönemin inançlarını ve estetik anlayışını kolayca okuyabilirler. (V) Bu yüzden arkeologlar bir kazı alanında seramik buluntulara rastladıklarında döneme dair önemli tarihlendirmeler yapabilirler.\n\nYukarıdaki numaralanmış cümlelerin anlamlı bir bütün oluşturması için hangilerinin birbiriyle yer değiştirmesi gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I ile III"
+        },
+        {
+          "key": "B",
+          "text": "II ile III"
+        },
+        {
+          "key": "C",
+          "text": "II ile IV"
+        },
+        {
+          "key": "D",
+          "text": "III ile V"
+        },
+        {
+          "key": "E",
+          "text": "IV ile V"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "I. cümlede seramiklerin sunduğu bilgilerden bahsedildikten sonra IV. cümlenin gelmesi (motiflerden inanç ve estetik okunması) anlam akışını sürdürür. Ardından II. cümle (kapların fiziksel dayanıklılığı) ve bu dayanıklılığa atıf yapan III. cümle gelmelidir. Bu yüzden II ve IV. cümleler yer değiştirmelidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-4",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Geleneksel el sanatları, bir toplumun estetik birikimini ve ustalık mirasını kuşaktan kuğağa taşıyan canlı belgelerdir. Ancak sanayileşme ve seri üretimin yaygınlaşmasıyla birlikte bu sanatlar büyük bir istihdam kaybına uğramıştır. ----. Çünkü makinelerin ürettiği standart eşyalar, el emeğinin taşıdığı o biricik ruhu ve duygusal derinliği asla sunamamaktadır.\n\nBu parçada boş bırakılan yere anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yine de seri üretimin hızı ve ucuzluğu tüketicilerin tercihlerini doğrudan belirlemektedir"
+        },
+        {
+          "key": "B",
+          "text": "Devletlerin bu sanatları korumak adına teşvik paketleri açıklaması zorunluluk haline gelmiştir"
+        },
+        {
+          "key": "C",
+          "text": "Günümüzde geleneksel el sanatlarıyla uğraşan ustaların sayısı her geçen gün azalmaktadır"
+        },
+        {
+          "key": "D",
+          "text": "Buna rağmen son yıllarda el yapımı ve otantik ürünlere olan ilgi yeniden artmaya başlamıştır"
+        },
+        {
+          "key": "E",
+          "text": "El sanatlarının sergilendiği müzelerin sayısı dünya genelinde hızla çoğalmaktadır"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Boşluktan sonra gelen 'Çünkü makinelerin ürettiği standart eşyalar el emeğinin ruhunu sunamamaktadır' cümlesi, el yapımı ve otantik ürünlere olan ilginin neden yeniden arttığını gerekçelendirmektedir. Bu nedenle D seçeneği parçayı anlamlı şekilde tamamlar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-5",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "----. Oysa gerçek okuma, metnin yüzeyindeki kelimelerin ötesine geçip yazarın satır aralarına gizlediği anlamları keşfetme sürecidir. Pasif bir zihinle sayfaları çevirmek insana sadece yüzeysel bir malumat kazandırır. Eleştirel ve aktif bir okur ise metinle sürekli bir diyalog halinde olarak kendi düşünce dünyasını yeniden inşa eder.\n\nBu parçanın başına anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Edebî eserlerin zihinsel gelişime katkısı yadsınamaz bir gerçektir"
+        },
+        {
+          "key": "B",
+          "text": "Yazarlar okuyucunun ilgisini canlı tutmak için zengin bir dil kullanırlar"
+        },
+        {
+          "key": "C",
+          "text": "Okuma alışkanlığı çocukluk yıllarında kazanılan önemli bir beceridir"
+        },
+        {
+          "key": "D",
+          "text": "Kitap okurken sessiz bir ortamın tercih edilmesi odaklanmayı artırır"
+        },
+        {
+          "key": "E",
+          "text": "Pek çok insan okumayı sadece gözlerin sayfalar üzerinde hızla gezinmesi şeklinde basite indirger"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "İkinci cümledeki 'Oysa gerçek okuma...' ifadesi, ilk cümlede okumanın yüzeysel veya yanlış tanımına dair bir yargı olduğunu gösterir. E seçeneğindeki basite indirgeme anlayışı, 'Oysa...' zıtlık bağlacı ve devamındaki gerçek okuma tanımıyla tam bir uyum sağlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-6",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Günümüzde yapay zekâ teknolojileri, tıp alanında teşhis ve tedavi süreçlerini hızlandırarak devrim yaratmaktadır. (II) Son yıllarda yenilenebilir enerji kaynaklarına yapılan küresel yatırımlar rekor seviyelere ulaşmıştır. (III) Özellikle tıbbi görüntüleme sistemlerinde yapay zekâ algoritmaları, kanserli hücreleri insan gözünün fark edemeyeceği erken aşamalarda tespit edebilmektedir. (IV) Ayrıca hastaların genetik verilerini analiz eden yazılımlar, kişiye özel tedavi protokollerinin geliştirilmesine imkân sağlamaktadır. (V) Tüm bu gelişmeler, sağlık sektöründe hem maliyetleri düşürmekte hem de yaşam kalitesini artırmaktadır.\n\nBu parçadaki numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "II"
+        },
+        {
+          "key": "B",
+          "text": "III"
+        },
+        {
+          "key": "C",
+          "text": "IV"
+        },
+        {
+          "key": "D",
+          "text": "V"
+        },
+        {
+          "key": "E",
+          "text": "I"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Parçada tıp alanında ve sağlık sektöründe kullanılan yapay zekâ teknolojileri anlatılmaktadır. II. cümledeki yenilenebilir enerji yatırımları konusunun bütünlükle ilgisi yoktur ve akışı bozmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-7",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Kahve, dünyada sudan sonra en çok tüketilen içeceklerden biri olarak devasa bir ekonomiye sahiptir. (II) Tropikal iklimlerde yetişen kahve çekirdekleri, toplanıp işlendikten sonra küresel pazara sunulur. (III) Kahve ticareti, pek çok gelişmekte olan ülkenin ana ihracat kalemi ve geçim kaynağıdır. (IV) Kahve demleme yöntemleri ise tarihsel süreç içerisinde coğrafyadan coğrafyaya büyük farklılıklar göstermiştir. (V) Örneğin Türk kahvesi telvesiyle pişirilen tek yöntemken, İtalyan espresso basınçlı suyla elde edilir. (VI) Filtre kahve ve soğuk demleme gibi teknikler ise modern kent yaşamının vazgeçilmez ritüelleri arasına girmiştir.\n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf hangi cümleyle başlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III"
+        },
+        {
+          "key": "B",
+          "text": "IV"
+        },
+        {
+          "key": "C",
+          "text": "V"
+        },
+        {
+          "key": "D",
+          "text": "VI"
+        },
+        {
+          "key": "E",
+          "text": "II"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İlk üç cümlede kahvenin ekonomik boyutu, yetişme şartları ve küresel ticareti ele alınmıştır. IV. cümleden itibaren konu kahve demleme tekniklerine ve kültürel pişirme yöntemlerine kaymıştır. Paragraf IV. cümle ile bölünmelidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-8",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Nano teknoloji, maddelerin atomik ve moleküler düzeyde kontrol edilerek yeni yapıların üretilmesini sağlayan bir bilim dalıdır. (II) Ancak bu mikroskobik boyutlardaki maddelerin doğaya ve insan sağlığına olası zararları henüz tam olarak bilinmemektedir. (III) Bu teknoloji sayesinde tıp, enerji ve malzeme biliminde çığır açan yenilikler gerçekleştirilmektedir. (IV) Örneğin kanser ilaçlarının doğrudan hedef hücreye taşınması nano tüplerle mümkün hale gelmiştir. (V) Dolayısıyla nano teknolojinin sunduğu büyük fırsatların yanında potansiyel risklerinin de titizlikle araştırılması gerekmektedir.\n\nYukarıdaki numaralanmış cümlelerin anlamlı bir bütün oluşturması için hangilerinin birbiriyle yer değiştirmesi gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I ile II"
+        },
+        {
+          "key": "B",
+          "text": "I ile III"
+        },
+        {
+          "key": "C",
+          "text": "II ile III"
+        },
+        {
+          "key": "D",
+          "text": "III ile IV"
+        },
+        {
+          "key": "E",
+          "text": "IV ile V"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "I. cümledeki tanımdan sonra nano teknolojinin olumlu katkılarını anlatan III ve IV. cümleler gelmelidir. 'Ancak' ile başlayan ve riskleri belirten II. cümle ise IV. cümleden sonra getirilerek V. cümledeki sonuca ('fırsatların yanında potansiyel riskler') bağlanmalıdır. Bu nedenle II ve III yer değiştirmelidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-9",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Edebiyatta üslup, bir yazarın duygu ve düşüncelerini aktarırken tercih ettiği özgün kelime seçimi ve cümle yapısıdır. Konu ne kadar sıradan olursa olsun, güçlü bir üsluba sahip yazar o konuyu eşsiz bir sanat yapıtına dönüştürebilir. ----. Bu nedenle edebiyat tarihinde kalıcı olanlar, ne anlattıklarıyla değil nasıl anlattıklarıyla öne çıkan yazarlardır.\n\nBu parçada boş bırakılan yere anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazarın yaşadığı dönemin toplumsal olayları onun üslubunu doğrudan etkiler"
+        },
+        {
+          "key": "B",
+          "text": "Eleştirmenler bir eseri incelerken genellikle konunun özgünlüğüne dikkat ederler"
+        },
+        {
+          "key": "C",
+          "text": "Roman türünün gelişimi, üslup arayışlarının çeşitlenmesine zemin hazırlamıştır"
+        },
+        {
+          "key": "D",
+          "text": "Aksine zayıf bir anlatım, en ilgi çekici konuların bile sönük kalmasına yol açar"
+        },
+        {
+          "key": "E",
+          "text": "Okuyucuların büyük bir kısmı derinlikli üslup yerine sürükleyici kurguları tercih eder"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Parçada güçlü üslubun sıradan konuyu sanata dönüştüreceği belirtilmiştir. Zıtlık içeren 'Aksine zayıf bir anlatım...' cümlesi bu düşünceyi tamamlar ve son cümledeki 'nasıl anlatıldığının önemi' vurgusuna temel oluşturur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-10",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Bireysel hafıza gibi toplumların da bir kolektif hafızası vardır. Sözlü gelenekler, mimari yapılar, bayramlar ve mitler bu hafızanın diri kalmasını sağlayan taşıyıcı unsurlardır. Bir toplum, geçmişine ait bu simgeleri yitirdiğinde ortak değerlerini ve kimliğini de kaybetme riskiyle karşı karşıya kalır. Hafızasını yitiren bir toplum, başka kültürlerin etkisi altına girmeye açık hale gelir. Kısacası ----.\n\nBu parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "kültürel etkileşim toplumların gelişmesi için kaçınılmaz bir süreçtir"
+        },
+        {
+          "key": "B",
+          "text": "mimari eserlerin korunması devletlerin birincil görevi olmalıdır"
+        },
+        {
+          "key": "C",
+          "text": "sözlü edebiyat ürünleri yazılı eserlere göre daha hızlı unutulur"
+        },
+        {
+          "key": "D",
+          "text": "her toplum kendi tarihini yeniden yazma hakkına sahiptir"
+        },
+        {
+          "key": "E",
+          "text": "toplumsal hafızayı korumak bir milletin geleceğe dönük varoluş teminatıdır"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parça boyunca toplumsal hafızanın ve simgelerin korunmasının kimlik kaybını engellediği anlatılmıştır. 'Kısacası' özetleme bağlacından sonra parçanın genel mesajını özetleyen E seçeneği getirilmelidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-11",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Göçmen kuşlar, her yıl mevsimsel değişikliklere bağlı olarak binlerce kilometrelik zorlu yolculuklara çıkarlar. (II) Kuşların göç yollarını belirlerken dünyanın manyetik alanını ve yıldızların konumunu kullandıkları bilinmektedir. (III) Okyanuslardaki plastik kirliliği deniz canlılarının yaşam alanlarını her geçen gün daha fazla tehdit ediyor. (IV) Yolculuk sırasında hava akımlarından yararlanarak süzülen kuşlar, bu sayede enerjilerini tasarruflu kullanırlar. (V) Ancak iklim değişikliği ve ışık kirliliği gibi insan kaynaklı etkenler bu hassas göç rotalarını bozmaktadır.\n\nBu parçadaki numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III"
+        },
+        {
+          "key": "B",
+          "text": "II"
+        },
+        {
+          "key": "C",
+          "text": "IV"
+        },
+        {
+          "key": "D",
+          "text": "V"
+        },
+        {
+          "key": "E",
+          "text": "I"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Metinde göçmen kuşların yolculukları, yön bulma yöntemleri ve göç rotaları anlatılırken III. cümlede aniden okyanuslardaki plastik kirliliğine geçilmiş ve akış bozulmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-12",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Göbeklitepe, Şanlıurfa yakınlarında yer alan ve insanlık tarihinin bilinen en eski tapınak kompleksi kabul edilen bir arkeolojik alandır. (II) MÖ 9600 yıllarına tarihlenen bu yapı, yerleşik hayata geçiş ve dinler tarihi hakkındaki yerleşik ezberleri bozmuştur. (III) Büyüleyici T biçimli sütunlar ve üzerindeki hayvan kabartmaları, dönemin taş işçiliğindeki yüksek seviyeyi göstermektedir. (IV) Arkeolojik kazı teknikleri, son elli yılda dijital belgeleme ve jeofiziksel tarama yöntemlerinin katılımıyla büyük bir dönüşüm geçirmiştir. (V) Yeni nesil LİDAR ve uydu görüntüleme sistemleri, toprağın altındaki kalıntıları kazı yapmadan tespit etmeyi mümkün kılmaktadır. (VI) Bu teknolojik imkânlar, arkeologların çalışma sürelerini kısaltırken verilere zarar vermeden ulaşmalarını sağlamaktadır.\n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf hangi cümleyle başlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III"
+        },
+        {
+          "key": "B",
+          "text": "IV"
+        },
+        {
+          "key": "C",
+          "text": "V"
+        },
+        {
+          "key": "D",
+          "text": "VI"
+        },
+        {
+          "key": "E",
+          "text": "II"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "I, II ve III. cümleler Göbeklitepe antik kentinin tarihsel ve mimari özelliklerini işlerken IV. cümleden itibaren modern arkeolojik kazı ve tarama teknolojilerine geçilmiştir. İkinci paragraf IV ile başlamalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-13",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Şiir tercümesi, edebiyat dünyasının en tartışmalı ve zor alanlarından biridir. (II) Çünkü düzyazı fikirleri aktarırken şiir; ritmi, ahengi ve duygu yoğunluğunu ön plana çıkarır. (III) Bu nedenle bir şiiri başka bir dile çevirirken sadece sözcüklerin anlamını değil, o dilin musiki dokusunu da yakalamak gerekir. (IV) Çevirmen, hedef dilde aynı estetik etkiyi yaratabilmek için adeta şiiri yeniden yazmak zorunda kalır. (V) Sözlükten kelime karşılığı arayarak yapılan mekanik bir çeviri, şiirin ruhunu tamamen öldürür.\n\nYukarıdaki numaralanmış cümlelerin anlamlı bir bütün oluşturması için hangilerinin birbiriyle yer değiştirmesi gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I ile II"
+        },
+        {
+          "key": "B",
+          "text": "II ile IV"
+        },
+        {
+          "key": "C",
+          "text": "III ile V"
+        },
+        {
+          "key": "D",
+          "text": "IV ile V"
+        },
+        {
+          "key": "E",
+          "text": "I ile III"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "II. cümlede şiirin ahenk ve ritim boyutu vurgulandıktan sonra V. cümlenin gelerek mekanik kelime çevirisinin bu ruhu öldüreceğini söylemesi gerekir. Ardından 'Bu nedenle...' diyen III. cümle ve sonuç mahiyetindeki IV. cümle gelmelidir. III ve V yer değiştirmelidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-14",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Dijitalleşme çağında kütüphaneler kabuk değiştiriyor. Eskiden sadece sessizce kitap okunan ve araştırma yapılan mekânlar olan kütüphaneler, günümüzde sosyal etkileşim ve dijital üretim merkezlerine dönüşüyor. ----. Nitekim genç kuşak okurlar, sadece bilgiye erişmekle kalmayıp o bilgiyi atölye çalışmalarında işleyebilecekleri esnek çalışma alanları talep ediyor.\n\nBu parçada boş bırakılan yere anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Basılı kitapların yerini tamamen e-kitapların alması bu değişimin en büyük sebebidir"
+        },
+        {
+          "key": "B",
+          "text": "Ancak kütüphane bütçelerinin yetersizliği bu dönüşümün önüne geçmektedir"
+        },
+        {
+          "key": "C",
+          "text": "Klasik kütüphanecilik anlayışını savunan uzmanlar bu durumdan rahatsızlık duymaktadır"
+        },
+        {
+          "key": "D",
+          "text": "Artık binaların mimari tasarımları da bu yeni kullanıcı beklentilerine göre şekillenmektedir"
+        },
+        {
+          "key": "E",
+          "text": "İnternet erişiminin yaygınlaşması fiziksel kütüphanelere olan ihtiyacı azaltmıştır"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Son cümledeki 'Nitekim genç kuşak... esnek çalışma alanları talep ediyor' destekleyici ifadesi, boşluğa getirilecek olan mimari tasarımın ve mekân kullanımının kullanıcı beklentilerine göre şekillendiği bilgisini (D seçeneği) doğrulamaktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-15",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "----. İklim krizinden biyolojik çeşitlilik kaybına kadar pek çok küresel sorun, insanın doğadan koparak onu sadece sömürülecek bir kaynak olarak görmesinden kaynaklanıyor. Oysa kadim kültürlerde insan, doğanın efendisi değil, onun mütevazı bir parçası kabul edilirdi. Doğayla yeniden sağlıklı bir bağ kurabilmek için bu bütüncül anlayışa dönmek zorundayız.\n\nBu parçanın başına anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sanayileşme süreciyle birlikte kent nüfusu kırsal nüfusu geride bırakmıştır"
+        },
+        {
+          "key": "B",
+          "text": "Çevre bilincinin okullarda ders olarak okutulması gerekli bir adımdır"
+        },
+        {
+          "key": "C",
+          "text": "Yenilenebilir enerji kaynakları küresel ısınmayla mücadelede en önemli silahtır"
+        },
+        {
+          "key": "D",
+          "text": "Geri dönüşüm tesislerinin yaygınlaştırılması çevre kirliliğini büyük oranda önler"
+        },
+        {
+          "key": "E",
+          "text": "Günümüz insanının çevreyle kurduğu pragmatik ve yıkıcı ilişki derin bir zihniyet krizinin ürünüdür"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parçada insanın doğayı sömürülecek bir kaynak görmesi ve bunun yarattığı küresel krizler anlatılmaktadır. E seçeneğindeki 'pragmatik ve yıkıcı ilişki / zihniyet krizi' tespiti paragrafın ilk cümlesi olmaya en uygun ifadedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-16",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Yapay zekâ destekli dil modelleri, metin çevirisi ve içerik üretimi konusunda insan yeteneğine yakın performans sergilemektedir. (II) Son yıllarda elektrikli otomobil satışlarının artması küresel otomotiv sektörünü kökten değiştirmektedir. (III) Bu modeller, devasa veri kümelerini analiz ederek dilin dilbilgisi kurallarını ve anlamsal bağlamını öğrenebilmektedir. (IV) Ancak deyimler, mizah ve kültürel ögeler gibi soyut katmanlarda zaman zaman hatalı çıktılar verebilmektedir. (V) Yine de sürekli güncellenen algoritmalar sayesinde bu teknolojik araçların doğruluk oranı her geçen gün yükselmektedir.\n\nBu parçadaki numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "II"
+        },
+        {
+          "key": "B",
+          "text": "III"
+        },
+        {
+          "key": "C",
+          "text": "IV"
+        },
+        {
+          "key": "D",
+          "text": "V"
+        },
+        {
+          "key": "E",
+          "text": "I"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Parça tamamen yapay zekâ dil modellerinin çalışma prensibi ve başarısı üzerinedir. II. cümledeki elektrikli otomobil satışı konusu parça bütünlüğünü bozmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-17",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Gutenberg’in hareketli harflerle matbaayı icat etmesi, bilginin demokratikleşmesinde ve geniş kitlelere yayılmasında en büyük dönüm noktasıdır. (II) El yazması kitapların üretimi aylar alırken matbaa sayesinde binlerce nüsha kısa sürede basılabilir hale gelmiştir. (III) Bu durum, okuryazarlık oranının artmasını ve Bilimsel Devrim’in doğuşunu tetiklemiştir. (IV) Günümüzde ise dijital yayıncılık, matbaanın üstlendiği bu işlevi internet ortamına taşımıştır. (V) E-kitaplar ve çevrim içi kütüphaneler sayesinde her yaştan okur, dünyanın her yerinden milyonlarca kaynağa saniyeler içinde erişebilmektedir. (VI) Bu dijital dönüşüm, fiziksel kitap kütüphanelerinin ve sahaf kültürünün geleceğini tartışmaya açmıştır.\n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf hangi cümleyle başlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III"
+        },
+        {
+          "key": "B",
+          "text": "IV"
+        },
+        {
+          "key": "C",
+          "text": "V"
+        },
+        {
+          "key": "D",
+          "text": "VI"
+        },
+        {
+          "key": "E",
+          "text": "II"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İlk üç cümlede matbaanın icadı ve tarihsel etkileri anlatılmıştır. IV. cümleden itibaren 'Günümüzde ise dijital yayıncılık...' denilerek günümüz dijital ortamına geçilmiş ve yeni bir paragraf konusu başlamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-18",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "(I) Eleştirel düşünme, bireyin karşılaştığı bilgileri olduğu gibi kabul etmek yerine sorgulama ve analiz etme becerisidir. (II) Ancak bu durum, bireyin her şeye önyargıyla yaklaşması veya her fikri reddetmesi anlamına gelmez. (III) Günümüz bilgi kirliliği çağında eleştirel düşünme yetisine sahip olmak bir lüks değil, hayati bir gerekliliktir. (IV) Bilakis eleştirel düşünür, kanıtlara dayalı olarak doğruyu yanlıştan ayırmaya çalışan nesnel bir zihne sahiptir. (V) Bu nedenle eğitim sistemlerinin temel amacı, ezberci değil sorgulayan bireyler yetiştirmek olmalıdır.\n\nYukarıdaki numaralanmış cümlelerin anlamlı bir bütün oluşturması için hangilerinin birbiriyle yer değiştirmesi gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I ile II"
+        },
+        {
+          "key": "B",
+          "text": "II ile III"
+        },
+        {
+          "key": "C",
+          "text": "III ile IV"
+        },
+        {
+          "key": "D",
+          "text": "IV ile V"
+        },
+        {
+          "key": "E",
+          "text": "II ile IV"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "II. cümledeki '...her fikri reddetmesi anlamına gelmez' olumsuz yargısının hemen ardından IV. cümledeki 'Bilakis eleştirel düşünür...' düzeltmesi gelmelidir. Dolayısıyla III ve IV yer değiştirdiğinde parçadaki anlam zinciri kusursuz hale gelir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-19",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Şehirleşme hızı arttıkça binaların arasında sıkışıp kalan insan için doğaya kaçış bir lüks değil ihtiyaç haline gelmiştir. Hafta sonları kent ormanlarına veya sahil şeritlerine akın eden kalabalıklar bu arayışın somut göstergesidir. ----. Çünkü doğada geçirilen zaman, stres hormonlarını azaltırken odaklanma becerisini ve psikolojik direnci belirgin biçimde artırmaktadır.\n\nBu parçada boş bırakılan yere anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ancak kent içi ulaşım sorunları bu alanlara erişimi zorlaştırmaktadır"
+        },
+        {
+          "key": "B",
+          "text": "Belediyelerin bu talebe yanıt vermek adına park yatırımlarını artırması beklenmektedir"
+        },
+        {
+          "key": "C",
+          "text": "Modern mimari artık binaların teraslarında dikey ormanlar oluşturmayı denemektedir"
+        },
+        {
+          "key": "D",
+          "text": "Bilimsel araştırmalar da bu doğa temasının zihinsel sağlık üzerindeki olumlu etkilerini doğrulamaktadır"
+        },
+        {
+          "key": "E",
+          "text": "Yeşil alanların yok olması kentlerin hava kalitesini ciddi oranda düşürmektedir"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Son cümledeki 'Çünkü doğada geçirilen zaman stres hormonlarını azaltır...' gerekçesi, boşlukta D seçeneğindeki 'zihinsel sağlık üzerindeki olumlu etkilerin araştırmalarla doğrulanması' ifadesini tam olarak açıklar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-20",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Yazmak, içsel bir hesaplaşma ve zihni düzene sokma eylemidir. Kağıda dökülen her cümle, soyut düşünceleri somutlaştırarak zihnin karmaşasını durgunlaştırır. Yaşadığı duygusal yoğunlukları veya zihinsel düğümleri yazarak çözmeye çalışan bir insan, aslında kendi kendisinin terapisti olur. Bu yüzden düzenli yazı yazma alışkanlığı sadece edebi bir uğraş değildir; ----.\n\nBu parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "kitap okuma alışkanlığıyla desteklenmediği sürece yetersiz kalır"
+        },
+        {
+          "key": "B",
+          "text": "yazarın dilbilgisi kurallarına ne kadar hakim olduğunu gösterir"
+        },
+        {
+          "key": "C",
+          "text": "edebi eserlerin ticari başarısını belirleyen ana etkendir"
+        },
+        {
+          "key": "D",
+          "text": "toplumsal sorunlara dikkat çekmek amacıyla kullanılan bir araçtır"
+        },
+        {
+          "key": "E",
+          "text": "aynı zamanda zihinsel ve ruhsal arınmayı sağlayan etkili bir içsel terapi yöntemidir"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parçada yazmanın 'zihni düzene soktuğu' ve 'kişinin kendi kendisinin terapisti olduğu' işlenmiştir. 'Sadece edebi bir uğraş değildir; ...' ifadesinden sonra yazmanın terapatik/ruhsal arınma boyutunu öne çıkaran E seçeneği gelmelidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-yapi-73",
+      "topic_id": "topic-turkce-paragraf-yapi",
+      "question_text": "Paragraf oluşturulurken cümlelerin akışı neye göre belirlenir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "En uzun cümlelerin sonda olması"
+        },
+        {
+          "key": "B",
+          "text": "Düşünsel ve mantıksal bağın sürekliliği"
+        },
+        {
+          "key": "C",
+          "text": "Sadece yazarın rastgele seçimi"
+        },
+        {
+          "key": "D",
+          "text": "Cümlelerin harf sayısının eşitliği"
+        },
+        {
+          "key": "E",
+          "text": "Her cümlenin farklı bir konudan bahsetmesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bir paragrafı oluşturan cümleler mantıksal bir sıra ve birbirini takip eden anlam ilişkisiyle düzenlenir.",
+      "difficulty_level": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-yuzde-oran",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Bir Sayının Yüzdesini Bulma",
+      "body": "A sayısının %X'i = A . (X / 100) işlemi ile hesaplanır. Örnek: 200'ün %15'i = 200 . 15/100 = 30."
+    },
+    {
+      "card_number": 2,
+      "title": "Yüzde Değişimi Hesaplama",
+      "body": "Artış veya azalış yüzdesi = (Değişim Miktarı / İlk Miktar) . 100 formülüyle bulunur."
+    },
+    {
+      "card_number": 3,
+      "title": "100x Değişken Kabul Etme",
+      "body": "Yüzde problemlerinde bilinmeyen sayıya 'x' yerine '100x' demek küsuratlı işlemlerden kurtarır."
+    },
+    {
+      "card_number": 4,
+      "title": "Üst Üste Yüzde Zam (Bileşik)",
+      "body": "100 TL'lik ürüne %20 zam (120 TL), ardından %10 zam yapılırsa son fiyat 120 + 12 = 132 TL olur."
+    },
+    {
+      "card_number": 5,
+      "title": "Doğru Orantı Tanımı",
+      "body": "İki çokluktan biri artarken diğeri de aynı oranda artıyorsa doğru orantılıdır (a / b = k). Çapraz çarpım yapılır."
+    },
+    {
+      "card_number": 6,
+      "title": "Ters Orantı Tanımı",
+      "body": "İki çokluktan biri artarken diğeri aynı oranda azalıyorsa ters orantılıdır (a . b = k). Yan yana çarpım yapılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Orantı Sabiti (k) Mantığı",
+      "body": "a, b, c sayıları sırasıyla 2, 3, 5 ile orantılı ise a=2k, b=3k, c=5k kabul edilir."
+    },
+    {
+      "card_number": 8,
+      "title": "Aritmetik Ortalama",
+      "body": "Sayıların toplamının sayı adedine bölünmesidir: A.O = (x1 + x2 + ... + xn) / n."
+    },
+    {
+      "card_number": 9,
+      "title": "Geometrik Ortalama",
+      "body": "n adet sayının çarpımının n. dereceden köküdür. İki sayı için G.O = kök(a . b)."
+    },
+    {
+      "card_number": 10,
+      "title": "Karışım Problemleri Yüzdesi",
+      "body": "Saf Madde Miktarı / Toplam Karışım Miktarı = Karışımın Yüzdesi / 100 formülü kullanılır."
+    }
+  ]
+}

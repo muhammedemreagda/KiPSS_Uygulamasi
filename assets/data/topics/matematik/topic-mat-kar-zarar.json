@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-kar-zarar",
+  "title": "Kâr-Zarar Problemleri",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-kar-zarar",
+    "topic_id": "topic-mat-kar-zarar",
+    "title": "Kâr-Zarar Problemleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Kâr-Zarar Problemleri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Kâr-Zarar Problemleri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nKâr-Zarar Problemleri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Kâr-Zarar Problemleri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Maliyet, Satış ve Kâr İlişkisi",
+        "body": "Satış Fiyatı = Maliyet + Kâr. Kâr tutarı = Maliyet x (Kâr Yüzdesi / 100)."
+      },
+      {
+        "card_number": 2,
+        "title": "Maliyet ve Zarar İlişkisi",
+        "body": "Satış Fiyatı = Maliyet - Zarar. Zarar tutarı = Maliyet x (Zarar Yüzdesi / 100)."
+      },
+      {
+        "card_number": 3,
+        "title": "Etiket Fiyatı Üzerinden İndirim",
+        "body": "İndirimli Fiyat = Etiket Fiyatı - İndirim Tutarı. İndirim daima Etiket Fiyatı üzerinden hesaplanır."
+      },
+      {
+        "card_number": 4,
+        "title": "Maliyete 100x Verme Taktiği",
+        "body": "Ürünün maliyetine 100x denir. %30 kârla satış 130x, bu fiyat üzerinden %10 indirim ise 130x - 13x = 117x olur."
+      },
+      {
+        "card_number": 5,
+        "title": "Enflasyon ve Alım Gücü",
+        "body": "Maaşa yapılan zam oranı enflasyon oranından düşükse alım gücü düşer, yüksekse alım gücü artar."
+      },
+      {
+        "card_number": 6,
+        "title": "Çürük / Fire Verme Problemleri",
+        "body": "Meyve çürüyüp fire verirse kilogram maliyeti artar. Toplam ödenen para / Kalan sağlam miktar = Yeni Birim Maliyet."
+      },
+      {
+        "card_number": 7,
+        "title": "Hileli Tartı Problemleri",
+        "body": "Eksik tartan tartı satıcıya kâr sağlar. 1000 gr yerine 800 gr tartan satıcı %25 kâr elde eder (200/800 = 1/4)."
+      },
+      {
+        "card_number": 8,
+        "title": "Kâr Oranı Neye Göre Hesaplanır?",
+        "body": "Aksi belirtilmedikçe kâr veya zarar oranı daima MALİYET FİYATINA göre hesaplanır."
+      },
+      {
+        "card_number": 9,
+        "title": "Kapatıyoruz İndirimi Şifresi",
+        "body": "Maliyeti 100 olan mala %50 zam yapıp (150), sonra %50 indirim yapılırsa sonuç 75 olur (%25 zarar edilir)."
+      },
+      {
+        "card_number": 10,
+        "title": "Faiz Hesaplama Formülü",
+        "body": "Yıllık Faiz = (Ana Para . Faiz Oranı . Zaman) / 100 (F = A.n.t / 100)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-kar-zarar-1",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir tüccar 200 TL'ye aldığı bir ürünü 260 TL'ye satmaktadır. Buna göre, bu tüccarın bu satıştan elde ettiği kâr oranı yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kâr miktarı = Satış Fiyatı - Maliyet Fiyatı = 260 - 200 = 60 TL'dir. Kâr oranı maliyet üzerinden hesaplanır: (60 / 200) · 100 = %30 kâr elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-2",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "%20 kârla 360 TL'ye satılan bir malın maliyet fiyatı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "270"
+        },
+        {
+          "key": "B",
+          "text": "280"
+        },
+        {
+          "key": "C",
+          "text": "290"
+        },
+        {
+          "key": "D",
+          "text": "300"
+        },
+        {
+          "key": "E",
+          "text": "320"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Maliyet fiyatına M dersek, %20 kârlı satış fiyatı M · (120/100) = 1,20 M olur. 1,20 M = 360 denkleminden M = 360 / 1,20 = 300 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-3",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "%15 zarar ile 340 TL'ye satılan bir mal, %25 kâr ile satılsaydı satış fiyatı kaç TL olurdu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "500"
+        },
+        {
+          "key": "B",
+          "text": "480"
+        },
+        {
+          "key": "C",
+          "text": "450"
+        },
+        {
+          "key": "D",
+          "text": "520"
+        },
+        {
+          "key": "E",
+          "text": "550"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Maliyet M olsun. %15 zarar ile satış: M · (85/100) = 340 ⇒ M = 340 · 100 / 85 = 400 TL maliyet bulunur. %25 kârlı satış fiyatı = 400 · (125/100) = 500 TL elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-4",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir mağaza etiket fiyatı üzerinden %20 indirim yaparak bir elbiseyi 240 TL'ye satmaktadır. Bu elbise etiket fiyatından satılsaydı %50 kâr elde edileceğine göre, elbisenin maliyet fiyatı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "160"
+        },
+        {
+          "key": "B",
+          "text": "180"
+        },
+        {
+          "key": "C",
+          "text": "200"
+        },
+        {
+          "key": "D",
+          "text": "220"
+        },
+        {
+          "key": "E",
+          "text": "250"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Etiket fiyatı E olsun. %20 indirimli fiyat E · 0,80 = 240 TL ⇒ E = 300 TL. Etiket fiyatından satış maliyetin %150'sine eşittir: Maliyet M dersek M · 1,50 = 300 ⇒ M = 200 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-5",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir esnaf elindeki malların 2/5'ini %20 kârla, kalanını ise %10 zararla satıyor. Esnafın tüm satış sonundaki kâr-zarar durumu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "%4 zarar"
+        },
+        {
+          "key": "B",
+          "text": "%2 zarar"
+        },
+        {
+          "key": "C",
+          "text": "Ne kâr ne zarar"
+        },
+        {
+          "key": "D",
+          "text": "%4 kâr"
+        },
+        {
+          "key": "E",
+          "text": "%2 kâr"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Toplam mal maliyeti 100 TL kabul edilsin. 2/5'i yani 40 TL'lik kısmı %20 kârla satılınca +8 TL kâr elde edilir. Kalan 60 TL'lik kısmı %10 zararla satılınca -6 TL zarar edilir. Net kâr = +8 - 6 = +2 TL olup genel durum %2 kârdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-6",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir malın %25 kârlı satış fiyatı A TL, %15 zararlı satış fiyatı B TL'dir. A - B = 160 TL olduğuna göre, bu malın maliyeti kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "360"
+        },
+        {
+          "key": "B",
+          "text": "400"
+        },
+        {
+          "key": "C",
+          "text": "440"
+        },
+        {
+          "key": "D",
+          "text": "480"
+        },
+        {
+          "key": "E",
+          "text": "500"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Maliyet M olsun. A = 1,25 M ve B = 0,85 M dır. A - B = 1,25 M - 0,85 M = 0,40 M = 160 TL denkleminden M = 160 / 0,40 = 400 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-7",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir pazarcı 12 tanesini 30 TL'ye aldığı yumurtaların 10 tanesini 35 TL'ye satmaktadır. Buna göre, pazarcının kâr oranı yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "50"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "1 yumurtanın alış fiyatı = 30 / 12 = 2,5 TL. 1 yumurtanın satış fiyatı = 35 / 10 = 3,5 TL. Yumurta başına kâr = 3,5 - 2,5 = 1 TL. Kâr oranı = (1 / 2,5) · 100 = %40 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-8",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir mağaza bir ceketin etiket fiyatı üzerinden önce %20, ardından indirimli fiyat üzerinden %30 indirim uyguluyor. Cekete yapılan toplam indirim oranı yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "46"
+        },
+        {
+          "key": "C",
+          "text": "44"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "38"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Etiket fiyatı 100 TL kabul edilirse %20 indirimle 80 TL olur. 80 TL üzerinden %30 indirim yapılırsa: 80 · (30/100) = 24 TL ilave indirim yapılır. Son fiyat = 80 - 24 = 56 TL. Toplam indirim = 100 - 56 = %44 tür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-9",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir mal belirli bir fiyattan satılmaktadır. Eğer bu mal 80 TL daha fazla bir fiyata satılsaydı, elde edilen kâr oranı %10'dan %30'a çıkacaktı. Buna göre, bu malın maliyeti kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "400"
+        },
+        {
+          "key": "B",
+          "text": "350"
+        },
+        {
+          "key": "C",
+          "text": "300"
+        },
+        {
+          "key": "D",
+          "text": "450"
+        },
+        {
+          "key": "E",
+          "text": "500"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kâr oranındaki %30 - %10 = %20'lik artış 80 TL'lik fiyat farkına denk gelmektedir. Maliyet M dersek: M · (20/100) = 80 ⇒ M = 80 · 5 = 400 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-10",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir satıcı bir kitabı 180 TL'ye sattığında satış fiyatı üzerinden %20 kâr elde etmektedir. Buna göre, satıcının bu satıştan elde ettiği kâr miktarı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "36"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Kâr oranı doğrudan satış fiyatı üzerinden tanımlandığından Kâr = 180 · (20/100) = 36 TL olarak hesaplanır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-11",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir manav aldığı karpuzların %20'sinin taşıma esnasında ezilip çürüdüğünü görüyor. Manavın tüm maliyet üzerinden %20 kâr edebilmesi için kalan karpuzların kilosunu birim alış fiyatına göre yüzde kaç kârla satması gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "55"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "100 kg karpuzu kg'ı 1 TL'den alsa toplam maliyet 100 TL olur. %20 kâr hedefi için 120 TL gelir elde etmelidir. %20 çürüyünce elinde 80 kg karpuz kalır. Satış birim fiyatı = 120 / 80 = 1,5 TL olmalıdır. Birim alış fiyatı 1 TL iken satış fiyatı 1,5 TL olduğuna göre birim bazda %50 kâr koymalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-12",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir malın maliyet fiyatı, satış fiyatının %40'ına eşittir. Buna göre, bu malın satışından maliyet üzerinden yüzde kaç kâr elde edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "120"
+        },
+        {
+          "key": "C",
+          "text": "125"
+        },
+        {
+          "key": "D",
+          "text": "150"
+        },
+        {
+          "key": "E",
+          "text": "160"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Satış fiyatı S = 100 TL olsun. Maliyet M = 40 TL olur. Kâr miktarı = S - M = 100 - 40 = 60 TL dir. Maliyet üzerinden kâr oranı = (60 / 40) · 100 = %150 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-13",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Tanesi 4 TL'den alınan 50 adet cam bardağın 10 tanesi taşıma sırasında kırılmıştır. Sağlam kalan bardakların tanesi kaç TL'den satılırsa maliyet üzerinden %25 kâr elde edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5,5"
+        },
+        {
+          "key": "B",
+          "text": "5,75"
+        },
+        {
+          "key": "C",
+          "text": "6,25"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "6,5"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam maliyet = 50 · 4 = 200 TL. %25 kâr hedeflendiğinden elde edilecek ciro = 200 · 1,25 = 250 TL olmalıdır. Kırılanlardan sonra sağlam kalan bardak sayısı = 50 - 10 = 40 adet. Birim satış fiyatı = 250 / 40 = 6,25 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-14",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "%25 kârla 450 TL'ye satılan bir ürüne satış fiyatı üzerinden %10 indirim uygulanırsa, son durumdaki kâr oranı yüzde kaç olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12,5"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "17,5"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Maliyet M ise 1,25 M = 450 ⇒ M = 360 TL. Satış fiyatına %10 indirim: 450 · 0,90 = 405 TL yeni satış fiyatı. Yeni kâr = 405 - 360 = 45 TL. Kâr oranı = (45 / 360) · 100 = %12,5 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-15",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "5 adet gömleğin maliyet fiyatı, 4 adet gömleğin satış fiyatına eşittir. Buna göre, gömlek satışından elde edilen kâr oranı yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "33,3"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "5 · M = 4 · S denkleminden M = 4k kabul edilirse S = 5k olur. Gömlek başına kâr = S - M = 5k - 4k = k birimdir. Maliyet üzerinden kâr oranı = (k / 4k) · 100 = %25 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-16",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "%30 zarar ile 280 TL'ye satılan bir ürün, %20 kâr elde etmek için kaç TL'ye satılmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "440"
+        },
+        {
+          "key": "B",
+          "text": "480"
+        },
+        {
+          "key": "C",
+          "text": "450"
+        },
+        {
+          "key": "D",
+          "text": "500"
+        },
+        {
+          "key": "E",
+          "text": "520"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Maliyet M olsun. %30 zararlı satış: M · 0,70 = 280 ⇒ M = 400 TL. %20 kârlı hedef satış fiyatı = 400 · 1,20 = 480 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-17",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir satıcı ürünlerin etiket fiyatını maliyet üzerinden %60 kârla belirliyor. Satışların yavaşlaması üzerine etiket fiyatı üzerinden %x indirim yapıldığında %20 kâr elde ediliyor. Buna göre, x kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Maliyet = 100 TL, Etiket fiyatı = 160 TL. Hedef kârlı satış fiyatı = 120 TL. İndirim miktarı = 160 - 120 = 40 TL. Etiket fiyatı üzerinden indirim oranı x = (40 / 160) · 100 = %25 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-18",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Hileli bir tartı ağırlıkları %20 eksik tartmaktadır (örneğin 1 kg gelen bir ürünü 800 gram ölçmektedir). Etiket fiyatını maliyete göre %10 kârla belirleyen bir tüccar bu tartıyı kullandığında gerçek kâr oranı yüzde kaç olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "35"
+        },
+        {
+          "key": "C",
+          "text": "37,5"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "32,5"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1000 g maliyeti 100 TL olsun (1 g = 0,1 TL). Müşteri 1000 g satın almak isteyince hileli tartı 800 g verir, fakat 1000 g sanılarak %10 kârlı fiyat olan 110 TL alınır. Gerçekte verilen 800 g ürünün maliyeti 80 TL'dir. Kâr = 110 - 80 = 30 TL. Gerçek kâr oranı = (30 / 80) · 100 = %37,5 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-19",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir mal %20 kârla 420 TL'ye satılmaktadır. Bu malın satışından elde edilen kâr miktarı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "70"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "84"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "75"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Maliyet M olsun. M · 1,20 = 420 ⇒ M = 350 TL bulunur. Kâr miktarı = Satış Fiyatı - Maliyet = 420 - 350 = 70 TL elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-20",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir mağaza etiket fiyatı üzerinden sırasıyla %10 ve %20 indirim uyguladığında bir ürünün son satış fiyatı 288 TL olmaktadır. Ürünün başlangıçtaki etiket fiyatı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "360"
+        },
+        {
+          "key": "B",
+          "text": "380"
+        },
+        {
+          "key": "C",
+          "text": "420"
+        },
+        {
+          "key": "D",
+          "text": "450"
+        },
+        {
+          "key": "E",
+          "text": "400"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Etiket fiyatı E olsun. E · 0,90 · 0,80 = 288 ⇒ 0,72 E = 288 ⇒ E = 288 / 0,72 = 400 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-21",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir tüccar elindeki ürünlerin yarısını %30 kârla, diğer yarısını %10 zararla satıyor. Bu tüccarın genel kâr durumu yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Miktarlar eşit olduğundan ortalama kâr oranı = (+30% - 10%) / 2 = +20% / 2 = %10 kârdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-22",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "3 tanesi 120 TL'ye satıldığında %20 zarar edilen bir kalem setinden 5 tanesi kaç TL'ye satılırsa %10 kâr elde edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "250"
+        },
+        {
+          "key": "B",
+          "text": "260"
+        },
+        {
+          "key": "C",
+          "text": "270"
+        },
+        {
+          "key": "D",
+          "text": "275"
+        },
+        {
+          "key": "E",
+          "text": "280"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "3 tanesinin maliyeti M3 olsun. M3 · 0,80 = 120 ⇒ M3 = 150 TL. 1 kalem setinin maliyeti = 150 / 3 = 50 TL. 5 kalem setinin maliyeti = 5 · 50 = 250 TL. %10 kârlı hedef satış fiyatı = 250 · 1,10 = 275 TL olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-23",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "%15 kârla satılan bir üründen 45 TL kâr elde edilmiştir. Buna göre, bu ürünün satış fiyatı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "300"
+        },
+        {
+          "key": "B",
+          "text": "330"
+        },
+        {
+          "key": "C",
+          "text": "345"
+        },
+        {
+          "key": "D",
+          "text": "360"
+        },
+        {
+          "key": "E",
+          "text": "350"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Maliyet M olsun. M · (15/100) = 45 ⇒ M = 300 TL maliyet. Satış fiyatı = Maliyet + Kâr = 300 + 45 = 345 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-24",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Maliyeti 200 TL olan A ürünü %30 kârla, maliyeti 300 TL olan B ürünü %20 zararla satılmıştır. İki ürünün toplam satışından sonraki kâr-zarar durumu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ne kâr ne zarar edilir"
+        },
+        {
+          "key": "B",
+          "text": "10 TL kâr edilir"
+        },
+        {
+          "key": "C",
+          "text": "10 TL zarar edilir"
+        },
+        {
+          "key": "D",
+          "text": "20 TL kâr edilir"
+        },
+        {
+          "key": "E",
+          "text": "20 TL zarar edilir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A ürününden Kâr = 200 · (30/100) = +60 TL. B ürününden Zarar = 300 · (20/100) = -60 TL. Net kâr/zarar = +60 - 60 = 0 TL (Ne kâr ne zarar edilir).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-25",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir palto %40 kârla 420 TL'ye satılmaktadır. Eğer bu palto 330 TL'ye satılsaydı, kâr oranı yüzde kaç olurdu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "10"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Maliyet M olsun. M · 1,40 = 420 ⇒ M = 300 TL. 330 TL'ye satılırsa kâr = 330 - 300 = 30 TL. Kâr oranı = (30 / 300) · 100 = %10 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-26",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir esnaf etiket fiyatını maliyet üzerinden %50 kârla belirliyor. Daha sonra etiket fiyatından 50 TL indirim yaparak malı satıyor ve sonuçta %25 kâr elde ediyor. Buna göre, bu malın maliyeti kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "180"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "220"
+        },
+        {
+          "key": "D",
+          "text": "240"
+        },
+        {
+          "key": "E",
+          "text": "250"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Maliyet M olsun. Etiket fiyatı = 1,50 M. İndirimli satış = 1,50 M - 50. Bu fiyat %25 kârlı yani 1,25 M ye eşittir. 1,50 M - 50 = 1,25 M ⇒ 0,25 M = 50 ⇒ M = 200 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-27",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "3 kg elmanın alış fiyatı 2 kg üzümün alış fiyatına eşittir. Elmanın kilosu %10 zararla, üzümün kilosu %20 kârla satılırsa, tüm satıştan elde edilen kâr oranı yüzde kaç olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "6"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Elmanın kg alış fiyatı 2 TL, üzümün kg alış fiyatı 3 TL kabul edilsin. 3 kg elma (6 TL) + 2 kg üzüm (6 TL) = 12 TL toplam maliyet. Elma kg satışı = 2 · 0,90 = 1,8 TL (3 kg = 5,4 TL). Üzüm kg satışı = 3 · 1,20 = 3,6 TL (2 kg = 7,2 TL). Toplam ciro = 5,4 + 7,2 = 12,6 TL. Kâr = 12,6 - 12 = 0,6 TL. Kâr oranı = (0,6 / 12) · 100 = %5 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-28",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "%18 KDV dâhil satış fiyatı 590 TL olan bir ürünün KDV hariç fiyatı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "450"
+        },
+        {
+          "key": "B",
+          "text": "480"
+        },
+        {
+          "key": "C",
+          "text": "500"
+        },
+        {
+          "key": "D",
+          "text": "520"
+        },
+        {
+          "key": "E",
+          "text": "510"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "KDV hariç fiyat F olsun. F · 1,18 = 590 ⇒ F = 590 / 1,18 = 500 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-29",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir mal etiket fiyatı üzerinden %20 indirimle satıldığında %20 kâr elde edilmektedir. Bu mal etiket fiyatı üzerinden indirimsiz satılsaydı kâr oranı yüzde kaç olurdu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "55"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Maliyet M, Etiket fiyatı E olsun. 0,80 E = 1,20 M denkleminden E = (1,20 / 0,80) M = 1,50 M bulunur. Etiket fiyatından satış maliyetin 1,50 katı olduğundan indirimsiz kâr oranı %50 dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kar-zarar-30",
+      "topic_id": "topic-mat-kar-zarar",
+      "question_text": "Bir manav 60 kg domates satın alıyor. Taşınma sırasında domateslerin 1/4'ü ezilerek çöpe atılıyor. Manav kalan domateslerin kilosunu birim alış fiyatına göre %40 kârla sattığına göre, genel kâr-zarar durumu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "%10 kâr"
+        },
+        {
+          "key": "B",
+          "text": "%5 zarar"
+        },
+        {
+          "key": "C",
+          "text": "%10 zarar"
+        },
+        {
+          "key": "D",
+          "text": "Ne kâr ne zarar"
+        },
+        {
+          "key": "E",
+          "text": "%5 kâr"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Kilosu 10 TL olsun. 60 kg domates maliyeti = 600 TL. 1/4'ü (15 kg) atılınca elde 45 kg kalır. Kilosu %40 kârla 14 TL'den satılır. Toplam Ciro = 45 · 14 = 630 TL. Net kâr = 630 - 600 = 30 TL. Genel kâr oranı = (30 / 600) · 100 = %5 kârdır.",
+      "difficulty_level": 4
+    }
+  ]
+}

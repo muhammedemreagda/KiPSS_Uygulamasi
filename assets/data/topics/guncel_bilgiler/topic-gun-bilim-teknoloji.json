@@ -1,0 +1,1887 @@
+{
+  "topic_id": "topic-gun-bilim-teknoloji",
+  "title": "Bilim, Teknoloji, İcatlar & Uzay",
+  "course_id": "course-guncel",
+  "question_count": 60,
+  "quick_note": {
+    "id": "qn-topic-gun-bilim-teknoloji",
+    "topic_id": "topic-gun-bilim-teknoloji",
+    "title": "Bilim, Teknoloji, İcatlar & Uzay Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Güncel Bilgiler & Genel Kültür testinde 'Bilim, Teknoloji, İcatlar & Uzay' konusu, ülkemizde ve dünyada yaşanan son gelişmeleri, kültür-sanat abidelerini ve bilimsel başarıları kapsar.",
+    "content": "Bilim, Teknoloji, İcatlar & Uzay konusu, KPSS Genel Kültür testinde adaylara sınavda doğrudan 6 soru kazandıran güncel ve genel kültür alanıdır.\n\n1. Konunun Kapsamı ve Önemli Başlıklar:\nBilim, Teknoloji, İcatlar & Uzay başlığı altında; uluslararası kuruluşlar, bilimsel buluşlar, uzay araştırmaları, spor şampiyonlukları, edebiyat eserleri ve tarihi/sanatsal mirasımız yer almaktadır.\n\n2. ÖSYM'nin Soru Kurgusu:\n- Son dönemde gerçekleşen olayların aktörleri, tarihleri ve mekanları sorulmaktadır.\n- Türk edebiyatının klasik eserleri ve yazarları eşleştirme olarak sorulabilir.\n- Türkiye'nin yerli ve milli teknolojik projeleri (KAAN, TOGG, TCG Anadolu, İMECE) güncel soru değeri taşır.\n\n3. Çalışma Tavsiyesi:\n- Konu anlatımını okuduktan sonra Hızlı Okuma Kartları ile kilit isim ve kavramları hafızanıza sabitleyin.",
+    "key_points": [
+      "1. Bilim, Teknoloji, İcatlar & Uzay alanındaki ilkleri, ödül kazanan isimleri ve uluslararası başarıları ezberleyin.",
+      "2. Türkiye'nin uzay, savunma ve teknoloji alanındaki milli hamlelerini bilin.",
+      "3. UNESCO Dünya Miras Listesi'ne giren son eserlerimizi ve tarihlerini takip edin.",
+      "4. Önemli yazar-eser eşleştirmelerini ve edebiyatımızın başyapıtlarını öğrenin.",
+      "5. Hızlı Okuma Kartları sekmesini sınav öncesi son tekrar için mutlaka kullanın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "James Webb Uzay Teleskobu (JWST)",
+        "body": "NASA, ESA ve CSA ortaklığıyla fırlatılan, Hubble'ın halefi kızılötesi uzay teleskobudur; evrenin ilk galaksilerini gözlemler."
+      },
+      {
+        "card_number": 2,
+        "title": "Büyük Hadron Çarpıştırıcısı (LHC)",
+        "body": "CERN (İsviçre-Fransa sınırı) altında yer alan dünyanın en büyük parçacık hızlandırıcısıdır (Higgs Bozonu keşfedilmiştir)."
+      },
+      {
+        "card_number": 3,
+        "title": "CRISPR-Cas9 Gen Düzenleme",
+        "body": "Genom üzerinde hassas kesme ve düzenleme yapmayı sağlayan moleküler makas genetik teknolojisidir (Nobel Kimya ödülü almıştır)."
+      },
+      {
+        "card_number": 4,
+        "title": "Mars Drone'u Ingenuity",
+        "body": "NASA'nın Perseverance uzay aracıyla Mars'a gönderilen ve başka bir gezegende uçan ilk motorlu hava aracıdır."
+      },
+      {
+        "card_number": 5,
+        "title": "Yapay Zeka Turing Testi",
+        "body": "Alan Turing tarafından önerilen, bir makinenin insan zekasından ayırt edilemeyecek şekilde yanıt verip veremediğini ölçen klasik testtir."
+      },
+      {
+        "card_number": 6,
+        "title": "Kuantum Bilgisayar ve Kubit",
+        "body": "Klasik bilgisayarlardaki 0 ve 1 bitleri yerine süperpozisyon özelliğine sahip 'Kubit' (Qubit) birimini kullanan kuantum sistemleridir."
+      },
+      {
+        "card_number": 7,
+        "title": "Nesnelerin İnterneti (IoT)",
+        "body": "Günlük hayattaki tüm cihazların (akıllı ev, araçlar) internet üzerinden birbirleriyle veri paylaşımı yapması teknolojisidir."
+      },
+      {
+        "card_number": 8,
+        "title": "Lidar Sensör Teknolojisi",
+        "body": "Otonom (sürücüsüz) araçlarda ve haritalamada kullanılan, lazer ışınları ile 3D çevre taraması yapan sensör sistemidir."
+      },
+      {
+        "card_number": 9,
+        "title": "Kötü Amaçlı Yazılım (Malware)",
+        "body": "Bilgisayar sistemlerine sızmak, zarar vermek veya veri çalmak için tasarlanmış virüs, trojan ve fidye yazılımlarının genel adıdır."
+      },
+      {
+        "card_number": 10,
+        "title": "Ay'a Ayak Basan İlk İnsan",
+        "body": "Neil Armstrong, 1969 yılında Apollo 11 misyonu ile Ay yüzeyine ayak basan ilk insandır ('İnsan için küçük, insanlık için büyük bir adım')."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "qgn-5-1",
+      "question_text": "Türkiye'nin en büyük teknoloji ve havacılık festivali olan TEKNOFEST'in yönetim kurulu başkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Selçuk Bayraktar"
+        },
+        {
+          "key": "B",
+          "text": "Haluk Bayraktar"
+        },
+        {
+          "key": "C",
+          "text": "İsmaill Demir"
+        },
+        {
+          "key": "D",
+          "text": "Temel Kotil"
+        },
+        {
+          "key": "E",
+          "text": "Haluk Görgün"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Selçuk Bayraktar T3 Vakfı Mütevelli Heyeti ve TEKNOFEST başkanıdır.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-2",
+      "question_text": "10 Türk Lirası banknotunun arka yüzünde portresi yer alan dünyaca ünlü Türk matematikçisi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali Kuşçu"
+        },
+        {
+          "key": "B",
+          "text": "Matrakçı Nasuh"
+        },
+        {
+          "key": "C",
+          "text": "Cahit Arf ('Arf Sabiti' / 'Arf Halkaları')"
+        },
+        {
+          "key": "D",
+          "text": "Harezmi"
+        },
+        {
+          "key": "E",
+          "text": "Ömer Hayyam"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "10 TL arkasında Cahit Arf yer almaktadır.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-3",
+      "question_text": "5 Türk Lirası banknotunun arka yüzünde resmi yer alan İLK Türk bilim tarihi profesörümüz kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Prof. Dr. Aydın Sayılı"
+        },
+        {
+          "key": "B",
+          "text": "Cahit Arf"
+        },
+        {
+          "key": "C",
+          "text": "Fatma Aliye"
+        },
+        {
+          "key": "D",
+          "text": "Mimar Sinan"
+        },
+        {
+          "key": "E",
+          "text": "Yunus Emre"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "5 TL arkasında Aydın Sayılı yer almaktadır.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-4",
+      "question_text": "50 Türk Lirası banknotunun arka yüzünde yer alan İLK kadın romancımız kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Afife Jale"
+        },
+        {
+          "key": "B",
+          "text": "Fatma Aliye Hanım"
+        },
+        {
+          "key": "C",
+          "text": "Halide Edib Adıvar"
+        },
+        {
+          "key": "D",
+          "text": "Samiye Cahid"
+        },
+        {
+          "key": "E",
+          "text": "Sabiha Gökçen"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "50 TL arkasında ilk kadın romancımız Fatma Aliye vardır.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-5",
+      "question_text": "100 Türk Lirası banknotunun arka yüzünde yer alan büyük Klasik Türk Müziği bestekarı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadettin Kaynak"
+        },
+        {
+          "key": "B",
+          "text": "Dede Efendi"
+        },
+        {
+          "key": "C",
+          "text": "Hacı Arif Bey"
+        },
+        {
+          "key": "D",
+          "text": "Tamburi Cemil Bey"
+        },
+        {
+          "key": "E",
+          "text": "Buhurizade Mustafa Itri"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "100 TL arkasında Itri (Buhurizade Mustafa) yer alır.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-6",
+      "question_text": "200 Türk Lirası banknotunun arka yüzünde yer alan 'Sevelim Sevilelim' diyen büyük tasavvuf şairimiz kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hacı Bektaş-ı Veli"
+        },
+        {
+          "key": "B",
+          "text": "Mevlana"
+        },
+        {
+          "key": "C",
+          "text": "Kaygusuz Abdal"
+        },
+        {
+          "key": "D",
+          "text": "Pir Sultan Abdal"
+        },
+        {
+          "key": "E",
+          "text": "Yunus Emre"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "200 TL arkasında Yunus Emre yer alır.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-7",
+      "question_text": "Fatih Sultan Mehmed döneminde İstanbul'a gelerek Medrese müderrisliği yapan ünlü astronom ve matematikçi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali Kuşçu"
+        },
+        {
+          "key": "B",
+          "text": "Takiyüddin"
+        },
+        {
+          "key": "C",
+          "text": "Piri Reis"
+        },
+        {
+          "key": "D",
+          "text": "Kadızade-i Rumi"
+        },
+        {
+          "key": "E",
+          "text": "Ulugh Bey"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ali Kuşçu Fatih döneminde İstanbul'a davet edilen astronomdur.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-8",
+      "question_text": "Cihannüma ve Fezleke isimli ünlü coğrafya ve tarih eserlerinin yazarı Osmanlı alimi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evliya Çelebi"
+        },
+        {
+          "key": "B",
+          "text": "Katip Çelebi (Hacı Halife)"
+        },
+        {
+          "key": "C",
+          "text": "Peçevi"
+        },
+        {
+          "key": "D",
+          "text": "Aşıkpaşazade"
+        },
+        {
+          "key": "E",
+          "text": "Naima"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cihannüma yazarı Katip Çelebi'dir (Evliya Çelebi Seyahatname yazarıdır).",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-9",
+      "question_text": "Dünya haritasını ceylan derisi üzerine çizen ve Kitab-ı Bahriye eserinin sahibi olan Osmanlı denizcisi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barbaros Hayrettin Paşa"
+        },
+        {
+          "key": "B",
+          "text": "Piri Reis"
+        },
+        {
+          "key": "C",
+          "text": "Seydi Ali Reis"
+        },
+        {
+          "key": "D",
+          "text": "Turgut Reis"
+        },
+        {
+          "key": "E",
+          "text": "Oruç Reis"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Piri Reis Kitab-ı Bahriye ve ilk dünya haritasıyla ünlüdür.",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "qgn-5-10",
+      "question_text": "Türkiye'nin İLK kadın savaş pilotu ve dünyanın ilk kadın savaş pilotu kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Selma Rıza"
+        },
+        {
+          "key": "B",
+          "text": "Bedriye Tahir Gökmen"
+        },
+        {
+          "key": "C",
+          "text": "Afife Jale"
+        },
+        {
+          "key": "D",
+          "text": "Semiha Berksoy"
+        },
+        {
+          "key": "E",
+          "text": "Sabiha Gökçen"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Sabiha Gökçen ilk kadın savaş pilotumuzdur (Bedriye Tahir ise ilk kadın sivil pilotumuzdur).",
+      "difficulty_level": "lisans",
+      "is_verified": true,
+      "topic_id": "topic-gun-bilim-teknoloji"
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-1",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, evrenin derinliklerini kızılötesi ışıkla gözlemleyerek evrenin erken dönemlerine dair eşsiz veriler sağlayan ve NASA tarafından yönetilen uzay teleskobu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hubble"
+        },
+        {
+          "key": "B",
+          "text": "James Webb"
+        },
+        {
+          "key": "C",
+          "text": "Kepler"
+        },
+        {
+          "key": "D",
+          "text": "Chandra"
+        },
+        {
+          "key": "E",
+          "text": "Spitzer"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "James Webb Uzay Teleskobu (JWST), Hubble'ın halefi olarak kabul edilir ve özellikle galaksilerin oluşumu gibi evrenin en eski olaylarını gözlemlemek üzere tasarlanmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-2",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, Avrupa Nükleer Araştırma Merkezi'nde (CERN) bulunan ve parçacık fiziği deneylerinin yapıldığı devasa yeraltı hızlandırıcısının adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyük Hadron Çarpıştırıcısı (LHC)"
+        },
+        {
+          "key": "B",
+          "text": "Fermilab"
+        },
+        {
+          "key": "C",
+          "text": "Tokamak"
+        },
+        {
+          "key": "D",
+          "text": "Nükleer Reaktör"
+        },
+        {
+          "key": "E",
+          "text": "Süper İletken Hızlandırıcı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Büyük Hadron Çarpıştırıcısı (LHC), dünyanın en büyük ve en güçlü parçacık hızlandırıcısıdır ve standart modelin ötesindeki fiziği keşfetmeyi amaçlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-3",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, 'Moleküler makas' olarak da adlandırılan ve DNA üzerinde hassas düzenlemeler yapılmasına olanak tanıyan genetik teknoloji hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CRISPR-Cas9"
+        },
+        {
+          "key": "B",
+          "text": "Klonlama"
+        },
+        {
+          "key": "C",
+          "text": "PCR"
+        },
+        {
+          "key": "D",
+          "text": "Genetik Kodlama"
+        },
+        {
+          "key": "E",
+          "text": "RNA Sentezi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "CRISPR-Cas9 teknolojisi, genetik materyalin spesifik bir noktasının değiştirilmesini veya düzenlenmesini sağlayan devrim niteliğinde bir yöntemdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-4",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, blokzincir (blockchain) teknolojisinin temel çalışma mantığı aşağıdakilerden hangisine dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezi bir veri tabanı yönetimi"
+        },
+        {
+          "key": "B",
+          "text": "Dağıtık ve değiştirilemez bir kayıt defteri"
+        },
+        {
+          "key": "C",
+          "text": "Sadece kripto para üretimi"
+        },
+        {
+          "key": "D",
+          "text": "Verilerin sadece bulutta saklanması"
+        },
+        {
+          "key": "E",
+          "text": "İnternet hızını artırma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Blokzincir, verilerin merkezi olmayan, şifrelenmiş bloklar halinde dağıtık bir ağ üzerinde saklandığı ve geriye dönük olarak değiştirilmesinin neredeyse imkansız olduğu bir teknolojidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-5",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, Mars yüzeyindeki araştırmalarını sürdüren ve NASA'nın 'Perseverance' aracının yanında bulunan helikopter tipi drone'un adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ingenuity"
+        },
+        {
+          "key": "B",
+          "text": "Curiosity"
+        },
+        {
+          "key": "C",
+          "text": "Spirit"
+        },
+        {
+          "key": "D",
+          "text": "Opportunity"
+        },
+        {
+          "key": "E",
+          "text": "Pathfinder"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ingenuity, başka bir gezegende uçan ilk motorlu hava aracı olarak tarihe geçmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-6",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, yapay zeka sistemlerinin insan zekasını taklit etme yeteneğini ölçmek için kullanılan ve Alan Turing tarafından önerilen testin adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Turing Testi"
+        },
+        {
+          "key": "B",
+          "text": "Zeka Ölçeği"
+        },
+        {
+          "key": "C",
+          "text": "Algoritmik Test"
+        },
+        {
+          "key": "D",
+          "text": "Veri İşleme Testi"
+        },
+        {
+          "key": "E",
+          "text": "Kognitif Test"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Turing Testi, bir makinenin insan zekasından ayırt edilemeyecek şekilde konuşma veya yanıt verme yeteneğini sorgulayan klasik bir yöntemdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-7",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, uzaydaki nesnelerin birbirini çekme kuvvetini tanımlayan ve Einstein'ın 'Genel Görelilik' teorisinin temelini oluşturan kavram nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütleçekimi"
+        },
+        {
+          "key": "B",
+          "text": "Elektromanyetizma"
+        },
+        {
+          "key": "C",
+          "text": "Nükleer Kuvvet"
+        },
+        {
+          "key": "D",
+          "text": "Entropi"
+        },
+        {
+          "key": "E",
+          "text": "Kinetik Enerji"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kütleçekimi, uzay-zaman dokusunun kütle tarafından bükülmesi olarak ifade edilir ve gök cisimlerinin hareketini belirleyen temel kuvvettir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-8",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, dünyadaki tüm internet bağlantılı cihazların birbirleriyle veri paylaşımı yapmasını ifade eden kavram hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nesnelerin İnterneti (IoT)"
+        },
+        {
+          "key": "B",
+          "text": "Bulut Bilişim"
+        },
+        {
+          "key": "C",
+          "text": "Sanal Ağ"
+        },
+        {
+          "key": "D",
+          "text": "Fiber Optik"
+        },
+        {
+          "key": "E",
+          "text": "Geniş Bant"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "IoT (Internet of Things), günlük hayattaki nesnelerin internet aracılığıyla birbirleriyle haberleşmesi ve veri aktarmasıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-9",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş sistemindeki gezegenlerin sıralamasında Güneş'e en yakın gezegen hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkür"
+        },
+        {
+          "key": "B",
+          "text": "Venüs"
+        },
+        {
+          "key": "C",
+          "text": "Dünya"
+        },
+        {
+          "key": "D",
+          "text": "Mars"
+        },
+        {
+          "key": "E",
+          "text": "Jüpiter"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Merkür, Güneş'e en yakın gezegendir ve atmosferi oldukça incedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-10",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, biyoteknoloji alanında kullanılan ve canlıların genetik kodunun 'okunması' işlemini ifade eden terim nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DNA Dizileme (Sequencing)"
+        },
+        {
+          "key": "B",
+          "text": "Klonlama"
+        },
+        {
+          "key": "C",
+          "text": "Protein Sentezi"
+        },
+        {
+          "key": "D",
+          "text": "Gen Aktarımı"
+        },
+        {
+          "key": "E",
+          "text": "Hücre Bölünmesi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "DNA Dizileme, canlıların genetik materyalindeki nükleotid diziliminin belirlenmesi sürecidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-11",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, kuantum bilgisayarların çalışma mantığında yer alan temel birim aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kubit (Qubit)"
+        },
+        {
+          "key": "B",
+          "text": "Bit"
+        },
+        {
+          "key": "C",
+          "text": "Byte"
+        },
+        {
+          "key": "D",
+          "text": "Pixel"
+        },
+        {
+          "key": "E",
+          "text": "Atom"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Klasik bilgisayarlar 'bit' kullanırken, kuantum bilgisayarlar süperpozisyon özelliğine sahip olan 'kubit'leri kullanır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-12",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, uzaydaki gök cisimlerini gözlemlemek için tasarlanan ve 2000'li yılların başında uzaya gönderilen Hubble Teleskobu hangi kurum tarafından işletilmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "NASA"
+        },
+        {
+          "key": "B",
+          "text": "ESA"
+        },
+        {
+          "key": "C",
+          "text": "Roscosmos"
+        },
+        {
+          "key": "D",
+          "text": "JAXA"
+        },
+        {
+          "key": "E",
+          "text": "CERN"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Hubble Uzay Teleskobu, NASA tarafından yönetilmekte olup ESA ile iş birliği içinde çalışmaktadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-13",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, yüksek hızda veri transferi sağlayan ve telekomünikasyonda devrim yaratan teknoloji hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5G"
+        },
+        {
+          "key": "B",
+          "text": "Analog"
+        },
+        {
+          "key": "C",
+          "text": "Radyo"
+        },
+        {
+          "key": "D",
+          "text": "Telgraf"
+        },
+        {
+          "key": "E",
+          "text": "Bluetooth 1.0"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "5G teknolojisi, önceki nesillere göre çok daha düşük gecikme ve yüksek bant genişliği sunan modern mobil ağ standardıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-14",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, 'Kara Delik' kavramı genel görelilik teorisiyle bağlantılıdır. Kara deliklerin merkezinde yoğunluğun sonsuz, hacmin sıfır olduğu varsayılan noktaya ne denir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tekillik"
+        },
+        {
+          "key": "B",
+          "text": "Olay Ufku"
+        },
+        {
+          "key": "C",
+          "text": "Yörünge"
+        },
+        {
+          "key": "D",
+          "text": "Nebula"
+        },
+        {
+          "key": "E",
+          "text": "Akretiyon Diski"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tekillik, kara deliğin merkezinde yerçekiminin ve yoğunluğun sonsuz olduğu varsayılan teorik noktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-15",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş enerjisini elektrik enerjisine dönüştüren sistemlerde kullanılan temel teknoloji nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fotovoltaik paneller"
+        },
+        {
+          "key": "B",
+          "text": "Termal yakıtlar"
+        },
+        {
+          "key": "C",
+          "text": "Rüzgar türbinleri"
+        },
+        {
+          "key": "D",
+          "text": "Hidrolik pompalar"
+        },
+        {
+          "key": "E",
+          "text": "Elektromanyetik bobinler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Fotovoltaik (PV) paneller, yarı iletken malzemeler aracılığıyla güneş ışığını doğrudan elektrik akımına çevirir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-16",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, insan genomunun haritasının çıkarılmasını amaçlayan uluslararası projenin adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İnsan Genom Projesi"
+        },
+        {
+          "key": "B",
+          "text": "DNA Analiz Projesi"
+        },
+        {
+          "key": "C",
+          "text": "Biyolojik Çeşitlilik Projesi"
+        },
+        {
+          "key": "D",
+          "text": "Genetik Kod Projesi"
+        },
+        {
+          "key": "E",
+          "text": "Kök Hücre Projesi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İnsan Genom Projesi, insan vücudundaki tüm gen dizilimini ve haritasını çıkarmayı hedefleyen devrim niteliğinde bir bilimsel çalışmadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-17",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, evrenin hızla genişlediğini gözlemleriyle kanıtlayan astronom kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Edwin Hubble"
+        },
+        {
+          "key": "B",
+          "text": "Isaac Newton"
+        },
+        {
+          "key": "C",
+          "text": "Galileo"
+        },
+        {
+          "key": "D",
+          "text": "Nicolaus Copernicus"
+        },
+        {
+          "key": "E",
+          "text": "Johannes Kepler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Edwin Hubble, galaksilerin birbirinden uzaklaştığını gözlemleyerek evrenin genişlediği (Hubble Yasası) teorisini ortaya koymuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-18",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, biyolojik yapıların taklit edilerek mühendislik sistemlerine uyarlanmasına ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biyomimetik"
+        },
+        {
+          "key": "B",
+          "text": "Biyoteknoloji"
+        },
+        {
+          "key": "C",
+          "text": "Nanoteknoloji"
+        },
+        {
+          "key": "D",
+          "text": "Genetik"
+        },
+        {
+          "key": "E",
+          "text": "Mekanik"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Biyomimetik, doğadaki canlıların sistemlerini ve mekanizmalarını inceleyip bu sistemleri teknolojik problemlere çözüm olarak uyarlayan disiplindir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-19",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, otonom araçların çevresini algılamak için kullandığı ve lazer ışınları yardımıyla haritalama yapan sensör sisteminin adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lidar"
+        },
+        {
+          "key": "B",
+          "text": "Radar"
+        },
+        {
+          "key": "C",
+          "text": "Sonar"
+        },
+        {
+          "key": "D",
+          "text": "Kamera"
+        },
+        {
+          "key": "E",
+          "text": "GPS"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Lidar (Light Detection and Ranging), araçların çevresindeki nesneleri 3D olarak algılaması için kullanılan lazer tabanlı tarama teknolojisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-20",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, atmosferde sera etkisine neden olan en temel gazlardan biri olup iklim değişikliğinin ana sorumlusu kabul edilen gaz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karbondioksit (CO2)"
+        },
+        {
+          "key": "B",
+          "text": "Azot"
+        },
+        {
+          "key": "C",
+          "text": "Oksijen"
+        },
+        {
+          "key": "D",
+          "text": "Helyum"
+        },
+        {
+          "key": "E",
+          "text": "Argon"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Karbondioksit, sanayi ve fosil yakıt kullanımı sonucu artan ve sera etkisini doğrudan tetikleyen temel gazdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-21",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bir bilgisayara sızmak veya verileri ele geçirmek için kullanılan kötü amaçlı yazılım türlerine genel olarak ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malware"
+        },
+        {
+          "key": "B",
+          "text": "Software"
+        },
+        {
+          "key": "C",
+          "text": "Hardware"
+        },
+        {
+          "key": "D",
+          "text": "Firmware"
+        },
+        {
+          "key": "E",
+          "text": "Middleware"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Malware (malicious software), bilgisayar sistemlerine zarar vermek veya izinsiz erişim sağlamak amacıyla tasarlanmış kötücül yazılımları kapsar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-22",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, Dünya'nın yörüngesinde bulunan ve birçok ülkenin ortak çalışmasıyla uzayda araştırma yapılan devasa yapı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uluslararası Uzay İstasyonu (ISS)"
+        },
+        {
+          "key": "B",
+          "text": "Uzay Oteli"
+        },
+        {
+          "key": "C",
+          "text": "Uydu İstasyonu"
+        },
+        {
+          "key": "D",
+          "text": "Ay Üssü"
+        },
+        {
+          "key": "E",
+          "text": "Mars İstasyonu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Uluslararası Uzay İstasyonu (ISS), çok uluslu bir iş birliği ile Dünya yörüngesinde bulunan, astronotların görev yaptığı dev bir araştırma merkezidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-23",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş enerjisi dışında en çok tercih edilen yenilenebilir enerji kaynaklarından biri olan ve hava hareketinden elektrik üreten sistem nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rüzgar Türbini"
+        },
+        {
+          "key": "B",
+          "text": "Baraj"
+        },
+        {
+          "key": "C",
+          "text": "Jeotermal"
+        },
+        {
+          "key": "D",
+          "text": "Biyokütle"
+        },
+        {
+          "key": "E",
+          "text": "Doğal Gaz"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Rüzgar türbinleri, rüzgarın kinetik enerjisini mekanik enerjiye, oradan da elektrik enerjisine dönüştüren yenilenebilir sistemlerdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-24",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, nöronlar arasındaki elektriksel ve kimyasal sinyal aktarımını inceleyen bilim dalı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nörobilim"
+        },
+        {
+          "key": "B",
+          "text": "Kardiyoloji"
+        },
+        {
+          "key": "C",
+          "text": "Onkoloji"
+        },
+        {
+          "key": "D",
+          "text": "Dermatoloji"
+        },
+        {
+          "key": "E",
+          "text": "Pediatri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Nörobilim, sinir sisteminin yapısını, fonksiyonlarını ve beyin faaliyetlerini inceleyen multidisipliner bir alandır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-25",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, nesnelerin çok küçük ölçeklerde (metrenin milyarda biri) incelendiği ve manipüle edildiği bilim dalı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nanoteknoloji"
+        },
+        {
+          "key": "B",
+          "text": "Biyoteknoloji"
+        },
+        {
+          "key": "C",
+          "text": "Makroteknoloji"
+        },
+        {
+          "key": "D",
+          "text": "Mekanik"
+        },
+        {
+          "key": "E",
+          "text": "Kimya"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Nanoteknoloji, atomik ve moleküler düzeydeki maddelerin incelenmesi ve yeni malzeme/cihazların üretilmesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-26",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, büyük miktardaki verinin işlenerek anlamlı bilgiler ve desenler çıkarılması sürecine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyük Veri Analitiği"
+        },
+        {
+          "key": "B",
+          "text": "Bulut Depolama"
+        },
+        {
+          "key": "C",
+          "text": "Veri Girişi"
+        },
+        {
+          "key": "D",
+          "text": "Ağ Yönetimi"
+        },
+        {
+          "key": "E",
+          "text": "Donanım Bakımı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Büyük Veri (Big Data) analitiği, yapılandırılmış veya yapılandırılmamış devasa veri setlerinin analiz edilerek karar alma süreçlerinde kullanılmasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-27",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş sistemimizdeki gezegenler arasında 'Kızıl Gezegen' olarak bilinen hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mars"
+        },
+        {
+          "key": "B",
+          "text": "Jüpiter"
+        },
+        {
+          "key": "C",
+          "text": "Satürn"
+        },
+        {
+          "key": "D",
+          "text": "Venüs"
+        },
+        {
+          "key": "E",
+          "text": "Neptün"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Mars, yüzeyindeki demir oksit (pas) nedeniyle kırmızımsı bir renge sahip olduğu için 'Kızıl Gezegen' olarak adlandırılır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-28",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneşin merkezinde meydana gelen ve atomların birleşerek enerji açığa çıkardığı süreç nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nükleer Füzyon"
+        },
+        {
+          "key": "B",
+          "text": "Nükleer Fizyon"
+        },
+        {
+          "key": "C",
+          "text": "Oksidasyon"
+        },
+        {
+          "key": "D",
+          "text": "Yanma"
+        },
+        {
+          "key": "E",
+          "text": "Sublimasyon"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Nükleer Füzyon, atom çekirdeklerinin birleşerek daha ağır çekirdek oluşturması ve muazzam enerji açığa çıkarmasıdır; güneşin enerji kaynağı budur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-29",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, dijital dünyada verilerin şifrelenerek güvenli bir şekilde saklanması veya iletilmesi bilimine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kriptografi"
+        },
+        {
+          "key": "B",
+          "text": "Siber Güvenlik"
+        },
+        {
+          "key": "C",
+          "text": "Veri Analizi"
+        },
+        {
+          "key": "D",
+          "text": "Ağ Programlama"
+        },
+        {
+          "key": "E",
+          "text": "Sistem Mühendisliği"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kriptografi (şifreleme bilimi), mesajların üçüncü kişilerin okuyamayacağı şekilde gizlenmesi ve güvenliğini sağlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-30",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, hücrenin merkezinde yer alan ve kalıtım materyalini taşıyan yapı hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çekirdek (Nucleus)"
+        },
+        {
+          "key": "B",
+          "text": "Mitokondri"
+        },
+        {
+          "key": "C",
+          "text": "Ribozom"
+        },
+        {
+          "key": "D",
+          "text": "Golgi Aygıtı"
+        },
+        {
+          "key": "E",
+          "text": "Lizozom"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Çekirdek, hücrenin yönetim merkezi olup içerisinde genetik bilgileri taşıyan DNA'yı bulundurur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-31",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, ışığın bir prizmadan geçirilerek renklerine ayrılmasıyla oluşan görüntüye ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Spektrum (Tayf)"
+        },
+        {
+          "key": "B",
+          "text": "Gölge"
+        },
+        {
+          "key": "C",
+          "text": "Yansıma"
+        },
+        {
+          "key": "D",
+          "text": "Kırılma"
+        },
+        {
+          "key": "E",
+          "text": "Odaklama"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Spektrum (Tayf), beyaz ışığın bileşenlerine ayrılmasıyla ortaya çıkan renkler dizisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-32",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, biyoteknolojik yöntemlerle üretilen ve vücuttaki hastalıklarla savaşan savunma hücrelerine destek veren tedavilere ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İmmünoterapi"
+        },
+        {
+          "key": "B",
+          "text": "Kemoterapi"
+        },
+        {
+          "key": "C",
+          "text": "Radyoterapi"
+        },
+        {
+          "key": "D",
+          "text": "Fizyoterapi"
+        },
+        {
+          "key": "E",
+          "text": "Psikoterapi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İmmünoterapi, vücudun bağışıklık sistemini kullanarak hastalıklara (özellikle kansere) karşı mücadele etmesini sağlayan modern bir tedavi türüdür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-33",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, gezegenlerin Güneş etrafındaki hareketlerini açıklayan kanunları kim ortaya koymuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Johannes Kepler"
+        },
+        {
+          "key": "B",
+          "text": "Isaac Newton"
+        },
+        {
+          "key": "C",
+          "text": "Galileo"
+        },
+        {
+          "key": "D",
+          "text": "Albert Einstein"
+        },
+        {
+          "key": "E",
+          "text": "Stephen Hawking"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Johannes Kepler, gezegenlerin yörünge hareketlerini tanımlayan üç temel kanunu ortaya koymuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-34",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, internet üzerindeki web sitelerinin yerini belirleyen özel adreslere ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "URL (Uniform Resource Locator)"
+        },
+        {
+          "key": "B",
+          "text": "HTML"
+        },
+        {
+          "key": "C",
+          "text": "HTTP"
+        },
+        {
+          "key": "D",
+          "text": "IP"
+        },
+        {
+          "key": "E",
+          "text": "DNS"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "URL, internetteki her bir kaynağın (sayfa, dosya) kendine has benzersiz adresidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-35",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, Ay'a ayak basan ilk insanın adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Neil Armstrong"
+        },
+        {
+          "key": "B",
+          "text": "Buzz Aldrin"
+        },
+        {
+          "key": "C",
+          "text": "Yuri Gagarin"
+        },
+        {
+          "key": "D",
+          "text": "John Glenn"
+        },
+        {
+          "key": "E",
+          "text": "Michael Collins"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Neil Armstrong, 1969 yılında Apollo 11 misyonu ile Ay'a ayak basan ilk insandır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-36",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, elektriksel direnci sıfıra indiren ve çok düşük sıcaklıklarda çalışan malzemelere ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Süperiletkenler"
+        },
+        {
+          "key": "B",
+          "text": "Yarı iletkenler"
+        },
+        {
+          "key": "C",
+          "text": "Yalıtkanlar"
+        },
+        {
+          "key": "D",
+          "text": "İletkenler"
+        },
+        {
+          "key": "E",
+          "text": "Polimerler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Süperiletkenler, kritik sıcaklığın altına düşüldüğünde elektrik direncini sıfırlayan malzemelerdir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-37",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş sisteminde Güneş'in etrafında dolanan ve kendi yörüngesini temizleyemeyen (cüce gezegen) gök cismi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Plüton"
+        },
+        {
+          "key": "B",
+          "text": "Mars"
+        },
+        {
+          "key": "C",
+          "text": "Venüs"
+        },
+        {
+          "key": "D",
+          "text": "Merkür"
+        },
+        {
+          "key": "E",
+          "text": "Satürn"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Plüton, 2006 yılında yapılan tanım değişikliği ile gezegen statüsünden çıkarılıp 'cüce gezegen' olarak sınıflandırılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-38",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bitkilerin güneş ışığını kullanarak besin üretmesi sürecine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fotosentez"
+        },
+        {
+          "key": "B",
+          "text": "Solunum"
+        },
+        {
+          "key": "C",
+          "text": "Sindirim"
+        },
+        {
+          "key": "D",
+          "text": "Fermantasyon"
+        },
+        {
+          "key": "E",
+          "text": "Büyüme"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Fotosentez, bitkilerin güneş enerjisi yardımıyla su ve karbondioksiti glikoz (besin) ve oksijene çevirmesidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-39",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bir web tarayıcısının (örneğin Chrome) arkasında çalışan ve internet sitelerini görüntülemeyi sağlayan temel motor nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarayıcı motoru (Rendering Engine)"
+        },
+        {
+          "key": "B",
+          "text": "Ağ motoru"
+        },
+        {
+          "key": "C",
+          "text": "İşletim sistemi"
+        },
+        {
+          "key": "D",
+          "text": "Donanım sürücüsü"
+        },
+        {
+          "key": "E",
+          "text": "Sunucu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tarayıcı motoru, HTML, CSS ve JavaScript kodlarını işleyerek kullanıcının görebileceği görsel bir sayfaya dönüştüren yazılımdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-40",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, uzayda astronotların ağırlıksız ortamda yaşamasını sağlayan fiziksel olgu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Serbest düşme (yörünge hareketi)"
+        },
+        {
+          "key": "B",
+          "text": "Yerçekimsiz alan"
+        },
+        {
+          "key": "C",
+          "text": "Dış uzay vakumu"
+        },
+        {
+          "key": "D",
+          "text": "Sürtünme kuvveti"
+        },
+        {
+          "key": "E",
+          "text": "Manyetik itme"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Astronotlar uzayda aslında yerçekiminden kurtulmazlar, ancak sürekli düşme (yörüngede olma) halinde oldukları için ağırlıksızlık hissederler.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-41",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bilgisayar sistemlerinde hata tespiti ve giderme işlemine genel olarak ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Debugging (Hata ayıklama)"
+        },
+        {
+          "key": "B",
+          "text": "Coding"
+        },
+        {
+          "key": "C",
+          "text": "Compiling"
+        },
+        {
+          "key": "D",
+          "text": "Linking"
+        },
+        {
+          "key": "E",
+          "text": "Indexing"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Debugging, bir yazılımın kaynak kodundaki hataların bulunması ve düzeltilmesi işlemidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-42",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, uzaydaki 'karanlık madde' nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gözlemlenemeyen ama kütleçekim etkisi olan madde"
+        },
+        {
+          "key": "B",
+          "text": "Siyah deliklerin içi"
+        },
+        {
+          "key": "C",
+          "text": "Uzay çöpü"
+        },
+        {
+          "key": "D",
+          "text": "Yıldız tozu"
+        },
+        {
+          "key": "E",
+          "text": "Güneş lekesi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Karanlık madde, ışıkla etkileşime girmediği için doğrudan gözlenemeyen ancak kütleçekimsel etkileri ile varlığı anlaşılan gizemli madde türüdür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-43",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, yapay zekanın veriler üzerindeki desenleri otomatik olarak öğrenmesine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Makine Öğrenimi (Machine Learning)"
+        },
+        {
+          "key": "B",
+          "text": "Programlama"
+        },
+        {
+          "key": "C",
+          "text": "Donanım üretimi"
+        },
+        {
+          "key": "D",
+          "text": "Sistem mimarisi"
+        },
+        {
+          "key": "E",
+          "text": "Veri depolama"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Makine Öğrenimi, algoritmaların büyük veri setleri üzerinde kendini eğiterek belirli kararlar vermesini sağlayan yapay zeka disiplinidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-44",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bir bitki veya hayvanın genetiğinin değiştirilerek üretilen canlılara ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "GDO (Genetiği Değiştirilmiş Organizma)"
+        },
+        {
+          "key": "B",
+          "text": "Hibrit"
+        },
+        {
+          "key": "C",
+          "text": "Aşı"
+        },
+        {
+          "key": "D",
+          "text": "Klon"
+        },
+        {
+          "key": "E",
+          "text": "Mutasyon"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "GDO'lu ürünler, modern biyoteknoloji ile genetik yapısı müdahale edilmiş organizmalardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-45",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş sistemimizin bulunduğu galaksinin adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Samanyolu"
+        },
+        {
+          "key": "B",
+          "text": "Andromeda"
+        },
+        {
+          "key": "C",
+          "text": "Girdap"
+        },
+        {
+          "key": "D",
+          "text": "Sombrero"
+        },
+        {
+          "key": "E",
+          "text": "Macellan"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Güneş sistemi, Samanyolu Galaksisi'nin içerisinde yer alan bir yıldız sistemidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-46",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, nörobilimde kullanılan 'fMRI' cihazı neyi ölçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Beyin aktivitesini (kan akışını)"
+        },
+        {
+          "key": "B",
+          "text": "Kalp atış hızını"
+        },
+        {
+          "key": "C",
+          "text": "Kas kuvvetini"
+        },
+        {
+          "key": "D",
+          "text": "Göz hareketlerini"
+        },
+        {
+          "key": "E",
+          "text": "Akciğer kapasitesini"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "fMRI (Fonksiyonel Manyetik Rezonans Görüntüleme), beyin bölgelerindeki kan akışındaki değişiklikleri ölçerek aktivite haritası oluşturur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-47",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, güneş sistemimizdeki gezegenler arasında en büyük hacme sahip olan hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jüpiter"
+        },
+        {
+          "key": "B",
+          "text": "Satürn"
+        },
+        {
+          "key": "C",
+          "text": "Uranüs"
+        },
+        {
+          "key": "D",
+          "text": "Neptün"
+        },
+        {
+          "key": "E",
+          "text": "Dünya"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Jüpiter, güneş sistemimizdeki tüm gezegenlerin toplamından daha büyük kütleye ve hacme sahip olan gaz devidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-48",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bilgisayarın merkezi işlem birimine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CPU (Central Processing Unit)"
+        },
+        {
+          "key": "B",
+          "text": "RAM"
+        },
+        {
+          "key": "C",
+          "text": "GPU"
+        },
+        {
+          "key": "D",
+          "text": "HDD"
+        },
+        {
+          "key": "E",
+          "text": "Motherboard"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "CPU, bilgisayarın beyni olarak adlandırılan ve tüm işlemleri gerçekleştiren ana bileşendir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-49",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, bir gezegenin atmosferindeki gazların ısınmayı tutması sonucu oluşan olaya ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sera Etkisi"
+        },
+        {
+          "key": "B",
+          "text": "Fotosentez"
+        },
+        {
+          "key": "C",
+          "text": "Ozon Tabakası"
+        },
+        {
+          "key": "D",
+          "text": "Rüzgar Akımı"
+        },
+        {
+          "key": "E",
+          "text": "Buharlaşma"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sera etkisi, atmosferdeki gazların Güneş'ten gelen ısının uzaya kaçmasını engelleyerek gezegeni ısıtmasıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-guncel-bilim-uzay-ext-50",
+      "topic_id": "topic-gun-bilim-teknoloji",
+      "question_text": "2026 yılı itibarıyla, kuantum dolanıklık (quantum entanglement) olayı için Einstein'ın kullandığı meşhur benzetme nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uzaktan ürkütücü eylem"
+        },
+        {
+          "key": "B",
+          "text": "Görünmez el"
+        },
+        {
+          "key": "C",
+          "text": "Zamanın yavaşlaması"
+        },
+        {
+          "key": "D",
+          "text": "Kuantum sıçraması"
+        },
+        {
+          "key": "E",
+          "text": "Işık hızı bariyeri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Einstein, kuantum dolanıklığı (iki parçacığın anlık etkileşimi) 'spooky action at a distance' (uzaktan ürkütücü eylem) olarak nitelendirmiştir.",
+      "difficulty_level": 5
+    }
+  ]
+}

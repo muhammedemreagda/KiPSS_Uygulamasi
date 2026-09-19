@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+  "title": "Osmanlı Tarihi — Kuruluş ve Yükselme",
+  "course_id": "course-tarih",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-tarih-osmanli-kurulus-yukselme",
+    "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+    "title": "Osmanlı Tarihi — Kuruluş ve Yükselme Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Tarih testinde 'Osmanlı Tarihi — Kuruluş ve Yükselme' konusu, kronolojik akışın, sebep-sonuç ilişkilerinin ve dönemsel ıslahat/antlaşmaların sorgulandığı yüksek soru potansiyeline sahip bir alandır.",
+    "content": "Osmanlı Tarihi — Kuruluş ve Yükselme konusu, KPSS Tarih testinde adayların bilgi düzeyini ve tarihsel mantık yürütme kabiliyetini ölçer.\n\n1. Tarihsel Süreç ve Dönemin Önemi:\nOsmanlı Tarihi — Kuruluş ve Yükselme dönemi, Türk ve dünya tarihinin şekillenmesinde kritik bir evredir. Bu dönemde yaşanan siyasi, askeri, ekonomik ve kültürel gelişmeler bir sonraki dönemin temelini oluşturmuştur.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Antlaşmaların maddelerindeki bağımsızlık, egemenlik ve sınır değişiklikleri detaylarına dikkat edin.\n- Islahatlarda yapılan yeniliklerin hangi alana (askeri, hukuki, idari, eğitim) ait olduğunu ayırt edin.\n- Kurtuluş Savaşı ve İnkılap Tarihi konularında Atatürk'ün sözlerini ve bu sözlerin hangi olay üzerine söylendiğini mutlaka bilin.\n\n3. Soru Çözüm Stratejisi:\n- Öncüllü (I, II, III) sorularda verilen bilgilerin sorudaki öncüle tam uyup uymadığını kontrol edin.\n- Tarih sorularını çözerken günümüz değerleriyle değil, olayın yaşandığı dönemin şartlarıyla değerlendirin.",
+    "key_points": [
+      "1. Osmanlı Tarihi — Kuruluş ve Yükselme dönemindeki olayları ezberlemek yerine sebep-sonuç zinciri kurarak öğrenin.",
+      "2. Dönemin önemli antlaşmalarını, maddelerini ve getirdiği yenilikleri zihninize oturtun.",
+      "3. Devlet adamlarının, padişahların veya komutanların döneme damga vuran unvanlarını bilin.",
+      "4. Kültür ve Medeniyet kavramlarını (kurumlar, meclisler, vergi türleri) karıştırmayın.",
+      "5. Soru çözerken dönemin koşullarını ve 'Yalnızca bu bilgiye dayanarak' kuralını unutmayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Osmanlı'nın Kurucusu ve İlk Başkent",
+        "body": "Osmanlı Devleti 1299'da Osman Bey tarafından Söğüt ve Domaniç merkezli kurulmuştur. İlk fethedilen önemli merkez Karacahisar'dır."
+      },
+      {
+        "card_number": 2,
+        "title": "Koyunhisar (Bafeus) Savaşı (1302)",
+        "body": "Osman Bey döneminde Bizans ile yapılan ilk resmi savaştır ve galibiyetle sonuçlanmıştır."
+      },
+      {
+        "card_number": 3,
+        "title": "İlk Osmanlı Parası ve Vergi",
+        "body": "Bakır para (Mangır) Osman Bey döneminde basılmış, ilk vergi (Bac vergisi) yine bu dönemde konulmuştur."
+      },
+      {
+        "card_number": 4,
+        "title": "Bursa'nın Fethi ve İskan Politikası",
+        "body": "Orhan Bey Bursa'yı fethederek başkent yapmıştır. İskan politikası ile Balkanlar'a Göçebe Türkmenler yerleştirilmiştir."
+      },
+      {
+        "card_number": 5,
+        "title": "İlk Düzenli Ordu (Yaya ve Müsellem)",
+        "body": "Orhan Bey döneminde kurulmuştur. Ayrıca ilk Osmanlı donanması Karesioğulları Beyliği'nin katılmasıyla elde edilmiştir."
+      },
+      {
+        "card_number": 6,
+        "title": "I. Kosova Savaşı (1389)",
+        "body": "I. Murat döneminde Haçlılara karşı kazanılan zaferdir. İlk kez top kullanılmış, I. Murat savaş alanında şehit düşen tek padişahtır."
+      },
+      {
+        "card_number": 7,
+        "title": "Ankara Savaşı (1402) ve Fetret Dönemi",
+        "body": "Yıldırım Bayezid ile Timur arasında yapılmış, Osmanlı yenilmiş ve 11 yıl süren iç karışıklık (Fetret Dönemi) başlamıştır."
+      },
+      {
+        "card_number": 8,
+        "title": "İstanbul'un Fethi (1453)",
+        "body": "II. Mehmet (Fatih) tarafından fethedilmiş, Bizans yıkılmış, Orta Çağ kapanıp Yeni Çağ başlamış, Fatih 'Fatih' unvanını almıştır."
+      },
+      {
+        "card_number": 9,
+        "title": "Preveze Deniz Zaferi (1538)",
+        "body": "Barbaros Hayrettin Paşa komutasındaki Osmanlı donanmasının Haçlı donanmasını mağlup ettiği ve Akdeniz'in Türk gölü haline geldiği zaferdir."
+      },
+      {
+        "card_number": 10,
+        "title": "İlk Osmanlı Halifesi Yavuz Sultan Selim",
+        "body": "1517 Mısır Seferi (Rizdaniye Savaşı) ile Memlük Devleti'ne son verilmiş, kutsal emanetler İstanbul'a getirilmiş ve Halifelik Osmanlı'ya geçmiştir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-1",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nin kurucusu Osman Bey döneminde, Bizans ile yapılan ilk savaş hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Koyunhisar"
+        },
+        {
+          "key": "B",
+          "text": "Bapheus (Bafeus)"
+        },
+        {
+          "key": "C",
+          "text": "Sazlıdere"
+        },
+        {
+          "key": "D",
+          "text": "Maltepe (Palekanon)"
+        },
+        {
+          "key": "E",
+          "text": "Dimetoka"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bafeus (Koyunhisar/Bafeon) Savaşı 1302 yılında Bizans ile yapılan ilk meydan savaşıdır ve Osmanlı'nın bağımsızlık sürecini pekiştirmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-2",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde ilk düzenli ordu (yaya ve müsellem) hangi padişah döneminde kurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osman Bey"
+        },
+        {
+          "key": "B",
+          "text": "Orhan Bey"
+        },
+        {
+          "key": "C",
+          "text": "I. Murad"
+        },
+        {
+          "key": "D",
+          "text": "Yıldırım Bayezid"
+        },
+        {
+          "key": "E",
+          "text": "I. Mehmed"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Orhan Bey döneminde, fetihlerin genişlemesi üzerine Türk gençlerinden oluşan ilk düzenli ordu olan Yaya ve Müsellem teşkilatı kurulmuştur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-3",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Edirne'nin fethi ve Balkanlarda Türk hakimiyetinin pekişmesi hangi padişah döneminde gerçekleşmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osman Bey"
+        },
+        {
+          "key": "B",
+          "text": "Orhan Bey"
+        },
+        {
+          "key": "C",
+          "text": "I. Murad"
+        },
+        {
+          "key": "D",
+          "text": "Yıldırım Bayezid"
+        },
+        {
+          "key": "E",
+          "text": "II. Murad"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1361 Sazlıdere Savaşı ile Edirne fethedilmiş ve I. Murad döneminde başkent yapılarak Balkanlar'daki ilerleyiş hızlanmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-4",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "1402 Ankara Savaşı'nın kaybedilmesiyle başlayan ve merkezi otoritenin sarsıldığı döneme ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fetret Devri"
+        },
+        {
+          "key": "B",
+          "text": "Dirlik Dönemi"
+        },
+        {
+          "key": "C",
+          "text": "Yükselme Devri"
+        },
+        {
+          "key": "D",
+          "text": "Hicret Devri"
+        },
+        {
+          "key": "E",
+          "text": "İstibdat Devri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yıldırım Bayezid'in esir düşmesiyle 1402-1413 yılları arasında şehzadeler arasında süren 11 yıllık taht kavgaları dönemine Fetret Devri denir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-5",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "İstanbul'un fethinin dünya tarihi açısından en önemli sonucu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osmanlı'nın güçlenmesi"
+        },
+        {
+          "key": "B",
+          "text": "Orta Çağ'ın kapanıp Yeni Çağ'ın başlaması"
+        },
+        {
+          "key": "C",
+          "text": "İpek Yolu'nun kontrolü"
+        },
+        {
+          "key": "D",
+          "text": "Bizans'ın tamamen ortadan kalkması"
+        },
+        {
+          "key": "E",
+          "text": "Avrupa devletlerinin kurulması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İstanbul'un fethi (1453), 1000 yıllık Doğu Roma'yı yıkarak Orta Çağ'ı kapatmış ve Yeni Çağ'ı başlatmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-6",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Fatih Sultan Mehmed tarafından kurulan ve yükseköğretim seviyesinde ilim insanı yetiştiren medrese kompleksi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nizamiye Medresesi"
+        },
+        {
+          "key": "B",
+          "text": "Sahn-ı Seman Medresesi"
+        },
+        {
+          "key": "C",
+          "text": "Enderun Mektebi"
+        },
+        {
+          "key": "D",
+          "text": "Darülfünun"
+        },
+        {
+          "key": "E",
+          "text": "Acemi Ocağı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Fatih Sultan Mehmed, İstanbul'un fethinden sonra dönemin en yüksek eğitim kurumu olan Sahn-ı Seman Medreselerini kurmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-7",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Yavuz Sultan Selim'in Baharat Yolu'nu ve Kutsal Toprakları kontrol altına almak amacıyla gerçekleştirdiği sefer hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çaldıran"
+        },
+        {
+          "key": "B",
+          "text": "Turnadağ"
+        },
+        {
+          "key": "C",
+          "text": "Mısır (Mercidabık ve Ridaniye)"
+        },
+        {
+          "key": "D",
+          "text": "Belgrad"
+        },
+        {
+          "key": "E",
+          "text": "Rodos"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Mısır Seferi (1516 Mercidabık - 1517 Ridaniye) ile Memlük Devleti yıkılmış, Baharat Yolu ve Kutsal Emanetler Osmanlı'ya geçmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-8",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Kanuni Sultan Süleyman döneminde, Macaristan'ın fethini sağlayan ve dünyanın en kısa süren meydan muharebesi kabul edilen savaş hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Viyana Kuşatması"
+        },
+        {
+          "key": "B",
+          "text": "Mohaç Meydan Muharebesi"
+        },
+        {
+          "key": "C",
+          "text": "Preveze Deniz Savaşı"
+        },
+        {
+          "key": "D",
+          "text": "Zigetvar"
+        },
+        {
+          "key": "E",
+          "text": "Belgrad Seferi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1526 Mohaç Meydan Savaşı yaklaşık iki saat gibi kısa bir sürede kazanılmış ve Macaristan Osmanlı topraklarına katılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-9",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde Akdeniz'in bir 'Türk Gölü' haline gelmesini sağlayan ve Barbaros Hayreddin Paşa komutasında kazanılan deniz zaferi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İnebahtı"
+        },
+        {
+          "key": "B",
+          "text": "Çeşme"
+        },
+        {
+          "key": "C",
+          "text": "Preveze Deniz Zaferi"
+        },
+        {
+          "key": "D",
+          "text": "Navarin"
+        },
+        {
+          "key": "E",
+          "text": "Sinop"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "28 Eylül 1538 Preveze Deniz Savaşı ile Haçlı donanması mağlup edilmiş ve Akdeniz üstünlüğü tamamen Osmanlı'ya geçmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-10",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde devşirme sisteminin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hristiyan nüfusu artırmak"
+        },
+        {
+          "key": "B",
+          "text": "Merkezi orduya ve devlet bürokrasisine sadık insan kaynağı yetiştirmek"
+        },
+        {
+          "key": "C",
+          "text": "Sadece tarımsal üretimi artırmak"
+        },
+        {
+          "key": "D",
+          "text": "Ticaret yollarını korumak"
+        },
+        {
+          "key": "E",
+          "text": "Donanmayı güçlendirmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Devşirme sistemi, Gayrimüslim çocukların yetiştirilerek Kapıkulu ordusunda veya Enderun medresesinde üst düzey devlet adamı yapılması sistemidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-11",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı'da 'Sancağa çıkma' usulünü sistemleştiren ve son olarak kaldırıp Ekber-Erşed sistemini getirenler hangi seçenekte sırasıyla doğru verilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orhan Bey - I. Murad"
+        },
+        {
+          "key": "B",
+          "text": "Fatih Sultan Mehmed (Kanunname) - I. Ahmed"
+        },
+        {
+          "key": "C",
+          "text": "Fatih - Yavuz"
+        },
+        {
+          "key": "D",
+          "text": "Osman Bey - Fatih"
+        },
+        {
+          "key": "E",
+          "text": "II. Murad - III. Mehmed"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sancağa çıkmayı Kanunname-i Ali Osman ile yasallaştıran Fatih'tir; I. Ahmed ise sancağa çıkmayı kaldırıp Ekber ve Erşed sistemini getirmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-12",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı'da 'Kapıkulu Piyadeleri' içinde yer alan ve doğrudan padişaha bağlı düzenli merkez ordusu hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tımarlı Sipahiler"
+        },
+        {
+          "key": "B",
+          "text": "Akıncılar"
+        },
+        {
+          "key": "C",
+          "text": "Yeniçeriler"
+        },
+        {
+          "key": "D",
+          "text": "Azaplar"
+        },
+        {
+          "key": "E",
+          "text": "Gönüllüler"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yeniçeri Ocağı, I. Murad döneminde kurulan ve doğrudan merkeze bağlı olan profesyonel piyade ordusudur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-13",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı'nın Balkanlarda uyguladığı ve fethedilen yerlerdeki gayrimüslim halkın gönlünü kazanmaya yönelik adaletli politikasının adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstimalet Politikası"
+        },
+        {
+          "key": "B",
+          "text": "Devşirme"
+        },
+        {
+          "key": "C",
+          "text": "İkta"
+        },
+        {
+          "key": "D",
+          "text": "Tımar"
+        },
+        {
+          "key": "E",
+          "text": "Salyane"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İstimalet politikası, Osmanlı'nın fethedilen bölge halkına din, dil ve vicdan hürriyeti tanıyarak onları devlete bağlama anlayışıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-14",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı'da ilk kez bir padişaha 'Halife' unvanı hangi tarihi gelişmeden sonra geçmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul'un Fethi"
+        },
+        {
+          "key": "B",
+          "text": "Mısır Seferi"
+        },
+        {
+          "key": "C",
+          "text": "Belgrad Seferi"
+        },
+        {
+          "key": "D",
+          "text": "Çaldıran Savaşı"
+        },
+        {
+          "key": "E",
+          "text": "Ridaniye Savaşı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yavuz Sultan Selim'in Mısır Seferi ile son Abbasi halifesi kutsal emanetler ve halifelik unvanını Osmanlı padişahına devretmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-15",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "İstanbul'un fethini kolaylaştıran ve Bizans surlarını yıkan devasa toplara ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barutlu Çakar"
+        },
+        {
+          "key": "B",
+          "text": "Şahi Topları"
+        },
+        {
+          "key": "C",
+          "text": "Gülle-i Hümayun"
+        },
+        {
+          "key": "D",
+          "text": "Balyemez Topu"
+        },
+        {
+          "key": "E",
+          "text": "Havan Topu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Fatih Sultan Mehmed'in tasarlatıp döktürdüğü devasa 'Şahi' topları Bizans surlarını aşmada belirleyici olmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-16",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Fatih Sultan Mehmed'in Karadeniz'i bir 'Türk Gölü' haline getirmesini tamamlayan fetih hareketi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırım'ın Fethi"
+        },
+        {
+          "key": "B",
+          "text": "Trabzon'un Fethi"
+        },
+        {
+          "key": "C",
+          "text": "İstanbul'un Fethi"
+        },
+        {
+          "key": "D",
+          "text": "Amasra'nın Fethi"
+        },
+        {
+          "key": "E",
+          "text": "Sinop'un Fethi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Gedik Ahmet Paşa komutasında Kırım'ın fethedilmesiyle Karadeniz tam anlamıyla bir Türk Gölü haline gelmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-17",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde idari ve siyasi kararların alındığı Divan teşkilatını kuran padişah hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osman Bey"
+        },
+        {
+          "key": "B",
+          "text": "Orhan Bey"
+        },
+        {
+          "key": "C",
+          "text": "I. Murad"
+        },
+        {
+          "key": "D",
+          "text": "II. Murad"
+        },
+        {
+          "key": "E",
+          "text": "Fatih Sultan Mehmed"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Orhan Bey döneminde teşkilatlanma hamleleri çerçevesinde Divan-ı Hümayun kurulmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-18",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Yıldırım Bayezid'in 1396 Niğbolu Zaferinden sonra Abbasi Halifesi tarafından kendisine verilen unvan nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sultan-ı İklim-i Rum"
+        },
+        {
+          "key": "B",
+          "text": "Fatih"
+        },
+        {
+          "key": "C",
+          "text": "Yavuz"
+        },
+        {
+          "key": "D",
+          "text": "Kanuni"
+        },
+        {
+          "key": "E",
+          "text": "Gazi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Abbasi Halifesi, Haçlı ordusunu imha eden Yıldırım Bayezid'e 'Sultan-ı İklim-i Rum' (Anadolu Ülkesinin Sultanı) unvanını unvanını tevcih etmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-19",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde ekonomik gücün göstergesi olan ilk altın parayı (Sikke-i Hasene) bastıran padişah kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orhan Bey"
+        },
+        {
+          "key": "B",
+          "text": "I. Murad"
+        },
+        {
+          "key": "C",
+          "text": "Fatih Sultan Mehmed"
+        },
+        {
+          "key": "D",
+          "text": "Yıldırım Bayezid"
+        },
+        {
+          "key": "E",
+          "text": "II. Murad"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İlk gümüş para Orhan Bey, ilk altın para ise ticari ve ekonomik gücün zirveye tırmandığı Fatih döneminde bastırılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-20",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı'nın Anadolu Türk siyasi birliğini sağlamak adına kendi topraklarına kattığı ilk beylik hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karesioğulları"
+        },
+        {
+          "key": "B",
+          "text": "Germiyanoğulları"
+        },
+        {
+          "key": "C",
+          "text": "Hamitoğulları"
+        },
+        {
+          "key": "D",
+          "text": "Candaroğulları"
+        },
+        {
+          "key": "E",
+          "text": "Aydınoğulları"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Orhan Bey döneminde ilhak edilen Karesioğulları Beyliği ile hem Anadolu Türk birliğinin ilk adımı atılmış hem de Osmanlı denizciliğe başlamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-21",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde ilk kapsamlı ve teşkilatlı devlet tersanesi nerede kurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul"
+        },
+        {
+          "key": "B",
+          "text": "İzmir"
+        },
+        {
+          "key": "C",
+          "text": "Gelibolu"
+        },
+        {
+          "key": "D",
+          "text": "Sinop"
+        },
+        {
+          "key": "E",
+          "text": "Bursa"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Karasioğulları'nın katılması ve Rumeli'ye geçişle birlikte ilk büyük Osmanlı tersanesi Gelibolu'da kurulmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-22",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Fatih Sultan Mehmed'in fethettiği ve Bizans İmparatorluğu'nu yeniden diriltme ümitlerine son veren fetih hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trabzon Rum İmparatorluğu'nun Fethi"
+        },
+        {
+          "key": "B",
+          "text": "Mora Despotluğu"
+        },
+        {
+          "key": "C",
+          "text": "Belgrad Seferi"
+        },
+        {
+          "key": "D",
+          "text": "Kırım'ın Fethi"
+        },
+        {
+          "key": "E",
+          "text": "Amasra'nın Fethi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1461 Trabzon Rum İmparatorluğu'nun fethedilmesi ile Bizans'ı diriltme hayali kuran son siyasi yapı ortadan kaldırılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-23",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Yavuz Sultan Selim'in 1515 Turnadağ Savaşı ile son verip Anadolu Türk siyasi birliğini büyük ölçüde sağladığı beylik hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dulkadiroğulları"
+        },
+        {
+          "key": "B",
+          "text": "Ramazanoğulları"
+        },
+        {
+          "key": "C",
+          "text": "Karamanlılar"
+        },
+        {
+          "key": "D",
+          "text": "Çandaroğulları"
+        },
+        {
+          "key": "E",
+          "text": "Eretna"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Dulkadiroğulları Beyliği Turnadağ Savaşı ile Osmanlı'ya katılmış ve Anadolu Türk siyasi birliği kesinleşmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-24",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nin tarihteki ilk deniz savaşı (Venedik ile yapılan) hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Preveze"
+        },
+        {
+          "key": "B",
+          "text": "İnebahtı"
+        },
+        {
+          "key": "C",
+          "text": "Çalıbey (Gelibolu) Deniz Savaşı"
+        },
+        {
+          "key": "D",
+          "text": "Navarin"
+        },
+        {
+          "key": "E",
+          "text": "Sinop Baskını"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çelebi Mehmed döneminde Venediklilerle yapılan Çalıbey Deniz Savaşı Osmanlı tarihinin ilk deniz muharebesidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-25",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Kanuni Sultan Süleyman döneminde Fransa'ya verilen ticari ayrıcalıkların (Kapitülasyonlar) temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fransa ekonomisini güçlendirmek"
+        },
+        {
+          "key": "B",
+          "text": "Avrupa Hristiyan birliğini parçalamak ve Akdeniz ticaretini canlandırmak"
+        },
+        {
+          "key": "C",
+          "text": "İngiltere'yi protesto etmek"
+        },
+        {
+          "key": "D",
+          "text": "Fransız dilini yaymak"
+        },
+        {
+          "key": "E",
+          "text": "Donanmayı Fransa'ya devretmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kapitülasyonlar ile Hristiyan ittifakının kurulması engellenmek istenmiş ve Akdeniz ticaretinin Osmanlı limanlarına kayması hedeflenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-26",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nin kuruluşundan itibaren izlediği 'Gaza ve Cihad' anlayışının temel felsefesi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece ganimet elde etmek"
+        },
+        {
+          "key": "B",
+          "text": "İslam dinini yaymak ve İla-yı Kelimatullah'ı gerçekleştirmek"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Anadolu birliğini kurmak"
+        },
+        {
+          "key": "D",
+          "text": "Doğudaki devletleri yıkmak"
+        },
+        {
+          "key": "E",
+          "text": "Batı kültürünü benimsemek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gaza ve Cihad, İslam'ı yayma ve Allah'ın adını yüceltme (İla-yı Kelimatullah) maksadıyla gayrimüslimlere karşı yürütülen gaza anlayışıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-27",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nde hükümdarlık unvanı olarak 'Padişah' unvanını resmiyette ilk kez kullanan hükümdar kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osman Bey"
+        },
+        {
+          "key": "B",
+          "text": "Orhan Bey"
+        },
+        {
+          "key": "C",
+          "text": "I. Murad (Hüdavendigâr)"
+        },
+        {
+          "key": "D",
+          "text": "Yıldırım Bayezid"
+        },
+        {
+          "key": "E",
+          "text": "II. Mehmed"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "I. Murad (Hüdavendigâr), Osmanlı devlet yöneticileri arasında Padişah unvanını kullanan ilk hükümdardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-28",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "1402 Ankara Savaşı'nın kaybedilmesinde ve Osmanlı ordusunun dağılmasında belirleyici olan askeri olay nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yeniçerilerin ayaklanması"
+        },
+        {
+          "key": "B",
+          "text": "Bizans'ın arkadan saldırması"
+        },
+        {
+          "key": "C",
+          "text": "Kara Tatarların ve bazı Anadolu beylik askerlerinin Timur tarafına geçmesi"
+        },
+        {
+          "key": "D",
+          "text": "Tımarlı sipahilerin savaşa katılmaması"
+        },
+        {
+          "key": "E",
+          "text": "Donanmanın gecikmesi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Ankara Savaşı sırasında Kara Tatarlar ve beylik birliklerinin taraf değiştirip Timur tarafına geçmesi Osmanlı ordusunu bozguna uğratmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-29",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Fatih Sultan Mehmed'in Batı seferleri sırasında kuşatmasına rağmen alamadığı tek stratejik kale hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belgrad"
+        },
+        {
+          "key": "B",
+          "text": "Rodos"
+        },
+        {
+          "key": "C",
+          "text": "Viyana"
+        },
+        {
+          "key": "D",
+          "text": "Otranto"
+        },
+        {
+          "key": "E",
+          "text": "Budin"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Fatih Sultan Mehmed Belgrad'ı kuşatmış ancak alamamıştır. Belgrad daha sonra Kanuni Sultan Süleyman tarafından fethedilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-kurulus-yukselme-30",
+      "topic_id": "topic-tarih-osmanli-kurulus-yukselme",
+      "question_text": "Osmanlı Devleti'nin kuruluş döneminde gaza ve fetih hareketlerini aktif olarak destekleyen ve örgütleyen zümrelere ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cenderiler"
+        },
+        {
+          "key": "B",
+          "text": "Gaziyan-ı Rum"
+        },
+        {
+          "key": "C",
+          "text": "Celaliler"
+        },
+        {
+          "key": "D",
+          "text": "Sekbanlar"
+        },
+        {
+          "key": "E",
+          "text": "Leventler"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gaziyan-ı Rum (Anadolu Gazileri), Ahiyan-ı Rum, Abdalan-ı Rum ve Baciyan-ı Rum kuruluşta fetihlerde etkin olan zümrelerdir.",
+      "difficulty_level": 3
+    }
+  ]
+}

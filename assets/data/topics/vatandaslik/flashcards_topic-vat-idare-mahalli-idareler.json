@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-idare-mahalli-idareler",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Mahalli İdare (Yerel Yönetim) Türleri",
+      "body": "İl Özel İdaresi, Belediye, Büyükşehir Belediyesi ve Köy'dür. Anayasada sayılan yerel yönetim organları bunlardır."
+    },
+    {
+      "card_number": 2,
+      "title": "İl Özel İdaresi Organları",
+      "body": "Vali (Yürütme organı), İl Genel Meclisi (Karar organı - Seçimle gelir), İl Encümeni (Danışma/İcra organı)."
+    },
+    {
+      "card_number": 3,
+      "title": "İl Genel Meclisi Başkanı",
+      "body": "İl Genel Meclisi kendi üyeleri arasından seçtiği bir başkanı meclis başkanı yapar (Vali başkanlık etmez!)."
+    },
+    {
+      "card_number": 4,
+      "title": "Belediye Kurulma Şartı",
+      "body": "Nüfusu 5.000 ve üzeri olan yerleşim yerlerinde CUMHURBAŞKANI KARARI ile belediye kurulabilir. İl ve ilçe merkezlerinde nüfusa bakılmaksızın kurulur."
+    },
+    {
+      "card_number": 5,
+      "title": "Büyükşehir Belediyesi Kurulma Şartı",
+      "body": "Toplam nüfusu 750.000 ve üzeri olan illerde KANUNLA kurulur. Şu an Türkiye'de 30 Büyükşehir Belediyesi vardır."
+    },
+    {
+      "card_number": 6,
+      "title": "Belediye Organları",
+      "body": "Belediye Başkanı (Yürütme organı), Belediye Meclisi (Karar organı), Belediye Encümeni (Danışma/Karar organı)."
+    },
+    {
+      "card_number": 7,
+      "title": "Belediye Başkanlığının Düşmesi Kararı",
+      "body": "Seçilme yeterliliğini kaybeden Belediye Başkanı'nın başkanlığını düşürme kararı DANIŞTAY tarafından verilir."
+    },
+    {
+      "card_number": 8,
+      "title": "Köy Kurulma Şartı ve Organları",
+      "body": "Nüfusu 2.000 ile 150 arasında olan yerlerdir. İÇİŞLERİ BAKANLIĞI kararı ile kurulur. Organları: Muhtar, İhtiyar Heyeti, İmece/Salma."
+    },
+    {
+      "card_number": 9,
+      "title": "Köyün Doğrudan Demokrasi Organı (Köy Derneği)",
+      "body": "Köyde bulunan tüm seçmenlerin oluşturduğu kuruldur. Muhtarı ve İhtiyar Heyeti'ni seçer, isteğe bağlı işleri zorunlu kılar."
+    },
+    {
+      "card_number": 10,
+      "title": "Mahalle Kırsal/Mahalli İdare Değildir!",
+      "body": "Mahalle bir mahalli idare birimi değildir! Kamu tüzel kişiliği (KTK) YOKTUR. Belediyeye bağlı bir yönetim birimidir."
+    }
+  ]
+}

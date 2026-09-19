@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-sozcuk-turleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "İsim (Ad) ve Türleri",
+      "body": "Canlı, cansız tüm varlıkları ve kavramları karşılayan sözcüklerdir. Özel isim (Ankara), Cins isim (masa), Somut (taş), Soyut (sevgi)."
+    },
+    {
+      "card_number": 2,
+      "title": "Sıfat (Önad) Altın Kuralı",
+      "body": "Sıfatlar mutlaka bir isimden önce gelir ve o ismi niteler ya da belirtir. Örnek: Kırmızı elma (Niteleme), Bu kitap (İşaret)."
+    },
+    {
+      "card_number": 3,
+      "title": "Zamir (Adıl) Altın Kuralı",
+      "body": "İsmin yerini tutan sözcüklerdir; arkasından isim gelmez. Örnek: 'Bu çok güzel' (İşaret zamiri), 'O dün geldi' (Kişi zamiri)."
+    },
+    {
+      "card_number": 4,
+      "title": "Zarf (Belirteç) Altın Kuralı",
+      "body": "Fiilleri, fiilimsileri, sıfatları veya kendi türünden sözcükleri durum, zaman, miktar, yön yönünden etkiler. Örnek: Hızlı koştu."
+    },
+    {
+      "card_number": 5,
+      "title": "Edat (İlgeç) Tanıma Testi",
+      "body": "Tek başına anlamı olmayan, cümle içinde kelimeler arasında anlam ilgisi kuran sözcüklerdir. Örnek: gibi, kadar, için, göre."
+    },
+    {
+      "card_number": 6,
+      "title": "Bağlaç Tanıma Testi",
+      "body": "Eş görevli sözcükleri veya cümleleri birbirine bağlayan sözcüklerdir; cümleden çıkarılınca anlam bozulmaz. Örnek: ve, veya, ama, çünkü."
+    },
+    {
+      "card_number": 7,
+      "title": "İşaret Sıfatı vs İşaret Zamiri",
+      "body": "'Bu arabayı aldım' cümlesindeki 'bu' ismi etkilediği için sıfattır. 'Bunu aldım' cümlesindeki 'bunu' ismin yerini tuttuğu için zamirdir."
+    },
+    {
+      "card_number": 8,
+      "title": "Soru Sıfatı vs Soru Zamiri",
+      "body": "'Hangi kitabı okudun?' ifadesinde 'hangi' sıfattır. 'Hangisini okudun?' ifadesinde 'hangisini' zamirdir."
+    },
+    {
+      "card_number": 9,
+      "title": "Zaman Zarfı İpucu",
+      "body": "Fiile sorulan 'Ne zaman?' sorusuna yanıt verir. Örnek: 'Dün akşam bize geldi' cümlesinde 'dün akşam' zaman zarfıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Miktar (Azlık-Çokluk) Zarfı",
+      "body": "Fiile veya sıfata sorulan 'Ne kadar?' sorusuna yanıt verir. Örnek: 'Çok çalıştı', 'En güzel tablo'."
+    }
+  ]
+}

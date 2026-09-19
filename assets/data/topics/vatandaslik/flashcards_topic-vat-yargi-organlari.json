@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-yargi-organlari",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "1982 Anayasası'na Göre Yüksek Mahkemeler",
+      "body": "Anayasa Mahkemesi, Yargıtay, Danıştay, Uyuşmazlık Mahkemesi. (Askeri Yargıtay ve AYİM 2017'de KALDIRILMIŞTIR!)."
+    },
+    {
+      "card_number": 2,
+      "title": "Anayasa Mahkemesi (AYM) Üye Sayısı",
+      "body": "Toplam 15 üyeden oluşur. 12 üyesini Cumhurbaşkanı, 3 üyesini TBMM seçer. Görev süreleri 12 YILDIR (Tekrar seçilemezler)."
+    },
+    {
+      "card_number": 3,
+      "title": "AYM Bireysel Başvuru Hakkı (2010)",
+      "body": "Anayasada güvence altına alınmış temel hakları ihlal edilen herkes, iç hukuk yollarını tükettikten sonra 30 GÜN içinde AYM'ye bireysel başvuru yapabilir."
+    },
+    {
+      "card_number": 4,
+      "title": "Yüce Divan Sıfatıyla Yargılama",
+      "body": "AYM; Cumhurbaşkanı, Bakanlar, AYM/Yargıtay/Danıştay üyeleri, HSK üyeleri, Sayıştay Başkanı, TBMM Başkanı ve Genelkurmay Başkanı ile Kuvvet Komutanlarını yargılar."
+    },
+    {
+      "card_number": 5,
+      "title": "Yargıtay (Adli Yargının Son İnceleme Mercii)",
+      "body": "Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir. Üyelerini HAKİMLER VE SAVCILAR KURULU (HSK) seçer."
+    },
+    {
+      "card_number": 6,
+      "title": "Danıştay (İdari Yargının Son İnceleme Mercii)",
+      "body": "İdari mahkemelerce verilen kararların son inceleme merciidir. Üyelerinin 3/4'ünü HSK, 1/4'ünü CUMHURBAŞKANI seçer."
+    },
+    {
+      "card_number": 7,
+      "title": "Uyuşmazlık Mahkemesi Görevi",
+      "body": "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözen mahkemedir. Başkanı AYM kendi üyeleri arasından seçer."
+    },
+    {
+      "card_number": 8,
+      "title": "Hakimler ve Savcılar Kurulu (HSK)",
+      "body": "13 üyeden oluşur. Başkanı ADALET BAKANI'dır. Adalet Bakanı Müsteşarı tabii üyedir. 4 üyeyi Cumhurbaşkanı, 7 üyeyi TBMM seçer."
+    },
+    {
+      "card_number": 9,
+      "title": "Sayıştay (Mali Denetim Organı)",
+      "body": "TBMM adına kamu kurumlarının gelir, gider ve mallarını denetleyen yüksek mali denetim organıdır (Anayasada Yüksek Mahkeme olarak sayılmaz)."
+    },
+    {
+      "card_number": 10,
+      "title": "Hakimlik ve Savcılık Teminatı",
+      "body": "Hakimler ve savcılar azlolunamaz, kendileri istemedikçe anayasada gösterilen yaştan (65 yaş) önce emekliye ayrılamaz."
+    }
+  ]
+}

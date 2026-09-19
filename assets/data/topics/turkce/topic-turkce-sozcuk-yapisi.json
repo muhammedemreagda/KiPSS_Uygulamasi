@@ -1,0 +1,647 @@
+{
+  "topic_id": "topic-turkce-sozcuk-yapisi",
+  "title": "Sözcük Yapısı ve Ekler",
+  "course_id": "course-turkce",
+  "question_count": 19,
+  "quick_note": {
+    "id": "qn-topic-turkce-sozcuk-yapisi",
+    "topic_id": "topic-turkce-sozcuk-yapisi",
+    "title": "Sözcük Yapısı ve Ekler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Sözcük Yapısı ve Ekler' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Sözcük Yapısı ve Ekler konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nSözcük Yapısı ve Ekler başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Sözcük Yapısı ve Ekler konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Kök Kavramı ve Türleri",
+        "body": "Sözcüğün anlamlı en küçük yapı birimidir. İsim kökü (mak/mek almayan: ev, su) ve Fiil kökü (mak/mek alan: gel-, yaz-) olarak ikiye ayrılır."
+      },
+      {
+        "card_number": 2,
+        "title": "Ortak (Kökdeş) Kök",
+        "body": "Aralarında anlam bağı bulunan, hem isim hem fiil olarak kullanılabilen köklerdir. Örnek: boya (isim) / boyamak (fiil)."
+      },
+      {
+        "card_number": 3,
+        "title": "Sesteş (Eş Sesli) Kök",
+        "body": "Yazılışları aynı fakat anlamları tamamen farklı olan köklerdir. Örnek: yaz (mevsim) / yazmak (fiil)."
+      },
+      {
+        "card_number": 4,
+        "title": "Yapım Eki İşlevi",
+        "body": "Eklendiği sözcüğün anlamını veya türünü değiştiren eklerdir; yeni bir kelime (türemiş sözcük) türetir. Örnek: göz-lük, sev-gi."
+      },
+      {
+        "card_number": 5,
+        "title": "Çekim Eki İşlevi",
+        "body": "Sözcüğün anlamını değiştirmeyen, cümledeki görevini ve diğer sözcüklerle ilişkisini düzenleyen eklerdir. Örnek: ev-de, kitap-lar."
+      },
+      {
+        "card_number": 6,
+        "title": "Basit Sözcük Yapısı",
+        "body": "Yapım eki almamış sözcüklerdir. Çekim eki alabilirler ancak yeni bir anlam kazanmazlar. Örnek: Evlerden, masada."
+      },
+      {
+        "card_number": 7,
+        "title": "Türemiş Sözcük Yapısı",
+        "body": "En az bir tane yapım eki almış sözcüklerdir. Örnek: Bil-gi-li, göz-lük-çü."
+      },
+      {
+        "card_number": 8,
+        "title": "Birleşik Sözcük Yapısı",
+        "body": "En az iki sözcüğün birleşip kalıplaşmasıyla oluşan yeni sözcüklerdir. Örnek: Çanakkale, gecekondu, aslanağzı."
+      },
+      {
+        "card_number": 9,
+        "title": "İyelik (Aitlik) Ekleri",
+        "body": "İsmin neye veya kime ait olduğunu belirten eklerdir. Örnek: ev-im (benim), ev-in (senin), ev-i (onun)."
+      },
+      {
+        "card_number": 10,
+        "title": "Hal (Durum) Ekleri",
+        "body": "İsmin yükleme (-i), yönelme (-e), bulunma (-de) ve ayrılma (-den) hallerini belirten eklerdir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-1",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Sözcük kökleri 'isim kökü' ve 'fiil kökü' olmak üzere iki temel gruba ayrılır. Buna göre aşağıdaki cümlelerde yer alan altı çizili sözcüklerden hangisinin kökü, sözcük türü bakımından diğerlerinden farklıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazarın son romanındaki yaşantı kurgusu okuyucuları derinden etkiledi."
+        },
+        {
+          "key": "B",
+          "text": "Mimarın sergide sunduğu görsel tasarımlar büyük beğeni topladı."
+        },
+        {
+          "key": "C",
+          "text": "İnsanlara karşı her zaman saygılı davranmayı ilke edinmişti."
+        },
+        {
+          "key": "D",
+          "text": "Akşamüzeri denizden esen hafif esinti ortalığı serinletti."
+        },
+        {
+          "key": "E",
+          "text": "Toplantıda sunulan raporları inceleyip kâğıda yazdı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Yaşantı' sözcüğünün kökü 'yaş' ismidir (yaş [isim] > yaşa- [fiil] > yaşan- > yaşantı). B seçeneğinde 'gör-' (fiil), C seçeneğinde 'say-' (fiil), D seçeneğinde 'es-' (fiil) ve E seçeneğinde 'yaz-' (fiil) kökleri yer almaktadır. A şıkkının kökü isim, diğerlerininki fiildir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-2",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Fiil kök veya gövdelerine gelerek onlardan isim türeten eklere 'fiilden isim yapım eki' denir. Aşağıdaki cümlelerin hangisinde altı çizili sözcük fiilden isim yapım eki **almamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Otobüs son durakta durunca tüm yolcular aşağı indi."
+        },
+        {
+          "key": "B",
+          "text": "Mahalledeki emektar sucu sabahın ilk saatlerinde işe başladı."
+        },
+        {
+          "key": "C",
+          "text": "Mutfaktaki süzgeç kırılınca yeni bir tane satın aldılar."
+        },
+        {
+          "key": "D",
+          "text": "Önümüzdeki ay yapılacak olan seçim sonuçları merakla bekleniyor."
+        },
+        {
+          "key": "E",
+          "text": "Fabrikanın kurulacağı bölge uzmanlar tarafından incelendi."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Sucu' sözcüğü 'su' isim köküne 'isimden isim yapım eki' olan '-cu' getirilerek türetilmiştir. A'da 'dur-ak', C'de 'süz-geç', D'de 'seç-im' ve E'de 'böl-ge' sözcükleri ise fiilden isim yapım eki almıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-3",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Bir sözcük hem yapım eki hem de çekim ekini aynı anda alabilir. Aşağıdaki cümlelerin hangisinde yer alan altı çizili sözcük **hem yapım hem de çekim eki** almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Masanın üzerindeki kalın kitaplar yere saçılmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Sabah erkenden evden çıkıp durağa doğru yürüdü."
+        },
+        {
+          "key": "C",
+          "text": "Yeni aldığı gözlüklerimi masanın üzerinde unuttum."
+        },
+        {
+          "key": "D",
+          "text": "Yoğun yağış nedeniyle yollarda uzun araç kuyrukları oluştu."
+        },
+        {
+          "key": "E",
+          "text": "Çantasındaki kırmızı kalemi arkadaşına ödünç verdi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Gözlüklerimi' sözcüğü 'göz' isim köküne '-lük' isimden isim yapım eki getirildikten sonra '-ler' (çoğul), '-im' (iyelik) ve '-i' (belirtme hâli) çekim eklerini almıştır. Dolayısıyla hem yapım hem çekim eki içermektedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-4",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Türkçede '-ı, -i, -u, -ü' eki hem 3. şahıs iyelik eki hem de belirtme durumu (hâl) eki olarak kullanılabilir. Bu ek, eklendiği sözcüğe 'aitlik' anlamı katıyorsa iyelik ekidir. Aşağıdaki cümlelerin hangisinde '-ı, -i, -u, -ü' eki **iyelik eki** olarak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evi geçen hafta detaylı bir şekilde temizlediler."
+        },
+        {
+          "key": "B",
+          "text": "Masanın üzerindeki kitabı çantasına yerleştirdi."
+        },
+        {
+          "key": "C",
+          "text": "Eski arabayı yıkamak için bahçeye çıkardı."
+        },
+        {
+          "key": "D",
+          "text": "Sınav esnasında kalemi aniden bozulunca yedek kalem istedi."
+        },
+        {
+          "key": "E",
+          "text": "Geniş ahşap kapıyı hızlıca kapatıp içeri girdi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 'kalemi' sözcüğü 'Onun kalemi' anlamı taşımaktadır ve kalemin kişiye ait olduğunu belirttiği için iyelik ekidir. A, B, C ve E seçeneklerindeki '-ı/-i' ekleri ise yüklemin etkilediği nesneyi belirten 'belirtme hâl eki'dir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-5",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Birleşik isimler farklı sözcük türlerinin bir araya gelmesiyle oluşabilir. Aşağıdaki cümlelerin hangisinde yer alan birleşik sözcük **'geniş zamanlı iki fiilin birleşmesiyle'** kurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pencerenin önündeki saksıda renkli bir hanımeli açmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Şehrin kenar mahallelerindeki gecekondu sayısı günden güne azalıyor."
+        },
+        {
+          "key": "C",
+          "text": "İş hayatında başarılı olmak için açıkgöz biri olmak yetmez."
+        },
+        {
+          "key": "D",
+          "text": "Tarladaki rüzgârgülü rüzgâr estikçe hızla dönüyordu."
+        },
+        {
+          "key": "E",
+          "text": "Geniş buğday tarlalarına giren devasa biçerdöver saatlerce çalıştı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Biçerdöver' sözcüğü 'biç-er' (geniş zamanlı fiil) ve 'döv-er' (geniş zamanlı fiil) eylemlerinin kalıplaşarak birleşmesiyle oluşmuş bir birleşik isimdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-6",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Yapım eki almamış ve başka bir sözcükle birleşmemiş olan sözcükler 'basit yapılı'dır. Basit sözcükler çekim eki alabilirler. Aşağıdaki cümlelerin hangisinde yer alan altı çizili sözcük **yapısı bakımından basittir**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rüzgâr esince evin kapısını sonuna kadar açtı."
+        },
+        {
+          "key": "B",
+          "text": "Toplumda sevgi ve saygı bağlarının güçlü olması gerekir."
+        },
+        {
+          "key": "C",
+          "text": "Bilimsel bilgi, deney ve gözleme dayalı olarak gelişir."
+        },
+        {
+          "key": "D",
+          "text": "Genç yaşta mirasyedi bir yaşam sürdüğü için pişman oldu."
+        },
+        {
+          "key": "E",
+          "text": "Eleştirmen, yapıcı eleştirileriyle genç yazarlara yol göstermelidir."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Kapısını' sözcüğü 'kapı' isim köküne sadece iyelik (-sı), kaynaştırma (-n) ve belirtme hâl (-ı) çekim eklerini almıştır. Yapım eki almadığı için basit yapılıdır. B'de 'sev-gi' (türemiş), C'de 'bil-gi' (türemiş), D'de 'miras-yedi' (birleşik) ve E'de 'yap-ıcı' (türemiş) sözcükler kullanılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-7",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Doğadaki seslerin taklit edilmesiyle oluşan yansıma köklerden isim veya fiil türetilebilir. Aşağıdaki cümlelerin hangisinde **yansıma kökten türemiş bir isim** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocuklar okulun geniş bahçesinde neşeyle koşuyordu."
+        },
+        {
+          "key": "B",
+          "text": "Gece boyunca mutfaktaki musluktan gelen patırtı herkesi uyandırdı."
+        },
+        {
+          "key": "C",
+          "text": "Güneş dağların ardından yavaşça yükselmeye başladı."
+        },
+        {
+          "key": "D",
+          "text": "Yağmurun ardından nemli toprak mis gibi kokuyordu."
+        },
+        {
+          "key": "E",
+          "text": "Ağaçların dalları rüzgâr estikçe sallanıyordu."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Patırtı' sözcüğü doğadaki patlama sesini temsil eden 'pat' yansıma kökünden '-ırtı' yapım ekiyle türetilmiş bir isimdir. Doğru cevap B seçeneğidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-8",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "En az bir yapım eki almış sözcüğe 'gövde' denir. Gövdeye yeniden bir yapım eki getirildiğinde sözcük 'gövdeden türemiş' olur. Aşağıdaki cümlelerin hangisinde **gövdeden türemiş bir sözcük** yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden aldığı yeni kitaplık odaya tam oturdu."
+        },
+        {
+          "key": "B",
+          "text": "Yazarlar son eserlerinde toplumsal temaları işliyorlar."
+        },
+        {
+          "key": "C",
+          "text": "Mahalledeki emektar gözlükçü müşterilerine güler yüzle davrandı."
+        },
+        {
+          "key": "D",
+          "text": "Otobüs durağında bekleyen yolcu saatine bakıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Dergedeki bilgi yarışmasına çok sayıda öğrenci katıldı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Gözlükçü' sözcüğünün kökü 'göz'dür. 'göz' köküne ilk yapım eki olan '-lük' getirilerek 'gözlük' gövdesi oluşturulmuş; ardından ikinci yapım eki '-çü' getirilerek kelime gövdeden türetilmiştir (göz > gözlük > gözlükçü). A, B, D ve E seçeneklerindeki sözcüklerde tek yapım eki vardır (kökten türemişlerdir).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-9",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Çoğul eki (-lar / -ler) eklendiği sözcüğe sadece çokluk anlamı katmaz; cümleye abartma, aile, yaklaşıklık, benzerlik gibi farklı anlam boyutları kazandırabilir. Buna göre aşağıdaki cümlelerin hangisinde '-lar / -ler' eki cümleye **'yaklaşıklık, civarında'** anlamı katmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkler tarih boyunca bağımsızlıklarına son derece düşkün olmuşlardır."
+        },
+        {
+          "key": "B",
+          "text": "Ahmet Beyler bu akşam çay sohbetine bize gelecekler."
+        },
+        {
+          "key": "C",
+          "text": "Bu vatan toprağında Mustafa Kemaller tükenmez."
+        },
+        {
+          "key": "D",
+          "text": "Hastaneye getirilen hasta otuz beş yaşlarında bir adamdı."
+        },
+        {
+          "key": "E",
+          "text": "Sınavı kazandığını duyunca dünyalar onun oldu."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'otuz beş yaşlarında' ifadesinde yer alan '-lar' eki '35 yaş civarında, yaklaşık 35 yaşında' anlamı katmıştır. A'da milleti, B'de aileyi, C'de benzerlerini kapsar, E'de ise abartma anlamı vardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-10",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük **'isimden fiil yapım eki'** alarak türetilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akşam saatlerinde yola çıkan otobüs sabah kente döndü."
+        },
+        {
+          "key": "B",
+          "text": "Karmaşık matematik sorularını çözmek için uzun süre uğraştı."
+        },
+        {
+          "key": "C",
+          "text": "Rüzgâr dinince deniz yüzeyi iyice durgunlaştı."
+        },
+        {
+          "key": "D",
+          "text": "Yıllardır beklenen sınav sonuçları dün nihayet açıklandı."
+        },
+        {
+          "key": "E",
+          "text": "Baharın gelmesiyle birlikte çevredeki parklar güzelleşti."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Güzelleşti' sözcüğünün kökü 'güzel' ismidir. Bu isim köküne '-leş' isimden fiil yapım eki getirilerek fiil oluşturulmuştur (güzel [isim] > güzel-leş- [fiil]).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-11",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Eşitlik eki (-ca / -ce / -ça / -çe) cümleye görevi doğrultusunda 'görüş, benzerlik, süre, yönünden/bakımından' gibi çeşitli anlamlar katar. Aşağıdaki cümlelerin hangisinde eşitlik eki cümleye **'yönünden, bakımından'** anlamı katmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşça kardeşinden büyük olmasına rağmen çok daha utangaç bir yapısı vardı."
+        },
+        {
+          "key": "B",
+          "text": "Bence bu zor kararı vermeden önce ailemizle tekrar görüşmeliyiz."
+        },
+        {
+          "key": "C",
+          "text": "Çocukça hareketleriyle salondaki tüm davetlileri güldürmeyi başardı."
+        },
+        {
+          "key": "D",
+          "text": "Sıcak havanın altında saatlerce otobüs durağında beklemek zorunda kaldılar."
+        },
+        {
+          "key": "E",
+          "text": "Ödevlerini güzelce tamamladıktan sonra dışarı çıkıp oynayabilirsin."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğindeki 'yaşça' sözcüğünde yer alan '-ça' eki 'yaş yönünden, yaş bakımından' anlamı katmaktadır. B'de görüş ('bence'), C'de benzerlik ('çocuk gibi'), D'de süre ('saatler boyunca'), E'de durum ('güzel bir şekilde') anlamı katmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-12",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Aralarında anlam bağı bulunmak şartıyla, hem isim hem de fiil olarak kullanılabilen ve biçimsel olarak değişmeyen köklere 'ortak kök' (kökteş kök) denir. Sesteş köklerde ise kelimeler arasında hiçbir anlam bağı yoktur. Buna göre aşağıdaki sözcüklerden hangisinin kökü **ortak kök (kökteş)** olarak kullanılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kulak"
+        },
+        {
+          "key": "B",
+          "text": "Boya"
+        },
+        {
+          "key": "C",
+          "text": "Göz"
+        },
+        {
+          "key": "D",
+          "text": "Yaz"
+        },
+        {
+          "key": "E",
+          "text": "Yol"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Boya' kelimesi hem isimdir (renk veren madde: boya) hem de fiildir (boya vurmak eylemi: boya-). İki kullanım arasında doğrudan anlam bağı olduğu için ortak köktür. D'deki 'yaz' (mevsim ve yazmak eylemi) ve E'deki 'yol' (karasal yol ve yolmak eylemi) kelimelerinde ise anlam bağı olmadığı için sesteş köktür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-13",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Vasıta eki (-ile / -la / -le) cümle içinde birliktelik, araç, durum veya zaman anlamları kurabilir. Aşağıdaki cümlelerin hangisinde vasıta eki cümleye **'araç / araç vasıtasıyla'** anlamı katmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hafta sonu lise arkadaşlarıyla buluşup eski günleri yâd etti."
+        },
+        {
+          "key": "B",
+          "text": "Baharın gelmesiyle birlikte doğadaki tüm canlılar uyandı."
+        },
+        {
+          "key": "C",
+          "text": "Bahçedeki kuru odunları kesmek için keskin bir baltayla çalıştı."
+        },
+        {
+          "key": "D",
+          "text": "Olayı duyunca büyük bir öfkeyle odadan dışarı fırladı."
+        },
+        {
+          "key": "E",
+          "text": "Zilin çalmasıyla öğrencilerin koridora dökülmesi bir oldu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'baltayla' kullanımı eylemin hangi gereç/araç kullanılarak yapıldığını gösterdiği için araç (vasıta) anlamı taşır. A'da birliktelik, B ve E'de zaman/sebep, D'de ise durum anlamı katmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-14",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Kurallı birleşik fiiller eyleme çabukluk, yeterlik, sürerlik veya yaklaşma gibi anlamlar katar. Fiile getirilen '-(ı)ver' ekiyle oluşturulan fiillere 'tezlik birleşik fiili' denir. Aşağıdaki cümlelerin hangisinde **tezlik birleşik fiili** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karmaşık ve zor matematik problemlerini kısa sürede çözebildi."
+        },
+        {
+          "key": "B",
+          "text": "Tarihi müzedeki antik heykelleri saatlerce inceleyedurdu."
+        },
+        {
+          "key": "C",
+          "text": "Buzlu yolda yürürken ayağı kayınca aniden düşeyazdı."
+        },
+        {
+          "key": "D",
+          "text": "Masanın üzerindeki biriken resmi belgeleri çabucak imzalayıverdi."
+        },
+        {
+          "key": "E",
+          "text": "Bu köklü gelenek nesilden nesile aktarılarak süregelmiştir."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde yer alan 'imzalayıverdi' (imzala-y-ıver-di) eylemi tezlik birleşik fiilidir. A'da 'çözebildi' (yeterlik), B'de 'inceleyedurdu' (sürerlik), C'de 'düşeyazdı' (yaklaşma) ve E'de 'süregelmiştir' (sürerlik) kullanılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-15",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Ek-fiil (ek-eylem), isim soylu sözcüklere gelerek onları yüklem yapar ya da basit zamanlı fiillere gelerek onları birleşik zamanlı fiil yapar. Aşağıdaki cümlelerin hangisinde ek-fiil **isim soylu bir sözcüğü geniş zamanda yüklem** yapmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dün akşam dondurucu havanın etkisiyle sokaklar çok soğuktu."
+        },
+        {
+          "key": "B",
+          "text": "Kütüphanede aradığım kaynak kitabın son baskısı varmış."
+        },
+        {
+          "key": "C",
+          "text": "Yarın hava açık ve güneşli olursa sahil yürüyüşüne çıkarız."
+        },
+        {
+          "key": "D",
+          "text": "İlkokul yıllarında derslerinde son derece çalışkan bir öğrenciymiş."
+        },
+        {
+          "key": "E",
+          "text": "O, iş hayatında çevresindekilere karşı her zaman saygılı ve anlayışlıdır."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki 'anlayışlıdır' sözcüğünün kök/gövdesi isimdir. Ek-fiilin geniş zaman eki olan '-dır' ekini alarak cümlede yüklem olmuştur. A'da 'soğuk-tu' (görülen geçmiş zaman), B'de 'var-mış' (öğrenilen geçmiş zaman), C'de 'ol-ur-sa' (şart birleşik zamanı) ve D'de 'öğrenci-ymiş' (öğrenilen geçmiş zaman) kullanılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-16",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Ayrılma (çıkma) durum eki olan '-den / -dan', bazı durumlarda tamlayan eki olan '-in / -ın' ekinin yerini tutarak isim tamlaması kurabilir. Aşağıdaki cümlelerin hangisinde '-den / -dan' eki **tamlayan eki görevinde** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınava katılan öğrencilerden bazıları soruların zorluğundan yakındı."
+        },
+        {
+          "key": "B",
+          "text": "Sabahın ilk ışıklarıyla birlikte evden hızla ayrıldı."
+        },
+        {
+          "key": "C",
+          "text": "Şehir dışından gelen otobüs iki saatlik rötarlar terminale ulaştı."
+        },
+        {
+          "key": "D",
+          "text": "Gürültü yüzünden kütüphaneden çıkıp sessiz bir yere gitti."
+        },
+        {
+          "key": "E",
+          "text": "Yıllardır yaşadığı bu tarihi kentin sokaklarından ayrılmak istemiyordu."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğindeki 'öğrencilerden bazıları' ifadesi 'öğrencilerin bazıları' biçiminde dönüştürülebilir. Burada '-den' eki belirtili isim tamlamasındaki tamlayan ekinin (-in) yerini tutmuştur. Diğer şıklarda ise gerçek anlamıyla ayrılma/çıkma hâli olarak kullanılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-17",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Türkçede bazı sözcükler türetilirken (yapım eki alırken) kökte ünlü düşmesi gerçekleşir. Aşağıdaki cümlelerin hangisinde **türetilme esnasında ünlü düşmesine uğramış** bir sözcük vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aklına takılan soruları sormak için öğretmenin yanına gitti."
+        },
+        {
+          "key": "B",
+          "text": "Yazar, son kitabında çocukluk yıllarına ait besleyici öykülere yer veriyor."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin tarihi sokaklarında saatlerce sessizce gezindi."
+        },
+        {
+          "key": "D",
+          "text": "Burnundaki tıkanıklık sebebiyle nefes almakta zorlanıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Gönlünü kaptırdığı bu meslekte uzun yıllar başarıyla çalıştı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Besleyici' sözcüğünün kökü 'besi' ismidir. 'besi' isminden '-le' yapım ekiyle fiil türetilirken kök sonundaki 'i' ünlüsü düşmüştür (besi-le- > besle-). A'da 'akıl-a', C'de 'şehir-in', D'de 'burun-u' ve E'de 'gönül-ü' sözcüklerinde ünlü düşmesi türetilirken değil, çekim eki alırken gerçekleşmiştir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-18",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "'-ın / -in / -un / -ün' eki cümledeki yerine göre '2. şahıs iyelik eki' veya 'tamlayan (ilgi) eki' olabilir. Aşağıdaki cümlelerin hangisinde yer alan '-ın / -in' eki **tamlayan (ilgi) eki** olarak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sesin uzaktan bile son derece net ve anlaşılır geliyordu."
+        },
+        {
+          "key": "B",
+          "text": "Kalemin masanın üzerinde unutulduğu için sana yenisini verdim."
+        },
+        {
+          "key": "C",
+          "text": "Evin kapısı rüzgârın etkisiyle şiddetle çarptı."
+        },
+        {
+          "key": "D",
+          "text": "Çantan oldukça ağır göründüğü için taşımaya yardım ettim."
+        },
+        {
+          "key": "E",
+          "text": "Elbisen tören konseptine son derece uygun seçilmişti."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'Evin kapısı' ifadesi bir belirtili isim tamlamasıdır ve 'evin' kelimesindeki '-in' eki tamlayan eklidir. A, B, D ve E seçeneklerinde ise başlarına 'senin' getirilebilen (senin sesin, senin kalemin vb.) 2. şahıs iyelik ekleri yer almaktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcuk-yapisi-20",
+      "topic_id": "topic-turkce-sozcuk-yapisi",
+      "question_text": "Yapılarına göre sözcükler 'basit', 'türemiş' ve 'birleşik' olmak üzere üçe ayrılır. Buna göre aşağıdaki cümlelerde yer alan altı çizili sözcüklerden hangisi **yapısı bakımından türemiş bir sözcük değildir**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahalledeki emektar simitçi sabahın erken saatinde caddeleri gezdi."
+        },
+        {
+          "key": "B",
+          "text": "Yoğun geçen temponun ardından yorgun bedenini dinlendirmeye çalıştı."
+        },
+        {
+          "key": "C",
+          "text": "Sıcak havalarda sahilde kulaklık takıp müzik dinlemekten keyif alırdı."
+        },
+        {
+          "key": "D",
+          "text": "Önümüzdeki hafta yapılacak seçim çalışmaları tüm hızıyla devam ediyor."
+        },
+        {
+          "key": "E",
+          "text": "Araştırmacılar denizaltı canlılarının yaşam şartlarını incelediler."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Denizaltı' sözcüğü 'deniz' ve 'altı' sözcüklerinin birleşmesiyle oluşmuş birleşik yapılı bir sözcüktür. A'da 'simit-çi', B'de 'yor-gun', C'de 'kulak-lık' ve D'de 'seç-im' sözcükleri yapım eki aldıklarından türemiş yapılıdır.",
+      "difficulty_level": 3
+    }
+  ]
+}

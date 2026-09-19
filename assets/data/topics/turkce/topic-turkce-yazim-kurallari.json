@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-yazim-kurallari",
+  "title": "Yazım Kuralları",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-yazim-kurallari",
+    "topic_id": "topic-turkce-yazim-kurallari",
+    "title": "Yazım Kuralları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Yazım Kuralları' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Yazım Kuralları konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nYazım Kuralları başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Yazım Kuralları konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Bitişik Yazılan Ki Altın Kuralı",
+        "body": "Ki'den sonra '-ler' eki getirildiğinde anlamlı oluyorsa bitişik (kestikiler -> anlamlı), anlamsız oluyorsa ayrı yazılır."
+      },
+      {
+        "card_number": 2,
+        "title": "Bitişik Yazılan De/Da Testi",
+        "body": "Cümleden çıkarıldığında cümlenin anlamı tamamen bozuluyorsa bulunma ekidir ve bitişik yazılır; bozulmuyorsa bağlaçtır ve ayrı yazılır."
+      },
+      {
+        "card_number": 3,
+        "title": "Bitişik Birleşik Kelime Şifresi",
+        "body": "İki kelimeden ikincisi veya her ikisi birleşme sırasında anlam değişikliğine uğrarsa bitişik yazılır. Örnek: Kuşburnu, keçiboynuzu."
+      },
+      {
+        "card_number": 4,
+        "title": "Ses Düşmesi / Türemesi Bitişikliği",
+        "body": "Etmek, olmak yardımcı fiilleriyle kurulan birleşik fiillerde ses düşmesi veya türemesi varsa bitişik yazılır. Örnek: Kaybolmak, hissetmek."
+      },
+      {
+        "card_number": 5,
+        "title": "Büyük Harflerin Kullanımı",
+        "body": "Unvanlar, saygı sözleri, kurum isimleri büyük harfle başlar. Örnek: Mustafa Kemal Paşa, Türk Dil Kurumu."
+      },
+      {
+        "card_number": 6,
+        "title": "Tarihlerin Yazımı Kuralı",
+        "body": "Belirli bir günü ve ayı bildiren tarih sayıları büyük harfle başlar. Örnek: 29 Ekim 1923 (Ekim büyük)."
+      },
+      {
+        "card_number": 7,
+        "title": "Sayıların Yazılışı",
+        "body": "Sayılar metin içerisinde harfle yazılır (on beş gün). Ancak senet, çek vb. ticari belgelerde bitişik yazılır (onbeşTL)."
+      },
+      {
+        "card_number": 8,
+        "title": "İkilemelerin Yazılışı Altın Kuralı",
+        "body": "İkilemeler her zaman ayrı yazılır ve aralarına hiçbir noktalama işareti girmez. Örnek: Baş başa, el ele, ağır ağır."
+      },
+      {
+        "card_number": 9,
+        "title": "Kısaltmalara Gelen Ekler",
+        "body": "Büyük harfle yapılan kısaltmalara gelen ekler kısaltmanın son harfinin okunuşuna göre gelir. Örnek: TDK'den (TDK'dan değil)."
+      },
+      {
+        "card_number": 10,
+        "title": "Yer İsimlerinde Unvan Yazımı",
+        "body": "Yer adlarında ilk isimden sonra gelen deniz, dağ, nehir vb. tür bildiren ikinci isimler büyük harfle başlar. Örnek: Ağrı Dağı, Van Gölü."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-yazim-kurallari-1",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Kurum, kuruluş, kurul ve iş yeri adlarına getirilen iyelik, durum ve ilgi ekleri kesme işaretiyle ayrılmaz. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye Büyük Millet Meclisi'nin bu haftaki oturumunda yeni kanun teklifleri görüşülecek."
+        },
+        {
+          "key": "B",
+          "text": "Türk Dil Kurumuna yapılan aday üyelik başvuruları önümüzdeki ay değerlendirilecek."
+        },
+        {
+          "key": "C",
+          "text": "Milli Eğitim Bakanlığı onaylı projeler okullarda uygulanmaya başlandı."
+        },
+        {
+          "key": "D",
+          "text": "Kültür ve Turizm Bakanlığının yayımladığı son raporda müze ziyaretçi sayıları açıklandı."
+        },
+        {
+          "key": "E",
+          "text": "Bandırma Onyedi Eylül Üniversitesinde düzenlenen uluslararası sempozyum sona erdi."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kurum, kuruluş, kurul ve iş yeri adlarına getirilen ekler kesme işaretiyle ayrılmaz. A seçeneğinde 'Türkiye Büyük Millet Meclisinin' biçiminde kesmesiz yazılması gerekirken kesme işareti kullanılması bir yazım hatasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-2",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Somut olarak yer bildirmeyen 'alt, üst, üzeri' sözlerinin sona getirilmesiyle kurulan birleşik kelimeler bitişik yazılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bilinçaltı temizliği üzerine çalışan uzmanlar önemli bulgular paylaştılar."
+        },
+        {
+          "key": "B",
+          "text": "Akşam üzeri sahil kenarında yürüyüş yaparken lise arkadaşıyla karşılaştı."
+        },
+        {
+          "key": "C",
+          "text": "Suçlular gözaltına alınarak sorgulanmak üzere emniyet müdürlüğüne götürüldü."
+        },
+        {
+          "key": "D",
+          "text": "Ayaküstü yapılan sohbetlerde hayati kararların alınamayacağını dile getirdi."
+        },
+        {
+          "key": "E",
+          "text": "Olağanüstü durumlarda kriz masasının derhal toplanması gerekmektedir."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Somut bir yer bildirmeyen 'akşamüzeri' sözcüğü TDK yazım kurallarına göre bitişik yazılmalıdır. Cümlede ayrı yazılması ('akşam üzeri') yazım hatasına yol açmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-3",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Yer adlarında ilk isimden sonra gelen ve deniz, göl, dağ, boğaz vb. tür bildiren ikinci isimler büyük harfle başlar; ancak özel ada dâhil olmayan il, ilçe, belde, köy vb. sözcükler küçük harfle yazılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Van Gölü çevresinde yapılan arkeolojik kazılarda yeni buluntulara rastlandı."
+        },
+        {
+          "key": "B",
+          "text": "Fırtına sebebiyle Çanakkale Boğazı geçici olarak deniz trafiğine kapatıldı."
+        },
+        {
+          "key": "C",
+          "text": "Şanlıurfa'nın Halfeti İlçesi, sakin şehir ünvanıyla dikkat çekmeye devam ediyor."
+        },
+        {
+          "key": "D",
+          "text": "Ağrı Dağı'nın karlı zirvesine tırmanan dağcılar zorlu hava şartlarıyla mücadele etti."
+        },
+        {
+          "key": "E",
+          "text": "Ege Bölgesi'nin şirin köyü olan Şirince her yıl binlerce yerli turist ağırlıyor."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Özel ada dâhil olmayan 'il, ilçe, belde, köy' vb. sözcükler küçük harfle yazılır. Cümlede 'Halfeti ilçesi' biçiminde küçük harfle yazılması gerekirken 'İlçesi' şeklinde büyük yazılması hatadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-4",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Sayıların yazımıyla ilgili kurallardan biri de üleştirme sayılarının rakamla değil, yazıyla yazılmasıdır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir yazım hatası vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tören alanındaki öğrenciler ikişerli sıralar halinde içeriye girdiler."
+        },
+        {
+          "key": "B",
+          "text": "Sınav başvurusunda her adaya üçer adet vesikalık fotoğraf zorunluluğu getirildi."
+        },
+        {
+          "key": "C",
+          "text": "Yarışmada dereceye giren ilk üç kişiye yüzer bin lira ödül verileceği açıklandı."
+        },
+        {
+          "key": "D",
+          "text": "Sınav salonundaki görevli öğretmen sınav kağıtlarını 5'erli gruplara ayırdı."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphanedeki kaynak kitaplar dörder dörder raflara yerleştirildi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Üleştirme sayıları (2'şer, 5'er vb.) rakamla değil yazıyla yazılmalıdır. '5'erli' kullanımı yanlıştır; doğrusu 'beşerli' biçiminde yazılmalıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-5",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Bağlaç olan 'ki' ayrı yazılır. Ancak kalıplaşmış olan bazı 'ki'ler (sanki, oysaki, mademki, belki, halbuki, çünkü, meğerki, meğersem) bitişik yazılır. Aşağıdaki cümlelerin hangisinde 'ki'nin yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mademki gelmeyecektin, önceden haber verip bizi bekletmemeliydin."
+        },
+        {
+          "key": "B",
+          "text": "Duvardaki saat aniden durunca salondaki davetliler kısa süreli şaşkınlık yaşadı."
+        },
+        {
+          "key": "C",
+          "text": "Bizim arabamız arızalandı, seninkiyle yola devam etmek zorunda kalacağız."
+        },
+        {
+          "key": "D",
+          "text": "Meğerki bu zor kararı vermeden önce bize danışmak ve fikir almak istemiş."
+        },
+        {
+          "key": "E",
+          "text": "Duydumki önümüzdeki hafta yapılması planlanan geniş katılımlı seminer ertelenmiş."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Bağlaç olan 'ki' ayrı yazılır. E seçeneğindeki 'Duydum ki' ifadesinde geçen 'ki' fiilden sonra gelen bir bağlaçtır ve ayrı yazılması gerekir. Bitişik yazılması ('Duydumki') yazım hatasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-6",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Yön isimleri özel isimden önce geldiğinde büyük harfle, özel isimden sonra geldiğinde veya tek başına kullanıldığında küçük harfle başlar. Ara yönler ise her zaman bitişik yazılır. Aşağıdaki cümlelerin hangisinde yön isimlerinin yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye'nin Kuzey doğu bölgesinde yer alan tarihi kentler turizme açılıyor."
+        },
+        {
+          "key": "B",
+          "text": "Doğu Anadolu Bölgesi'nde kış mevsimi oldukça sert ve uzun geçer."
+        },
+        {
+          "key": "C",
+          "text": "Rüzgâr güneyden estikçe havanın sıcaklığı hissedilir derecede arttı."
+        },
+        {
+          "key": "D",
+          "text": "Kentin kuzeybatısında yer alan yeni sanayi sitesi faaliyete geçti."
+        },
+        {
+          "key": "E",
+          "text": "Amerika'nın batısında çıkan orman yangınları rüzgârın etkisiyle büyüdü."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ara yönler (kuzeydoğu, kuzeybatı, güneydoğu, güneybatı) her zaman bitişik yazılır. A seçeneğinde 'Kuzey doğu' şeklinde ayrı ve büyük yazılması hatadır; doğrusu 'kuzeydoğusu' veya 'kuzeydoğu' biçiminde olmalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-7",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Büyük harflerle yapılan kısaltmalara getirilen eklerde kısaltmanın son harfinin okunuşu esas alınır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TDK'nin yayımladığı son kılavuz dil tartışmalarına son verdi."
+        },
+        {
+          "key": "B",
+          "text": "THY'da görev yapan deneyimli pilotlar uluslararası ödüle layık görüldü."
+        },
+        {
+          "key": "C",
+          "text": "TRT'nin hazırladığı belgesel serisi izleyicilerden büyük beğeni topladı."
+        },
+        {
+          "key": "D",
+          "text": "TÜBİTAK'ın desteklediği bilimsel projeler yarın sergilenecek."
+        },
+        {
+          "key": "E",
+          "text": "SGK'ye yapılan başvurular önümüzdeki hafta sonuçlandırılacak."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Büyük harfle yapılan kısaltmalara getirilen eklerde son harfin okunuşu esas alınır. 'THY' kısaltmasının son harfi 'Y' (ye) olduğundan ek 'THY'de' biçiminde gelmelidir. Açılıma göre düşünülerek yazılan 'THY'da' kullanımı hatadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-8",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "İsim + yardımcı fiil (etmek, olmak, eylemek) ile kurulan birleşik fiillerde herhangi bir ses düşmesi veya ünsüz türemesi yoksa birleşik fiil ayrı yazılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşanan tüm olumsuzluklara rağmen durumu sakince kabul etti."
+        },
+        {
+          "key": "B",
+          "text": "Yıllar sonra karşılaştığı lise arkadaşını hemen fark etti."
+        },
+        {
+          "key": "C",
+          "text": "Sınav başvurusunu son güne bırakınca işlemlerini terketti."
+        },
+        {
+          "key": "D",
+          "text": "Cüzdanının kaybolduğunu anlayınca polise müracaat etti."
+        },
+        {
+          "key": "E",
+          "text": "Kendisine sunulan cazip iş teklifini nazikçe arz etti."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Terk etmek' birleşik fiilinde herhangi bir ses türemesi veya ses düşmesi bulunmamaktadır. Bu nedenle ayrı yazılması ('terk etti') gerekirken bitişik yazılması ('terketti') bir yazım hatasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-9",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Akrabalık bildiren sözcükler (teyze, amca, dayı, hala vb.) gerçek akrabalık belirttiğinde küçük harfle; unvan, lakap veya derece bildirdiğinde büyük harfle başlar. Aşağıdaki cümlelerin hangisinde akrabalık sözcüğünün yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dün akşam Ayşe teyzemin lezzetli yemeklerini yemek için toplandık."
+        },
+        {
+          "key": "B",
+          "text": "Mahallelinin çok sevdiği Nene Hatun tarihi bir simgedir."
+        },
+        {
+          "key": "C",
+          "text": "Kurtuluş Savaşı'nın kadın kahramanlarından Gördesli Makbule unutulmaz."
+        },
+        {
+          "key": "D",
+          "text": "Yarın akşam ailece Ahmet Dayımın evinde akşam yemeğinde bir araya geleceğiz."
+        },
+        {
+          "key": "E",
+          "text": "Sokağın başında oturan Baba Hakkı mahalledeki gençlere yol gösterirdi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Gerçek akrabalık bildiren 'dayı, teyze, amca, hala' gibi sözcükler küçük harfle yazılır. 'Ahmet dayımın' biçiminde küçük yazılması gerekirken 'Dayımın' şeklinde büyük yazılması yazım hatasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-10",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Bulunma hâli eki olan '-de/-da' eklendiği sözcüğe bitişik yazılır ve ses uyumuna uyarak '-te/-ta' şeklini alabilir. Bağlaç olan 'de/da' ise ayrı bir sözcüktür, her zaman ayrı yazılır ve asla '-te/-ta' şekline dönüşmez. Aşağıdaki cümlelerin hangisinde 'de/da'nın yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınav maratonunda sen de disiplinli çalışmayı ihmal etmemelisin."
+        },
+        {
+          "key": "B",
+          "text": "Masanın üzerindeki dosyada aradığım tüm belgeler mevcut."
+        },
+        {
+          "key": "C",
+          "text": "Bahçede açan renkli çiçekler etrafa mis gibi kokular yayıyordu."
+        },
+        {
+          "key": "D",
+          "text": "Akşamki toplantıya şirket yöneticileri de katılım sağlayacak."
+        },
+        {
+          "key": "E",
+          "text": "Katıldığı seminerde sunumda yaptı, gelen soruları da yanıtladı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki 'sunumda yaptı' ifadesindeki 'da' bağlaçtır ('sunum da yaptı'). Bağlaç olan 'da' cümleden çıkarıldığında cümlenin temel yapısı bozulmaz. Cümlede ayrı yazılması gerekirken bitişik yazılması ('sunumda') yazım hatasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-11",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Özel adlara getirilen yapım ekleri, çokluk eki ve bunlardan sonra gelen diğer ekler kesme işaretiyle ayrılmaz. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkçeleşmenin önemi vurgulanırken Türkçe'nin zengin yapısından örnekler verildi."
+        },
+        {
+          "key": "B",
+          "text": "İstanbulluların tarihi yapılara olan ilgisi günden güne artıyor."
+        },
+        {
+          "key": "C",
+          "text": "Avrupalılaşma sürecinde kültürün korunması hayati önem taşır."
+        },
+        {
+          "key": "D",
+          "text": "Müslümanlığın kabulüyle birlikte edebiyatımızda yeni bir dönem başladı."
+        },
+        {
+          "key": "E",
+          "text": "Aydınlıların efe kültürü yöresel festivalde başarıyla sergilendi."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Özel adlara getirilen yapım eklerinden sonra gelen çekim ekleri kesme işaretiyle ayrılmaz. 'Türk' kökünden '-çe' yapım ekiyle türeyen 'Türkçe' kelimesine gelen ilgi eki kesmeyle ayrılmamalı, 'Türkçenin' şeklinde bitişik yazılmalıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-12",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Belirli bir tarihi bildiren ay ve gün adları büyük harfle başlar; belirli bir tarihi bildirmeyen ay ve gün adları ise küçük harfle yazılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamasından kaynaklanan bir yazım hatası vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye Büyük Millet Meclisi 23 Nisan 1920 tarihinde açılmıştır."
+        },
+        {
+          "key": "B",
+          "text": "Okullar önümüzdeki yıl Eylül ayının üçüncü haftasında açılacak."
+        },
+        {
+          "key": "C",
+          "text": "Her yıl mayıs ayında düzenlenen uluslararası kitap fuarı başladı."
+        },
+        {
+          "key": "D",
+          "text": "Derneğin olağan kongresi 18 Kasım Cumartesi günü yapılacaktır."
+        },
+        {
+          "key": "E",
+          "text": "Proje teslim tarihi 30 Aralık Cuma günü saat 17.00 olarak belirlendi."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Belirli bir günü/yılı bildirmeyen ay adları küçük harfle başlar. B seçeneğinde 'Eylül ayının' ifadesinde sayısal net bir tarih bulunmadığı için 'eylül' biçiminde küçük yazılması gerekirken büyük yazılması hatadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-13",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Aşağıdaki cümlelerin hangisinde birleşik sözcüklerin yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçedeki saksıda yetiştirdiği hanımeli rengârenk çiçekler açtı."
+        },
+        {
+          "key": "B",
+          "text": "Akşam yemeğinde taze pişmiş bülbülyuvası tatlısından ikram etti."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin kenar mahallelerindeki gece kondu sayısı hızla azalıyor."
+        },
+        {
+          "key": "D",
+          "text": "Yeni aldığı camgöbeği rengindeki elbiseyi çok beğendi."
+        },
+        {
+          "key": "E",
+          "text": "Tarladaki ekinleri biçmek için devasa biçerdöverler çalışıyordu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Gecekondu' sözcüğü kalıplaşmış bir birleşik isimdir ve TDK yazım kurallarına göre bitişik yazılması gerekir. Cümlede ayrı ('gece kondu') yazılması yazım hatasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-14",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "İkilemeler ayrı yazılır ve ikilemeyi oluşturan sözcüklerin arasına kesinlikle hiçbir noktalama işareti girmez. Aşağıdaki cümlelerin hangisinde ikilemelerin yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocuklar bahçede baş başa vermiş neşeyle sohbet ediyorlardı."
+        },
+        {
+          "key": "B",
+          "text": "Konuyla ilgili olan biten her şeyi yetkililere tek tek rapor etti."
+        },
+        {
+          "key": "C",
+          "text": "Pazardan çoluk çocuk bütün aile alışverişe çıktılar."
+        },
+        {
+          "key": "D",
+          "text": "Şehrin gürültüsünden uzak, ağır-ağır ilerleyen bir yaşam sürüyordu."
+        },
+        {
+          "key": "E",
+          "text": "Yalan yanlış bilgilerle insanların kafasını karıştırmamalısın."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "İkilemeler ayrı yazılır ve aralarına kısa çizgi dâhil hiçbir noktalama işareti konulmaz. 'Ağır-ağır' biçiminde kısa çizgiyle yazılması yazım hatasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-15",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Sıfat veya zarf görevindeki pekiştirmeli sözcükler her zaman bitişik yazılır. Aşağıdaki cümlelerin hangisinde pekiştirmeli sözcüğün yazımıyla ilgili bir hata vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sapsağlam binalar inşa etmek mimarların birincil görevidir."
+        },
+        {
+          "key": "B",
+          "text": "Gökyüzünü kaplayan masmavi bulutlar insan ruhuna huzur veriyordu."
+        },
+        {
+          "key": "C",
+          "text": "Yemyeşil vadilerin arasından süzülen nehir kıyısında mola verdiler."
+        },
+        {
+          "key": "D",
+          "text": "Çırılçıplak dallar sonbaharın geldiğini sessizce müjdeliyordu."
+        },
+        {
+          "key": "E",
+          "text": "Olayın detaylarını öğrenince sır sıklam ıslanmış halde içeri girdi."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Pekiştirmeli sözcükler (sırılsıklam, sapsağlam, yemyeşil vb.) her zaman bitişik yazılır. E seçeneğindeki 'sır sıklam' ifadesinin ayrı yazılması yazım hatasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-16",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Soru eki olan 'mı / mi / mu / mü' kendisinden önce gelen sözcükten ayrı, kendisinden sonra gelen eklerle bitişik yazılır. Aşağıdaki cümlelerin hangisinde soru ekinin yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarın yapılacak olan önemli toplantıya sen de katılacakmısın?"
+        },
+        {
+          "key": "B",
+          "text": "Kütüphaneden aldığın kaynak kitabı iki günde okudun mu?"
+        },
+        {
+          "key": "C",
+          "text": "Bu zor matematik problemlerini tek başına çözebilir misin?"
+        },
+        {
+          "key": "D",
+          "text": "Şehrin tarihi sokaklarını rehber eşliğinde gezdiniz mi?"
+        },
+        {
+          "key": "E",
+          "text": "Sınav sonuçlarının yayımlandığını duydun mu?"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Soru eki 'mı / mi / mu / mü' kendinden önceki sözcükten her zaman ayrı yazılır. 'Katılacakmısın' biçiminde bitişik yazılması yazım hatasıdır; doğrusu 'katılacak mısın?' şeklindedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-17",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Kişi adlarından önce ve sonra gelen unvanlar, meslek adları, rütbe adları ve saygı sözleri büyük harfle başlar. Aşağıdaki cümlelerin hangisinde bu kurala uyulmamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Avukat Selim Bey toplantı salonunda sunumunu tamamladı."
+        },
+        {
+          "key": "B",
+          "text": "Mahallemizin doktoru kemal bey hastalarıyla yakından ilgilenirdi."
+        },
+        {
+          "key": "C",
+          "text": "Yüzbaşı Ali Efendi birliklerin başında tören alanına girdi."
+        },
+        {
+          "key": "D",
+          "text": "Mustafa Kemal Paşa tarihi kararların alındığı kongreyi yönetti."
+        },
+        {
+          "key": "E",
+          "text": "Sayın Bakan tören alanında önemli açıklamalarda bulundu."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Özel isimlerle birlikte kullanılan unvan, meslek ve saygı sözleri büyük harfle başlar. B seçeneğinde 'Kemal Bey' veya 'Doktor Kemal Bey' şeklinde büyük yazılması gerekirken 'doktoru kemal bey' biçiminde küçük yazılması hatadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-18",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Türkçede 'şey' sözcüğü her zaman ayrı yazılır. 'Her' sözcüğü ile kurulan birleşik kelimelerden bazıları bitişik (herhangi, herkes, herhalde), bazıları ise ayrı (her bir, her şey, her gün) yazılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Herkes sınav saatinde salonda hazır bir şekilde bekliyordu."
+        },
+        {
+          "key": "B",
+          "text": "Herhangi bir aksaklık yaşanmaması için tüm önlemler alındı."
+        },
+        {
+          "key": "C",
+          "text": "İnsanlara karşı herşeyden önce dürüst ve nazik olmalısın."
+        },
+        {
+          "key": "D",
+          "text": "Her gün düzenli olarak spor yapmayı alışkanlık edinmişti."
+        },
+        {
+          "key": "E",
+          "text": "Her bir öğrenciye özel rehberlik hizmeti sunulmaktadır."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Şey' sözcüğü Türkçede her zaman ayrı yazılır. 'Herşey' biçiminde bitişik yazılması hatadır; doğrusu 'her şey' şeklindedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-19",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Belirsizlik belirten 'birtakım' sözcüğü belgisiz sıfat olarak kullanıldığında bitişik, sayı anlamı taşıdığında ise ayrı yazılır. Aşağıdaki cümlelerin hangisinde 'birtakım' sözcüğünün yazımıyla ilgili bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplantıda konuşmacı şık bir takım elbise giymişti."
+        },
+        {
+          "key": "B",
+          "text": "Birtakım insanlar gürültülü ortamlarda çalışmakta zorlanır."
+        },
+        {
+          "key": "C",
+          "text": "Sorunun çözümü için birtakım yeni önlemler alınması gerekiyor."
+        },
+        {
+          "key": "D",
+          "text": "Şirket yönetimi geleceğe dönük bir takım yeni kararlar açıkladı."
+        },
+        {
+          "key": "E",
+          "text": "Pazardan mutfak için bir takım çelik tencere seti aldılar."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Belirsizlik anlamı taşıyan (belgisiz sıfat olan) 'birtakım' sözcüğü bitişik yazılır. D seçeneğinde 'birtakım yeni kararlar' ifadesi belirsizlik bildirdiği için bitişik yazılmalıydı; 'bir takım' şeklinde ayrı yazılması hatadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-yazim-kurallari-20",
+      "topic_id": "topic-turkce-yazim-kurallari",
+      "question_text": "Kitap, dergi ve gazete adlarında sadece ilk harfler büyük yazıldığında aradaki bağlaçlar (ile, ve, veya, yahut, ki, de) küçük harfle yazılır. Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir yazım hatası yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mai ve Siyah romanı Servetifünun Dönemi'nin en önemli eserlerindendir."
+        },
+        {
+          "key": "B",
+          "text": "Leyla ile Mecnun mesnevisi Türk edebiyatında derin izler bırakmıştır."
+        },
+        {
+          "key": "C",
+          "text": "Suç ve Ceza romanını lise yıllarında bir solukta okumuştu."
+        },
+        {
+          "key": "D",
+          "text": "Vatan yahut Silistre tiyatro oyunu sahnelendiğinde büyük yankı uyandırdı."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphaneden aldığı Leyla İle Mecnun eserini büyük bir zevkle okudu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Kitap, dergi ve gazete adlarında sadece ilk harfler büyük yazıldığında aradaki bağlaçlar (ile, ve, veya vb.) küçük harfle yazılmalıdır. 'Leyla ile Mecnun' şeklinde yazılması gerekirken 'İle' biçiminde büyük harfle yazılması hatadır.",
+      "difficulty_level": 5
+    }
+  ]
+}

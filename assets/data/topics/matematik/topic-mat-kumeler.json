@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-kumeler",
+  "title": "Kümeler",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-kumeler",
+    "topic_id": "topic-mat-kumeler",
+    "title": "Kümeler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Kümeler' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Kümeler konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nKümeler konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Kümeler konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Küme ve Eleman Sayısı",
+        "body": "İyi tanımlanmış nesneler topluluğuna küme denir. A kümesinin eleman sayısı s(A) ile gösterilir."
+      },
+      {
+        "card_number": 2,
+        "title": "Alt Küme Sayısı Formülü",
+        "body": "n elemanlı bir kümenin alt küme sayısı 2^n formülü ile hesaplanır."
+      },
+      {
+        "card_number": 3,
+        "title": "Özalt Küme Sayısı",
+        "body": "Kümenin kendisi hariç alt kümeleridir. n elemanlı kümenin özalt küme sayısı 2^n - 1'dir."
+      },
+      {
+        "card_number": 4,
+        "title": "Kümelerde Birleşim (A U B)",
+        "body": "A ve B kümelerinin tüm elemanlarının bir kez yazılarak oluşturduğu kümedir: s(A U B) = s(A) + s(B) - s(A n B)."
+      },
+      {
+        "card_number": 5,
+        "title": "Kümelerde Kesişim (A n B)",
+        "body": "Hem A hem de B kümesinde ortak olarak bulunan elemanların oluşturduğu kümedir."
+      },
+      {
+        "card_number": 6,
+        "title": "Ayrık Kümeler",
+        "body": "Ortak elemanı olmayan kümelerdir. Ayrık kümelerde kesişim boş kümedir (A n B = Ø)."
+      },
+      {
+        "card_number": 7,
+        "title": "Fark Kümesi (A - B)",
+        "body": "A kümesinde olup B kümesinde olmayan elemanların oluşturduğu kümedir."
+      },
+      {
+        "card_number": 8,
+        "title": "Tümleyen Küme (A')",
+        "body": "Evrensel kümede (E) olup A kümesinde olmayan elemanlardır: s(A) + s(A') = s(E)."
+      },
+      {
+        "card_number": 9,
+        "title": "De Morgan Kuralları",
+        "body": "(A U B)' = A' n B' ve (A n B)' = A' U B' şeklinde tümleyen dağılır."
+      },
+      {
+        "card_number": 10,
+        "title": "Venn Şeması İle Problem Çözümü",
+        "body": "Dil/Spor bilmeyenler ve bilenler problemlerinde önce kesişim bölgesi (her ikisini bilenler) doldurulur."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-kumeler-1",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B iki kümedir. s(A) = 3 · s(B), s(A ∪ B) = 28 ve s(A ∩ B) = 4 olduğuna göre, s(A \\ B) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "22"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        },
+        {
+          "key": "E",
+          "text": "16"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "s(A ∪ B) = s(A) + s(B) - s(A ∩ B) formülünde s(B) = k alınırsa s(A) = 3k olur. 28 = 3k + k - 4 ⇒ 4k = 32 ⇒ k = 8 bulunur. Buradan s(A) = 24 elde edilir. s(A \\ B) = s(A) - s(A ∩ B) = 24 - 4 = 20 olarak hesaplanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-2",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A kümesinin öz alt küme sayısı 127 olduğuna göre, A kümesinin 3 elemanlı alt küme sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "21"
+        },
+        {
+          "key": "B",
+          "text": "35"
+        },
+        {
+          "key": "C",
+          "text": "42"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "56"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "n elemanlı bir kümenin öz alt küme sayısı 2ⁿ - 1 formülü ile bulunur. 2ⁿ - 1 = 127 ⇒ 2ⁿ = 128 ⇒ n = 7'dir. 7 elemanlı bir kümenin 3 elemanlı alt küme sayısı C(7, 3) = (7 · 6 · 5) / (3 · 2 · 1) = 35 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-3",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {x | 10 ≤ x ≤ 120, x = 3k, k ∈ ℤ} ve B = {y | 15 < y ≤ 150, y = 4m, m ∈ ℤ} kümeleri veriliyor. Buna göre s(A ∩ B) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "11"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "A ∩ B kümesi hem 3'ün hem 4'ün katı yani EKOK(3, 4) = 12'nin katı olan sayıları içerir. Aralık sınırları kesiştirilirse 15 < z ≤ 120 olur. Bu aralıktaki 12'nin katları: 24, 36, 48, 60, 72, 84, 96, 108, 120'dir. Terim sayısı = (120 - 24) / 12 + 1 = 8 + 1 = 9 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kumeler-4",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "45 kişilik bir sınıfta Almanca veya Fransızca dillerinden en az birini bilen öğrenciler bulunmaktadır. Almanca bilenlerin sayısı Fransızca bilenlerin sayısının 2 katıdır. Her iki dili bilen 9 öğrenci olduğuna göre, sadece Almanca bilen kaç öğrenci vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "27"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "36"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "s(A ∪ F) = s(A) + s(F) - s(A ∩ F). s(F) = x alınırsa s(A) = 2x olur. 45 = 2x + x - 9 ⇒ 3x = 54 ⇒ x = 18 bulunur (s(F) = 18). s(A) = 36'dır. Sadece Almanca bilenler = s(A \\ F) = s(A) - s(A ∩ F) = 36 - 9 = 27 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-5",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {a, b, c, d, e, f} kümesinin 4 elemanlı alt kümelerinin kaç tanesinde 'a' elemanı bulunur fakat 'b' elemanı bulunmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "4 elemanlı alt kümede 'a' kesin bulunacağından geriye 3 eleman seçilmelidir. 'b' kümede bulunmayacağından 'a' ve 'b' elendikten sonra geriye kalan {c, d, e, f} kümesinden (4 eleman) 3 eleman seçilir: C(4, 3) = 4 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-6",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B aynı E evrensel kümesinin iki alt kümesidir. s(A') = 14, s(B') = 18 ve s(A) + s(B) = 24 olduğuna göre, evrensel kümenin eleman sayısı s(E) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24"
+        },
+        {
+          "key": "B",
+          "text": "26"
+        },
+        {
+          "key": "C",
+          "text": "28"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "32"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Herhangi bir X kümesi için s(X) + s(X') = s(E) eşitliği vardır. s(A) + s(A') = s(E) ve s(B) + s(B') = s(E) denklemleri taraf tarafa toplanırsa: s(A) + s(B) + s(A') + s(B') = 2 · s(E) ⇒ 24 + 14 + 18 = 2 · s(E) ⇒ 56 = 2 · s(E) ⇒ s(E) = 28 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-7",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B iki kümedir. s(A \\ B) = 4 · s(A ∩ B), s(B \\ A) = 2 · s(A ∩ B) ve s(A ∪ B) = 35 olduğuna göre, s(A) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "s(A ∩ B) = k olsun. Buradan s(A \\ B) = 4k ve s(B \\ A) = 2k olur. s(A ∪ B) = s(A \\ B) + s(A ∩ B) + s(B \\ A) = 4k + k + 2k = 7k = 35 ⇒ k = 5 bulunur. s(A) = s(A \\ B) + s(A ∩ B) = 4k + k = 5k = 5 · 5 = 25 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-8",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A, B ve C birer kümedir. s(A × B) = 48 ve s(B × C) = 60 olduğuna göre, s(B) nin alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kartezyen çarpımın eleman sayısı s(A × B) = s(A) · s(B) dir. s(A) · s(B) = 48 ve s(B) · s(C) = 60 eşitliklerinde s(B) hem 48 hem de 60'ın pozitif tam sayı böleni olmalıdır. s(B) nin en büyük değeri EBOB(48, 60) = 12 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-9",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "Bir sınıftaki öğrencilerin %60'ı matematik dersinden, %50'si fizik dersinden başarılı olmuştur. %20'si ise her iki dersten de başarısız olmuştur. Her iki dersten de başarılı olan 15 öğrenci olduğuna göre, sınıf mevcudu kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "45"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "75"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Sınıf mevcudu %100 olsun. En az bir dersten başarılı olanlar = %100 - %20 = %80. s(M ∪ F) = s(M) + s(F) - s(M ∩ F) ⇒ %80 = %60 + %50 - s(M ∩ F) ⇒ s(M ∩ F) = %30. Sınıfın %30'u 15 öğrenciye karşılık geldiğine göre sınıf mevcudu (15 / 30) · 100 = 50 öğrencidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-10",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "Bir A kümesinin eleman sayısı 2 artırıldığında alt küme sayısı 96 artmaktadır. Buna göre A kümesinin eleman sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "A kümesinin başlangıçtaki eleman sayısı n olsun. Alt küme sayısı 2ⁿ dır. Eleman sayısı n + 2 yapıldığında alt küme sayısı 2ⁿ⁺² olur. 2ⁿ⁺² - 2ⁿ = 96 ⇒ 2ⁿ · (2² - 1) = 96 ⇒ 2ⁿ · 3 = 96 ⇒ 2ⁿ = 32 ⇒ n = 5 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-11",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B ayrık iki kümedir. s(A) = 2x - 3, s(B) = x + 5 ve s(A ∪ B) = 20 olduğuna göre, x kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "A ve B ayrık kümeler ise kesişimleri boş kümedir (A ∩ B = ∅). Dolayısıyla s(A ∪ B) = s(A) + s(B) olur. (2x - 3) + (x + 5) = 20 ⇒ 3x + 2 = 20 ⇒ 3x = 18 ⇒ x = 6 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kumeler-12",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {1, 2, 3, 4, 5, 6} kümesinin alt kümelerinin kaç tanesinde en az bir çift sayı bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "32"
+        },
+        {
+          "key": "B",
+          "text": "48"
+        },
+        {
+          "key": "C",
+          "text": "56"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        },
+        {
+          "key": "E",
+          "text": "62"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Tüm alt kümelerin sayısı 2⁶ = 64'tür. İçinde hiç çift sayı bulunmayan (sadece tek sayılardan {1, 3, 5} oluşan) alt küme sayısı 2³ = 8'dir. En az bir çift sayı içeren alt küme sayısı = 64 - 8 = 56 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-13",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "32 kişilik bir grupta gözlüklü erkek sayısı, gözlüksüz kız sayısının 2 katıdır. Grupta 12 kız ve 10 gözlüklü erkek olduğuna göre, gözlüksüz erkek sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "14"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam erkek sayısı = Toplam kişi - Kız sayısı = 32 - 12 = 20. Erkekler gözlüklü ve gözlüksüz olarak ayrılır. Gözlüksüz erkek sayısı = Toplam erkek - Gözlüklü erkek = 20 - 10 = 10 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-14",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {x | -3 ≤ x < 4, x ∈ ℤ} ve B = {y | 1 < y ≤ 6, y ∈ ℤ} kümeleri veriliyor. Buna göre, s(A ∪ B) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "13"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "A kümesinin elemanları {-3, -2, -1, 0, 1, 2, 3} olmak üzere 7 tanedir. B kümesinin elemanları {2, 3, 4, 5, 6} olmak üzere 5 tanedir. A ∪ B kümesi = {-3, -2, -1, 0, 1, 2, 3, 4, 5, 6} olup eleman sayısı s(A ∪ B) = 10 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-15",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "s(A) = 8 ve s(B) = 5 olduğuna göre, s(A ∪ B) ifadesinin alabileceği en büyük değer ile en küçük değerin toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "19"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "21"
+        },
+        {
+          "key": "E",
+          "text": "22"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "En büyük değer A ve B kümeleri ayrık olduğunda elde edilir: 8 + 5 = 13. En küçük değer B ⊆ A durumunda elde edilir: s(A ∪ B) = s(A) = 8. En büyük ve en küçük değerlerin toplamı 13 + 8 = 21 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-16",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "B ∩ C = ∅ olmak üzere, s(A × (B ∪ C)) = 60 ve s(A × C) = 24 olduğuna göre, s(A × B) değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "28"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "36"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "44"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "B ve C ayrık kümeler olduğundan s(B ∪ C) = s(B) + s(C) dir. Dağılma özelliğinden s(A × (B ∪ C)) = s(A × B) + s(A × C) olur. 60 = s(A × B) + 24 ⇒ s(A × B) = 36 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-17",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A kümesinin eleman sayısı B kümesinin eleman sayısının 3 katıdır. s(A \\ B) = 14 ve s(B \\ A) = 2 olduğuna göre, s(A ∪ B) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "22"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        },
+        {
+          "key": "E",
+          "text": "26"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "s(A ∩ B) = x olsun. s(A) = 14 + x ve s(B) = 2 + x olur. s(A) = 3 · s(B) verilmiştir: 14 + x = 3 · (2 + x) ⇒ 14 + x = 6 + 3x ⇒ 2x = 8 ⇒ x = 4 bulunur. s(A ∪ B) = s(A \\ B) + s(B \\ A) + s(A ∩ B) = 14 + 2 + 4 = 20 elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kumeler-18",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {1, 2, 3, 4, 5, 6, 7} kümesinin 3 elemanlı alt kümelerinin kaç tanesinde '1' elemanı bulunur, ancak '7' elemanı bulunmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "20"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "3 elemanlı alt kümede '1' elemanı kesin bulunacağı için geriye 2 eleman seçilmelidir. '7' elemanı bulunmayacağı için '1' ve '7' elendikten sonra geriye kalan {2, 3, 4, 5, 6} kümesinden (5 eleman) 2 eleman seçilir: C(5, 2) = 10 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-19",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "33 kişilik bir turizm kafilesinde İngilizce veya Fransızca dillerinden en az birini bilenler yer almaktadır. Sadece İngilizce bilenlerin sayısı, sadece Fransızca bilenlerin sayısının 3 katı, her iki dili bilenlerin sayısının ise 2 katıdır. Buna göre bu kafilede İngilizce bilen kaç kişi vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "21"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "27"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "33"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Sadece İngilizce bilen sayısı 6x olsun. Sadece Fransızca bilenler 2x, her iki dili bilenler 3x olur. Toplam kişi sayısı = 6x + 2x + 3x = 11x = 33 ⇒ x = 3 bulunur. İngilizce bilenler = Sadece İngilizce bilenler + Her iki dili bilenler = 6x + 3x = 9x = 9 · 3 = 27 kişidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kumeler-20",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B iki küme olup A ⊄ B ve B ⊄ A şartını sağlamaktadır. s(A) = 7 ve s(B) = 5 olduğuna göre, s(A ∪ B) nin alabileceği en küçük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "s(A ∪ B) = s(A) + s(B) - s(A ∩ B) = 12 - s(A ∩ B). En küçük birleşim için s(A ∩ B) en büyük olmalıdır. B ⊄ A olduğundan s(A ∩ B) en fazla 4 olabilir (5 olsaydı B ⊆ A olurdu). En küçük s(A ∪ B) = 12 - 4 = 8 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kumeler-21",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "K = {x | 1 ≤ x ≤ 100, x = 2k, k ∈ ℤ} ve L = {y | 1 ≤ y ≤ 100, y = 5m, m ∈ ℤ} kümeleri veriliyor. Buna göre, s(K \\ L) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "K kümesi 1-100 arasındaki 2'nin katlarıdır: s(K) = 100 / 2 = 50. K ∩ L kümesi hem 2 hem 5'in yani 10'un katlarıdır: s(K ∩ L) = 100 / 10 = 10. K \\ L kümesinin eleman sayısı = s(K) - s(K ∩ L) = 50 - 10 = 40 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-22",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B kümeleri için s(A) = 2 · s(B), s(A ∪ B) = 18 ve A ∩ B = ∅ olduğuna göre, s(A \\ B) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "A ∩ B = ∅ olduğundan kümeler ayrıktır ve s(A ∪ B) = s(A) + s(B) olur. 2 · s(B) + s(B) = 18 ⇒ 3 · s(B) = 18 ⇒ s(B) = 6 ve s(A) = 12 bulunur. Ayrık kümelerde s(A \\ B) = s(A) = 12 elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kumeler-23",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A kümesinin eleman sayısı n iken alt küme sayısı x'tir. Eleman sayısı 3 artırılırsa yeni kümenin alt küme sayısının x cinsinden ifadesi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "x + 3"
+        },
+        {
+          "key": "B",
+          "text": "3x"
+        },
+        {
+          "key": "C",
+          "text": "6x"
+        },
+        {
+          "key": "D",
+          "text": "8x"
+        },
+        {
+          "key": "E",
+          "text": "16x"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "A kümesinin alt küme sayısı x = 2ⁿ dır. Eleman sayısı n + 3 yapıldığında yeni alt küme sayısı 2ⁿ⁺³ = 2ⁿ · 2³ = 8 · 2ⁿ = 8x olarak bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kumeler-24",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "Bir gruptaki kişilerin %70'i çay, %45'i kahve içmektedir. Herkesin en az bir içecek içtiği bu grupta sadece çay içen 22 kişi olduğuna göre, grup kaç kişiliktir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Her ikisini içenlerin yüzdesi = %70 + %45 - %100 = %15. Sadece çay içenlerin yüzdesi = %70 - %15 = %55. Grubun %55'i 22 kişiye eşit ise grubun tamamı (%100) = (22 / 55) · 100 = 40 kişi bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-25",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {a, b, c} ve B = {a, b, c, d, e, f, g} kümeleri veriliyor. A ⊆ K ⊆ B şartını sağlayan kaç farklı K kümesi yazılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "16"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "K kümesi A'nın 3 elemanını zorunlu olarak içermelidir. K'ye eklenebilecek elemanlar B \\ A = {d, e, f, g} kümesinin elemanlarıdır (4 eleman). Bu 4 elemanla oluşturulabilecek alt küme sayısı 2⁴ = 16 farklı K kümesi oluşturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-26",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "s(A ∩ B) = 3, s(A \\ B) = 5 ve s(B \\ A) = 4 olduğuna göre, s(A × B) değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "48"
+        },
+        {
+          "key": "D",
+          "text": "56"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "s(A) = s(A \\ B) + s(A ∩ B) = 5 + 3 = 8. s(B) = s(B \\ A) + s(A ∩ B) = 4 + 3 = 7. s(A × B) = s(A) · s(B) = 8 · 7 = 56 elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-kumeler-27",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B iki küme olup A ∩ B ≠ ∅ dir. s(A) = 6 ve s(B) = 9 olduğuna göre, s(A ∪ B) kümesinin alabileceği en büyük değer kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "13"
+        },
+        {
+          "key": "C",
+          "text": "14"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        },
+        {
+          "key": "E",
+          "text": "16"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "s(A ∪ B) = s(A) + s(B) - s(A ∩ B) = 6 + 9 - s(A ∩ B) = 15 - s(A ∩ B). Birleşimin en büyük olması için s(A ∩ B) en küçük olmalıdır. Kesişim boş küme olmadığına göre s(A ∩ B) en az 1 alınabilir. Maksimum s(A ∪ B) = 15 - 1 = 14 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-28",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "Bir sınıfta Türkçe dersinden geçenler 18, Matematik dersinden geçenler 15 kişidir. Her iki dersten de geçen 7 kişi, her iki dersten de kalan 4 kişi olduğuna göre, sınıf mevcudu kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "26"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "34"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "En az bir dersten geçenlerin sayısı s(T ∪ M) = s(T) + s(M) - s(T ∩ M) = 18 + 15 - 7 = 26 kişi. Sınıf mevcudu = En az bir dersten geçenler + İki dersten de kalanlar = 26 + 4 = 30 kişidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-kumeler-29",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A = {1, 2, 3, 4, 5} kümesinin alt kümelerinin kaç tanesinde elemanların çarpımı bir çift sayıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "30"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Tüm alt kümelerin sayısı 2⁵ = 32'dir. Çarpımın tek sayı olması için tüm elemanların tek sayılardan {1, 3, 5} oluşması gerekir. Sadece tek sayılardan oluşan alt küme sayısı 2³ = 8'dir. Elemanları çarpımı çift olan alt küme sayısı = 32 - 8 = 24 bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-kumeler-30",
+      "topic_id": "topic-mat-kumeler",
+      "question_text": "A ve B iki kümedir. s(A \\ B) = 2 · s(B \\ A) = 3 · s(A ∩ B) ve s(A ∪ B) = 33 olduğuna göre, s(A) kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "27"
+        },
+        {
+          "key": "E",
+          "text": "30"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Katsayıların EKOK'u 6 olduğundan s(A \\ B) = 6k, s(B \\ A) = 3k ve s(A ∩ B) = 2k alınabilir. s(A ∪ B) = 6k + 3k + 2k = 11k = 33 ⇒ k = 3 bulunur. s(A) = s(A \\ B) + s(A ∩ B) = 6k + 2k = 8k = 8 · 3 = 24 elde edilir.",
+      "difficulty_level": 4
+    }
+  ]
+}

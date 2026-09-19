@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-su-kaynaklari",
+  "title": "Türkiye'nin Akarsuları, Gölleri & Barajları",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-su-kaynaklari",
+    "topic_id": "topic-cog-su-kaynaklari",
+    "title": "Türkiye'nin Akarsuları, Gölleri & Barajları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'nin Akarsuları, Gölleri & Barajları' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'nin Akarsuları, Gölleri & Barajları konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'nin Akarsuları, Gölleri & Barajları başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'nin Akarsuları, Gölleri & Barajları konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Türkiye Akarsularının Genel Özellikleri",
+        "body": "Debileri (akımları) düşüktür, rejimleri düzensizdir, rekreasyon ve hidroelektrik potansiyelleri yüksek, ULAŞIMA ELVERİŞSİZDİR (Bartın Çayı hariç)."
+      },
+      {
+        "card_number": 2,
+        "title": "Açık Havza ve Kapalı Havza Farkı",
+        "body": "Sularını denize ulaştırabilen akarsular Açık Havza; ulaştıramayıp gölde/bataklıkta sonlananlar Kapalı Havzadır (Tuz Gölü, Van Gölü, Göller Yöresi)."
+      },
+      {
+        "card_number": 3,
+        "title": "En Uzun Akarsuyumuz (Sınırlarımız İçi)",
+        "body": "Sınırlarımız içinde doğup yine sınırlarımız içinde denize dökülen en uzun akarsumuz KIZILIRMAK'tır (Sivas'tan doğar, Bafra'dan Karadeniz'e)."
+      },
+      {
+        "card_number": 4,
+        "title": "Sınırlarımız Dışında Denize Dökülenler",
+        "body": "Fırat ve Dicle (Basra Körfezi'ne), Aras ve Kura (Hazar Denizi'ne - Kapalı Havza) dökülür."
+      },
+      {
+        "card_number": 5,
+        "title": "Sınırlarımız Dışından Doğup Gelenler",
+        "body": "Meriç (Bulgaristan'dan doğar Ege'de dökülür) ve Asi (Lübnan'dan doğar Hatay'da dökülür)."
+      },
+      {
+        "card_number": 6,
+        "title": "En Büyük Doğal Gölümüz",
+        "body": "Van Gölü'dür. Suları sodalıdır (Karma oluşumlu: Tektonik + Volkanik set). Taşımacılık yapılan tek gölümüzdür."
+      },
+      {
+        "card_number": 7,
+        "title": "En Büyük Tatlı Su Gölümüz",
+        "body": "Beyşehir Gölü'dür. Gideğeni (ayağı) olduğu için suları tatlıdır ve içme suyu kaynağı olarak kullanılır."
+      },
+      {
+        "card_number": 8,
+        "title": "Tektonik Göllerimiz (Şifre: BAZİT KÖŞE)",
+        "body": "Beyşehir, Eğirdir, Burdur, Acıgöl, İznik, Sapanca, Ulubat, Manyas (Kuş Gölü), Tuz Gölü, Seyfe, Akşehir."
+      },
+      {
+        "card_number": 9,
+        "title": "Heyelan Set Göllerimiz (Karadeniz)",
+        "body": "Tortum (Erzurum), Sera (Trabzon), Abant ve Golcük (Bolu), Yedigöller, Borabay (Amasya)."
+      },
+      {
+        "card_number": 10,
+        "title": "En Büyük Baraj Göllerimiz",
+        "body": "Atatürk Barajı (Fırat üzeri - En büyük), Karakaya, Keban, Altınkaya, Deriner (En yüksek gövdeli baraj Çoruh üzeri)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-su-kaynaklari-1",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de akarsuların genellikle denge profiline ulaşmamış olmasının temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İklim çeşitliliği"
+        },
+        {
+          "key": "B",
+          "text": "Ülkenin yakın zaman jeolojik dönemde toptan yükselmiş olması (genç oluşum)"
+        },
+        {
+          "key": "C",
+          "text": "Akarsuların çok uzun olması"
+        },
+        {
+          "key": "D",
+          "text": "Havzaların kapalı olması"
+        },
+        {
+          "key": "E",
+          "text": "Bitki örtüsünün gür olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye, genç oluşumlu bir ülke olduğu için yakın zamanda toptan yükselmiştir, bu nedenle akarsular yataklarını henüz denge profiline ulaştıramamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-2",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Aşağıdaki göllerden hangisi oluşum bakımından tektonik bir göldür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Van Gölü"
+        },
+        {
+          "key": "B",
+          "text": "Tuz Gölü"
+        },
+        {
+          "key": "C",
+          "text": "Beyşehir Gölü"
+        },
+        {
+          "key": "D",
+          "text": "Sapanca Gölü"
+        },
+        {
+          "key": "E",
+          "text": "Hepsi tektonik çukurluklarda oluşmuştur"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Van, Tuz, Beyşehir ve Sapanca gölleri tektonik çukurluklarda veya tektonik çöküntülerde oluşmuş göllerdir (Van gölü karma/volkanik set-tektonik özellik taşır).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-3",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de açık havzaların kapalı havzalardan daha fazla alan kaplamasının temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yer şekillerinin akarsuların denize ulaşmasına imkan tanıması"
+        },
+        {
+          "key": "B",
+          "text": "Yağış miktarının fazlalığı"
+        },
+        {
+          "key": "C",
+          "text": "Kıyıların denize açık olması"
+        },
+        {
+          "key": "D",
+          "text": "İklimin ılıman olması"
+        },
+        {
+          "key": "E",
+          "text": "Toprak yapısı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'nin yer şekillerinin (dağların uzanışı vb.) suların denize ulaşmasına genel olarak izin vermesi nedeniyle açık havzalar daha yaygındır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-4",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Aşağıdaki göllerden hangisi volkanik set gölüne örnektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eğirdir"
+        },
+        {
+          "key": "B",
+          "text": "Erçek Gölü"
+        },
+        {
+          "key": "C",
+          "text": "Köyceğiz"
+        },
+        {
+          "key": "D",
+          "text": "Tortum"
+        },
+        {
+          "key": "E",
+          "text": "Uzungöl"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Erçek, Nazik, Çıldır, Haçlı ve Balık gölleri volkanik lavların önünü kapatmasıyla oluşan volkanik set gölleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-5",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'nin akarsularının genel özellikleri ile ilgili aşağıdaki yargılardan hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genellikle hızlı ve coşkun akarlar."
+        },
+        {
+          "key": "B",
+          "text": "Hidroelektrik enerji potansiyelleri yüksektir."
+        },
+        {
+          "key": "C",
+          "text": "Ulaşım ve taşımacılığa son derece elverişlidirler."
+        },
+        {
+          "key": "D",
+          "text": "Yatak eğimleri ve akış hızları fazladır."
+        },
+        {
+          "key": "E",
+          "text": "Aşındırma güçleri ve taşıdıkları alüvyon miktarı fazladır."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye akarsuları eğimli ve hızlı aktığı için (Bartın Çayı hariç) ulaşım ve taşımacılığa elverişli değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-6",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Aşağıdaki göllerden hangisi heyelan set gölüdür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tortum Gölü"
+        },
+        {
+          "key": "B",
+          "text": "Van Gölü"
+        },
+        {
+          "key": "C",
+          "text": "Beyşehir"
+        },
+        {
+          "key": "D",
+          "text": "Tuz Gölü"
+        },
+        {
+          "key": "E",
+          "text": "Nemrut"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tortum, Sera, Abant, Borabay ve Yedigöller Karadeniz yöresinde görülen heyelan set gölleridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-7",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de kapalı havzaların en geniş alan kapladığı coğrafi bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "D",
+          "text": "Ege"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İç Anadolu (Konya, Tuz Gölü çanağı) etrafının yüksek dağlarla çevrili olması ve yağışın azlığı nedeniyle en büyük kapalı havzamızdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-8",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Bir akarsuyun yıl içindeki akım miktarında (debisinde) meydana gelen düzenli ya da düzensiz değişime ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Havza"
+        },
+        {
+          "key": "B",
+          "text": "Akarsu Rejimi"
+        },
+        {
+          "key": "C",
+          "text": "Akış hızı"
+        },
+        {
+          "key": "D",
+          "text": "Yatak eğimi"
+        },
+        {
+          "key": "E",
+          "text": "Debi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Akarsuyun yıl içindeki akım miktarının aylara göre gösterdiği değişime akarsu rejimi denir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-9",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'nin yüz ölçümü bakımından en büyük doğal gölü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuz Gölü"
+        },
+        {
+          "key": "B",
+          "text": "Beyşehir Gölü"
+        },
+        {
+          "key": "C",
+          "text": "Van Gölü"
+        },
+        {
+          "key": "D",
+          "text": "Eğirdir Gölü"
+        },
+        {
+          "key": "E",
+          "text": "İznik Gölü"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Van Gölü (3713 km²), yüzölçümü bakımından Türkiye'nin en büyük gölüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-10",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de kalkerli (kireç taşı) arazilerin yaygın olduğu Akdeniz Bölgesi'nde (Göller Yöresi) hangi göl türü daha sık görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Volkanik set gölü"
+        },
+        {
+          "key": "B",
+          "text": "Karstik göller"
+        },
+        {
+          "key": "C",
+          "text": "Buzul gölleri"
+        },
+        {
+          "key": "D",
+          "text": "Heyelan set gölleri"
+        },
+        {
+          "key": "E",
+          "text": "Alüvyal set gölleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kireç taşı erimesiyle oluşan karstik göller (Salda, Sufla, Kestel vb.), Akdeniz Bölgesi'nde yaygındır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-11",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Kireçli arazilerde suların yer altına sızarak galerilerde birikmesi ve daha sonra gür bir şekilde yüzeye çıkmasıyla oluşan kaynak (Voklüz) türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vadi kaynağı"
+        },
+        {
+          "key": "B",
+          "text": "Artezyen"
+        },
+        {
+          "key": "C",
+          "text": "Karstik kaynak (Voklüz)"
+        },
+        {
+          "key": "D",
+          "text": "Yamaç kaynağı"
+        },
+        {
+          "key": "E",
+          "text": "Gayzer"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Karstik kaynaklar (Voklüz), kireç taşlarının erimesiyle oluşan boşluklarda biriken suların gür bir şekilde çıkmasıyla oluşur (Manavgat, Düden vb.).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-12",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'nin ortalama yükseltisi ve akarsu yatak eğimi en fazla olan, bu nedenle hidroelektrik potansiyeli en yüksek bölgesi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Ege"
+        },
+        {
+          "key": "C",
+          "text": "Doğu Anadolu Bölgesi"
+        },
+        {
+          "key": "D",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Güneydoğu Anadolu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yükseltinin ve eğimin en fazla olduğu Doğu Anadolu Bölgesi, akarsuların akış hızı yüksek olduğu için hidroelektrik potansiyeli en yüksek bölgedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-13",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de karstik beslenme nedeniyle akım miktarı yıl içinde az değişen ve rejimi en düzenli sayılabilecek akarsuyumuz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kızılırmak"
+        },
+        {
+          "key": "B",
+          "text": "Fırat"
+        },
+        {
+          "key": "C",
+          "text": "Manavgat Çayı"
+        },
+        {
+          "key": "D",
+          "text": "Sakarya"
+        },
+        {
+          "key": "E",
+          "text": "Dicle"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Manavgat ve Köprüçay gibi Akdeniz akarsuları gür karstik yeraltı kaynaklarıyla beslendiği için debileri kış ve yaz stabil kalır, rejimleri daha düzenlidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-14",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de karstik ve tektonik göllerin bir arada en yoğun bulunduğu coğrafi alan hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Göller Yöresi (Isparta-Burdur çevresi)"
+        },
+        {
+          "key": "B",
+          "text": "Erzurum-Kars Platosu"
+        },
+        {
+          "key": "C",
+          "text": "Doğu Karadeniz Kıyısı"
+        },
+        {
+          "key": "D",
+          "text": "Güney Marmara"
+        },
+        {
+          "key": "E",
+          "text": "Gaziantep Platosu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Göller Yöresi (Isparta-Burdur çevresi), karstik ve tektonik göllerin en yoğunlaştığı alandır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-15",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Aşağıdaki barajlardan hangisi Fırat Nehri üzerinde yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Atatürk Barajı"
+        },
+        {
+          "key": "B",
+          "text": "Karakaya Barajı"
+        },
+        {
+          "key": "C",
+          "text": "Keban Barajı"
+        },
+        {
+          "key": "D",
+          "text": "Hirfanlı Barajı"
+        },
+        {
+          "key": "E",
+          "text": "Birecik Barajı"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Hirfanlı Barajı, İç Anadolu'da Kızılırmak nehri üzerinde yer almaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-16",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de suları sodalı (alkali) olan ve inci kefalı balığı ile tanınan en büyük volkanik set gölümüz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Van Gölü"
+        },
+        {
+          "key": "B",
+          "text": "Tuz Gölü"
+        },
+        {
+          "key": "C",
+          "text": "Eğirdir Gölü"
+        },
+        {
+          "key": "D",
+          "text": "Beyşehir Gölü"
+        },
+        {
+          "key": "E",
+          "text": "İznik Gölü"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Van Gölü suları soda bakımından zengindir ve endemik İnci Kefalı balığına ev sahipliği yapar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-17",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de kış sıcaklıklarının sıfırın altına düşmesi nedeniyle yüzeyi veya tamamı donan akarsulara en çok hangi bölgede rastlanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Anadolu Bölgesi"
+        },
+        {
+          "key": "C",
+          "text": "Ege"
+        },
+        {
+          "key": "D",
+          "text": "Marmara"
+        },
+        {
+          "key": "E",
+          "text": "Güneydoğu Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Şiddetli kış soğuklarının yaşandığı Doğu Anadolu'da (Aras, Kura nehirleri vb.) akarsular kışın yüzeyden donar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-18",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Sularını denizlere veya okyanuslara ulaştırabilen akarsu havzalarına ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kapalı Havza"
+        },
+        {
+          "key": "B",
+          "text": "Açık Havza"
+        },
+        {
+          "key": "C",
+          "text": "Yarı Kapalı Havza"
+        },
+        {
+          "key": "D",
+          "text": "Deniz Havzası"
+        },
+        {
+          "key": "E",
+          "text": "Endoreik Havza"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Topladığı suları bir deniz ya da okyanusa ulaştırabilen akarsu ağlarına açık havza denir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-19",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'deki göllerin en yoğun bulunduğu Göller Yöresi idari olarak hangi coğrafi bölgemizin sınırları içerisindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz Bölgesi"
+        },
+        {
+          "key": "C",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Göller Yöresi (Isparta, Burdur, Antalya'nın kuzeyi), Akdeniz Bölgesi'nin iç kesiminde yer alır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-20",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "İki geçirimsiz tabaka arasında sıkışmış yeraltı suyunun insan eliyle sondaj yapılarak fışkırarak yüzeye çıkarılmasına ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Voklüz"
+        },
+        {
+          "key": "B",
+          "text": "Artezyen Kaynağı"
+        },
+        {
+          "key": "C",
+          "text": "Gayzer"
+        },
+        {
+          "key": "D",
+          "text": "Fay kaynağı"
+        },
+        {
+          "key": "E",
+          "text": "Yamaç kaynağı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İki geçirimsiz tabaka arasındaki basınçlı suyun sondajla çıkarılmasına artezyen kaynağı denir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-21",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Fırat Nehri üzerinde inşa edilen ve GAP projesinin en büyük hidroelektrik güç santraline sahip baraj hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Atatürk Barajı"
+        },
+        {
+          "key": "B",
+          "text": "Karakaya Barajı"
+        },
+        {
+          "key": "C",
+          "text": "Keban Barajı"
+        },
+        {
+          "key": "D",
+          "text": "Deriner Barajı"
+        },
+        {
+          "key": "E",
+          "text": "Ilısu Barajı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Atatürk Barajı, hem hidroelektrik hem de sulama kapasitesiyle Türkiye ve GAP'ın en büyük barajıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-22",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de karstik aşınma ve erime boşlukları (mağara, dural vb.) nedeniyle yeraltı suyu sızma ve birikme kapasitesinin en yüksek olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Marmara"
+        },
+        {
+          "key": "C",
+          "text": "Ege"
+        },
+        {
+          "key": "D",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Akdeniz Bölgesi"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Akdeniz'de kalkerli karstik yapı nedeniyle yüzey suları yer altına kolay sızar ve zengin yeraltı suyu sistemleri oluşturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-23",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Sivas'tan doğup Bafra Deltası'nı oluşturarak Karadeniz'e dökülen nehrimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yeşilırmak"
+        },
+        {
+          "key": "B",
+          "text": "Kızılırmak"
+        },
+        {
+          "key": "C",
+          "text": "Sakarya"
+        },
+        {
+          "key": "D",
+          "text": "Çoruh"
+        },
+        {
+          "key": "E",
+          "text": "Fırat"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kızılırmak, Sivas'ın İmranlı ilçesinden doğar ve Samsun Bafra'da Karadeniz'e dökülür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-24",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye sınırları içerisinde doğup yine Türkiye sınırları içerisinde denize dökülen en uzun akarsu hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fırat"
+        },
+        {
+          "key": "B",
+          "text": "Kızılırmak (1355 km)"
+        },
+        {
+          "key": "C",
+          "text": "Sakarya"
+        },
+        {
+          "key": "D",
+          "text": "Dicle"
+        },
+        {
+          "key": "E",
+          "text": "Yeşilırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kızılırmak, tümüyle Türkiye sınırları içindeki en uzun nehrimizdir (1355 km). Fırat ülke sınırlarını aşar.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-25",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Aşağıdakilerden hangisi insan eliyle yapılmış bir yapay baraj gölüdür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Manyas (Kuş) Gölü"
+        },
+        {
+          "key": "B",
+          "text": "Atatürk Baraj Gölü"
+        },
+        {
+          "key": "C",
+          "text": "Sapanca Gölü"
+        },
+        {
+          "key": "D",
+          "text": "İznik Gölü"
+        },
+        {
+          "key": "E",
+          "text": "Eğirdir Gölü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Atatürk Baraj Gölü, Fırat Nehri üzerine inşa edilen yapay bir baraj gölüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-26",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de karstik kaynakların (voklüz) en yoğun görüldüğü dağ sırası hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toros Dağları (Akdeniz kuşağı)"
+        },
+        {
+          "key": "B",
+          "text": "Yıldız Dağları"
+        },
+        {
+          "key": "C",
+          "text": "Kaçkar Dağları"
+        },
+        {
+          "key": "D",
+          "text": "Samanlı Dağları"
+        },
+        {
+          "key": "E",
+          "text": "Kaz Dağları"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Toros Dağları kalkerli kireç taşı yapısıyla Türkiye'nin en büyük karstik kaynaklarına ev sahipliği yapar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-27",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Bir gölün sularının tatlı olmasını sağlayan en temel etken nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gölün bir gideğeninin (dışa akışının) olması"
+        },
+        {
+          "key": "B",
+          "text": "Gölün çok derin olması"
+        },
+        {
+          "key": "C",
+          "text": "Gölün çok sığ olması"
+        },
+        {
+          "key": "D",
+          "text": "Gölün rüzgar alması"
+        },
+        {
+          "key": "E",
+          "text": "Gölün yüksek dağlarda bulunması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sularını dışarıya akarsu ile boşaltabilen (gideri/gideğeni olan) göllerin tuzları birikmez ve suları tatlı kalır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-28",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de yaz sıcaklığı ve kuraklığının etkisiyle 'buharlaşma şiddetinin' en yüksek olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneydoğu Anadolu Bölgesi"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "C",
+          "text": "Marmara"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Ege"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Güneydoğu Anadolu, yüksek yaz sıcaklığı ve çöl üzerinden gelen rüzgarlar nedeniyle buharlaşma şiddetinin en yüksek olduğu yerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-29",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de baraj inşa edilmesinin temel çok yönlü amaçları arasında hangisi yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece tatlı su balıkçılığı yapmak"
+        },
+        {
+          "key": "B",
+          "text": "Hidroelektrik enerji üretimi, tarımsal sulama ve sel/taşkın kontrolü"
+        },
+        {
+          "key": "C",
+          "text": "Sadece su sporu turizmi"
+        },
+        {
+          "key": "D",
+          "text": "Yeni yerleşim alanları açmak"
+        },
+        {
+          "key": "E",
+          "text": "Karayolu köprüsü kurmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Barajlar; enerji üretimi, sulama, içme suyu temini ve taşkın önleme amacıyla inşa edilir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-su-kaynaklari-30",
+      "topic_id": "topic-cog-su-kaynaklari",
+      "question_text": "Türkiye'de fay hatlarına bağlı olarak yüzeye çıkan jeotermal kaynakların (sıcak suların) varlığı neyin göstergesidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bölgenin iklim şartlarının"
+        },
+        {
+          "key": "B",
+          "text": "Jeolojik yapının genç ve kırıklı (faylı) yapıda olmasının"
+        },
+        {
+          "key": "C",
+          "text": "Bitki örtüsünün yoğunluğunun"
+        },
+        {
+          "key": "D",
+          "text": "Enlem derecesinin"
+        },
+        {
+          "key": "E",
+          "text": "Denize olan uzaklığın"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Jeotermal (sıcak) sular ve kaplıcalar yer kabuğunun kırıklı fay hatlarıyla doğrudan ilgilidir.",
+      "difficulty_level": 3
+    }
+  ]
+}

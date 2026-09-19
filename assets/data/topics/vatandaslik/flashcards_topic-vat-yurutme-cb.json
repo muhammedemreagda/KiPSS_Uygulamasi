@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-yurutme-cb",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Cumhurbaşkanı Seçilme Şartları",
+      "body": "Türk vatandaşı olmak, 40 yaşını doldurmak, yükseköğrenim (üniversite) mezunu olmak ve milletvekili seçilme yeterliliğine sahip olmak."
+    },
+    {
+      "card_number": 2,
+      "title": "Cumhurbaşkanı Seçim Usulü",
+      "body": "Halk tarafından seçilir. Görev süresi 5 YILDIR. Bir kimse en fazla İKİ DEFA Cumhurbaşkanı seçilebilir."
+    },
+    {
+      "card_number": 3,
+      "title": "Cumhurbaşkanlığına Aday Gösterme",
+      "body": "Siyasi parti grupları, en son seçimde tek başına veya toplamda en az %5 oy almış partiler veya en az 100 BİN SEÇMEN aday gösterebilir."
+    },
+    {
+      "card_number": 4,
+      "title": "Cumhurbaşkanı Seçimi Kazanma Oranı",
+      "body": "Geçerli oyların SALT ÇOĞUNLUĞUNU (%50 + 1 oy) alan aday Cumhurbaşkanı seçilir."
+    },
+    {
+      "card_number": 5,
+      "title": "Cumhurbaşkanına Vekalet Etme",
+      "body": "Cumhurbaşkanlığı makamının boşalması veya hastalık/yurtdışı durumlarında CUMHURBAŞKANI YARDIMCISI vekalet eder."
+    },
+    {
+      "card_number": 6,
+      "title": "Cumhurbaşkanlığı Kararnamesi (CBK)",
+      "body": "Yürütme yetkisine ilişkin konularda çıkarılır. Temel haklar, kişisel haklar ve siyasi haklar CBK ile DÜZENLENEMEZ (Sadece Sosyal Haklar düzenlenebilir)."
+    },
+    {
+      "card_number": 7,
+      "title": "Olağanüstü Hal (OHAL) CBK'sı",
+      "body": "OHAL durumlarında çıkarılır. Hak ve özgürlükler kısıtlanabilir. Resmi Gazetede yayımlandığı gün TBMM onayına sunulur."
+    },
+    {
+      "card_number": 8,
+      "title": "OHAL İlan Etme Yetkisi",
+      "body": "Tabii afet, ağır ekonomik kriz veya şiddet olaylarında OLAĞANÜSTÜ HALİ CUMHURBAŞKANI İLAN EDER. Süresi en fazla 6 aydır, uzatma yetkisi TBMM'ye aittir."
+    },
+    {
+      "card_number": 9,
+      "title": "Cumhurbaşkanının Cezai Sorumluluğu",
+      "body": "Suç işlediği iddiasıyla TBMM üye tamsayısının 3/10'unun teklifi, 3/5'inin kararıyla soruşturma açılır. 2/3 (400) kararla Yüce Divan'a sevk edilir."
+    },
+    {
+      "card_number": 10,
+      "title": "Devlet Denetleme Kurulu (DDK)",
+      "body": "Cumhurbaşkanlığına bağlıdır. Başkan ve üyelerini Cumhurbaşkanı atar. Yargı organları HARİÇ tüm kamu kurum ve kuruluşlarını denetler."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-nufus-yerlesme",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Türkiye Nüfus Sayımları",
+      "body": "Cumhuriyet tarihinin ilk nüfus sayımı 1927 yılında yapılmıştır. 2007'den beri Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS) kullanılır."
+    },
+    {
+      "card_number": 2,
+      "title": "Nüfus Piramidimizin Özellikleri",
+      "body": "Türkiye nüfus piramidi arı kovanı şekline yaklaşmaktadır. Doğum oranları azalmakta, yaşlı nüfus oranı ve ortalama yaşam süresi artmaktadır."
+    },
+    {
+      "card_number": 3,
+      "title": "Nüfusun Yoğun Olduğu Yerler",
+      "body": "Marmara (Çatalca-Kocaeli), Kıyı Ege, Çukurova, Doğu Karadeniz Kıyıları, Gaziantep-Doğu Güneydoğu SANAYİ ve TARIM merkezleridir."
+    },
+    {
+      "card_number": 4,
+      "title": "Nüfusun Seyrek Olduğu Yerler",
+      "body": "Taşeli ve Teke Platoları (Karstik arazi), Menteşe Yöresi (Engebeli), Tuz Gölü Çevresi (Kurak), Erzurum-Kars (Soğuk), Yıldız Dağları (Sapa)."
+    },
+    {
+      "card_number": 5,
+      "title": "Aritmetik Nüfus Yoğunluğu",
+      "body": "Toplam Nüfus / Toplam Yüzölçümü. En yüksek olduğu bölge MARMARA, en düşük olduğu bölge DOĞU ANADOLU'dur."
+    },
+    {
+      "card_number": 6,
+      "title": "Fizyolojik Nüfus Yoğunluğu",
+      "body": "Toplam Nüfus / Tarım Alanları. Tarım alanlarının dar, nüfusun fazla olduğu Rize ve Doğu Karadeniz'de çok yüksektir."
+    },
+    {
+      "card_number": 7,
+      "title": "Toplu Yerleşme Şartları",
+      "body": "Yerşekillerinin düz, su kaynaklarının kısıtlı olduğu İç ve Güneydoğu Anadolu'da evler birbirine yakın toplu yerleşmedir."
+    },
+    {
+      "card_number": 8,
+      "title": "Dağınık Yerleşme Şartları",
+      "body": "Yerşekillerinin engebeli, su kaynaklarının bol olduğu Karadeniz Bölgesi'nde evler birbirinden uzak dağınık yerleşmedir."
+    },
+    {
+      "card_number": 9,
+      "title": "Kırsal Konut Malzemesi",
+      "body": "Karadeniz'de Ahşap; İç/Güneydoğu Anadolu'da Kerpiç (Toprak); Akdeniz ve Doğu Anadolu'da Taş malzeme yaygındır."
+    },
+    {
+      "card_number": 10,
+      "title": "Geçici Kırsal Yerleşmeler",
+      "body": "Yayla, Kom, Oba, Ağıl, Dam, Güzle. (Divan, Mezra, Mahalle ise SÜREKLİ kırsal yerleşmelerdir)."
+    }
+  ]
+}

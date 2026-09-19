@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-cumlede-anlam",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Öznel (Subjektif) Cümle",
+      "body": "Kişisel duygu, beğeni veya yorum içeren, kanıtlanamayan yargılardır. Örnek: 'Bu roman Türk edebiyatının en sürükleyici eseridir' ifadesi kişisel değerlendirmedir."
+    },
+    {
+      "card_number": 2,
+      "title": "Nesnel (Objektif) Cümle",
+      "body": "Kişiden kişiye değişmeyen, ölçülebilen veya doğruluğu kanıtlanabilen yargılardır. Örnek: 'Roman toplam 320 sayfadan oluşmaktadır' cümlesi nesnel bir bilgidir."
+    },
+    {
+      "card_number": 3,
+      "title": "Neden-Sonuç Cümlesi Testi",
+      "body": "Eylemin gerçekleşme gerekçesini belirtir; '-dığı için' kelimesiyle test edilir ve her iki eylem de gerçekleşmiştir. Örnek: 'Yağmur yağdığı için maç iptal edildi.'"
+    },
+    {
+      "card_number": 4,
+      "title": "Amaç-Sonuç Cümlesi Ayrımı",
+      "body": "Henüz gerçekleşmemiş bir hedefe ulaşmak amacıyla yapılan eylemleri anlatır; '-mek amacıyla' ifadesi koyulabilir. Örnek: 'Sınavı kazanmak amacıyla gece gündüz çalıştı.'"
+    },
+    {
+      "card_number": 5,
+      "title": "Koşul-Sonuç (Şart) Cümlesi",
+      "body": "Bir olayın gerçekleşmesinin başka bir olaya bağlandığı yargılardır. Örnek: 'Düzenli tekrar yaparsan konuları daha hızlı kavrarsın' cümlesinde -se/-sa koşul ekidir."
+    },
+    {
+      "card_number": 6,
+      "title": "Doğrudan Anlatım Şifresi",
+      "body": "Başkasının sözünün hiçbir değişikliğe uğratılmadan, tırnak içinde veya 'dedi' ifadesiyle iletilmesidir. Örnek: Öğretmen, 'Yarın sözlü var' dedi."
+    },
+    {
+      "card_number": 7,
+      "title": "Dolaylı Anlatım Şifresi",
+      "body": "Başkasının söylediği sözün kendi cümlelerimizle değiştirilerek aktarılmasıdır; genellikle '-diğini söyledi' kalıbı kullanılır. Örnek: Öğretmen yarın sözlü yapacağını söyledi."
+    },
+    {
+      "card_number": 8,
+      "title": "Üslup (Biçem) Cümlesi",
+      "body": "Yazarın duygu ve düşüncelerini nasıl anlattığını, dil ve anlatım özelliklerini belirtir. Örnek: 'Yazar eserinde süslü ve devrik cümlelere sıkça yer vermiştir.'"
+    },
+    {
+      "card_number": 9,
+      "title": "İçerik (Konu) Cümlesi",
+      "body": "Eserde ne anlatıldığını, konunun ne olduğunu belirten cümlelerdir. Örnek: 'Şair bu şiirinde çocukluğuna duyduğu özlemi dile getirmiştir.'"
+    },
+    {
+      "card_number": 10,
+      "title": "Sitem ve Kanıksama Farkı",
+      "body": "Sitem, sevilen birine kırgınlığı hafifçe belirtmektir ('Düğününe beni çağırmadın'). Kanıksama ise çok tekrarlanan bir duruma alışmaktır ('Benzin zamlarına alıştık')."
+    }
+  ]
+}

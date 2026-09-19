@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+  "title": "Osmanlı Tarihi — Duraklama ve Gerileme",
+  "course_id": "course-tarih",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-tarih-osmanli-duraklama-gerileme",
+    "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+    "title": "Osmanlı Tarihi — Duraklama ve Gerileme Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Tarih testinde 'Osmanlı Tarihi — Duraklama ve Gerileme' konusu, kronolojik akışın, sebep-sonuç ilişkilerinin ve dönemsel ıslahat/antlaşmaların sorgulandığı yüksek soru potansiyeline sahip bir alandır.",
+    "content": "Osmanlı Tarihi — Duraklama ve Gerileme konusu, KPSS Tarih testinde adayların bilgi düzeyini ve tarihsel mantık yürütme kabiliyetini ölçer.\n\n1. Tarihsel Süreç ve Dönemin Önemi:\nOsmanlı Tarihi — Duraklama ve Gerileme dönemi, Türk ve dünya tarihinin şekillenmesinde kritik bir evredir. Bu dönemde yaşanan siyasi, askeri, ekonomik ve kültürel gelişmeler bir sonraki dönemin temelini oluşturmuştur.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Antlaşmaların maddelerindeki bağımsızlık, egemenlik ve sınır değişiklikleri detaylarına dikkat edin.\n- Islahatlarda yapılan yeniliklerin hangi alana (askeri, hukuki, idari, eğitim) ait olduğunu ayırt edin.\n- Kurtuluş Savaşı ve İnkılap Tarihi konularında Atatürk'ün sözlerini ve bu sözlerin hangi olay üzerine söylendiğini mutlaka bilin.\n\n3. Soru Çözüm Stratejisi:\n- Öncüllü (I, II, III) sorularda verilen bilgilerin sorudaki öncüle tam uyup uymadığını kontrol edin.\n- Tarih sorularını çözerken günümüz değerleriyle değil, olayın yaşandığı dönemin şartlarıyla değerlendirin.",
+    "key_points": [
+      "1. Osmanlı Tarihi — Duraklama ve Gerileme dönemindeki olayları ezberlemek yerine sebep-sonuç zinciri kurarak öğrenin.",
+      "2. Dönemin önemli antlaşmalarını, maddelerini ve getirdiği yenilikleri zihninize oturtun.",
+      "3. Devlet adamlarının, padişahların veya komutanların döneme damga vuran unvanlarını bilin.",
+      "4. Kültür ve Medeniyet kavramlarını (kurumlar, meclisler, vergi türleri) karıştırmayın.",
+      "5. Soru çözerken dönemin koşullarını ve 'Yalnızca bu bilgiye dayanarak' kuralını unutmayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Duraklama Dönemi İç Nedenleri",
+        "body": "Merkezi yönetimin bozulması, beşik ulemalığı (alimin oğlu alimdir), yeniçeri isyanları ve tımar sisteminin bozulmasıdır."
+      },
+      {
+        "card_number": 2,
+        "title": "Ferhat Paşa Antlaşması (1590)",
+        "body": "Iran ile imzalanmış olup Osmanlı Devleti'nin DOĞUDA EN GENİŞ SINIRLARA ulaştığı antlaşmadır."
+      },
+      {
+        "card_number": 3,
+        "title": "Bucaş Antlaşması (1672)",
+        "body": "Lehistan ile imzalanmış olup Osmanlı Devleti'nin BATI'DA EN GENİŞ SINIRLARA ulaştığı antlaşmadır."
+      },
+      {
+        "card_number": 4,
+        "title": "Karlofça Antlaşması (1699)",
+        "body": "Osmanlı'nın Batı'da ilk kez büyük miktarda toprak kaybettiği ve Gerileme Dönemi'ne girdiği tarihi antlaşmadır."
+      },
+      {
+        "card_number": 5,
+        "title": "Zitvatorok Antlaşması (1606)",
+        "body": "Avusturya kralı protokolde Osmanlı padişahına denk sayılmış, Osmanlı'nın Kanuni dönemindeki diplomatik üstünlüğü sona ermiştir."
+      },
+      {
+        "card_number": 6,
+        "title": "Genç Osman (II. Osman) Islahatı",
+        "body": "Yeniçeri Ocağı'nı kaldırmayı planlayan ilk padişahtır. Yedikule zindanlarında Yeniçeriler tarafından şehit edilmiştir."
+      },
+      {
+        "card_number": 7,
+        "title": "Lale Devri (1718-1730)",
+        "body": "Passarofça Antlaşması ile başlayıp Patrona Halil İsyanı ile biten, Batı'nın üstünlüğünün kabul edildiği barış ve zevk dönemidir."
+      },
+      {
+        "card_number": 8,
+        "title": "İlk Özel Türk Matbaası",
+        "body": "Lale Devri'nde İbrahim Müteferrika ve Sait Efendi tarafından kurulmuştur. Basılan ilk eser Vankulu Lügati'dir."
+      },
+      {
+        "card_number": 9,
+        "title": "Küçük Kaynarca Antlaşması (1774)",
+        "body": "Kırım bağımsız olmuş (ilk kez halkı Müslüman toprak kaybı), Rusya'ya kapitülasyon verilmiş ve Rusya Karadeniz'e inmiştir."
+      },
+      {
+        "card_number": 10,
+        "title": "Nizam-ı Cedid Ordusu",
+        "body": "III. Selim tarafından Batı tarzında kurulan ilk düzenli ordudur. İrad-ı Cedid adında yeni bir hazine ile finanse edilmiştir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-1",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı Devleti'nde 'Duraklama Dönemi'nin başlangıcı olarak kabul edilen gelişme hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul'un Fethi"
+        },
+        {
+          "key": "B",
+          "text": "Sokullu Mehmed Paşa'nın ölümü"
+        },
+        {
+          "key": "C",
+          "text": "II. Viyana Kuşatması"
+        },
+        {
+          "key": "D",
+          "text": "Karlofça Antlaşması"
+        },
+        {
+          "key": "E",
+          "text": "Ankara Savaşı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sokullu Mehmed Paşa'nın 1579'daki ölümü, Osmanlı'da merkezi otoritenin zayıflamaya başladığı ve duraklama döneminin başladığı tarih olarak kabul edilir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-2",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Duraklama döneminde saray kadınlarının devlet yönetimine karışmasıyla oluşan döneme ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fetret Devri"
+        },
+        {
+          "key": "B",
+          "text": "Kadınlar Saltanatı"
+        },
+        {
+          "key": "C",
+          "text": "Lale Devri"
+        },
+        {
+          "key": "D",
+          "text": "İstibdat Devri"
+        },
+        {
+          "key": "E",
+          "text": "Tanzimat Dönemi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Haremdeki kadınların (özellikle Safiye Sultan, Kösem Sultan vb.) devlet işlerine müdahil olduğu döneme 'Kadınlar Saltanatı' denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-3",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı Devleti'nde tahta çıkma usulünü 'Ekber ve Erşed' (en yaşlı ve olgun olanın tahta geçmesi) sistemine bağlayan padişah kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "II. Osman"
+        },
+        {
+          "key": "B",
+          "text": "I. Ahmed"
+        },
+        {
+          "key": "C",
+          "text": "IV. Murad"
+        },
+        {
+          "key": "D",
+          "text": "III. Mehmed"
+        },
+        {
+          "key": "E",
+          "text": "I. Mustafa"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "I. Ahmed, hanedan üyeleri arasındaki taht kavgalarını önlemek amacıyla Ekber ve Erşed sistemini getirmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-4",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "II. Viyana Kuşatması'ndan sonra Osmanlı'nın Batı'daki büyük toprak kaybını başlatan antlaşma hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul Antlaşması"
+        },
+        {
+          "key": "B",
+          "text": "Pasarofça Antlaşması"
+        },
+        {
+          "key": "C",
+          "text": "Karlofça Antlaşması"
+        },
+        {
+          "key": "D",
+          "text": "Zigetvar Antlaşması"
+        },
+        {
+          "key": "E",
+          "text": "Prut Antlaşması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1699 Karlofça Antlaşması, Osmanlı'nın Batı'da geniş çapta toprak kaybettiği ilk antlaşmadır ve Gerileme Dönemini başlatır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-5",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Lale Devri'nin ünlü sadrazamı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sokullu Mehmed Paşa"
+        },
+        {
+          "key": "B",
+          "text": "Nevşehirli Damat İbrahim Paşa"
+        },
+        {
+          "key": "C",
+          "text": "Köprülü Mehmed Paşa"
+        },
+        {
+          "key": "D",
+          "text": "Kuyucu Murad Paşa"
+        },
+        {
+          "key": "E",
+          "text": "Merzifonlu Kara Mustafa Paşa"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Lale Devri (1718-1730), Padişah III. Ahmed ve Sadrazam Nevşehirli Damat İbrahim Paşa liderliğinde yürütülmüştür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-6",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Lale Devri'nde Osmanlı'da kurulan ilk özel matbaanın kurucuları kimlerdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İbrahim Müteferrika - Sait Efendi"
+        },
+        {
+          "key": "B",
+          "text": "Yirmisekiz Çelebi Mehmed"
+        },
+        {
+          "key": "C",
+          "text": "III. Ahmed"
+        },
+        {
+          "key": "D",
+          "text": "Damat İbrahim Paşa"
+        },
+        {
+          "key": "E",
+          "text": "Kâtip Çelebi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1727 yılında İbrahim Müteferrika ve Sait Efendi tarafından ilk Müslüman Türk matbaası kurulmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-7",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı Devleti'nde ilk kez 'denge politikası' hangi olaydan sonra uygulanmaya başlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul'un Fethi"
+        },
+        {
+          "key": "B",
+          "text": "Karlofça Antlaşması"
+        },
+        {
+          "key": "C",
+          "text": "Küçük Kaynarca Antlaşması"
+        },
+        {
+          "key": "D",
+          "text": "Fransız İhtilali"
+        },
+        {
+          "key": "E",
+          "text": "Nizam-ı Cedid"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Küçük Kaynarca Antlaşması (1774) sonrası Osmanlı, Avrupalı büyük devletlerin arasındaki rekabetten faydalanarak 'denge politikası' izlemeye başlamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-8",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Rusya'nın Kırım'ı ilhakını Osmanlı Devleti'nin resmen tanıdığı antlaşma hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Küçük Kaynarca"
+        },
+        {
+          "key": "B",
+          "text": "Aynalıkavak Tenkihnamesi"
+        },
+        {
+          "key": "C",
+          "text": "Yaş Antlaşması"
+        },
+        {
+          "key": "D",
+          "text": "Ziştovi Antlaşması"
+        },
+        {
+          "key": "E",
+          "text": "İstanbul Antlaşması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1792 Yaş Antlaşması ile Osmanlı Devleti, Kırım'ın Rusya'ya ait olduğunu resmen kabul etmiş ve Dağılma Dönemi başlamıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-9",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "III. Selim tarafından kurulan ve Avrupa tarzı ilk düzenli ordu birliğinin adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sekban-ı Cedid"
+        },
+        {
+          "key": "B",
+          "text": "Eşkinci Ocağı"
+        },
+        {
+          "key": "C",
+          "text": "Nizam-ı Cedid"
+        },
+        {
+          "key": "D",
+          "text": "Yeniçeri Ocağı"
+        },
+        {
+          "key": "E",
+          "text": "Asakir-i Mansure-i Muhammediye"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "III. Selim, Batı tarzında kurduğu yeni orduya ve başlattığı ıslahat programına 'Nizam-ı Cedid' adını vermiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-10",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Küçük Kaynarca Antlaşması'nın Osmanlı egemenliği açısından en ağır maddesi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırım'ın bağımsız olması"
+        },
+        {
+          "key": "B",
+          "text": "Osmanlı'nın savaş tazminatı ödemesi"
+        },
+        {
+          "key": "C",
+          "text": "Rusya'nın Osmanlı'daki Ortodoksların koruyuculuğunu alması"
+        },
+        {
+          "key": "D",
+          "text": "Azak Kalesi'nin Rusya'ya bırakılması"
+        },
+        {
+          "key": "E",
+          "text": "Karadeniz'in Türk gölü olmaktan çıkması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Küçük Kaynarca ile Rusya, Osmanlı tebaası Ortodoksları himaye etme hakkı kazanarak Osmanlı'nın iç işlerine müdahale yetkisi elde etmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-11",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Yeniçerilerin çıkardığı ilk büyük askeri isyan hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Patrona Halil İsyanı"
+        },
+        {
+          "key": "B",
+          "text": "Kabakçı Mustafa İsyanı"
+        },
+        {
+          "key": "C",
+          "text": "Vaka-i Vakvakiye"
+        },
+        {
+          "key": "D",
+          "text": "Buçuktepe İsyanı"
+        },
+        {
+          "key": "E",
+          "text": "Edirne Vakası"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Buçuktepe İsyanı (1446), II. Murad döneminde Yeniçerilerin maaş artışı için çıkardığı ilk büyük asker isyanıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-12",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "IV. Murad'ın tütün, içki ve gece sokağa çıkma yasaklarını getirmesinin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ekonomik krizle mücadele etmek"
+        },
+        {
+          "key": "B",
+          "text": "İstanbul yangınlarını önlemek ve kamu asayişini sağlamak"
+        },
+        {
+          "key": "C",
+          "text": "Din kurallarını katılaştırmak"
+        },
+        {
+          "key": "D",
+          "text": "Yeniçeri Ocağı'nı kapatmak"
+        },
+        {
+          "key": "E",
+          "text": "Savaşlara hazırlık yapmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "IV. Murad, İstanbul'u küle çeviren büyük yangınları engellemek ve kahvehanelerdeki asayişsizliği bitirmek için bu yasakları uygulamıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-13",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Köprülü Mehmed Paşa'nın sadrazamlığa gelmeden önce saraya şartlar sunmasının amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sarayın yetkilerini devralmak"
+        },
+        {
+          "key": "B",
+          "text": "Baskı altında kalmadan bağımsız icraat yapabilmek"
+        },
+        {
+          "key": "C",
+          "text": "Savaş ilan etmek"
+        },
+        {
+          "key": "D",
+          "text": "Yeniçerileri lağvetmek"
+        },
+        {
+          "key": "E",
+          "text": "Vergileri artırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Köprülü Mehmed Paşa, saray müdahalelerini engelleyip asayiş ve devlet otoritesini tesis edebilmek için şartla göreve gelmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-14",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Lale Devri hangi Osmanlı padişahının döneminde yaşanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III. Selim"
+        },
+        {
+          "key": "B",
+          "text": "I. Mahmud"
+        },
+        {
+          "key": "C",
+          "text": "III. Ahmed"
+        },
+        {
+          "key": "D",
+          "text": "I. Mustafa"
+        },
+        {
+          "key": "E",
+          "text": "IV. Mehmed"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Lale Devri (1718-1730), III. Ahmed'in padişahlığı döneminde Pasarofça Antlaşması ile başlayıp Patrona Halil İsyanı ile sona ermiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-15",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "1730 Patrona Halil İsyanı sonucunda tahttan indirilen padişah kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "III. Ahmed"
+        },
+        {
+          "key": "B",
+          "text": "III. Selim"
+        },
+        {
+          "key": "C",
+          "text": "I. Mahmud"
+        },
+        {
+          "key": "D",
+          "text": "I. Abdülhamid"
+        },
+        {
+          "key": "E",
+          "text": "II. Mustafa"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Patrona Halil İsyanı ile III. Ahmed tahttan indirilmiş, yerine I. Mahmud geçirilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-16",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı Devleti'nde 17. yüzyılda Anadolu'da baş gösteren 'Celali İsyanları' hangi temel nedenden kaynaklanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taht kavgaları"
+        },
+        {
+          "key": "B",
+          "text": "Kötü yönetim, ağır vergiler ve köylünün toprağını terk etmesi (Çiftbozan)"
+        },
+        {
+          "key": "C",
+          "text": "Fransız İhtilali'nin milliyetçilik etkisi"
+        },
+        {
+          "key": "D",
+          "text": "Dış devletlerin kışkırtması"
+        },
+        {
+          "key": "E",
+          "text": "Yeniçerilerin ayaklanması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Celali İsyanları, ekonomik bozulma, Tımar sisteminin çöküşü ve ağır vergiler nedeniyle Anadolu halkının ve leventlerin çıkardığı isyanlardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-17",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "III. Selim döneminde yapılan ıslahatların ve kurulan yeni ordunun genel adı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanzimat"
+        },
+        {
+          "key": "B",
+          "text": "Islahat"
+        },
+        {
+          "key": "C",
+          "text": "Nizam-ı Cedid"
+        },
+        {
+          "key": "D",
+          "text": "Meşrutiyet"
+        },
+        {
+          "key": "E",
+          "text": "Lale Devri"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "III. Selim dönemindeki Batı tarzı askeri, idari ve mali yeniliklerin tamamına Nizam-ı Cedid denir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-18",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı Devleti'nin 1739 Belgrad Antlaşması ile Avusturya ve Rusya karşısında kazandığı son kazançlı antlaşmanın zemini nerede hazırlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I. Mahmud Dönemi Islahatları"
+        },
+        {
+          "key": "B",
+          "text": "Lale Devri"
+        },
+        {
+          "key": "C",
+          "text": "Nizam-ı Cedid"
+        },
+        {
+          "key": "D",
+          "text": "Köprülüler Dönemi"
+        },
+        {
+          "key": "E",
+          "text": "Tanzimat Fermanı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "I. Mahmud döneminde Humbaracı Ahmet Paşa'nın kurduğu Batı tarzı topçu birlikleri sayesinde 1739 Belgrad Antlaşması zaferle sonuçlanmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-19",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı lonca teşkilatında 'Gedik' hakkı ne anlama gelmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Askerlikten muaf olma hakkı"
+        },
+        {
+          "key": "B",
+          "text": "İş yeri açma ve dükkan çalıştırma ruhsatı"
+        },
+        {
+          "key": "C",
+          "text": "Vergi toplama yetkisi"
+        },
+        {
+          "key": "D",
+          "text": "Sarayda eğitim alma hakkı"
+        },
+        {
+          "key": "E",
+          "text": "Miras bırakma hakkı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gedik hakkı, Lonca teşkilatında ustalık belgesine sahip esnafın dükkan açma ve mesleğini icra etme yetkisidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-20",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "17. yüzyıl Duraklama Dönemi boyunca Osmanlı Devleti'nin Batı'daki en büyük karasal rakibi hangi devlet olmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İngiltere"
+        },
+        {
+          "key": "B",
+          "text": "Fransa"
+        },
+        {
+          "key": "C",
+          "text": "Avusturya (Habsburglar)"
+        },
+        {
+          "key": "D",
+          "text": "Prusya"
+        },
+        {
+          "key": "E",
+          "text": "İspanya"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "17. yüzyılda Orta Avrupa egemenliği için Osmanlı'nın en temel karasal rakibi Avusturya İmparatorluğu olmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-21",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı Devleti'nin Kırım'ın Rusya'ya katıldığını resmen kabul ettiği antlaşma hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Küçük Kaynarca (1774)"
+        },
+        {
+          "key": "B",
+          "text": "Aynalıkavak Tenkihnamesi (1779)"
+        },
+        {
+          "key": "C",
+          "text": "Yaş Antlaşması (1792)"
+        },
+        {
+          "key": "D",
+          "text": "İstanbul Antlaşması (1700)"
+        },
+        {
+          "key": "E",
+          "text": "Belgrad Antlaşması (1739)"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1792 Yaş Antlaşması ile Kırım'ın Rus toprağı olduğu kesin olarak kabul edilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-22",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı tarihinde IV. Mehmed döneminde 30 kadar devlet adamının Yeniçeriler tarafından Sultanahmet Meydanı'ndaki çınar ağacına asılması olayına ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vaka-i Vakvakiye (Çınar Vakası)"
+        },
+        {
+          "key": "B",
+          "text": "Edirne Vakası"
+        },
+        {
+          "key": "C",
+          "text": "Patrona Halil İsyanı"
+        },
+        {
+          "key": "D",
+          "text": "Kabakçı Mustafa İsyanı"
+        },
+        {
+          "key": "E",
+          "text": "Vaka-i Hayriye"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1656 yılındaki bu kanlı olaya mitolojideki meyveleri insan başı olan ağaca atıfla 'Vaka-i Vakvakiye' (Çınar Vakası) denir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-23",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Genç Osman'ın (II. Osman) Yeniçeriler tarafından tahtından indirilip Yedikule Zindanları'nda katledilmesinin temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Halktan aşırı vergi alması"
+        },
+        {
+          "key": "B",
+          "text": "Bozulan Yeniçeri Ocağı'nı lağvetmeyi ve başkenti Anadolu'ya taşımayı planlaması"
+        },
+        {
+          "key": "C",
+          "text": "Fransa ile antlaşma yapması"
+        },
+        {
+          "key": "D",
+          "text": "İran seferine gitmemesi"
+        },
+        {
+          "key": "E",
+          "text": "Saray masraflarını artırması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Genç Osman Hotin Seferi sonrası Yeniçeri Ocağı'nı kaldırıp radikal ıslahatlar yapmayı düşündüğü için Yeniçeri isyanıyla öldürülmüştür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-24",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Osmanlı maliyesinde devletin nakit ihtiyacını karşılamak amacıyla eyalet vergi gelirlerinin ihale usulüyle peşin satılması sistemine ne denir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tımar"
+        },
+        {
+          "key": "B",
+          "text": "İltizam"
+        },
+        {
+          "key": "C",
+          "text": "Devşirme"
+        },
+        {
+          "key": "D",
+          "text": "Eşkinci"
+        },
+        {
+          "key": "E",
+          "text": "Pençik"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İltizam sistemi, devletin vergi toplama hakkını açık artırma usulü mültezimlere peşin parayla ihale etmesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-25",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "1807 yılında Nizam-ı Cedid yeniliklerine karşı başlatılan ve III. Selim'in tahttan indirilmesiyle sonuçlanan ayaklanma hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Patrona Halil İsyanı"
+        },
+        {
+          "key": "B",
+          "text": "Kabakçı Mustafa İsyanı"
+        },
+        {
+          "key": "C",
+          "text": "Vaka-i Vakvakiye"
+        },
+        {
+          "key": "D",
+          "text": "Edirne Vakası"
+        },
+        {
+          "key": "E",
+          "text": "Buçuktepe İsyanı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kabakçı Mustafa İsyanı ile Nizam-ı Cedid ordusu lağvedilmiş ve III. Selim tahttan indirilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-26",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "17. yüzyıl Osmanlı ekonomisinde Tımar sisteminin bozulması üzerine merkezi bütçenin nakit para ihtiyacını karşılamak amacıyla yaygınlaştırılan sistem hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tımar"
+        },
+        {
+          "key": "B",
+          "text": "İltizam"
+        },
+        {
+          "key": "C",
+          "text": "Gedik"
+        },
+        {
+          "key": "D",
+          "text": "Ahilik"
+        },
+        {
+          "key": "E",
+          "text": "Cizye"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Savaşların uzaması ve nakit para ihtiyacı nedeniyle Tımar arazileri Mukataa'ya çevrilerek İltizam sistemi yaygınlaştırılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-27",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Genç Osman'ın (II. Osman) Yeniçerilerin isteksizliği ve disiplinsizliği nedeniyle ilk kez radikal yenilik fikrine kapıldığı sefer hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Viyana Seferi"
+        },
+        {
+          "key": "B",
+          "text": "Hotin Seferi"
+        },
+        {
+          "key": "C",
+          "text": "Zigetvar Seferi"
+        },
+        {
+          "key": "D",
+          "text": "Çaldıran Seferi"
+        },
+        {
+          "key": "E",
+          "text": "Mohaç Seferi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1621 Hotin Seferi'nde Yeniçerilerin gayretsizliğini gören Genç Osman, Yeniçeri Ocağı'nı lağvetme fikrini ilk kez burada benimsemiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-28",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Lale Devri'nde Paris'e elçi olarak gönderilen ve yazdığı 'Sefaretname' ile Osmanlı'da Batılılaşma hareketlerine öncülük eden diplomat kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İbrahim Müteferrika"
+        },
+        {
+          "key": "B",
+          "text": "Sait Efendi"
+        },
+        {
+          "key": "C",
+          "text": "Yirmisekiz Çelebi Mehmed Efendi"
+        },
+        {
+          "key": "D",
+          "text": "Damat İbrahim Paşa"
+        },
+        {
+          "key": "E",
+          "text": "Kâtip Çelebi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yirmisekiz Çelebi Mehmed Efendi, Paris Sefaretnamesi ile Fransız kültür ve kurumlarını Osmanlı'ya tanıtan elçidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-29",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "I. Mahmud döneminde Osmanlı ordusunu Batı tarzında bölük ve tabur sistemine göre ıslah eden Fransız kökenli uzman kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Baron de Tott"
+        },
+        {
+          "key": "B",
+          "text": "Humbaracı Ahmet Paşa (Comte de Bonneval)"
+        },
+        {
+          "key": "C",
+          "text": "Claude de Saint-Simon"
+        },
+        {
+          "key": "D",
+          "text": "Napoleon"
+        },
+        {
+          "key": "E",
+          "text": "Von Moltke"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Comte de Bonneval (Humbaracı Ahmet Paşa), Humbaracı Ocağı'nı Batı standartlarında düzenlemiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-osmanli-duraklama-gerileme-30",
+      "topic_id": "topic-tarih-osmanli-duraklama-gerileme",
+      "question_text": "Küçük Kaynarca Antlaşması ile Rusya hangi dini topluluğun hamiliğini (koruyuculuğunu) üstlenerek Osmanlı'nın iç işlerine müdahale imkanı kazanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Katolikler"
+        },
+        {
+          "key": "B",
+          "text": "Protestanlar"
+        },
+        {
+          "key": "C",
+          "text": "Ermeniler"
+        },
+        {
+          "key": "D",
+          "text": "Ortodokslar"
+        },
+        {
+          "key": "E",
+          "text": "Yahudiler"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Küçük Kaynarca Antlaşması'nın en tehlikeli maddesine göre Rusya, Osmanlı ülkesindeki Ortodoks Hristiyanların koruyucusu sayılmıştır.",
+      "difficulty_level": 3
+    }
+  ]
+}

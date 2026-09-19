@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-temel-haklar",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Temel Hak ve Hürriyetlerin Sınırlanması",
+      "body": "Temel haklar ancak KANUNLA, anayasanın sözüne ve ruhuna uygun olarak, ölçülülük ilkesi gözetilerek ve hakkın özüne dokunulmadan sınırlanabilir."
+    },
+    {
+      "card_number": 2,
+      "title": "Durdurulamayacak Çekirdek Haklar (OHAL dahil)",
+      "body": "Yaşama hakkı, tıbbi zorunluluklar hariç vücut bütünlüğü, din ve vicdan hürriyeti, suç ve cezaların geriye yürümemesi, masumiyet karinesi."
+    },
+    {
+      "card_number": 3,
+      "title": "Kişi Hakları ve Ödevleri (Negatif Statü / Koruyucu)",
+      "body": "Devletin dokunamayacağı haklardır: Kişi dokunulmazlığı, özel hayatın gizliliği, konut dokunulmazlığı, haberleşme hürriyeti, mülkiyet hakkı."
+    },
+    {
+      "card_number": 4,
+      "title": "Sosyal ve Ekonomik Haklar (Pozitif Statü / İsteme)",
+      "body": "Bireyin devletten isteyebileceği haklardır: Eğitim hakkı, çalışma hakkı, sağlık hakkı, konut hakkı, grev ve lokavt hakkı."
+    },
+    {
+      "card_number": 5,
+      "title": "Siyasi Haklar ve Ödevler (Aktif Statü / Katılma)",
+      "body": "Vatandaşlık hakkı, seçme-seçilme hakkı, parti kurma-girme hakkı, kamu hizmetine girme hakkı, dilekçe hakkı, vergi ödevi, vatan hizmeti."
+    },
+    {
+      "card_number": 6,
+      "title": "Siyasi Partilere Üye Olamayacaklar",
+      "body": "Hakimler, savcılar, yüksek yargı mensupları, memurlar, TSK mensupları ve henüz lise dengi öğrenimdeki öğrenciler parti üyesi olamaz."
+    },
+    {
+      "card_number": 7,
+      "title": "Siyasi Partilerin Kapatılması",
+      "body": "Yargıtay Cumhuriyet Başsavcısı'nın açtığı dava üzerine ANAYASA MAHKEMESİ tarafından kapatılır (Kabul için 2/3 oy çokluğu gerekir)."
+    },
+    {
+      "card_number": 8,
+      "title": "Türk Vatandaşlığının Kazanılması ve Kaybı",
+      "body": "Soy bağı veya doğum yeri ile kazanılır. Hiçbir Türk vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vatandaşlıktan çıkarılamaz."
+    },
+    {
+      "card_number": 9,
+      "title": "Vatandaşlıktan Çıkarma Kararına Yargı Yolu",
+      "body": "Vatandaşlıktan çıkarma kararlarına karşı yargı yolu açıktır. İlk derece mahkemesi olarak DANIŞTAY'a dava açılır."
+    },
+    {
+      "card_number": 10,
+      "title": "Dilekçe, Bilgi Edinme ve Kamu Denetçisine Başvuru",
+      "body": "Vatandaşlar ve karşılıklılık esası gözetilmek şartıyla Türkiye'de ikamet eden yabancılar TBMM'ye ve yetkili makamlara yazılı başvurabilir."
+    }
+  ]
+}

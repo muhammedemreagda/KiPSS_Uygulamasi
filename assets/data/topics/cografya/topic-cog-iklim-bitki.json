@@ -1,0 +1,1007 @@
+{
+  "topic_id": "topic-cog-iklim-bitki",
+  "title": "Türkiye'nin İklimi, Bitki Örtüsü & Toprakları",
+  "course_id": "course-cografya",
+  "question_count": 31,
+  "quick_note": {
+    "id": "qn-topic-cog-iklim-bitki",
+    "topic_id": "topic-cog-iklim-bitki",
+    "title": "Türkiye'nin İklimi, Bitki Örtüsü & Toprakları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'nin İklimi, Bitki Örtüsü & Toprakları' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'nin İklimi, Bitki Örtüsü & Toprakları konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'nin İklimi, Bitki Örtüsü & Toprakları başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'nin İklimi, Bitki Örtüsü & Toprakları konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Akdeniz İklimi Özellikleri",
+        "body": "Yazları sıcak ve kurak, kışları ılık ve yağışlıdır. En fazla yağışı KIŞIN alır. Karakteristik bitki örtüsü MAKİ (Zeytin, zakkum, defne)'dir."
+      },
+      {
+        "card_number": 2,
+        "title": "Karadeniz İklimi Özellikleri",
+        "body": "Her mevsim yağışlı ve ılımandır. En fazla yağışı SONBAHARDA alır. Yağış rejimi en düzenli iklimdir. Bitki örtüsü ORMAN'dır."
+      },
+      {
+        "card_number": 3,
+        "title": "Karasal İklim Özellikleri",
+        "body": "Yazları sıcak ve kurak, kışları soğuk ve kar yağışlıdır. En fazla yağışı İLKBAHARDA alır (Kırkikindi yağışları). Bitki örtüsü BOZKIR'dır."
+      },
+      {
+        "card_number": 4,
+        "title": "Sert Karasal İklim (Erzurum-Kars)",
+        "body": "Yazları kısa ve serin, kışları çok soğuk geçer. En fazla yağışı YAZIN alır. Bitki örtüsü ALPIN ÇAYIR (Çernozom toprakları) dır."
+      },
+      {
+        "card_number": 5,
+        "title": "Türkiye'nin En Yağışlı Yeri",
+        "body": "Doğu Karadeniz (Rize çevreleri - 2400 mm üzeri) dağların kıyıya dik ve hemen gerisinde yükselmesi nedeniyle en çok yağış alan yerdir."
+      },
+      {
+        "card_number": 6,
+        "title": "Türkiye'nin En Az Yağış Alan Yeri",
+        "body": "Tuz Gölü çevresi (İç Anadolu) ve Iğdır Ovası etrafı dağlarla çevrili kuytu çöküntü alanları olduğu için en az yağış alan yerlerdir."
+      },
+      {
+        "card_number": 7,
+        "title": "Yerli (Zonal) Toprak Türleri",
+        "body": "Terra-Rossa (Akdeniz Kireçtaşı üzeri kiremit kırmızısı), Çernozom (Erzurum-Kars Kara toprak - En verimli), Podzol (Batı Karadeniz Soğuk nemli)."
+      },
+      {
+        "card_number": 8,
+        "title": "Taşınmış (Azonal) Toprak Türleri",
+        "body": "Alüvyal (Akarsu), Kolüvyal (Dağ etegi), Regosol (Volkanik), Moren (Buzul), Rüzgar (Lös). Mineralce verimlidir ancak katmanlaşma yoktur."
+      },
+      {
+        "card_number": 9,
+        "title": "Endemik Bitki Tanımı ve Örnekleri",
+        "body": "Dünyada sadece belirli bir yörede yetişen bitkilerdir. Sığla Ağacı (Muğla/Köyceğiz), Datça Hurması, Kasnak Meşesi (Isparta), Kazdağı Göknarı."
+      },
+      {
+        "card_number": 10,
+        "title": "Relikt (Kalıntı) Bitki Tanımı",
+        "body": "Geçmiş jeolojik dönem iklimlerinden günümüze ulaşmayı başarmış kalıntı bitkilerdir (Örn: Kelkit Vadisi'nde zeytin yetişmesi)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-iklim-bitki-1",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Akdeniz ikliminin karakteristik özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her mevsim yağışlı ve ılıman"
+        },
+        {
+          "key": "B",
+          "text": "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı"
+        },
+        {
+          "key": "C",
+          "text": "Yazlar serin, kışlar sert ve kar yağışlı"
+        },
+        {
+          "key": "D",
+          "text": "Yıl boyu sıcaklıkların 0 derecenin altında olması"
+        },
+        {
+          "key": "E",
+          "text": "Yazlar yağışlı, kışlar kurak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Akdeniz ikliminde yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçer.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-2",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de her mevsim yağış alan tek iklim tipi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karasal İklim"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz İklimi"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz İklimi"
+        },
+        {
+          "key": "D",
+          "text": "Sert Karasal İklim"
+        },
+        {
+          "key": "E",
+          "text": "Tundra İklimi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Karadeniz iklimi, nemliliğin yüksek olması nedeniyle Türkiye'de her mevsim yağış alan tek iklimdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-3",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Akdeniz ikliminin bitki örtüsü olan makilerin tahrip edilmesiyle oluşan kısa boylu çalı topluluğuna ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bozkır"
+        },
+        {
+          "key": "B",
+          "text": "Garig (Frigana)"
+        },
+        {
+          "key": "C",
+          "text": "Antropojen Bozkır"
+        },
+        {
+          "key": "D",
+          "text": "Çayır"
+        },
+        {
+          "key": "E",
+          "text": "Savan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Makilerin tahrip edilmesiyle oluşan daha kısa boylu (lavanta, süpürge çalısı vb.) çalı topluluğuna garig (frigana) denir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-4",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de 'Bozkır' (step) bitki örtüsü en çok hangi bölgede yaygındır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Karadeniz"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Marmara"
+        },
+        {
+          "key": "D",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "E",
+          "text": "Ege"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İç Anadolu, yıllık yağış miktarının az olması nedeniyle bozkır bitki örtüsünün en yaygın olduğu bölgedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-5",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de kar yağışının ve don olaylarının en az görüldüğü kıyı kesimimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz kıyıları"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz kıyıları"
+        },
+        {
+          "key": "C",
+          "text": "Marmara kıyıları"
+        },
+        {
+          "key": "D",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "E",
+          "text": "Hakkari yöresi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Akdeniz kıyıları, Ekvator'a yakınlığı ve deniz etkisi nedeniyle kış ılıklığı yaşar, kar ve don olayı çok azdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-6",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de cephe yağışlarının (Frontal yağışlar) en yaygın görüldüğü mevsim hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaz"
+        },
+        {
+          "key": "B",
+          "text": "Kış"
+        },
+        {
+          "key": "C",
+          "text": "İlkbahar"
+        },
+        {
+          "key": "D",
+          "text": "Sonbahar"
+        },
+        {
+          "key": "E",
+          "text": "Tüm mevsimler eşit"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye, orta kuşakta yer aldığı için kış aylarında Akdeniz üzerinden gelen hava kütleleri ile soğuk hava kütlelerinin karşılaşması sonucu cephe yağışları görülür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-7",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Aşağıdaki illerimizden hangisinde sert karasal iklim özellikleri görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Antalya"
+        },
+        {
+          "key": "B",
+          "text": "Rize"
+        },
+        {
+          "key": "C",
+          "text": "Erzurum"
+        },
+        {
+          "key": "D",
+          "text": "İzmir"
+        },
+        {
+          "key": "E",
+          "text": "İstanbul"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Erzurum ve Kars, yüksekliği ve enlemi nedeniyle kışları çok sert ve uzun geçen sert karasal iklim bölgesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-8",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de nemliliğin en düşük olduğu ve yazın buharlaşmanın en yüksek gerçekleştiği bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Karadeniz"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Ege"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Güneydoğu Anadolu Bölgesi, yazın sıcaklığın çok yüksek olması ve yağışın az olması nedeniyle bağıl nemin en düşük olduğu bölgedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-9",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Toros Dağları'nın denize bakan yamaçlarında hangi iklim tipi görülür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz İklimi"
+        },
+        {
+          "key": "B",
+          "text": "Karasal İklim"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz İklimi"
+        },
+        {
+          "key": "D",
+          "text": "Tundra İklimi"
+        },
+        {
+          "key": "E",
+          "text": "Çöl İklimi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Toroslar'ın denize bakan yamaçlarında Akdeniz iklimi görülürken, iç kesimlerinde karasal iklime geçiş yapılır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-10",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de orman varlığının en fazla olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "C",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Marmara"
+        },
+        {
+          "key": "E",
+          "text": "Ege"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Nemliliğin ve yağışın fazla olması nedeniyle orman varlığı oranı en yüksek bölge Karadeniz'dir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-11",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Fön rüzgarlarının Türkiye'de kurutucu ve sıcaklığı artırıcı etkisinin en belirgin olduğu yer neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İç Anadolu ovaları"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Karadeniz (Rize ve çevresi kıyı yamaçları)"
+        },
+        {
+          "key": "C",
+          "text": "Marmara kıyıları"
+        },
+        {
+          "key": "D",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "E",
+          "text": "Akdeniz ovaları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğu Karadeniz'de dağların yamaçlarından aşağı inen hava kütleleri fön etkisini yaratır ve Rize çevresinde mikroklima (turunçgil) imkanı sağlar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-12",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de kış sıcaklık ortalamalarının kıyı ile iç kesimler arasında ciddi farklılık göstermesinin temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Boylam farkı"
+        },
+        {
+          "key": "B",
+          "text": "Denizellik ve yükselti (karasallık)"
+        },
+        {
+          "key": "C",
+          "text": "Yer altı kaynakları"
+        },
+        {
+          "key": "D",
+          "text": "Bitki örtüsü"
+        },
+        {
+          "key": "E",
+          "text": "Rüzgar yönü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kıyı kesimlerde denizel etki ile ılımanlaşan hava, iç kesimlerde yükselti ve karasallık nedeniyle soğuk olur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-13",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'nin iklimini etkileyen basınç merkezlerinden hangileri kış mevsiminde daha çok etkili olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Basra Alçak Basıncı"
+        },
+        {
+          "key": "B",
+          "text": "Sibirya Yüksek Basıncı"
+        },
+        {
+          "key": "C",
+          "text": "Azor Yüksek Basıncı"
+        },
+        {
+          "key": "D",
+          "text": "İzlanda Alçak Basıncı"
+        },
+        {
+          "key": "E",
+          "text": "Sibirya Y.B. ve İzlanda A.B."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Sibirya Y.B. kışın dondurucu soğuk ve kar yağışı getirirken, İzlanda A.B. kışın ılık ve bol yağışlı havalara neden olur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-14",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de maki bitki örtüsü hangi iklim tipinin doğal sonucudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz İklimi"
+        },
+        {
+          "key": "B",
+          "text": "Karasal İklim"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz İklimi"
+        },
+        {
+          "key": "D",
+          "text": "Sert Karasal İklim"
+        },
+        {
+          "key": "E",
+          "text": "Tundra İklimi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Maki (zeytin, defne, zakkum vb.), Akdeniz ikliminin karakteristik bitki örtüsüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-15",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yıllık sıcaklık farkının en fazla olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Marmara"
+        },
+        {
+          "key": "E",
+          "text": "Ege"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğu Anadolu'da şiddetli karasallık ve yükselti nedeniyle kış ve yaz arasındaki sıcaklık farkı en yüksektir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-16",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de 'Antropojen Bozkır' kavramı neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ormanların insanlar tarafından tahrip edilmesiyle oluşan ikincil bozkır"
+        },
+        {
+          "key": "B",
+          "text": "Doğal iklim koşullarıyla kendiliğinden oluşan bozkır"
+        },
+        {
+          "key": "C",
+          "text": "Tarımdan terk edilmiş arazi"
+        },
+        {
+          "key": "D",
+          "text": "Yüksek dağ çayırları"
+        },
+        {
+          "key": "E",
+          "text": "Akdeniz makilikleri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İnsan müdahalesiyle (tahribat) ormanların yok edilip bozkıra dönüşmesi olayına antropojen bozkır denir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-17",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yıllık ortalama en çok yağış alan bölümümüz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Antalya Bölümü"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Karadeniz Bölümü (Rize-Artvin kıyıları)"
+        },
+        {
+          "key": "C",
+          "text": "İç Batı Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Yıldız Dağları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Denize bakan yüksek yamaçları nedeniyle Doğu Karadeniz Bölümü (2400 mm üzeri), Türkiye'nin en çok yağış alan yeridir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-18",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yaz kuraklığının en belirgin olduğu iklim hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz İklimi"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz İklimi"
+        },
+        {
+          "key": "C",
+          "text": "Sert Karasal İklim"
+        },
+        {
+          "key": "D",
+          "text": "Ilıman Okyanusal İklim"
+        },
+        {
+          "key": "E",
+          "text": "Ekvatoral İklim"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Akdeniz ikliminin en temel özelliği yazların sıcak ve kurak geçmesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-19",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'nin kısa mesafelerde iklim çeşitliliğinin fazla olmasının temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece enlem farkı"
+        },
+        {
+          "key": "B",
+          "text": "Kısa mesafelerde yükselti, engebe ve denizellik faktörlerinin değişmesi"
+        },
+        {
+          "key": "C",
+          "text": "Sadece okyanus akıntıları"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bitki örtüsü"
+        },
+        {
+          "key": "E",
+          "text": "Toprak yapısı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kısa mesafede yükselti değişimi, dağların uzanışı ve denizellik faktörleri iklim çeşitliliğini artırır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-20",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de iğne yapraklı ağaçların (sarıçam, göknar vb.) daha çok görüldüğü alanlar nerelerdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İç Anadolu alçak ovaları"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz kıyı düzlükleri"
+        },
+        {
+          "key": "C",
+          "text": "Kuzey Anadolu Dağları ve Doğu Anadolu'nun yüksek kesimleri"
+        },
+        {
+          "key": "D",
+          "text": "Ege kıyıları"
+        },
+        {
+          "key": "E",
+          "text": "Güneydoğu Anadolu düzlükleri"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kuzey Anadolu Dağları'nın ve Erzurum-Kars bölgesinin yüksek kesimlerinde soğuğa dayanıklı iğne yapraklı ormanlar (sarıçam vb.) gelişmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-21",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yazın güneydoğudan eserek sıcaklığı artıran ve kurutucu etki yapan rüzgar hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lodos"
+        },
+        {
+          "key": "B",
+          "text": "Sam yeli (Keşişleme)"
+        },
+        {
+          "key": "C",
+          "text": "Poyraz"
+        },
+        {
+          "key": "D",
+          "text": "Kıble"
+        },
+        {
+          "key": "E",
+          "text": "Karayel"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Güneydoğu Anadolu'da yazın etkili olan, sıcaklığı artıran ve nemi azaltan rüzgar Sam yelidir (Keşişleme).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-22",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Aşağıdaki illerimizden hangisinde Akdeniz iklimi yerine karasal iklim şartları daha baskındır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Antalya"
+        },
+        {
+          "key": "B",
+          "text": "Muğla"
+        },
+        {
+          "key": "C",
+          "text": "Mersin"
+        },
+        {
+          "key": "D",
+          "text": "Burdur"
+        },
+        {
+          "key": "E",
+          "text": "Adana"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Burdur (Göller Yöresi), yüksekliği ve Toroslar'ın arkasında kalması nedeniyle karasal iklim etkisi altındadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-23",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de enlem ve sıcaklık etkisine bağlı olarak orman üst sınırının en yüksek olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz ve Doğu Anadolu (güney enlemleri)"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "C",
+          "text": "Ege"
+        },
+        {
+          "key": "D",
+          "text": "Marmara"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Enlem ve sıcaklık etkisiyle Akdeniz ve Doğu Anadolu'nun güney kesimlerinde orman üst sınırı en yüksek seviyededir (2000-2800 m).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-24",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yıllık yağış miktarı genel olarak nereden nereye doğru gidildikçe belirgin biçimde artar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Batıdan Doğuya"
+        },
+        {
+          "key": "B",
+          "text": "Kuzeyden Güneye"
+        },
+        {
+          "key": "C",
+          "text": "Güneyden Kuzeye"
+        },
+        {
+          "key": "D",
+          "text": "İç kesimlerden kıyı kesimlere doğru"
+        },
+        {
+          "key": "E",
+          "text": "Denizden karaya"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Türkiye'de genel olarak etrafı dağlarla çevrili iç kesimler az yağış alırken, kıyı kesimler denizellik sayesinde bol yağış alır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-25",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yıllık yağış miktarının en az olduğu alan neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuz Gölü Çevresi ve Konya Çanağı"
+        },
+        {
+          "key": "B",
+          "text": "Erzurum-Kars"
+        },
+        {
+          "key": "C",
+          "text": "Güneydoğu Anadolu sınır boyu"
+        },
+        {
+          "key": "D",
+          "text": "Çukurova"
+        },
+        {
+          "key": "E",
+          "text": "Ergene Havzası"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tuz Gölü çevresi (İç Anadolu) çevresi dağlarla kapatıldığı için yaklaşık 300 mm yağışla Türkiye'nin en az yağış alan yeridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-26",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de 'Maki' bitki örtüsünün tahrip edilmesiyle oluşan bodur ve dikenli çalı topluluğuna ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Psödomaki"
+        },
+        {
+          "key": "B",
+          "text": "Garig (Frigana)"
+        },
+        {
+          "key": "C",
+          "text": "Bozkır"
+        },
+        {
+          "key": "D",
+          "text": "Çayır"
+        },
+        {
+          "key": "E",
+          "text": "Savan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Garig, makilerin bozulmasıyla oluşan kısa ve dikenli çalılardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-27",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'nin ikliminde kış ılıklığını ve 'nemliliği' sağlayan en temel kaynağımız nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Göller"
+        },
+        {
+          "key": "B",
+          "text": "Üç tarafını çevreleyen denizler"
+        },
+        {
+          "key": "C",
+          "text": "Nehirler"
+        },
+        {
+          "key": "D",
+          "text": "Yer altı suları"
+        },
+        {
+          "key": "E",
+          "text": "Kar yağışları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'nin nemliliğini ve kıyı kesimlerdeki kış ılıklığını sağlayan en temel kaynak üç tarafını çevreleyen denizlerdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-28",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Karadeniz ikliminin nemli ve bol yağışlı yapısına bağlı olan doğal bitki örtüsü nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geniş yapraklı nemli ormanlar"
+        },
+        {
+          "key": "B",
+          "text": "Bozkır"
+        },
+        {
+          "key": "C",
+          "text": "Maki"
+        },
+        {
+          "key": "D",
+          "text": "Çayır"
+        },
+        {
+          "key": "E",
+          "text": "Savan"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Karadeniz ikliminin hakim olduğu kıyı kuşağında nemli iklime bağlı olarak gür, geniş yapraklı ormanlar görülür.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-29",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de yaz mevsiminde sıcaklık ortalamalarının en yüksek olduğu bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneydoğu Anadolu Bölgesi"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "D",
+          "text": "Ege"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Güneydoğu Anadolu, hem enlemi hem de karasallığı (Basra Alçak Basıncının etkisi) nedeniyle Türkiye'de en yüksek yaz sıcaklıklarına sahiptir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-30",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Karadeniz Dağları'nın kuzey yamaçlarının güney yamaçlarına göre daha çok yağış almasının temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Denize bakması ve nemli rüzgarların yamaç boyunca yükselmesi (yamaç yağışları)"
+        },
+        {
+          "key": "B",
+          "text": "Rüzgarın sıcak olması"
+        },
+        {
+          "key": "C",
+          "text": "Sadece ormanların fazla olması"
+        },
+        {
+          "key": "D",
+          "text": "Ekvator'a yakın olması"
+        },
+        {
+          "key": "E",
+          "text": "Yükseltinin düşük olması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Karadeniz'de denize bakan kuzey yamaçlar, denizden gelen nemli hava kütlelerini yakalayarak orografik (yamaç) yağışları oluşturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-iklim-bitki-78",
+      "topic_id": "topic-cog-iklim-bitki",
+      "question_text": "Türkiye'de kış ılıklığı görülen ve turunçgil yetiştirilen bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "C",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Kuzeydoğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Güneydoğu Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Akdeniz iklimi sayesinde kışlar ılık geçer ve turunçgil (narenciye) üretimi yaygındır.",
+      "difficulty_level": 2
+    }
+  ]
+}

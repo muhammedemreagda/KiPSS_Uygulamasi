@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-memurluk-hukuku",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "657 Sayılı DMK Temel İlkeleri",
+      "body": "Liyakat (Yetenek ve başarıya göre yükselme), Kariyer (Meslekte en yüksek dereceye kadar ilerleme), Sınıflandırma (Görevin gerektirdiği sınıflara ayrılma)."
+    },
+    {
+      "card_number": 2,
+      "title": "Memurluğa Girişte Yaş Sınırı",
+      "body": "Genel olarak 18 yaşını dolduranlar memur olabilir. Bir meslek veya sanat okulunu bitirenler Kazai Rüşt (15 yaş) kararı ile memur olabilir."
+    },
+    {
+      "card_number": 3,
+      "title": "Memurlukta Adaylık Süresi",
+      "body": "Memurlukta adaylık süresi EN AZ 1 YIL, EN ÇOK 2 YILDIR. Adaylık süresince başka kuruma nakil yapılamaz."
+    },
+    {
+      "card_number": 4,
+      "title": "Memur Çalışma Saatleri (Haftalık)",
+      "body": "Haftalık çalışma süresi genel olarak 40 saattir. Cumartesi ve Pazar günleri tatildir."
+    },
+    {
+      "card_number": 5,
+      "title": "Memur Yıllık İzin Süreleri",
+      "body": "Hizmet süresi 1 yıldan 10 yıla kadar olanlar için 20 GÜN; 10 yıldan fazla olanlar için 30 GÜN yıllık izin verilir."
+    },
+    {
+      "card_number": 6,
+      "title": "Memurlara Verilen Disiplin Cezaları",
+      "body": "Uyarma, Kınama, Aylıktan Kesme (1/30 - 1/8 arası), Kademe İlerlemesinin Durdurulması (1-3 yıl arası), Devlet Memurluğundan Çıkarma."
+    },
+    {
+      "card_number": 7,
+      "title": "Memurluktan Çıkarma Cezasının Yetkilisi",
+      "body": "Devlet memurluğundan çıkarma cezası amirler tarafından değil, YÜKSEK DİSİPLİN KURULU tarafından verilir."
+    },
+    {
+      "card_number": 8,
+      "title": "Memur Disiplin Cezalarına Yargı Yolu",
+      "body": "Uyarma ve kınama dahil tüm disiplin cezalarına karşı yargı yolu (İdare Mahkemesi) AÇIKTIR."
+    },
+    {
+      "card_number": 9,
+      "title": "Memurların Ticaret Yasağı",
+      "body": "Memurlar Türk Ticaret Kanununa göre tacir veya esnaf sayılamaz, ticaret ve sanayi müesseselerinde görev alamazlar."
+    },
+    {
+      "card_number": 10,
+      "title": "Memurluğu Sona Erdiren Durumlar",
+      "body": "Çekilme (Müstafi), Çıkarılma, Memurluk şartlarını kaybetme, Emeklilik ve Ölüm. (Açığa alınma memurluğu sona erdirmez!)."
+    }
+  ]
+}

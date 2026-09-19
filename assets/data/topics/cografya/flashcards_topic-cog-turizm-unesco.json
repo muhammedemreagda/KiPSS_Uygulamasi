@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-turizm-unesco",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "UNESCO Dünya Miras Listesi İlk Eserimiz",
+      "body": "Türkiye'den UNESCO Dünya Miras Listesi'ne giren ilk alan Divriği Ulu Camii ve Darüşşifası'dır (Sivas - 1985)."
+    },
+    {
+      "card_number": 2,
+      "title": "UNESCO Listesindeki En Son Eserimiz",
+      "body": "2023 yılında eklenen Ankara (Gordion Antik Kenti) ve 2023'te eklenen Ahşap Direkli ve Kirişli Camilerdir."
+    },
+    {
+      "card_number": 3,
+      "title": "Hem Doğal Hem Kültürel Varlıklarımız",
+      "body": "Karma Miras Alanları: Pamukkale - Hierapolis (Denizli) ve Göreme Milli Parkı - Kapadokya (Nevşehir)."
+    },
+    {
+      "card_number": 4,
+      "title": "Göbeklitepe (Şanlıurfa)",
+      "body": "Tarihin sıfır noktası kabul edilen, bilinen en eski tapınak kompleksidir (UNESCO 2018)."
+    },
+    {
+      "card_number": 5,
+      "title": "Çatalhöyük (Konya)",
+      "body": "İnsanlık tarihinin ilk yerleşik kent modellerinden biri olan Neolitik kentin adıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Kış (Kayak) Turizmi Merkezleri",
+      "body": "Bursa (Uludağ), Erzurum (Palandöken), Kayseri (Erciyes), Bolu (Kartalkaya), Kars (Sarıkamış - Kristal kar)."
+    },
+    {
+      "card_number": 7,
+      "title": "Inanç Turizmi Merkezleri",
+      "body": "Meryem Ana Evi (İzmir/Efes), Sumela Manastırı (Trabzon), Saint Pierre Kilisesi (Hatay), Akdamar Kilisesi (Van)."
+    },
+    {
+      "card_number": 8,
+      "title": "Cittaslow (Sakin Şehir) İlk Kenti",
+      "body": "Türkiye'nin ilk sakin şehri (Cittaslow) İzmir - SEFERİHİSAR'dır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kruvaziyer Turizmi Limanları",
+      "body": "Lüks dev yolcu gemilerinin yanaştığı ana limanlarımız: Kuşadası (Aydın - En çok yanaşan), İstanbul ve İzmir'dir."
+    },
+    {
+      "card_number": 10,
+      "title": "Yayla Turizmi Merkezi",
+      "body": "Doğu Karadeniz (Rize Ayder Yaylası, Trabzon Uzungöl) ve Akdeniz Toros yaylaları en gelişmiş alanlardır."
+    }
+  ]
+}

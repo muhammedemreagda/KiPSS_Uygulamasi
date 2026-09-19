@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-bolgeler-kalkinma",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "GAP (Güneydoğu Anadolu Projesi)",
+      "body": "Fırat ve Dicle nehirleri üzerindeki barajlarla sulama ve enerji projesidir. Pamuk ve mısır üretimi patlamıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "DOKAP (Doğu Karadeniz Projesi)",
+      "body": "Ulaşım, yayla turizmi (Yeşil Yol), balıkçılık ve arıcılığı geliştirmeyi hedefler. Taş kömürü çıkarımı içermez!"
+    },
+    {
+      "card_number": 3,
+      "title": "ZBK (Zonguldak-Bartın-Karabük Projesi)",
+      "body": "Kömür ve demir-çelik sanayisine bağımlılığı azaltmak, ekonomik çeşitlilik ve yeni iş alanları yaratmak projesidir."
+    },
+    {
+      "card_number": 4,
+      "title": "KOP (Konya Ovası Projesi)",
+      "body": "Göksu Nehri'nin sularını Mavi Tünel ile Konya Ovası'na aktararak yeraltı su çekimini ve obruk oluşumunu engelleme projesidir."
+    },
+    {
+      "card_number": 5,
+      "title": "DAP (Doğu Anadolu Projesi)",
+      "body": "Hayvancılığı geliştirmek, mera ıslahı yapmak ve et-süt entegre tesislerini artırmak ana hedefidir."
+    },
+    {
+      "card_number": 6,
+      "title": "YHGP (Yeşilırmak Havzası Gelişim Projesi)",
+      "body": "Amasya, Çorum, Samsun, Tokat illerinde erozyon, su kirliliği ve taşkınları önleme odaklı projedir."
+    },
+    {
+      "card_number": 7,
+      "title": "Serbest Ticaret Bölgeleri",
+      "body": "Gümrük ve vergi muafiyeti sağlayan alanlardır. Mersin, Ege (İzmir), Trabzon, Mardin serbest bölgeleri örnektir."
+    },
+    {
+      "card_number": 8,
+      "title": "Karstik Arazi Bölgemiz",
+      "body": "Akdeniz Bölgesi (Teke ve Taşeli Platoları). Kireçtaşı yaygındır, su yer altına sızar, tarım zordur."
+    },
+    {
+      "card_number": 9,
+      "title": "Güneş Enerjisi Potansiyeli En Yüksek",
+      "body": "Güneydoğu Anadolu ve Akdeniz bölgeleridir (Yıllık güneşlenme süresi 3000 saatin üstündedir)."
+    },
+    {
+      "card_number": 10,
+      "title": "Rüzgar Enerjisi Potansiyeli En Yüksek",
+      "body": "Marmara (Çanakkale, Balıkesir) ve Ege (İzmir, Alaçatı) bölgeleridir."
+    }
+  ]
+}

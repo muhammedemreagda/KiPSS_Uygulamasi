@@ -1,0 +1,1277 @@
+{
+  "topic_id": "topic-vat-idare-merkezi-tasra",
+  "title": "İdare Hukuku — Merkezi ve Taşra Teşkilatı",
+  "course_id": "course-vatandaslik",
+  "question_count": 40,
+  "quick_note": {
+    "id": "qn-topic-vat-idare-merkezi-tasra",
+    "topic_id": "topic-vat-idare-merkezi-tasra",
+    "title": "İdare Hukuku — Merkezi ve Taşra Teşkilatı Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'İdare Hukuku — Merkezi ve Taşra Teşkilatı' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "İdare Hukuku — Merkezi ve Taşra Teşkilatı konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nİdare Hukuku — Merkezi ve Taşra Teşkilatı konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. İdare Hukuku — Merkezi ve Taşra Teşkilatı konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "İdarenin Kanuniliği İlkesi",
+        "body": "İdarenin tüm eylem, işlem ve kuruluşları kanuna dayanmak zorundadır (Anayasa Madde 123)."
+      },
+      {
+        "card_number": 2,
+        "title": "İdarenin Bütünlüğü (Hiyerarşi ve Vesayet)",
+        "body": "İdarenin birliğini sağlayan iki araç vardır: Hiyerarşi (Aynı tüzel kişilik içindeki üst-üst ilişkisi) ve İdari Vesayet (Ayrı tüzel kişilikler arası denetim)."
+      },
+      {
+        "card_number": 3,
+        "title": "İdari Vesayet Örneği",
+        "body": "İçişleri Bakanı'nın (Merkezi İdare) bir Belediye Başkanı'nı (Mahalli İdare) geçici olarak görevden uzaklaştırması İDARİ VESAYET'tir."
+      },
+      {
+        "card_number": 4,
+        "title": "Hiyerarşi Örneği",
+        "body": "Vali'nin İl Milli Eğitim Müdürü'ne emretmesi veya Kaymakam'ın İlçe Nüfus Müdürü'ne talimat vermesi HİYERARŞİ'dir."
+      },
+      {
+        "card_number": 5,
+        "title": "Merkezden Yönetimin Yetki Genişliği",
+        "body": "Merkeze danışmadan merkezin adına karar alabilme yetkisidir. Türkiye'de yetki genişliği SADECE VALİ'ye tanınmıştır."
+      },
+      {
+        "card_number": 6,
+        "title": "Başkent Teşkilatı Yardımcı Kuruluşları",
+        "body": "Danıştay (İdari danışma), Sayıştay (Mali denetim), Milli Güvenlik Kurulu (MGK - Siyasi danışma)."
+      },
+      {
+        "card_number": 7,
+        "title": "İl Genel İdaresi Organları",
+        "body": "Vali (Devletin ve Cumhurbaşkanının temsilcisi), İl İdare Şube Başkanları (Müdürler) ve İl İdare Kurulu."
+      },
+      {
+        "card_number": 8,
+        "title": "İlçe İdaresi Organları",
+        "body": "Kaymakam (Cumhurbaşkanının temsilcisi), İlçe İdare Şube Başkanları ve İlçe İdare Kurulu."
+      },
+      {
+        "card_number": 9,
+        "title": "Vali ve Kaymakam Atanma Farkı",
+        "body": "Vali Cumhurbaşkanı kararıyla atanır (İstisnai memurluktur). Kaymakam ise Cumhurbaşkanı onayıyla atanır (Meslek memurluğudur)."
+      },
+      {
+        "card_number": 10,
+        "title": "Kamu Tüzel Kişiliği (KTK) Kurulması",
+        "body": "Kamu tüzel kişiliği ancak KANUNLA veya CUMHURBAŞKANLIĞI KARARNAMESİ ile kurulur."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-37",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatında yer alan 'ilçe' yönetimi hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlçe tüzel kişiliğe sahiptir"
+        },
+        {
+          "key": "B",
+          "text": "İlçe yönetimi mahalli idaredir"
+        },
+        {
+          "key": "C",
+          "text": "İlçe (Kaymakamlık), merkezi yönetimin taşra teşkilatıdır ve ayrı tüzel kişiliği yoktur"
+        },
+        {
+          "key": "D",
+          "text": "İlçe belediyesi ile aynı yapıdır"
+        },
+        {
+          "key": "E",
+          "text": "İlçe kaymakamı seçimle göreve gelir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İlçe kaymakamlığı merkezin taşra birimidir, devlet tüzel kişiliği içinde yer alır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-47",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İl genel idaresinde valiye danışmanlık yapan ve idari kararlarda rol oynayan İl İdare Kurulu'na kim başkanlık eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İl Genel Meclis Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "C",
+          "text": "Vali"
+        },
+        {
+          "key": "D",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "E",
+          "text": "Emniyet Müdürü"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İl İdare Kurulu'na mülki amir olan Vali başkanlık eder.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-44",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezden yönetimin taşra teşkilatında 'il' yönetimi hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İl yönetimi yerinden yönetim birimidir"
+        },
+        {
+          "key": "B",
+          "text": "İl yönetiminin başı seçilen belediye başkanıdır"
+        },
+        {
+          "key": "C",
+          "text": "İl idaresi, merkezi yönetimin taşra teşkilatının bir parçasıdır ve devlet tüzel kişiliğindedir"
+        },
+        {
+          "key": "D",
+          "text": "İl idaresi özerk tüzel kişiliğe sahiptir"
+        },
+        {
+          "key": "E",
+          "text": "İl yönetimi mahalli seçimle oluşur"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İl genel idaresi, merkezi yönetimin (bakanlıkların) taşradaki koludur ve devlet tüzel kişiliği içerisindedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-45",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatında yer alan 'bölge kuruluşları' ile ilgili hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezden yönetim ilkesine göre çalışır"
+        },
+        {
+          "key": "B",
+          "text": "Hiyerarşi sistemine tabidir"
+        },
+        {
+          "key": "C",
+          "text": "Bölge müdürü atama yoluyla gelir"
+        },
+        {
+          "key": "D",
+          "text": "Her ilde zorunlu olarak kurulur"
+        },
+        {
+          "key": "E",
+          "text": "Hizmetin geniş coğrafi alanda yürütülmesi için kurulur"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Bölge kuruluşları ihtiyaç duyulan yerlerde kurulur; her ilde bölge müdürlüğü bulunması zorunlu değildir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-57",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdarenin 'kanuniliği' ilkesi neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdarenin kanun yapmasını"
+        },
+        {
+          "key": "B",
+          "text": "İdarenin her türlü eylem ve işleminin kanuna dayanması ve kanuna uygun olmasını"
+        },
+        {
+          "key": "C",
+          "text": "İdarenin kanunları değiştirebilmesini"
+        },
+        {
+          "key": "D",
+          "text": "Kanunların idareyi bağlamamasını"
+        },
+        {
+          "key": "E",
+          "text": "Memurların kanunları onaylamasını"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kanunilik ilkesi idarenin organlarının, yetkilerinin ve kamu hizmetlerinin ancak kanunla kurulup yürütülebileceğini ifade eder.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-107",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezi idarenin kendi içerisindeki bağımsız parçaların 'bütünlüğünü' sağlayan en önemli hiyerarşik bağ mekanizması nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiyerarşi"
+        },
+        {
+          "key": "B",
+          "text": "İdari vesayet"
+        },
+        {
+          "key": "C",
+          "text": "Seçim"
+        },
+        {
+          "key": "D",
+          "text": "Demokrasi"
+        },
+        {
+          "key": "E",
+          "text": "Özerklik"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Merkezi idare içindeki üst amirlerin alt birimler üzerindeki denetim ve emir verme yetkisine hiyerarşi denir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-117",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezden yönetim ilkesinin yumuşatılması amacıyla sadece illerde 'Vali'ye tanınan merkeze danışmadan karar alma imkanı sağlayan yetki hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yetki Genişliği ilkesi"
+        },
+        {
+          "key": "B",
+          "text": "İdari vesayet"
+        },
+        {
+          "key": "C",
+          "text": "Hiyerarşi yetkisi"
+        },
+        {
+          "key": "D",
+          "text": "Özerklik yetkisi"
+        },
+        {
+          "key": "E",
+          "text": "Kaza yetkisi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yetki genişliği Anayasa'nın 126. maddesinde düzenlenmiştir ve merkezin taşradaki idaresini kolaylaştırmak için sadece Vali'ye tanınmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-127",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdarenin 'bütünlüğü' ilkesinin korunması için kullanılan hiyerarşi yetkisi neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Alt makamların üst makamlara karşı sorumluluğu ve bağlılığı"
+        },
+        {
+          "key": "B",
+          "text": "Belediyelerin birbirini denetlemesi"
+        },
+        {
+          "key": "C",
+          "text": "Yargı organlarının idareyi denetlemesi"
+        },
+        {
+          "key": "D",
+          "text": "Seçimlerin yönetilmesi"
+        },
+        {
+          "key": "E",
+          "text": "İdarelerin özerk olması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Hiyerarşi, merkezi idare içindeki alt birimlerin üst birimlere karşı bağlılığı ve emir-komuta ilişkisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-137",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İl genel idaresinin başı olan Vali ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı kararıyla atanır"
+        },
+        {
+          "key": "B",
+          "text": "Devletin ve Cumhurbaşkanının temsilcisidir"
+        },
+        {
+          "key": "C",
+          "text": "Yerel seçimle göreve gelir"
+        },
+        {
+          "key": "D",
+          "text": "İl genel idaresinin başıdır"
+        },
+        {
+          "key": "E",
+          "text": "Taşra teşkilatında en üst amirdir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Vali yerel seçimle değil, atanma yoluyla (Cumhurbaşkanı kararı ile) göreve gelen mülki idare amiridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-147",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezi idarenin taşra teşkilatında yer alan 'Vali' hangi mülki idare biriminin başındadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlçe idaresi"
+        },
+        {
+          "key": "B",
+          "text": "Belediye idaresi"
+        },
+        {
+          "key": "C",
+          "text": "İl genel idaresi"
+        },
+        {
+          "key": "D",
+          "text": "Köy idaresi"
+        },
+        {
+          "key": "E",
+          "text": "Bölge müdürlüğü"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Vali, il genel idaresinin başı olup ilde devletin ve hükümetin temsilcisidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-1",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezi idarenin başkent teşkilatı içerisinde yer alan en üst hiyerarşik amir kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bakan"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "C",
+          "text": "TBMM Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Bakan Yardımcısı"
+        },
+        {
+          "key": "E",
+          "text": "Genel Müdür"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Merkezi idarenin ve yürütmenin başı Cumhurbaşkanıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-2",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Vali, ilde devleti ve hükümeti hangi sıfatla temsil eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece yerel yönetici"
+        },
+        {
+          "key": "B",
+          "text": "Devletin ve Cumhurbaşkanının idari temsilcisi"
+        },
+        {
+          "key": "C",
+          "text": "Seçim kurulu başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Belediye başkanı"
+        },
+        {
+          "key": "E",
+          "text": "Meclis başkanı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Vali, ilde Cumhurbaşkanı'nın idari temsilcisi olarak devletin ve genel idarenin başıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-3",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatında 'ilçe' idaresinin başında bulunan görevli kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali"
+        },
+        {
+          "key": "B",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "C",
+          "text": "Emniyet Müdürü"
+        },
+        {
+          "key": "D",
+          "text": "Muhtar"
+        },
+        {
+          "key": "E",
+          "text": "Belediye Başkanı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kaymakam, ilçede genel idarenin başı ve Cumhurbaşkanı'nın ilçedeki temsilcisidir (hükümet temsilcisi).",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-4",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Vali nasıl göreve gelir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Halk seçimiyle"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı kararı ile atama yoluyla"
+        },
+        {
+          "key": "C",
+          "text": "Belediye meclisi seçimiyle"
+        },
+        {
+          "key": "D",
+          "text": "Kura ile"
+        },
+        {
+          "key": "E",
+          "text": "Sınavla"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Valiler, merkezi yönetimin temsilcisi oldukları için Cumhurbaşkanı kararı ile atanırlar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-5",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Anayasal 'Yetki genişliği' ilkesi sadece hangi görevli için geçerlidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bakan"
+        },
+        {
+          "key": "B",
+          "text": "Vali"
+        },
+        {
+          "key": "C",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Muhtar"
+        },
+        {
+          "key": "E",
+          "text": "Kaymakam"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yetki genişliği, merkeze danışmadan merkezin adına karar alabilme yetkisi olup Anayasa'ya göre sadece Vali'ye tanınmıştır (Kaymakamın yetki genişliği yoktur).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-6",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İl genel idaresinde görev yapan 'İl İdare Kurulu'nun başkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Emniyet Müdürü"
+        },
+        {
+          "key": "B",
+          "text": "Vali"
+        },
+        {
+          "key": "C",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "D",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "E",
+          "text": "Milli Eğitim Müdürü"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İl İdare Kurulu, Vali'nin başkanlığında toplanan bir danışma ve idari kurul organıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-7",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Bölge kuruluşları (örn. Karayolları veya Devlet Su İşleri Bölge Müdürlükleri) hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahalli idare birimidir"
+        },
+        {
+          "key": "B",
+          "text": "Merkezi idarenin taşra teşkilatının bir parçasıdır"
+        },
+        {
+          "key": "C",
+          "text": "Seçimle göreve gelirler"
+        },
+        {
+          "key": "D",
+          "text": "Sadece başkentte bulunurlar"
+        },
+        {
+          "key": "E",
+          "text": "Bütçeleri tamamen belediyelerce karşılanır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bölge müdürlükleri, merkezi yönetimin hizmetleri daha verimli sunmak için taşrada oluşturduğu bölge teşkilatlarıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-8",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdare hukukunda 'Hiyerarşi yetkisi' neyi sağlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdarelerin birbirinden özerk olmasını"
+        },
+        {
+          "key": "B",
+          "text": "Aynı kamu tüzel kişiliği bünyesindeki amir-memur ilişkisinde emir, direktif ve denetim bağını"
+        },
+        {
+          "key": "C",
+          "text": "Yerel seçimlerin yapılmasını"
+        },
+        {
+          "key": "D",
+          "text": "Belediyelerin vesayetle denetlenmesini"
+        },
+        {
+          "key": "E",
+          "text": "Mahkeme kararlarının uygulanmasını"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Hiyerarşi, aynı tüzel kişilik içindeki üst makamların alt makamları emir ve talimatla denetlemesidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-9",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezi yönetimin taşra teşkilatında 'İl' idaresinin yapısı nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali, İl İdare Şube Başkanları ve İl İdare Kurulu"
+        },
+        {
+          "key": "B",
+          "text": "İlçe ve bucak yönetimi"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanlığı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İl genel idaresi; Vali, İl İdare Şube Başkanları (müdürler) ve İl İdare Kurulundan oluşur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-10",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdarenin 'bütünlüğü' ilkesinin temel hukuki aracı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Devletin parçalanmasını önlemek"
+        },
+        {
+          "key": "B",
+          "text": "Hiyerarşi ve idari vesayet mekanizmaları"
+        },
+        {
+          "key": "C",
+          "text": "Sadece vergi toplamak"
+        },
+        {
+          "key": "D",
+          "text": "Mahkemelerin işini kolaylaştırmak"
+        },
+        {
+          "key": "E",
+          "text": "Seçimleri düzenlemek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdarenin bütünlüğü ilkesi, hiyerarşi (kurum içi) ve idari vesayet (kurumlar arası) yetkileriyle sağlanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-11",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Vali, taşra kamu kurumları ve memurları üzerindeki denetimini hangi yetkiyle sağlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiyerarşi yetkisi"
+        },
+        {
+          "key": "B",
+          "text": "İdari vesayet"
+        },
+        {
+          "key": "C",
+          "text": "Seçim yetkisi"
+        },
+        {
+          "key": "D",
+          "text": "Yargısal yetki"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbir yetkisi yoktur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Vali, ildeki genel idare memurları ve ilçe kaymakamları üzerinde doğrudan hiyerarşi yetkisine sahiptir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-12",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezi yönetim (Devlet Tüzel Kişiliği) teşkilatı hangi iki ana bölümden oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Başkent teşkilatı ve Taşra teşkilatı"
+        },
+        {
+          "key": "B",
+          "text": "İlçe ve köy teşkilatı"
+        },
+        {
+          "key": "C",
+          "text": "Sadece bakanlıklar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanlığı"
+        },
+        {
+          "key": "E",
+          "text": "Meclis ve mahkemeler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Merkezi yönetim; Başkent teşkilatı (merkez) ve Taşra teşkilatı olarak iki ana kolludur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-13",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşrada 'Bölge Kuruluşları' hangi amaç ve biçimde kurulabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece küçük iller için"
+        },
+        {
+          "key": "B",
+          "text": "Kamu hizmetlerinin özelliğine göre birden çok ili kapsayacak şekilde Cumhurbaşkanlığı kararnamesiyle"
+        },
+        {
+          "key": "C",
+          "text": "Sadece büyükşehirler için"
+        },
+        {
+          "key": "D",
+          "text": "Sadece sınır illeri için"
+        },
+        {
+          "key": "E",
+          "text": "Seçim bölgeleri için"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bölge kuruluşları, hizmetin gerektirdiği durumlarda birden fazla ili kapsayacak şekilde kurulabilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-14",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Kaymakam, ilçe sınırları içerisinde kimin temsilcisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı'nın idari temsilcisidir"
+        },
+        {
+          "key": "C",
+          "text": "Meclis Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Köy Muhtarı"
+        },
+        {
+          "key": "E",
+          "text": "Yargıtay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kaymakam, ilçede Cumhurbaşkanı'nın temsilcisi ve idari amiridir (Cumhurbaşkanlığı kararı ile atanır).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-15",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatında 'İlçe İdare Kurulu' başkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "C",
+          "text": "İlçe Emniyet Müdürü"
+        },
+        {
+          "key": "D",
+          "text": "İlçe Milli Eğitim Müdürü"
+        },
+        {
+          "key": "E",
+          "text": "Vali"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İlçe İdare Kurulu'na Kaymakam başkanlık eder.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-16",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Hiyerarşi yetkisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üstün altı denetlemesidir"
+        },
+        {
+          "key": "B",
+          "text": "Emir ve talimat verme yetkisini kapsar"
+        },
+        {
+          "key": "C",
+          "text": "Merkezi yönetim ile mahalli idareler arasında hiyerarşi uygulanır"
+        },
+        {
+          "key": "D",
+          "text": "Aynı kamu tüzel kişiliği birimleri arasında geçerlidir"
+        },
+        {
+          "key": "E",
+          "text": "İdari işlemleri düzeltme veya iptal yetkisini kapsar"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Merkezi yönetim ile mahalli idareler (belediye, il özel idaresi vb.) arasında hiyerarşi değil, 'idari vesayet' vardır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-17",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Cumhurbaşkanı kararıyla atanan il genel idaresinin başı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "B",
+          "text": "Vali"
+        },
+        {
+          "key": "C",
+          "text": "İlçe Emniyet Müdürü"
+        },
+        {
+          "key": "D",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "E",
+          "text": "Muhtar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Vali, ilin en üst amiri olarak Cumhurbaşkanı kararı ile atanır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-18",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdare teşkilatında 'Taşra' kavramı neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Başkent dışındaki tüm genel idare teşkilatı birimlerini"
+        },
+        {
+          "key": "B",
+          "text": "Sadece büyükşehirleri"
+        },
+        {
+          "key": "C",
+          "text": "Köy muhtarlıklarını"
+        },
+        {
+          "key": "D",
+          "text": "Sadece mahkemeleri"
+        },
+        {
+          "key": "E",
+          "text": "Devletin olmadığı yerleri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Taşra teşkilatı, başkent (Ankara) dışındaki valilik, kaymakamlık ve bölge müdürlükleri gibi merkezi idare birimleridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-19",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Valinin 'yetki genişliği' yetkisi ne demektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece olağanüstü hallerde karar alma"
+        },
+        {
+          "key": "B",
+          "text": "Merkeze danışmadan devlet adına karar alabilme ve uygulayabilme yetkisidir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece meclis izniyle karar alma"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yargı kararıyla karar alma"
+        },
+        {
+          "key": "E",
+          "text": "Seçim zamanı karar alma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yetki genişliği, valinin merkeze sormadan il idaresiyle ilgili kamu hizmetlerinde karar alabilmesidir; giderler yine merkeze aittir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-20",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatının mülki idare bölümünde yer alan mülki idare amirleri kimlerdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali ve Kaymakam"
+        },
+        {
+          "key": "B",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "C",
+          "text": "İl Genel Meclisi Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Muhtar"
+        },
+        {
+          "key": "E",
+          "text": "Emniyet Müdürü"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Vali (ilde) ve Kaymakam (ilçede) mülki idare amirleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-21",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Vali, ilin genel idaresi için hangi temel sorumluluğu üstlenir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargısal denetim"
+        },
+        {
+          "key": "B",
+          "text": "Mali denetim"
+        },
+        {
+          "key": "C",
+          "text": "İldeki tüm kamu hizmetlerinin ve genel kolluk kuvvetlerinin idaresini"
+        },
+        {
+          "key": "D",
+          "text": "Sadece özel şirketleri"
+        },
+        {
+          "key": "E",
+          "text": "Sadece seçimi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Vali, ilde genel idarenin ve genel kolluğun (polis/jandarma) başıdır ve kamu hizmetlerinin koordinasyonundan sorumludur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-22",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Kaymakam göreve nasıl gelir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı onayı ile atama usulüyle"
+        },
+        {
+          "key": "B",
+          "text": "Sadece ilçe seçimiyle"
+        },
+        {
+          "key": "C",
+          "text": "Kendi isteğiyle"
+        },
+        {
+          "key": "D",
+          "text": "Meclis kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Vali doğrudan atar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kaymakamlar Cumhurbaşkanı kararı/onayı ile atanan kariyer mülki idare amirleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-23",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdare teşkilatında 'idarenin bütünlüğü' ilkeleri hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiyerarşi ve İdari Vesayet"
+        },
+        {
+          "key": "B",
+          "text": "Sadece bütçe kontrolü"
+        },
+        {
+          "key": "C",
+          "text": "Memur sayısını azaltmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece mahkeme kararları"
+        },
+        {
+          "key": "E",
+          "text": "Seçimlerin yönetimi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasal 'idarenin bütünlüğü' prensibi hiyerarşi ve idari vesayet araçları ile sağlanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-24",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Aşağıdakilerden hangisi merkezi yönetimin taşra teşkilatına dahildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Köy muhtarlığı"
+        },
+        {
+          "key": "B",
+          "text": "Valilik ve Kaymakamlık"
+        },
+        {
+          "key": "C",
+          "text": "Belediye meclisi"
+        },
+        {
+          "key": "D",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "E",
+          "text": "İlçe belediyesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Valilik ve Kaymakamlık merkezi yönetimin taşra teşkilatıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-25",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Merkezden yönetimde 'Başkent Teşkilatı'nda yer alan organlardan biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanlığı"
+        },
+        {
+          "key": "B",
+          "text": "Bakanlıklar"
+        },
+        {
+          "key": "C",
+          "text": "Valilik"
+        },
+        {
+          "key": "D",
+          "text": "Milli Güvenlik Kurulu (MGK)"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Valilik, başkent teşkilatı değil taşra teşkilatıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-26",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Valinin vesayet denetimi hangi birimler üzerindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bakanlıklar"
+        },
+        {
+          "key": "B",
+          "text": "İldeki mahalli idareler (Belediyeler, İl Özel İdaresi, Köyler)"
+        },
+        {
+          "key": "C",
+          "text": "Kaymakamlıklar"
+        },
+        {
+          "key": "D",
+          "text": "Bölge müdürlükleri"
+        },
+        {
+          "key": "E",
+          "text": "Sadece emniyet"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Vali, mülki amir olarak yerel yönetimler (mahalli idareler) üzerinde kanunun verdiği vesayet denetimini kullanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-27",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatında 'İl Genel İdaresi'nin başkentle bağı hangi ilkeye dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yerinden yönetim"
+        },
+        {
+          "key": "B",
+          "text": "Özerklik"
+        },
+        {
+          "key": "C",
+          "text": "Merkezden yönetim ve hiyerarşi"
+        },
+        {
+          "key": "D",
+          "text": "Federasyon"
+        },
+        {
+          "key": "E",
+          "text": "Sadece bütçe bağı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Taşra teşkilatı merkezden yönetimin uzantısıdır ve merkeze hiyerarşik olarak bağlıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-28",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İdari vesayet denetimi hukuken nasıl bir yetkidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınırsız ve genel bir yetkidir"
+        },
+        {
+          "key": "B",
+          "text": "Ancak kanunla verilen hallerde sınırlı olarak kullanılabilen bir yetkidir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece para cezası yetkisidir"
+        },
+        {
+          "key": "D",
+          "text": "Meclisin yetkisidir"
+        },
+        {
+          "key": "E",
+          "text": "Mahkeme yetkisidir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdari vesayet yetkisiz kullanılamaz; 'kanunsuz vesayet olmaz' kuralı geçerlidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-29",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "İlçe idaresinin başında bulunan Kaymakam ne tür bir idari yetkiye sahip değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlçedeki kamu memurlarını denetleme"
+        },
+        {
+          "key": "B",
+          "text": "Yetki genişliği yetkisi kullanma"
+        },
+        {
+          "key": "C",
+          "text": "İlçe idare kuruluna başkanlık etme"
+        },
+        {
+          "key": "D",
+          "text": "İlçede kanunları uygulama"
+        },
+        {
+          "key": "E",
+          "text": "İlçe kolluk amirliği yapma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yetki genişliği sadece İl valilerine tanınmış bir Anayasal yetkidir, Kaymakamların yetki genişliği yoktur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-merkezi-tasra-30",
+      "topic_id": "topic-vat-idare-merkezi-tasra",
+      "question_text": "Taşra teşkilatının temel kuruluş amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçim yapmak"
+        },
+        {
+          "key": "B",
+          "text": "Merkezi yönetimin kamu hizmetlerini ülke geneline yayarak yürütmek"
+        },
+        {
+          "key": "C",
+          "text": "Sadece vergi toplamak"
+        },
+        {
+          "key": "D",
+          "text": "Özerk yönetim kurmak"
+        },
+        {
+          "key": "E",
+          "text": "Mahkeme açmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Taşra teşkilatı, merkezin yürüttüğü kamu hizmetlerinin vatandaşın ayağına kadar ulaşmasını sağlar.",
+      "difficulty_level": 2
+    }
+  ]
+}

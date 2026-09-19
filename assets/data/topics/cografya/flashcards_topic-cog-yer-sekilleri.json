@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-yer-sekilleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Türkiye'nin Ortalama Yükseltisi",
+      "body": "Türkiye'nin ortalama yükseltisi 1132 metredir. Yükselti genel olarak batıdan doğuya doğru gidildikçe artar."
+    },
+    {
+      "card_number": 2,
+      "title": "Orojenez (Dağ Oluşumu) Türleri",
+      "body": "Kıvrım Dağlar (Toroslar ve Kuzey Anadolu Dağları) ve Kırık Dağlar (Ege'deki Kaz, Yunt, Bozdağlar, Aydın, Menteşe - Horst/Graben)."
+    },
+    {
+      "card_number": 3,
+      "title": "Volkanik Dağlarımız (Şifre: KEK - SAN)",
+      "body": "Doğu Anadolu: Ağrı, Tendürek, Süphan, Nemrut. İç Anadolu: Erciyes, Hasan Dağ, Melendiz, Karadağ, Karacadağ."
+    },
+    {
+      "card_number": 4,
+      "title": "Epirojenez (Kıta Oluşumu) Örnekleri",
+      "body": "Türkiye Alp-Himalaya orojenezi sonrası III. ve IV. Jeolojik zamanda toptan yükselmiştir. Çukurova ve Ergene çöküntü alanlarıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Karstik Aşınım ve Birikim Şekilleri",
+      "body": "Kireç taşı (Kalker), Jips ve Kaya tuzu arazilerde görülür. Lapya -> Dolin -> Uvala -> Polye (En büyük aşınım) ve Traverten (Birikim)."
+    },
+    {
+      "card_number": 6,
+      "title": "Rüzgarların En Etkili Olduğu Bölgeler",
+      "body": "Bitki örtüsünün cılız, iklimin kurak olduğu İç Anadolu ve Güneydoğu Anadolu'da rüzgar aşınım (Mantar kaya) ve birikim (Kumul) şekilleri görülür."
+    },
+    {
+      "card_number": 7,
+      "title": "Buzul (Glasyal) Şekilleri Yükseltisi",
+      "body": "Türkiye'de buzul şekilleri 2000-2200 metrenin üzerindeki yüksek dağlarda (Hakkari Cilo, Kaçkarlar, Erciyes, Ağrı, Uludağ) görülür."
+    },
+    {
+      "card_number": 8,
+      "title": "Delta Ovalarımızın Oluşum Şartları",
+      "body": "Kıyıda derinliğin az olması (sığ kıyı), kıyı akıntısının zayıf olması ve akarsuyun bol alüvyon taşıması gerekir."
+    },
+    {
+      "card_number": 9,
+      "title": "Önemli Delta Ovalarımız",
+      "body": "Karadeniz: Bafra (Kızılırmak), Çarşamba (Yeşilırmak). Akdeniz: Çukurova (Seyhan-Ceyhan), Silifke (Göksu). Ege: Dikili, Menemen, Selçuk, Balat."
+    },
+    {
+      "card_number": 10,
+      "title": "Fay Hatlarımız ve Deprem Risk Alanları",
+      "body": "Kuzey Anadolu (KAF), Doğu Anadolu (DAF) ve Batı Anadolu (BAF) fay hatları aktiftir. Tuz Gölü çevresi, Taşeli ve Ergene deprem riski düşük alanlardır."
+    }
+  ]
+}

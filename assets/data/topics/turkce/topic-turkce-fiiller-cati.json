@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-fiiller-cati",
+  "title": "Fiiller, Fiilde Çatı & Fiilimsiler",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-fiiller-cati",
+    "topic_id": "topic-turkce-fiiller-cati",
+    "title": "Fiiller, Fiilde Çatı & Fiilimsiler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Fiiller, Fiilde Çatı & Fiilimsiler' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Fiiller, Fiilde Çatı & Fiilimsiler konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nFiiller, Fiilde Çatı & Fiilimsiler başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Fiiller, Fiilde Çatı & Fiilimsiler konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "İsim-Fiil (Mastar) Ekleri",
+        "body": "Fiil kök veya gövdelerine gelen '-ma, -ış, -mak' (Mayışmak) ekleridir. Örnek: Kitap okumak insanı geliştirir."
+      },
+      {
+        "card_number": 2,
+        "title": "Sıfat-Fiil (Ortaç) Ekleri",
+        "body": "Fiillere gelen '-an, -ası, -mez, -ar, -dik, -ecek, -miş' (Anası mezar dikecekmiş) ekleridir. Örnek: Koşan çocuk düştü."
+      },
+      {
+        "card_number": 3,
+        "title": "Zarf-Fiil (Ulaç/Bağ-Fiil) Ekleri",
+        "body": "Fiillere gelen '-ken, -alı, -esi, -em, -meden, -ince, -ip, -arak' ekleridir. Örnek: Gülerek içeri girdi."
+      },
+      {
+        "card_number": 4,
+        "title": "Geçişli Fiil Testi (Onu Testi)",
+        "body": "Nesne alabilen fiillerdir. Fiilin başına 'onu' kelimesi getirildiğinde anlamlı oluyorsa fiil geçişlidir. Örnek: (Onu) okudu."
+      },
+      {
+        "card_number": 5,
+        "title": "Geçişsiz Fiil Testi",
+        "body": "Nesne alamayan fiillerdir. Fiilin başına 'onu' kelimesi getirildiğinde anlamsız olur. Örnek: (Onu) güldü (Anlamsız)."
+      },
+      {
+        "card_number": 6,
+        "title": "Etken Fiil Özelliği",
+        "body": "İşi yapan gerçek bir öznenin (açık veya gizli) bulunduğu fiillerdir. Örnek: Ali camı kırdı (Özne: Ali)."
+      },
+      {
+        "card_number": 7,
+        "title": "Edilgen Fiil Özelliği",
+        "body": "İşi yapanın belli olmadığı, '-l' veya '-n' eki alan fiillerdir; özne sözde öznedir. Örnek: Cam kırıldı."
+      },
+      {
+        "card_number": 8,
+        "title": "Dönüşlü Fiil Özelliği",
+        "body": "İşi yapanın ve işten etkilenenin aynı kişi olduğu, '-l' veya '-n' eki alan fiillerdir. Örnek: Ahmet süslendi."
+      },
+      {
+        "card_number": 9,
+        "title": "İşteş Fiil Özelliği",
+        "body": "Eylemin birden fazla kişi tarafından birlikte veya karşılıklı yapıldığını belirten, '-ş' eki alan fiillerdir. Örnek: Kuşlar uçuştu."
+      },
+      {
+        "card_number": 10,
+        "title": "Oldurgan ve Ettirgen Fiil",
+        "body": "Geçişsiz fiilin '-r, -t, -tır' ile geçişli yapılması Oldurgan; zaten geçişli olan fiilin geçişlilik derecesinin artırılması Ettirgendir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-fiiller-cati-1",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Fiilimsiler (eylemsiler) fiil kök veya gövdelerine getirilen özel eklerle türetilir; eylem anlamını korumakla birlikte cümlede isim, sıfat veya zarf görevinde kullanılırlar. Bazı fiilimsi ekleri zamanla kalıcı isim oluşturabilir. Aşağıdaki cümlelerin hangisinde yer alan altı/belirtilen sözcük fiilimsi olma özelliğini yitirerek 'kalıcı isim' olmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaz aylarında çocukların en sevdiği ikram olan dondurma dolaplarda saklanıyor."
+        },
+        {
+          "key": "B",
+          "text": "Sıcak havalarda bahçeyi sulama işini sabah erkenden yapardı."
+        },
+        {
+          "key": "C",
+          "text": "Toplantıda sunulan raporları incelemek için zaman istedi."
+        },
+        {
+          "key": "D",
+          "text": "Kitap okuma alışkanlığı kazanmak birey için en büyük kazanımdır."
+        },
+        {
+          "key": "E",
+          "text": "Şehrin tarihi dokusunu koruma çalışmaları hızla devam ediyor."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Dondurma' sözcüğü fiilimsi eki (-ma) almış olmasına rağmen eylem anlamını tamamen yitirmiş ve somut bir gıda maddesinin kalıcı adı olmuştur. B, C, D ve E seçeneklerinde yer alan eylemsiler ise hareket anlamını korudukları için isim-fiil görevindedirler.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-2",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Sıfat-fiil ekleri (-an, -ası, -mez, -ar, -dik, -ecek, -miş) ile türetilen sözcükler niteledikleri isimler düştüğünde adlaşmış sıfat-fiil olurlar. Aşağıdaki cümlelerin hangisinde adlaşmış sıfat-fiil kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçede kuruyan yapraklar rüzgâr estikçe etrafa savruluyordu."
+        },
+        {
+          "key": "B",
+          "text": "Sınavda bildiklerini kâğıda aktaran öğrenciler rahat bir nefes aldı."
+        },
+        {
+          "key": "C",
+          "text": "Görülecek hesapları sonraya bırakıp hemen işe koyuldular."
+        },
+        {
+          "key": "D",
+          "text": "Gelecek yıl yapılacak olan geniş katılımlı festival ertelendi."
+        },
+        {
+          "key": "E",
+          "text": "Tanıdık bir yüz aramak için kalabalık salona dikkatle baktı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'bildiklerini' sözcüğü 'bildiği şeyleri / bildiği bilgileri' tamlamasındaki ismin düşmesiyle oluşan bir adlaşmış sıfat-fiildir ('bildik-leri-n-i'). Diğer şıklarda ise sıfat-fiiller isimleri nitelemeye devam etmektedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-3",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Zarf-fiiller (bağ-fiil / ulaç) eyleme sorulan 'Nasıl?' sorusuna cevap verirse 'durum', 'Ne zaman?' sorusuna cevap verirse 'zaman' anlamı katar. Aşağıdaki cümlelerin hangisinde zarf-fiil cümleye 'durum' anlamı katmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş doğarken sahil boyunca yürüyüş yapmayı alışkanlık edinmişti."
+        },
+        {
+          "key": "B",
+          "text": "Sınav sonuçları açıklandığında salondaki herkes büyük bir sevinç yaşadı."
+        },
+        {
+          "key": "C",
+          "text": "Çocuklar bahçedeki çimlerin üzerinde gülerek koşuşuyorlardı."
+        },
+        {
+          "key": "D",
+          "text": "Okuldan eve varır varmaz ödevlerinin başına oturdu."
+        },
+        {
+          "key": "E",
+          "text": "Tarihi kente ulaşınca doğrudan müze binasına yöneldiler."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde yer alan 'gülerek' zarf-fiili eylemin yapılış biçimini (Nasıl koşuşuyorlardı? -> Gülerek) bildirdiği için durum anlamı katmıştır. A'da 'doğarken', B'de 'açıklandığında', D'de 'varır varmaz', E'de 'ulaşınca' zarf-fiilleri eylemin zamanını bildirmektedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-4",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Öznesine göre fiil çatıları 'etken', 'edilgen', 'dönüşlü' ve 'işteş' olarak ayrılır. Öznesi belli olmayan, eylemin kimin tarafından yapıldığı bilinmeyen ve fiilinde '-n, -l' edilgenlik eki bulunan cümleler edilgen çatılıdır. Buna göre aşağıdaki cümlelerin hangisinin yüklemi edilgen çatılı bir fiildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ablam sınavı kazandığını öğrenince sevinçle annesine sarıldı."
+        },
+        {
+          "key": "B",
+          "text": "Genç adam uzun bir yolculuğun ardından odasında dinlendi."
+        },
+        {
+          "key": "C",
+          "text": "Eski sınıf arkadaşları tören alanında neşeyle selamlaştı."
+        },
+        {
+          "key": "D",
+          "text": "Okul bahçesindeki kurumuş ağaç dalları hafta sonu budandı."
+        },
+        {
+          "key": "E",
+          "text": "Kuşlar baharın gelişiyle birlikte neşeyle cıvıldaştı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'budandı' yükleminde '-n' edilgenlik eki vardır ve eylemi yapan kişi (gerçek özne) cümlede belli değildir; 'ağaç dalları' sözde öznedir. Bu nedenle yüklem edilgen çatılıdır. A ve B dönüşlü, C ve E işteş çatılıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-5",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Nesnesine göre fiiller 'geçişli' ve 'geçişsiz' olarak ikiye ayrılır. Nesne alabilen (yüklemine 'Onu' getirilebilen) fiiller geçişli; nesne alamayan fiiller ise geçişsizdir. Aşağıdaki cümlelerin hangisinin yüklemi 'geçişsiz' bir fiildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazar, son romanında çocukluk yıllarında yaşadığı kasabayı anlatıyor."
+        },
+        {
+          "key": "B",
+          "text": "Masanın üzerindeki resmi evrakları dikkatle inceleyip imzaladı."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler kütüphaneden aldıkları kaynak kitapları raflara dizdiler."
+        },
+        {
+          "key": "D",
+          "text": "Pazardan aldığı taze meyveleri mutfak tezgâhında yıkadı."
+        },
+        {
+          "key": "E",
+          "text": "Yorgun adam otobüs durağındaki bankta saatlerce uyudu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki 'uyudu' fiiline 'Onu' getirdiğimizde ('Onu uyudu') anlamsız olduğu için nesne alamayan geçişsiz bir fiildir. A'da 'kasabayı', B'de 'evrakları', C'de 'kitapları', D'de 'meyveleri' nesneleri mevcut olup fiiller geçişlidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-6",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Dönüşlü fiillerde özne, eylemi hem kendi yapar hem de yapılan eylemden kendisi etkilenir. Fiil '-n' veya '-l' eklerini alır ve cümlede gerçek veya gizli özne bulunur. Aşağıdaki cümlelerin hangisinde 'dönüşlü' çatılı bir fiil kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç kız düğün töreni öncesinde aynanın karşısında iyice süslendi."
+        },
+        {
+          "key": "B",
+          "text": "Fırtına sebebiyle limandaki tüm gemiler güvenli bölgeye çekildi."
+        },
+        {
+          "key": "C",
+          "text": "Bayram öncesinde caddeler rengârenk bayraklarla süslendi."
+        },
+        {
+          "key": "D",
+          "text": "Yeni yapılan kanun tasarısı meclis oturumunda kabul edildi."
+        },
+        {
+          "key": "E",
+          "text": "Sınav evrakları yetkili memurlar tarafından kilitli kasaya kaldırıldı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğindeki 'süslendi' fiilinde '-n' eki vardır ve 'Genç kız' hem süslenme eylemini kendisi yapmış hem de bu eylemden kendisi etkilenmiştir (dönüşlü çatı). B, C, D ve E seçeneklerindeki fiiller ise edilgen çatılıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-7",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Geçişsiz bir fiile '-dır/-dir, -t, -r' ekleri getirilerek fiilin geçişli hâle getirilmesine 'oldurgan fiil' denir. Buna göre aşağıdaki cümlelerin hangisinin yüklemi 'oldurgan' çatılıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğretmen, sınıf panosundaki yazıları öğrencilere okuttu."
+        },
+        {
+          "key": "B",
+          "text": "Çocuğun aniden yola fırlaması sürücüyü çok korkuttu."
+        },
+        {
+          "key": "C",
+          "text": "Usta, çırağına geniş bahçedeki tüm odunları kırdırttı."
+        },
+        {
+          "key": "D",
+          "text": "Mimar yeni bina projesini teknik ekibe çizdirdi."
+        },
+        {
+          "key": "E",
+          "text": "Müdür bey hazırlanan yıllık raporu sekreterine yazdırdı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Korkuttu' fiilinin kökü 'kork-' eylemidir. 'Kork-' fiili geçişsizdir ('Onu kork' denmez). '-t' eki getirilerek 'korkut-' yapılmış ve geçişli hâle getirilmiştir (oldurgan çatı). A, C, D ve E seçeneklerindeki fiiller ise zaten geçişli olan fiillere ek getirilerek oluşturulduğu için 'ettirgen' çatılıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-8",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Bir cümlede kip ekinin kendi anlamı dışında başka bir kipin yerine kullanılmasına 'fiilde anlam (zaman/kip) kayması' denir. Aşağıdaki cümlelerin hangisinde anlam kayması vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hafta sonları sabah erkenden kalkıp sahilde uzun yürüyüşler yapıyorum."
+        },
+        {
+          "key": "B",
+          "text": "Dün akşam kütüphaneden aldığı kitabı iki saat içinde bitirmiş."
+        },
+        {
+          "key": "C",
+          "text": "Önümüzdeki ay düzenlenecek olan uluslararası festivale biz de katılacağız."
+        },
+        {
+          "key": "D",
+          "text": "Düzenli ve disiplinli çalışırsan hedeflediğin üniversiteye rahatlıkla girersin."
+        },
+        {
+          "key": "E",
+          "text": "Fatih Sultan Mehmet 1453 yılında İstanbul'u fetheder."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Fatih Sultan Mehmet 1453 yılında İstanbul'u fetheder' cümlesinde geniş zaman eki (-er) geçmişte tamamlanmış bir olayı anlatmak için öğrenilen/görülen geçmiş zaman yerine kullanılmıştır. Bu durum doğrudan zaman (kip) kaymasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-9",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "İki kip ekinin üst üste gelmesiyle 'birleşik zamanlı (birleşik kipli) fiil' oluşur. Birleşik zamanlar 'hikâye birleşik zamanı (-di)', 'rivayet birleşik zamanı (-miş)' ve 'şart birleşik zamanı (-se)' olmak üzere üçe ayrılır. Aşağıdaki cümlelerin hangisinde yüklem 'geniş zamanın hikâyesi' biçimindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gençlik yıllarında her akşam bu kordon boyunda tek başına yürürdü."
+        },
+        {
+          "key": "B",
+          "text": "Sınavı kazandığını duyunca sevincinden ne yapacağını bilememişti."
+        },
+        {
+          "key": "C",
+          "text": "Yarın sabah erkenden yola çıkacakmış gibi hazırlık yapıyordu."
+        },
+        {
+          "key": "D",
+          "text": "Eğer zamanında haber verseydin ben de seninle gelirdim."
+        },
+        {
+          "key": "E",
+          "text": "Toplantının ertelendiğini duyunca odasına çekilip çalışıyormuş."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğindeki 'yürürdü' fiili 'yürü-r-di' şeklinde tahlil edilir. İlk ek '-r' (geniş zaman), ikinci ek '-dü' (hikâye birleşik zaman eki) olduğu için 'geniş zamanın hikâyesi'dir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-10",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Fiilde çatı özellikleri (etkenlik, edilgenlik, geçişlilik vb.) yalnızca yüklemi fiil olan cümlelerde aranır; yüklemi isim soylu olan cümlelerde çatı özelliği aranmaz. Buna göre aşağıdaki cümlelerin hangisinde **çatı özelliği aranmaz**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sokaktaki sevimli kedi acıkınca kapının önüne kadar geldi."
+        },
+        {
+          "key": "B",
+          "text": "Rüzgâr şiddetini artırınca bahçedeki kurumuş dallar kırıldı."
+        },
+        {
+          "key": "C",
+          "text": "Yazarın son yayınlanan kitabı okuyucular tarafından çok beğenildi."
+        },
+        {
+          "key": "D",
+          "text": "Sınav maratonunda en önemli şey azimli ve kararlı olmaktır."
+        },
+        {
+          "key": "E",
+          "text": "Şehrin tarihi sokaklarında rehber eşliğinde saatlerce gezdiler."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde yüklem 'azimli ve kararlı olmaktır' ifadesidir. İsim-fiil eki (-mak) alan sözcükler isimleştiği için cümle isim cümlesidir ve isim cümlelerinde çatı özelliği aranmaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-11",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "İşteş fiiller, eylemin en az iki özne tarafından 'karşılıklı' veya 'birlikte' yapıldığını belirten ve fiilde '-ş' eki bulunan çatılardır. Aşağıdaki cümlelerin hangisinde eylemin **'karşılıklı yapılması'** anlamı içeren işteş bir fiil vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrenciler bahçedeki zilin çalmasıyla birlikte içeriye doğru koşuştu."
+        },
+        {
+          "key": "B",
+          "text": "Yıllardır görmediği eski dostuyla havaalanında kucaklaştı."
+        },
+        {
+          "key": "C",
+          "text": "Daldaki kuşlar baharın gelmesiyle birlikte neşeyle ötüştü."
+        },
+        {
+          "key": "D",
+          "text": "Akşam karanlığı çökünce koyunlar ağıla doğru meleşti."
+        },
+        {
+          "key": "E",
+          "text": "Havuzdaki çocuklar sıcak havanın tadını çıkararak uçuştu."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'kucaklaştı' fiili eylemin iki kişi tarafından 'karşılıklı' yapıldığını gösterir. A'da 'koşuştu', C'de 'ötüştü', D'de 'meleşti' ve E'de 'uçuştu' eylemleri ise 'birlikte (topluca)' yapılma anlamı taşır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-12",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Zarf-fiil ekleri cümleye zaman veya durum anlamı katar. Aşağıdaki cümlelerin hangisinde yer alan zarf-fiil eylemin yapılış zamanını bildirmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Soruları tekrar tekrar okuyarak hata yapmaktan son anda kurtuldu."
+        },
+        {
+          "key": "B",
+          "text": "Gözlerinin içine baka baka gerçeği saklamaya devam ediyordu."
+        },
+        {
+          "key": "C",
+          "text": "Olayın detaylarını öğrenince ne yapacağını bilemeyip donakaldı."
+        },
+        {
+          "key": "D",
+          "text": "Bebek annesini görünce gülücükler saçarak kucağına atıldı."
+        },
+        {
+          "key": "E",
+          "text": "Konuşmacı salondakileri selamlayıp konuşmasına hızla başladı."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'öğrenince' zarf-fiili 'Ne zaman donakaldı? -> Olayın detaylarını öğrenince' sorusuna yanıt vererek eylemin zamanını bildirir. A, B ve D seçeneklerindeki zarf-fiiller eylemin durumunu/yapılış biçimini bildirir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-13",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Ettirgen fiiller, zaten geçişli olan bir fiile '-dır/-dir, -t, -r' ekleri getirilerek geçişlilik derecesinin artırılması ve eylemin 'başkasına yaptırılması' anlamının kazanılmasıyla oluşur. Aşağıdaki cümlelerin hangisinde 'ettirgen' çatılı bir fiil yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fırtına aniden bastırınca evdeki tüm pencereler kapatıldı."
+        },
+        {
+          "key": "B",
+          "text": "Çocuğun aniden ağlaması salondaki herkesi oldukça üzdü."
+        },
+        {
+          "key": "C",
+          "text": "Müdür bey hazırlanan projeyi teknik ekibe baştan sona inceletti."
+        },
+        {
+          "key": "D",
+          "text": "Sıcak havanın etkisiyle bahçedeki çiçekler kısa sürede soldu."
+        },
+        {
+          "key": "E",
+          "text": "Genç adam iş görüşmesine gitmeden önce saçlarını kestirdi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'İnceletti' fiilinin kökü 'incele-' geçişlidir ('Onu incele'). Geçişli fiile '-t' eki getirilerek 'incelet-' yapılmış ve işin başkasına yaptırılması sağlanmıştır (ettirgen çatı).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-14",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Fiilimsi ekleri türetme ekleridir; bu ekleri alan sözcükler fiil olmaktan çıkıp isim soylu sözcüklere dönüşür ancak eylem anlamını korurlar. Buna göre aşağıdaki cümlelerin hangisinde **fiilimsi kullanılmamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sert esen poyrazın etkisiyle deniz yüzeyinde dev dalgalar oluştu."
+        },
+        {
+          "key": "B",
+          "text": "Şehrin tarihi sokaklarında yürümek insana büyük bir huzur veriyor."
+        },
+        {
+          "key": "C",
+          "text": "Akşam saatlerinde eve dönünce doğruca çalışma odasına geçti."
+        },
+        {
+          "key": "D",
+          "text": "Dün akşam izlediğimiz film hepimizin üzerinde derin izler bıraktı."
+        },
+        {
+          "key": "E",
+          "text": "Kütüphanedeki eski kitapların tamamı rafta duruyordu."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki hiçbir sözcükte fiilimsi (isim-fiil, sıfat-fiil, zarf-fiil) bulunmamaktadır. A'da 'esen', B'de 'yürümek', C'de 'dönünce', D'de 'izlediğimiz' fiilimsidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-15",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Fiil kipleri 'haber (bildirme) kipleri' ve 'dilek (tasarlama) kipleri' olarak ikiye ayrılır. Haber kipleri zaman anlamı taşırken, dilek kiplerinde (gereklilik, istek, şart, emir) zaman anlamı yoktur. Aşağıdaki cümlelerin hangisinde yüklem **dilek kiplerinden biriyle** çekimlenmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınav maratonunu başarıyla tamamlamak için her gün düzenli çalışıyor."
+        },
+        {
+          "key": "B",
+          "text": "Yarın yapılacak olan toplantı saat ikiye ertelendi."
+        },
+        {
+          "key": "C",
+          "text": "Tarihi müzedeki eserleri incelemek için haftaya tekrar gideceğiz."
+        },
+        {
+          "key": "D",
+          "text": "Bu zor ve karmaşık konuları anlamak için bol bol soru çözmelisin."
+        },
+        {
+          "key": "E",
+          "text": "Yazar son romanında Ege kasabasındaki yaşamı gerçekçi bir dille aktarmış."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'çözmelisin' yüklemi gereklilik kipi (-meli/-malı) ile çekimlenmiştir. Gereklilik kipi bir dilek (tasarlama) kipidir. A, B, C ve E seçeneklerindeki yüklemler ise haber kipleriyle çekimlenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-16",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Ek-fiilin iki temel görevi vardır: İsim ve isim soylu sözcüklere gelerek onları yüklem yapmak veya basit zamanlı fiillere gelerek onları birleşik zamanlı yapmak. Aşağıdaki cümlelerin hangisinde ek-fiil **farklı bir görevde** kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hafta sonları sahil kenarında yürümeyi çok severdi."
+        },
+        {
+          "key": "B",
+          "text": "Sınav sonuçları açıklandığında herkes büyük bir heyecan yaşıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Eğer zamanında haber verseydin ben de seninle gelirdim."
+        },
+        {
+          "key": "D",
+          "text": "Gençlik yıllarında derslerinde son derece başarılı ve çalışkan bir öğrenciydi."
+        },
+        {
+          "key": "E",
+          "text": "Yarın sabah erkenden yola çıkacakmış gibi hazırlık yapıyordu."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde ek-fiil 'öğrenciydi' isim soylu sözcüğüne gelerek onu yüklem yapmıştır. A'da 'severdi', B'de 'yaşıyordu', C'de 'verseydin' ve E'de 'yapıyordu' eylemlerinde ise basit zamanlı fiilleri birleşik zamanlı yapmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-17",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Fiilde oluş fiilleri, öznenin iradesi dışında kendiliğinden gerçekleşen ve zamanla meydana gelen değişimi gösteren eylemlerdir (örn: sararmak, paslanmak, büyümek). Buna göre aşağıdaki cümlelerin hangisinin yüklemi bir 'oluş fiili'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden aldığı kalın romanı bir solukta okudu."
+        },
+        {
+          "key": "B",
+          "text": "Sonbaharın gelmesiyle birlikte ağaçların yaprakları sarardı."
+        },
+        {
+          "key": "C",
+          "text": "Çocuklar parktaki geniş çimlerin üzerinde saatlerce oynadılar."
+        },
+        {
+          "key": "D",
+          "text": "Masanın üzerindeki bardak yere düşüp kırıldı."
+        },
+        {
+          "key": "E",
+          "text": "Otobüs durağındaki kalabalık aracın gelmesini bekliyordu."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Sarardı' eylemi (sarı-ar-dı), yaprağın zamanla rengini kaybetmesi durumunu ve öznenin iradesi dışında gerçekleşen biyolojik değişimi anlattığı için 'oluş fiili'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-18",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Yardımcı fiille kurulan birleşik fiiller 'isim + etmek, eylemek, olmak, kılmak, buyurmak' kalıbıyla oluşur. Bu birleşme sırasında herhangi bir ses düşmesi veya türemesi meydana gelirse birleşik fiil bitişik yazılır. Aşağıdaki cümlelerin hangisinde yer alan birleşik fiil **yazım bakımından hatalıdır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplantı salonundaki evrakların tamamını titizlikle kontrol etti."
+        },
+        {
+          "key": "B",
+          "text": "Uğradığı haksızlık karşısında sessiz kalmayıp durumu reddetti."
+        },
+        {
+          "key": "C",
+          "text": "Yaşanan olumsuzluklardan dolayı derin üzüntü duyduğunu hissetti."
+        },
+        {
+          "key": "D",
+          "text": "Sınav başvurusunu son güne bırakınca işlemlerini terketti."
+        },
+        {
+          "key": "E",
+          "text": "Kayıp çantasının karakolda bulunduğunu öğrenince çok mutlu oldu."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'terketti' birleşik fiilinin oluşumunda herhangi bir ses türemesi veya düşmesi yoktur (terk + etmek). Bu nedenle ayrı olarak 'terk etti' şeklinde yazılması gerekirken bitişik yazılarak yazım hatası yapılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-19",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Geçişli fiil olduğu halde cümlede nesnesi kullanılmayan durumlar vardır. Aşağıdaki cümlelerin hangisinde yüklem geçişli bir fiil olduğu halde cümlede **nesne kullanılmamıştır**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geniş ahşap masanın üzerindeki kalın kitabı dikkatlice okudu."
+        },
+        {
+          "key": "B",
+          "text": "Durakta yaklaşık yarım saat boyunca sabırsızlıkla bekledi."
+        },
+        {
+          "key": "C",
+          "text": "Yıllardır görmediği eski dostunu görünce sevinçle kucakladı."
+        },
+        {
+          "key": "D",
+          "text": "Pazardan aldığı taze sebzeleri mutfak tezgahına bıraktı."
+        },
+        {
+          "key": "E",
+          "text": "Sokağın başındaki fırından sıcacık ekmek satın aldı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'bekledi' fiili geçişli bir fiildir ('Onu bekledi' denebilir). Ancak cümle ögelerine ayrıldığında: 'bekledi' (yüklem), 'kim?' -> O (gizli özne), 'nerede?' -> Durakta (dolaylı tümleç), 'ne kadar?' -> yaklaşık yarım saat boyunca (zarf tümleci), 'nasıl?' -> sabırsızlıkla (zarf tümleci). Cümlede nesne bulunmamaktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-fiiller-cati-20",
+      "topic_id": "topic-turkce-fiiller-cati",
+      "question_text": "Sıfat-fiil ekleri (-an, -mış, -acak, -ar vb.) ile fiil çekim ekleri (kip ekleri) biçimsel olarak birbirine benzer. Ancak sıfat-fiil bir ismi niteleme görevi üstlenirken kip eki yüklemde eylemin zamanını bildirir. Aşağıdaki cümlelerin hangisinde altı/belirtilen sözcük **sıfat-fiil eki değil, çekim eki (kip eki)** almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kurumuş yapraklar rüzgâr estikçe bahçe boyunca savruluyordu."
+        },
+        {
+          "key": "B",
+          "text": "Gelecek hafta yapılması planlanan geniş katılımlı seminer ertelendi."
+        },
+        {
+          "key": "C",
+          "text": "Kırılmış cam parçalarını dikkatle toplayıp çöp kutusuna attı."
+        },
+        {
+          "key": "D",
+          "text": "Yıllarca emek verdiği bahçedeki ağaçlar en sonunda meyve vermiş."
+        },
+        {
+          "key": "E",
+          "text": "Tanıdık bir yüz aramak amacıyla salondaki kalabalığa baktı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'vermiş' sözcüğü cümlenin yüklemidir ve öğrenilen geçmiş zaman kip eki (-miş) almıştır. A'da 'kurumuş yapraklar', B'de 'gelecek hafta', C'de 'kırılmış cam', E'de 'tanıdık yüz' ifadelerinde isimleri niteleyen sıfat-fiiller kullanılmıştır.",
+      "difficulty_level": 4
+    }
+  ]
+}

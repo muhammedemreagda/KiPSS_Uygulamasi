@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-bolgeler-kalkinma",
+  "title": "Coğrafi Bölgeler & Kalkınma Projeleri",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-bolgeler-kalkinma",
+    "topic_id": "topic-cog-bolgeler-kalkinma",
+    "title": "Coğrafi Bölgeler & Kalkınma Projeleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Coğrafi Bölgeler & Kalkınma Projeleri' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Coğrafi Bölgeler & Kalkınma Projeleri konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nCoğrafi Bölgeler & Kalkınma Projeleri başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Coğrafi Bölgeler & Kalkınma Projeleri konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "GAP (Güneydoğu Anadolu Projesi)",
+        "body": "Fırat ve Dicle nehirleri üzerindeki barajlarla sulama ve enerji projesidir. Pamuk ve mısır üretimi patlamıştır."
+      },
+      {
+        "card_number": 2,
+        "title": "DOKAP (Doğu Karadeniz Projesi)",
+        "body": "Ulaşım, yayla turizmi (Yeşil Yol), balıkçılık ve arıcılığı geliştirmeyi hedefler. Taş kömürü çıkarımı içermez!"
+      },
+      {
+        "card_number": 3,
+        "title": "ZBK (Zonguldak-Bartın-Karabük Projesi)",
+        "body": "Kömür ve demir-çelik sanayisine bağımlılığı azaltmak, ekonomik çeşitlilik ve yeni iş alanları yaratmak projesidir."
+      },
+      {
+        "card_number": 4,
+        "title": "KOP (Konya Ovası Projesi)",
+        "body": "Göksu Nehri'nin sularını Mavi Tünel ile Konya Ovası'na aktararak yeraltı su çekimini ve obruk oluşumunu engelleme projesidir."
+      },
+      {
+        "card_number": 5,
+        "title": "DAP (Doğu Anadolu Projesi)",
+        "body": "Hayvancılığı geliştirmek, mera ıslahı yapmak ve et-süt entegre tesislerini artırmak ana hedefidir."
+      },
+      {
+        "card_number": 6,
+        "title": "YHGP (Yeşilırmak Havzası Gelişim Projesi)",
+        "body": "Amasya, Çorum, Samsun, Tokat illerinde erozyon, su kirliliği ve taşkınları önleme odaklı projedir."
+      },
+      {
+        "card_number": 7,
+        "title": "Serbest Ticaret Bölgeleri",
+        "body": "Gümrük ve vergi muafiyeti sağlayan alanlardır. Mersin, Ege (İzmir), Trabzon, Mardin serbest bölgeleri örnektir."
+      },
+      {
+        "card_number": 8,
+        "title": "Karstik Arazi Bölgemiz",
+        "body": "Akdeniz Bölgesi (Teke ve Taşeli Platoları). Kireçtaşı yaygındır, su yer altına sızar, tarım zordur."
+      },
+      {
+        "card_number": 9,
+        "title": "Güneş Enerjisi Potansiyeli En Yüksek",
+        "body": "Güneydoğu Anadolu ve Akdeniz bölgeleridir (Yıllık güneşlenme süresi 3000 saatin üstündedir)."
+      },
+      {
+        "card_number": 10,
+        "title": "Rüzgar Enerjisi Potansiyeli En Yüksek",
+        "body": "Marmara (Çanakkale, Balıkesir) ve Ege (İzmir, Alaçatı) bölgeleridir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-1",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Türkiye'nin en kapsamlı ve büyük bölgesel kalkınma projesi olan GAP (Güneydoğu Anadolu Projesi) kapsamında, aşağıdaki illerden hangisi doğrudan yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şanlıurfa"
+        },
+        {
+          "key": "B",
+          "text": "Gaziantep"
+        },
+        {
+          "key": "C",
+          "text": "Adıyaman"
+        },
+        {
+          "key": "D",
+          "text": "Mardin"
+        },
+        {
+          "key": "E",
+          "text": "Erzincan"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "GAP; Adıyaman, Batman, Diyarbakır, Gaziantep, Kilis, Mardin, Siirt, Şanlıurfa ve Şırnak illerini kapsar. Erzincan bu projeye dahil değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-2",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DOKAP (Doğu Karadeniz Projesi) kapsamında öncelikli hedef sektör aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ağır sanayi ve madencilik"
+        },
+        {
+          "key": "B",
+          "text": "Sürdürülebilir hayvancılık ve doğa/yayla turizmi"
+        },
+        {
+          "key": "C",
+          "text": "Büyük ölçekli hububat tarımı"
+        },
+        {
+          "key": "D",
+          "text": "Yüksek hızlı tren ağı geliştirme"
+        },
+        {
+          "key": "E",
+          "text": "Petrol rafinerisi kurulumu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "DOKAP; bölgenin engebeli arazi yapısına uygun olarak hayvancılığın modernizasyonu ve doğa/yayla turizminin geliştirilmesini öncelikli hedefler arasına almıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-3",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DAP (Doğu Anadolu Projesi) bölgesindeki illerin kalkınmasını sağlamak için temel odak noktası nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deniz ulaşımı"
+        },
+        {
+          "key": "B",
+          "text": "Sulu tarım ve enerji"
+        },
+        {
+          "key": "C",
+          "text": "Hayvancılığın geliştirilmesi ve mera ıslahı"
+        },
+        {
+          "key": "D",
+          "text": "Kıyı turizmi"
+        },
+        {
+          "key": "E",
+          "text": "Seracılık"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "DAP bölgesinin coğrafi özellikleri dikkate alındığında, hayvancılık faaliyetlerinin veriminin artırılması ve mera ıslahı projenin ana eksenini oluşturur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-4",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "GAP kapsamında yer alan illerden hangisinde sulama projesi (Harran Ovası) ile birlikte pamuk üretiminde büyük artış yaşanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şanlıurfa"
+        },
+        {
+          "key": "B",
+          "text": "Siirt"
+        },
+        {
+          "key": "C",
+          "text": "Batman"
+        },
+        {
+          "key": "D",
+          "text": "Kilis"
+        },
+        {
+          "key": "E",
+          "text": "Şırnak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Harran Ovası'nın sulanmasıyla birlikte Şanlıurfa, Türkiye'nin en büyük pamuk üretim merkezlerinden biri haline gelmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-5",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "ZBK (Zonguldak-Bartın-Karabük) projesinin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarımsal üretimi çeşitlendirmek"
+        },
+        {
+          "key": "B",
+          "text": "Bölgedeki maden ve demir-çelik sanayi tesislerini modernize etmek"
+        },
+        {
+          "key": "C",
+          "text": "Sadece hayvancılığı geliştirmek"
+        },
+        {
+          "key": "D",
+          "text": "Kıyı balıkçılığını desteklemek"
+        },
+        {
+          "key": "E",
+          "text": "Doğal gaz çıkarımını artırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "ZBK projesi, kömür ve demir-çelik endüstrisine dayalı bu bölgedeki sanayi tesislerinin verimliliğini artırmayı ve ekonomik durgunluğu engellemeyi amaçlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-6",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "KOP (Konya Ovası Projesi) kapsamında, Mavi Tünel projesi ile hangi akarsuyun sularının Konya kapalı havzasına aktarılması sağlanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fırat"
+        },
+        {
+          "key": "B",
+          "text": "Göksu Nehri"
+        },
+        {
+          "key": "C",
+          "text": "Yeşilırmak"
+        },
+        {
+          "key": "D",
+          "text": "Menderes"
+        },
+        {
+          "key": "E",
+          "text": "Çoruh"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "KOP'un en önemli aşamalarından biri olan Mavi Tünel projesi ile Göksu Nehri'nin suları Konya kapalı havzasına aktarılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-7",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Aşağıdaki illerden hangisi KOP (Konya Ovası Projesi) illerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Konya"
+        },
+        {
+          "key": "B",
+          "text": "Karaman"
+        },
+        {
+          "key": "C",
+          "text": "Niğde"
+        },
+        {
+          "key": "D",
+          "text": "Aksaray"
+        },
+        {
+          "key": "E",
+          "text": "Samsun"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "KOP, İç Anadolu Bölgesi'ndeki illeri kapsar. Samsun ise DOKAP projesi kapsamındadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-8",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "GAP kapsamında yapılan barajlar arasında Türkiye'nin en büyük dolgu hacimli barajı olan yapı hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karakaya Barajı"
+        },
+        {
+          "key": "B",
+          "text": "Atatürk Barajı"
+        },
+        {
+          "key": "C",
+          "text": "Birecik Barajı"
+        },
+        {
+          "key": "D",
+          "text": "Ilısu Barajı"
+        },
+        {
+          "key": "E",
+          "text": "Karkamış Barajı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Atatürk Barajı, hem kurulu gücü hem de dolgu hacmi ile GAP'ın en kritik ve devasa yapısıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-9",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Türkiye'de bölgesel kalkınma projeleri (GAP, DAP, DOKAP, KOP) hiyerarşik olarak hangi bakanlığa bağlı Kalkınma İdareleri tarafından koordine edilmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sanayi ve Teknoloji Bakanlığı"
+        },
+        {
+          "key": "B",
+          "text": "Tarım ve Orman Bakanlığı"
+        },
+        {
+          "key": "C",
+          "text": "İçişleri Bakanlığı"
+        },
+        {
+          "key": "D",
+          "text": "Ulaştırma Bakanlığı"
+        },
+        {
+          "key": "E",
+          "text": "Kültür ve Turizm Bakanlığı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'deki bölgesel kalkınma idareleri Sanayi ve Teknoloji Bakanlığı'na bağlı olarak faaliyetlerini sürdürürler.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-10",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Bölgesel kalkınma projelerinin temel amaçları arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bölgeler arası gelişmişlik farkını azaltmak"
+        },
+        {
+          "key": "B",
+          "text": "Kırsaldan büyükşehirlere göçü azaltmak"
+        },
+        {
+          "key": "C",
+          "text": "Bölgesel kaynakları verimli kullanmak"
+        },
+        {
+          "key": "D",
+          "text": "Bölge halkının yaşam standardını yükseltmek"
+        },
+        {
+          "key": "E",
+          "text": "Tüm sanayi tesislerini tek bir bölgede toplamak"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Sanayiyi tek bir noktada toplamak bölgesel kalkınma ilkelerine terstir; projeler dengeli ve yerinde kalkınmayı hedefler.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-11",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DOKAP projesinin turizm odaklı alt projelerinden biri olan 'Yeşil Yol' projesinin temel hedefi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deniz kıyılarını birleştirmek"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Karadeniz yaylalarını birbirine bağlayarak turizm koridoru oluşturmak"
+        },
+        {
+          "key": "C",
+          "text": "Kömür madenlerini birbirine bağlamak"
+        },
+        {
+          "key": "D",
+          "text": "Sulama kanallarını düzenlemek"
+        },
+        {
+          "key": "E",
+          "text": "Hızlı tren hattı kurmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yeşil Yol Projesi, Doğu Karadeniz'deki yaylaları birbirine bağlayarak kesintisiz bir doğa turizmi aksı oluşturmayı hedefler.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-12",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Dicle Nehri üzerinde kurulan Ilısu Barajı (Prof. Dr. Veysel Eroğlu Barajı) hangi bölgesel kalkınma projesinin en önemli hidroelektrik yatırımlarındandır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "GAP"
+        },
+        {
+          "key": "B",
+          "text": "DAP"
+        },
+        {
+          "key": "C",
+          "text": "DOKAP"
+        },
+        {
+          "key": "D",
+          "text": "KOP"
+        },
+        {
+          "key": "E",
+          "text": "ZBK"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ilısu Barajı, GAP kapsamındaki Dicle Havzası projesinin kilit hidroelektrik santralidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-13",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "KOP (Konya Ovası Projesi) kapsamında hayvancılık verimini artırmak için yapılan en önemli çalışma hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deniz balıkçılığı"
+        },
+        {
+          "key": "B",
+          "text": "Sulamalı tarımla birlikte kaliteli yem bitkileri üretimini artırmak"
+        },
+        {
+          "key": "C",
+          "text": "İthalat teşvikleri"
+        },
+        {
+          "key": "D",
+          "text": "Ormancılık"
+        },
+        {
+          "key": "E",
+          "text": "Kıyı turizmi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "KOP bölgesi su kısıtlı olduğu için, sulama ile birlikte yem bitkileri üretimi artırılarak besi ve ahır hayvancılığının geliştirilmesi hedeflenmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-14",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "ZBK projesi hangi coğrafi alt bölgemizde uygulanmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Ege"
+        },
+        {
+          "key": "C",
+          "text": "Batı Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "ZBK (Zonguldak-Bartın-Karabük) projesi, Batı Karadeniz'in maden ve ağır sanayi kümelenmesini kapsar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-15",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DAP projesinin hayvancılık ve tarım dışında odaklandığı bir diğer önemli turizm potansiyeli alanı hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kış turizmi (Palandöken, Sarıkamış vb.)"
+        },
+        {
+          "key": "B",
+          "text": "Deniz ticareti"
+        },
+        {
+          "key": "C",
+          "text": "İncir üretimi"
+        },
+        {
+          "key": "D",
+          "text": "Tropikal tarım"
+        },
+        {
+          "key": "E",
+          "text": "Tekstil sanayi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Doğu Anadolu bölgesi yüksek dağları ve kar kalitesiyle kış turizmi (Erzurum, Kars vb.) odağındadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-16",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "GAP bölgesi ile ilgili olarak aşağıdaki sonuçlardan hangisi gerçekleşmemiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sulama olanaklarının artması"
+        },
+        {
+          "key": "B",
+          "text": "Kırsaldan kente göçün tamamen durması"
+        },
+        {
+          "key": "C",
+          "text": "Enerji üretim kapasitesinin artması"
+        },
+        {
+          "key": "D",
+          "text": "Bitkisel ürün çeşitliliğinin artması"
+        },
+        {
+          "key": "E",
+          "text": "Tarıma dayalı sanayi kollarının gelişmesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "GAP iç göç hızını yavaşlatmış olsa da göçü tamamen durdurmamıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-17",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DOKAP bölgesinde 'fındık ve çay' gibi monokültür ürünlere alternatif olarak desteklenen tarımsal faaliyet nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pamuk"
+        },
+        {
+          "key": "B",
+          "text": "Organik tarım ve arıcılık"
+        },
+        {
+          "key": "C",
+          "text": "Zeytin"
+        },
+        {
+          "key": "D",
+          "text": "Tütün"
+        },
+        {
+          "key": "E",
+          "text": "Turunçgil"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğu Karadeniz'in florası ve temiz ekolojisi yüksek kesimlerde organik tarım ve arıcılık teşviki için çok elverişlidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-18",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "KOP projesinin uygulandığı İç Anadolu'da tarımsal üretimi kısıtlayan en temel sorun nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Engebeli arazi"
+        },
+        {
+          "key": "B",
+          "text": "Yıllık yağış ve su kaynaklarının yetersizliği"
+        },
+        {
+          "key": "C",
+          "text": "İş gücü eksikliği"
+        },
+        {
+          "key": "D",
+          "text": "Pazar sorunu"
+        },
+        {
+          "key": "E",
+          "text": "Hava kirliliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Konya kapalı havzası Türkiye'nin en az yağış alan yerlerinden biri olduğu için temel kısıt kuraklıktır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-19",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "GAP'ın sadece bir teknik baraj projesi değil, en önemli sosyal boyutunu oluşturan çalışmalar hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yeni baraj yapımı"
+        },
+        {
+          "key": "B",
+          "text": "Çatom (Çok Amaçlı Toplum Merkezleri) ile kadın eğitimi, sağlık ve sosyal kalkınma"
+        },
+        {
+          "key": "C",
+          "text": "Daha fazla fabrika kurmak"
+        },
+        {
+          "key": "D",
+          "text": "Yol yapımı"
+        },
+        {
+          "key": "E",
+          "text": "Madencilik"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "GAP bünyesindeki ÇATOM'lar sosyal kalkınma ve insan kaynağının niteliğini artırma açısından örnek bir projedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-20",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DAP bölgesi içerisinde yer alan illerin, engebeli ve dağlık arazi dezavantajlarını gidermek için yapılan en önemli ulaşım altyapısı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deniz yolu"
+        },
+        {
+          "key": "B",
+          "text": "Tünel ve viyadük projeleri (Ovit, Kop tünelleri vb.)"
+        },
+        {
+          "key": "C",
+          "text": "Kanal yapımı"
+        },
+        {
+          "key": "D",
+          "text": "Kıyı otobanları"
+        },
+        {
+          "key": "E",
+          "text": "Liman kapasitesini artırmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğu Anadolu'da dağları aşan Ovit, Kop tünelleri ulaşım süresini kısaltarak kalkınmaya hizmet eder.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-21",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Bölgesel kalkınma projelerinin başarıya ulaşması için aşağıdakilerden hangisi şarttır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bölge dışından işçi getirilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Yerel katılım, iç dinamikler ve bölgeye özgü sürdürülebilir çözümler"
+        },
+        {
+          "key": "C",
+          "text": "Doğal kaynakların aşırı tüketilmesi"
+        },
+        {
+          "key": "D",
+          "text": "Sadece kamu yatırımları"
+        },
+        {
+          "key": "E",
+          "text": "Tüm bölgeye aynı sanayi dalının kurulması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Başarılı kalkınma projeleri bölgenin kendi potansiyelini öne çıkaran ve yerel halkın katılımını sağlayan projelerdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-22",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "GAP projesi kapsamında Fırat Nehri üzerinde inşa edilen Atatürk Barajı'nın en önemli çok yönlü kullanım amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hem elektrik üretimi hem de Harran Ovası sulaması"
+        },
+        {
+          "key": "B",
+          "text": "Sadece baraj gölü balıkçılığı"
+        },
+        {
+          "key": "C",
+          "text": "Sadece nehir taşımacılığı"
+        },
+        {
+          "key": "D",
+          "text": "Sadece içme suyu depolama"
+        },
+        {
+          "key": "E",
+          "text": "Rüzgar engelleme"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Atatürk Barajı hem hidroelektrik güç üretir hem de Şanlıurfa tünelleri ile tarımsal sulama sağlar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-23",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DAP projesi ile birlikte hayvancılıkta verimliliği artırmak için uygulanan temel yöntem nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Besicilik yerine mera hayvancılığını özendirmek"
+        },
+        {
+          "key": "B",
+          "text": "İthalatın serbest bırakılması"
+        },
+        {
+          "key": "C",
+          "text": "Kırsal kesimdeki okulların kapatılması"
+        },
+        {
+          "key": "D",
+          "text": "Hayvan ırklarının ıslahı, besi tesisleri ve yem sanayisinin desteklenmesi"
+        },
+        {
+          "key": "E",
+          "text": "Sadece büyükbaş hayvan teşviki"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Modern hayvancılık için ırk ıslahı ve yem tesislerinin yaygınlaştırılması esastır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-24",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "ZBK projesinin en büyük sorunu olan tek sektöre bağımlılık riskini azaltmak için izlenen temel strateji nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarım ve hayvancılığı desteklemek"
+        },
+        {
+          "key": "B",
+          "text": "Sanayide çeşitlendirme, liman lojistiği ve hizmet sektörü"
+        },
+        {
+          "key": "C",
+          "text": "Bölgeyi tamamen turizme açmak"
+        },
+        {
+          "key": "D",
+          "text": "Balıkçılık filosunu büyütmek"
+        },
+        {
+          "key": "E",
+          "text": "Tüm sanayiyi kapatmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Tek sektöre (kömür-çelik) bağımlılık kriz yaratabileceğinden sanayi çeşitlemesi ve Filyos limanı gibi lojistik projeler hedeflenmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-25",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "KOP projesinin uygulanmasında temel alınan 'havza yönetimi' yaklaşımı neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Suyun havza içinde sürdürülebilir dengeli yönetilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Tüm nehirlerin denize dökülmesinin önlenmesi"
+        },
+        {
+          "key": "C",
+          "text": "Sadece tarım arazilerinin korunması"
+        },
+        {
+          "key": "D",
+          "text": "Şehirlerin birleşmesi"
+        },
+        {
+          "key": "E",
+          "text": "Bölgesel sınırların kaldırılması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Havza yönetimi; su kaynağının bilimsel ve sürdürülebilir şekilde idare edilmesidir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-26",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "GAP'ın Güneydoğu tarımında sağladığı en büyük niteliksel değişim hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kuru tarımdan sulu tarıma geçiş"
+        },
+        {
+          "key": "B",
+          "text": "Modern balıkçılık"
+        },
+        {
+          "key": "C",
+          "text": "Seracılığın bitmesi"
+        },
+        {
+          "key": "D",
+          "text": "Nadas alanlarının artması"
+        },
+        {
+          "key": "E",
+          "text": "Daha az gübre kullanımı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "GAP öncesi kuru tarım yapılırken, baraj sulamalarıyla sulu tarıma ve nadasın azalmasına geçilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-27",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DOKAP bölgesinin coğrafi engellerini aşmak ve ticareti geliştirmek için inşa edilen yeni mega tünel projesi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yeni Zigana Tüneli"
+        },
+        {
+          "key": "B",
+          "text": "Osmangazi Köprüsü"
+        },
+        {
+          "key": "C",
+          "text": "Marmaray"
+        },
+        {
+          "key": "D",
+          "text": "Avrasya Tüneli"
+        },
+        {
+          "key": "E",
+          "text": "Yavuz Sultan Selim Köprüsü"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yeni Zigana Tüneli (Trabzon-Gümüşhane hattı), Doğu Karadeniz'i liman hinterlandına bağlayan en uzun tünellerdendir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-28",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "DAP kapsamında gerçekleştirilen 'merayı iyileştirme' çalışmalarının temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meraları imara açmak"
+        },
+        {
+          "key": "B",
+          "text": "Hayvanların beslenme kalitesini artırarak et ve süt verimini yükseltmek"
+        },
+        {
+          "key": "C",
+          "text": "Meraları orman yapmak"
+        },
+        {
+          "key": "D",
+          "text": "Meraları tamamen kapatmak"
+        },
+        {
+          "key": "E",
+          "text": "Meralara fabrika kurmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mera ıslahı, kaliteli ot imkanı sunarak et ve süt verimini katlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-29",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "ZBK projesinin uygulandığı illerde sanayinin yanında gelişimi hedeflenen Karadeniz lojistik liman projesi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Filyos Limanı"
+        },
+        {
+          "key": "B",
+          "text": "Ambarlı Limanı"
+        },
+        {
+          "key": "C",
+          "text": "Mersin Limanı"
+        },
+        {
+          "key": "D",
+          "text": "Çandarlı Limanı"
+        },
+        {
+          "key": "E",
+          "text": "Gemlik Limanı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Zonguldak Filyos Limanı projesi, ZBK kalkınma aksının en büyük lojistik kapısıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-bolgeler-kalkinma-30",
+      "topic_id": "topic-cog-bolgeler-kalkinma",
+      "question_text": "Bölgesel kalkınma projelerinin bütüncül yürütülmesinde en büyük paydaşlar kimlerdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Bakanlıklar"
+        },
+        {
+          "key": "B",
+          "text": "Üniversiteler, Yerel Yönetimler, Sivil Toplum Kuruluşları ve Bakanlıklar"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Yabancı Yatırımcılar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Yerel Halk"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Belediye Başkanları"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bölgesel kalkınma; üniversite teknik desteği, bakanlık finansmanı, yerel yönetim uygulaması ve STK duyarlılığı gerektiren çok paydaşlı bir süreçtir.",
+      "difficulty_level": 3
+    }
+  ]
+}

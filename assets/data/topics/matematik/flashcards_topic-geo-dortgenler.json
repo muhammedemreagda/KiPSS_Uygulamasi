@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-geo-dortgenler",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Dörtgenin İç Açıları Toplamı",
+      "body": "Bütün konveks dörtgenlerin iç açıları toplamı 360 derece, dış açıları toplamı 360 derecedir."
+    },
+    {
+      "card_number": 2,
+      "title": "Paralelkenar Özellikleri",
+      "body": "Karşılıklı kenarları paralel ve eşittir. Karşılıklı açılar eşit, komşu açılar toplamı 180 derecedir. Köşegenler birbirini ortalar."
+    },
+    {
+      "card_number": 3,
+      "title": "Eşkenar Dörtgen Özellikleri",
+      "body": "Tüm kenarları eşittir. KÖŞEGENLER DİK KESİŞİR ve açıortaydır. Alan = (e . f) / 2 (Köşegenler çarpımının yarısı)."
+    },
+    {
+      "card_number": 4,
+      "title": "Dikdörtgen Özellikleri",
+      "body": "Açıları 90'ar derece olan paralelkenardır. Köşegen uzunlukları birbirine eşittir (e = f). Alan = a . b."
+    },
+    {
+      "card_number": 5,
+      "title": "Kare Özellikleri",
+      "body": "Tüm kenarları eşit, açıları 90 derece olan düzgün dörtgendir. Köşegenler eşit, dik kesişir ve 45 derecelik açıortaydır."
+    },
+    {
+      "card_number": 6,
+      "title": "Yamuk (Trapez) ve Orta Taban",
+      "body": "Alt ve üst tabanı paralel olan dörtgendir. Orta Taban = (Alt Taban + Üst Taban) / 2. Alan = Orta Taban x Yükseklik."
+    },
+    {
+      "card_number": 7,
+      "title": "İkizkenar Yamuk Özellikleri",
+      "body": "Paralel olmayan yan kenarları eşit olan yamuktur. Taban açıları eşittir ve köşegen uzunlukları birbirine eşittir."
+    },
+    {
+      "card_number": 8,
+      "title": "Deltoid Özellikleri",
+      "body": "Tabanları ortak iki ikizkenar üçgenin birleşimidir. KÖŞEGENLER DİK KESİŞİR ve simetri köşegeni açıortaydır."
+    },
+    {
+      "card_number": 9,
+      "title": "Çokgenlerin İç Açıları Toplamı",
+      "body": "n kenarlı bir çokgenin iç açıları toplamı (n - 2) . 180 derece formülüyle bulunur."
+    },
+    {
+      "card_number": 10,
+      "title": "Düzgün Beşgen ve Altıgen Açısı",
+      "body": "Düzgün beşgenin bir iç açısı 108 derece; Düzgün altıgenin bir iç açısı 120 derecedir (Dış açı = 360 / n)."
+    }
+  ]
+}

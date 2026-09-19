@@ -1,0 +1,1277 @@
+{
+  "topic_id": "topic-vat-idare-mahalli-idareler",
+  "title": "İdare Hukuku — Mahalli İdareler & Yerel Yönetimler",
+  "course_id": "course-vatandaslik",
+  "question_count": 40,
+  "quick_note": {
+    "id": "qn-topic-vat-idare-mahalli-idareler",
+    "topic_id": "topic-vat-idare-mahalli-idareler",
+    "title": "İdare Hukuku — Mahalli İdareler & Yerel Yönetimler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'İdare Hukuku — Mahalli İdareler & Yerel Yönetimler' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "İdare Hukuku — Mahalli İdareler & Yerel Yönetimler konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nİdare Hukuku — Mahalli İdareler & Yerel Yönetimler konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. İdare Hukuku — Mahalli İdareler & Yerel Yönetimler konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Mahalli İdare (Yerel Yönetim) Türleri",
+        "body": "İl Özel İdaresi, Belediye, Büyükşehir Belediyesi ve Köy'dür. Anayasada sayılan yerel yönetim organları bunlardır."
+      },
+      {
+        "card_number": 2,
+        "title": "İl Özel İdaresi Organları",
+        "body": "Vali (Yürütme organı), İl Genel Meclisi (Karar organı - Seçimle gelir), İl Encümeni (Danışma/İcra organı)."
+      },
+      {
+        "card_number": 3,
+        "title": "İl Genel Meclisi Başkanı",
+        "body": "İl Genel Meclisi kendi üyeleri arasından seçtiği bir başkanı meclis başkanı yapar (Vali başkanlık etmez!)."
+      },
+      {
+        "card_number": 4,
+        "title": "Belediye Kurulma Şartı",
+        "body": "Nüfusu 5.000 ve üzeri olan yerleşim yerlerinde CUMHURBAŞKANI KARARI ile belediye kurulabilir. İl ve ilçe merkezlerinde nüfusa bakılmaksızın kurulur."
+      },
+      {
+        "card_number": 5,
+        "title": "Büyükşehir Belediyesi Kurulma Şartı",
+        "body": "Toplam nüfusu 750.000 ve üzeri olan illerde KANUNLA kurulur. Şu an Türkiye'de 30 Büyükşehir Belediyesi vardır."
+      },
+      {
+        "card_number": 6,
+        "title": "Belediye Organları",
+        "body": "Belediye Başkanı (Yürütme organı), Belediye Meclisi (Karar organı), Belediye Encümeni (Danışma/Karar organı)."
+      },
+      {
+        "card_number": 7,
+        "title": "Belediye Başkanlığının Düşmesi Kararı",
+        "body": "Seçilme yeterliliğini kaybeden Belediye Başkanı'nın başkanlığını düşürme kararı DANIŞTAY tarafından verilir."
+      },
+      {
+        "card_number": 8,
+        "title": "Köy Kurulma Şartı ve Organları",
+        "body": "Nüfusu 2.000 ile 150 arasında olan yerlerdir. İÇİŞLERİ BAKANLIĞI kararı ile kurulur. Organları: Muhtar, İhtiyar Heyeti, İmece/Salma."
+      },
+      {
+        "card_number": 9,
+        "title": "Köyün Doğrudan Demokrasi Organı (Köy Derneği)",
+        "body": "Köyde bulunan tüm seçmenlerin oluşturduğu kuruldur. Muhtarı ve İhtiyar Heyeti'ni seçer, isteğe bağlı işleri zorunlu kılar."
+      },
+      {
+        "card_number": 10,
+        "title": "Mahalle Kırsal/Mahalli İdare Değildir!",
+        "body": "Mahalle bir mahalli idare birimi değildir! Kamu tüzel kişiliği (KTK) YOKTUR. Belediyeye bağlı bir yönetim birimidir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-38",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediyeler ve yerinden yönetim birimleri üzerinde merkezi idare adına 'idari vesayet' yetkisini ilde ve ilçede kural olarak kimler yürütür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Belediye Meclisi"
+        },
+        {
+          "key": "C",
+          "text": "İlde Vali, İlçede Kaymakam"
+        },
+        {
+          "key": "D",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "E",
+          "text": "Büyükşehir Belediye Başkanı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İdari vesayet, merkezin taşradaki mülki idare amirleri (Vali ve Kaymakam) ve ilgili bakanlıkça kullanılır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-48",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Bir yerleşim yerinde kanunla 'Büyükşehir Belediyesi' kurulabilmesi için toplam nüfusun en az kaç olması gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "750.000"
+        },
+        {
+          "key": "B",
+          "text": "500.000"
+        },
+        {
+          "key": "C",
+          "text": "250.000"
+        },
+        {
+          "key": "D",
+          "text": "100.000"
+        },
+        {
+          "key": "E",
+          "text": "50.000"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Büyükşehir belediyesi kurulması için toplam il nüfusunun en az 750 bin olması şarttır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-46",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İdari vesayet denetiminin özellikleri hakkında aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezi idarece yapılır"
+        },
+        {
+          "key": "B",
+          "text": "Mahalli idareler üzerinde yapılır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece takdir ve yerindelik denetimi ile sınırlıdır"
+        },
+        {
+          "key": "D",
+          "text": "Hukukilik denetimini kapsar"
+        },
+        {
+          "key": "E",
+          "text": "Anayasal bir idari bütünlük denetimidir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İdari vesayet, idarenin bütünlüğünü sağlamak için kanunla verilen sınırlar dahilinde hukukilik ve yerindelik denetimini kapsar.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-47",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediyelerin 'yerinden yönetim' ilkesine dahil olmasının temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezden atanan memurlar tarafından yönetilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Yerel ortak ihtiyaçların yerel halkın seçtiği karar organlarınca karşılanması"
+        },
+        {
+          "key": "C",
+          "text": "Bakanlıklara bağlı olması"
+        },
+        {
+          "key": "D",
+          "text": "Bütçesini doğrudan bakanlığın belirlemesi"
+        },
+        {
+          "key": "E",
+          "text": "Sadece büyükşehirlerde kurulması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mahalli idareler, belde sakinlerinin ortak ihtiyaçlarını seçimle oluşturulan organlar aracılığıyla karşılar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-58",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Özel İdaresi'nin bütçesini kim hazırlar ve kim onaylar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali hazırlar, İl Genel Meclisi onaylar"
+        },
+        {
+          "key": "B",
+          "text": "İl Genel Meclisi hazırlar, Vali onaylar"
+        },
+        {
+          "key": "C",
+          "text": "Bakanlık doğrudan belirler"
+        },
+        {
+          "key": "D",
+          "text": "İlçe belediyeleri onaylar"
+        },
+        {
+          "key": "E",
+          "text": "Encümen hazırlar, Bakan onaylar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İl özel idaresinde Vali bütçe tasarısını hazırlar, İl Genel Meclisi ise karar organı olarak onaylar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-108",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediye Meclisi'nin veya mahalli idare organlarının aldığı bir kararın hukuka aykırılığı halinde merkezin denetim imkanı veren idari vesayet yetkisini kimler kullanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali veya Kaymakam"
+        },
+        {
+          "key": "B",
+          "text": "Başbakan"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Vali veya Kaymakam, idarenin bütünlüğü ilkesi çerçevesinde mahalli idareler üzerinde vesayet denetimi yetkisine sahiptir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-118",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Mahalli idarelerin (Belediye, İl Özel İdaresi, Köy) eylem ve işlemlerinin hukukiliğini ve bütünlüğünü denetleyen 'idari vesayet' yetkilisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "İlde Vali, İlçede Kaymakam"
+        },
+        {
+          "key": "C",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "D",
+          "text": "Muhtarlar"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay Başkanı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Merkezi idare adına vesayet denetimi yetkisi ilde Vali, ilçede Kaymakam tarafından yürütülür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-128",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İdari vesayet yetkisi mahalli idareler üzerinde hangi iki temel denetim alanını kapsar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece mali denetim"
+        },
+        {
+          "key": "B",
+          "text": "Hukukilik ve yerindelik denetimi"
+        },
+        {
+          "key": "C",
+          "text": "Sadece seçim denetimi"
+        },
+        {
+          "key": "D",
+          "text": "Yargı denetimi"
+        },
+        {
+          "key": "E",
+          "text": "Sadece personel denetimi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdari vesayet, merkezi yönetimin mahalli idarelerin kararlarını hem kanunlara uygunluk (hukukilik) hem de kamu yararı/hizmetin gerekliliği (yerindelik) yönünden denetlemesidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-138",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Bir yerleşim yerinde Belediye kurulması hangi makamın kararı ile gerçekleşir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İl Genel Meclisi kararı ile"
+        },
+        {
+          "key": "B",
+          "text": "İçişleri Bakanlığı görüşü üzerine Cumhurbaşkanı kararı ile"
+        },
+        {
+          "key": "C",
+          "text": "Vali onayı ile"
+        },
+        {
+          "key": "D",
+          "text": "Köy ihtiyar heyeti kararı ile"
+        },
+        {
+          "key": "E",
+          "text": "TBMM Kanunu ile (sadece büyükşehir kanunla kurulur)"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Nüfusu 5.000 ve üzeri olan yerlerde belediye kurulması Cumhurbaşkanı kararı ile gerçekleşir (Büyükşehir belediyeleri ise kanunla kurulur).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-148",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediye ve il özel idaresi organlarının kararları üzerinde idari vesayet yetkisi merkezi idare adına kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belediye Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "İlde Vali veya İlçede Kaymakam"
+        },
+        {
+          "key": "C",
+          "text": "İl Genel Meclisi Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Muhtarlar"
+        },
+        {
+          "key": "E",
+          "text": "TBMM Başkanı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Merkezi yönetim, ilde Vali veya ilçede Kaymakam aracılığıyla mahalli idareler üzerinde idari vesayet denetimini yürütür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-1",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Aşağıdakilerden hangisi 1982 Anayasası'nda belirtilen mahalli idare birimlerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İl Özel İdaresi"
+        },
+        {
+          "key": "B",
+          "text": "Belediye"
+        },
+        {
+          "key": "C",
+          "text": "Köy"
+        },
+        {
+          "key": "D",
+          "text": "Kaymakamlık"
+        },
+        {
+          "key": "E",
+          "text": "Büyükşehir Belediyesi"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Kaymakamlık, merkezi yönetimin taşra teşkilatıdır, mahalli idare değildir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-2",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Özel İdaresi'nin karar organı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali"
+        },
+        {
+          "key": "B",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "C",
+          "text": "Encümen"
+        },
+        {
+          "key": "D",
+          "text": "Belediye Meclisi"
+        },
+        {
+          "key": "E",
+          "text": "Muhtar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İl Özel İdaresi'nin karar organı İl Genel Meclisi'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-3",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Köy yönetiminde icra organı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Köy Derneği"
+        },
+        {
+          "key": "B",
+          "text": "İhtiyar Meclisi"
+        },
+        {
+          "key": "C",
+          "text": "Muhtar"
+        },
+        {
+          "key": "D",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "E",
+          "text": "Belediye Başkanı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Köy yönetiminde icra organı Muhtar'dır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-4",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İdari vesayet yetkisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkezi idarece kullanılır"
+        },
+        {
+          "key": "B",
+          "text": "Mahalli idareler üzerinde yapılır"
+        },
+        {
+          "key": "C",
+          "text": "Hiyerarşi ile aynıdır"
+        },
+        {
+          "key": "D",
+          "text": "Hukukilik denetimini içerir"
+        },
+        {
+          "key": "E",
+          "text": "Yerindelik denetimini kapsamaz (istisnalar hariç kanunilik ilkesi geçerlidir)"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İdari vesayet ve hiyerarşi farklı kavramlardır. Hiyerarşi kurum içi amir-memur ilişkisidir, idari vesayet ise kanunla verilen kurumlar arası denetimdir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-5",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Büyükşehir Belediyesi kurulması için gereken toplam nüfus şartı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "250.000"
+        },
+        {
+          "key": "B",
+          "text": "500.000"
+        },
+        {
+          "key": "C",
+          "text": "750.000"
+        },
+        {
+          "key": "D",
+          "text": "1.000.000"
+        },
+        {
+          "key": "E",
+          "text": "2.000.000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Büyükşehir Belediyesi kurulması için toplam nüfusun en az 750.000 olması ve kanunla kurulması şarttır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-6",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Köyde karar organı olan Köy Derneği kimlerden oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece muhtar"
+        },
+        {
+          "key": "B",
+          "text": "İhtiyar heyeti"
+        },
+        {
+          "key": "C",
+          "text": "Köydeki tüm kadın ve erkek seçmenler"
+        },
+        {
+          "key": "D",
+          "text": "Sadece erkekler"
+        },
+        {
+          "key": "E",
+          "text": "Muhtar ve imam"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Köy Derneği, köyde seçme yeterliliğine sahip seçmenlerin tamamından oluşur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-7",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediye Meclisi'nin görev süresi ne kadardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 yıl"
+        },
+        {
+          "key": "B",
+          "text": "4 yıl"
+        },
+        {
+          "key": "C",
+          "text": "5 yıl"
+        },
+        {
+          "key": "D",
+          "text": "6 yıl"
+        },
+        {
+          "key": "E",
+          "text": "7 yıl"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Belediye Meclisi, mahalli idareler seçimlerinde 5 yıl için seçilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-8",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İdari vesayet kapsamında valinin belediye kararlarını denetleme yetkisi hangi ilkeye dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiyerarşi"
+        },
+        {
+          "key": "B",
+          "text": "İdari vesayet"
+        },
+        {
+          "key": "C",
+          "text": "Seçim"
+        },
+        {
+          "key": "D",
+          "text": "Merkezden yönetim"
+        },
+        {
+          "key": "E",
+          "text": "Bütçe"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdari vesayet, merkezi idarenin yerinden yönetim idareleri üzerindeki kanuni denetim yetkisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-9",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Büyükşehir Belediyesi'nde 'yürütme' organı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyükşehir Belediye Meclisi"
+        },
+        {
+          "key": "B",
+          "text": "Büyükşehir Belediye Başkanı"
+        },
+        {
+          "key": "C",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "D",
+          "text": "Vali"
+        },
+        {
+          "key": "E",
+          "text": "Encümen"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Belediyelerde yürütme organı Belediye Başkanıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-10",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Köy yönetiminde İhtiyar Heyeti nasıl seçilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali atar"
+        },
+        {
+          "key": "B",
+          "text": "Muhtar atar"
+        },
+        {
+          "key": "C",
+          "text": "Köy Derneği (doğrudan seçmenler) tarafından seçilir"
+        },
+        {
+          "key": "D",
+          "text": "Belediye atar"
+        },
+        {
+          "key": "E",
+          "text": "Kaymakam atar"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "İhtiyar heyeti, Köy Derneği (seçmenler) tarafından seçilir (İmam ve öğretmen ise doğal üyedir).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-11",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediye Başkanı'nı görevine kesin olarak kim son verebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece vali"
+        },
+        {
+          "key": "B",
+          "text": "İçişleri Bakanlığı'nın başvurusu üzerine Danıştay kararı ile"
+        },
+        {
+          "key": "C",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "D",
+          "text": "Belediye Meclisi"
+        },
+        {
+          "key": "E",
+          "text": "Halk oylaması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İçişleri Bakanı geçici olarak uzaklaştırabilir; ancak göreve kesin olarak son verme yetkisi Danıştay'a aittir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-12",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Özel İdaresi'nin bütçesi hakkında kimin onayı gereklidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali"
+        },
+        {
+          "key": "B",
+          "text": "İl Genel Meclisi"
+        },
+        {
+          "key": "C",
+          "text": "İçişleri Bakanlığı"
+        },
+        {
+          "key": "D",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "E",
+          "text": "Encümen"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İl Özel İdaresi bütçesini Vali hazırlar, karar organı olan İl Genel Meclisi onaylar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-13",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Yerel seçimler (Mahalli İdareler Genel Seçimi) kaç yılda bir yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "3"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mahalli idareler seçimleri 5 yılda bir yapılır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-14",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Köy muhtarının görev süresi ne kadardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "Ömür boyu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Muhtarın görev süresi yerel seçimler ile belirlenen 5 yıldır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-15",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Mahalli idareler üzerinde yargısal denetim yapılabilir mi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hayır, yapılamaz"
+        },
+        {
+          "key": "B",
+          "text": "Evet, idari yargı denetimine tabidirler"
+        },
+        {
+          "key": "C",
+          "text": "Sadece seçim döneminde"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Sadece vali izin verirse"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Hukuk devleti ilkesi gereği, mahalli idarelerin işlemleri yargı denetimine (idari yargı) tabidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-16",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Büyükşehir Belediye Meclisi'nin başkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali"
+        },
+        {
+          "key": "B",
+          "text": "Büyükşehir Belediye Başkanı"
+        },
+        {
+          "key": "C",
+          "text": "İlçe belediye başkanları"
+        },
+        {
+          "key": "D",
+          "text": "İl Genel Meclis Başkanı"
+        },
+        {
+          "key": "E",
+          "text": "Atanan bir üye"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Belediye Meclisi'nin başkanı doğrudan Belediye Başkanıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-17",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Köyün hukuki statüsü ve kişiliği hakkında ne söylenebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tüzel kişiliği yoktur"
+        },
+        {
+          "key": "B",
+          "text": "Kamu tüzel kişiliğine sahiptir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece belediyeye geçince tüzel kişilik kazanır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece muhtar değişince olur"
+        },
+        {
+          "key": "E",
+          "text": "Sadece vali isterse olur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Köy, Anayasa'da düzenlenen ve kamu tüzel kişiliğine sahip olan en küçük mahalli idare birimidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-18",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Özel İdaresi'nin merkezi idare ile ilişkisi hangi idare hukuku kavramıyla ifade edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiyerarşi"
+        },
+        {
+          "key": "B",
+          "text": "İdari vesayet"
+        },
+        {
+          "key": "C",
+          "text": "Bütçe devri"
+        },
+        {
+          "key": "D",
+          "text": "Atama"
+        },
+        {
+          "key": "E",
+          "text": "Görevden alma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Merkezi idare ile yerinden yönetim idareleri (il özel idaresi, belediye, köy) arasındaki denetim ilişkisi idari vesayettir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-19",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediye başkanı seçimlerinde ne tür bir yöntem kullanılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğrudan halk seçimi (Tek dereceli)"
+        },
+        {
+          "key": "B",
+          "text": "Atama"
+        },
+        {
+          "key": "C",
+          "text": "Meclis içi seçim"
+        },
+        {
+          "key": "D",
+          "text": "Vali önerisi"
+        },
+        {
+          "key": "E",
+          "text": "Sadece muhtarlar seçer"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Belediye başkanları doğrudan seçmenler tarafından seçilir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-20",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Genel Meclisi'nin görevleri arasında aşağıdakilerden hangisi yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İl özel idaresi bütçesini onaylamak"
+        },
+        {
+          "key": "B",
+          "text": "Stratejik planı onaylamak"
+        },
+        {
+          "key": "C",
+          "text": "Valiyi doğrudan atamak"
+        },
+        {
+          "key": "D",
+          "text": "Yatırım programlarını belirlemek"
+        },
+        {
+          "key": "E",
+          "text": "Borçlanmaya karar vermek"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Valiyi atama yetkisi Cumhurbaşkanı'na aittir; İl Genel Meclisi valiyi atayamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-21",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Büyükşehir belediyelerinde 'ilçe' belediyelerinin hukuki konumu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyükşehirden tamamen bağımsızdır"
+        },
+        {
+          "key": "B",
+          "text": "Büyükşehir belediyesi sınırları içindeki yerel yönetim organıdır"
+        },
+        {
+          "key": "C",
+          "text": "Belediye değildir"
+        },
+        {
+          "key": "D",
+          "text": "Muhtarlığa bağlıdır"
+        },
+        {
+          "key": "E",
+          "text": "Sadece vergi toplar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Büyükşehir sisteminde ilçe belediyeleri ayrı tüzel kişiliği olan ancak büyükşehir belediyesi ile görev paylaşımı yapan yerel yönetim birimleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-22",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Mahalle muhtarı ve ihtiyar heyeti hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahalle bir yerinden yönetim mahalli idaresi ve ayrı kamu tüzel kişiliği değildir"
+        },
+        {
+          "key": "B",
+          "text": "Mahalle bir köydür"
+        },
+        {
+          "key": "C",
+          "text": "Mahallenin ayrı bütçesi vardır"
+        },
+        {
+          "key": "D",
+          "text": "Mahalle muhtarı kanun çıkarır"
+        },
+        {
+          "key": "E",
+          "text": "Mahalle muhtarını vali atar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Mahalle, belediye teşkilatının bir parçasıdır ve Anayasal anlamda ayrı bir mahalli idare tüzel kişiliği yoktur (Köy ise tüzel kişiliktir).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-23",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Özel İdaresi'nin geliri nereden sağlanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece halktan toplanan bağışlarla"
+        },
+        {
+          "key": "B",
+          "text": "Genel bütçe vergi gelirlerinden ayrılan paylar, öz gelirler ve harçlar"
+        },
+        {
+          "key": "C",
+          "text": "Sadece dış borçla"
+        },
+        {
+          "key": "D",
+          "text": "Sadece belediyelerden"
+        },
+        {
+          "key": "E",
+          "text": "Sadece muhtarlıklardan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İl özel idaresinin gelirleri genel bütçeden alınan paylar, kendi taşınmaz gelirleri ve öz gelirleridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-24",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Belediye Encümeni'nin başkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vali"
+        },
+        {
+          "key": "B",
+          "text": "Belediye Başkanı (veya görevlendireceği yetkili)"
+        },
+        {
+          "key": "C",
+          "text": "Belediye Meclisi Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Muhtar"
+        },
+        {
+          "key": "E",
+          "text": "Encümen üyesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Belediye Başkanı, Belediye Encümeni'nin de başkanıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-25",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Mahalli idarelerde 'hizmetlerin yerinden yönetimle karşılanması' ilkesinin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahalli müşterek ihtiyaçların yerel düzeyde, halka en yakın birimlerce karşılanması"
+        },
+        {
+          "key": "B",
+          "text": "Sadece merkezi idarenin yükünü hafifletmek"
+        },
+        {
+          "key": "C",
+          "text": "Sadece seçim masrafını azaltmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece vergi toplamak"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Mahalli idarelerin varlık sebebi yerel (mahalli) müşterek ihtiyaçların doğrudan o bölgedeki idarelerce karşılanmasıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-26",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İl Genel Meclisi üyelerini kim seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İldeki seçmenler (Halk)"
+        },
+        {
+          "key": "B",
+          "text": "Vali"
+        },
+        {
+          "key": "C",
+          "text": "Kaymakam"
+        },
+        {
+          "key": "D",
+          "text": "Bakan"
+        },
+        {
+          "key": "E",
+          "text": "Muhtarlar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İl Genel Meclisi üyeleri yerel seçimlerde doğrudan halk oyu ile seçilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-27",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Köy bütçesini kim hazırlar ve onaylar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muhtar hazırlar, İhtiyar Heyeti onaylar"
+        },
+        {
+          "key": "B",
+          "text": "Vali hazırlar, Muhtar onaylar"
+        },
+        {
+          "key": "C",
+          "text": "Kaymakam hazırlar"
+        },
+        {
+          "key": "D",
+          "text": "Köy Derneği onaylar"
+        },
+        {
+          "key": "E",
+          "text": "İmam hazırlar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Köy bütçesini yürütme organı olan Muhtar hazırlar, karar organı olan İhtiyar Heyeti onaylar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-28",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Büyükşehir Belediye Başkanı'nın yürütme yetkisi neleri kapsar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece törensel yetkiler"
+        },
+        {
+          "key": "B",
+          "text": "Büyükşehir belediye idaresinin başı olarak yürütme ve temsil yetkisini"
+        },
+        {
+          "key": "C",
+          "text": "Sadece imar izinlerini"
+        },
+        {
+          "key": "D",
+          "text": "Belediyeden bağımsızdır"
+        },
+        {
+          "key": "E",
+          "text": "Valiye bağlıdır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Büyükşehir Belediye Başkanı, büyükşehir belediyesinin yürütme organı ve temsilcisidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-29",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "Mahalli idarelerin 'kamu tüzel kişiliğine' sahip olmalarının doğal sonucu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ayrı bütçe, malvarlığı, hak ve borç edinebilme ehliyeti"
+        },
+        {
+          "key": "B",
+          "text": "Sadece merkezi idarenin bir şubesi olması"
+        },
+        {
+          "key": "C",
+          "text": "Hiçbir yetkilerinin olmaması"
+        },
+        {
+          "key": "D",
+          "text": "Memur atayamamaları"
+        },
+        {
+          "key": "E",
+          "text": "Vergi koyamamaları"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kamu tüzel kişiliği, o kurumun bağımsız bütçe, malvarlığı ve hukuki işlem yapma ehliyetine sahip olmasını sağlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-idare-mahalli-idareler-30",
+      "topic_id": "topic-vat-idare-mahalli-idareler",
+      "question_text": "İdari vesayet denetimini yerinden yönetim organları üzerinde kim yürütür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargı organları"
+        },
+        {
+          "key": "B",
+          "text": "Merkezi yönetim makamları (İçişleri Bakanlığı, Vali, Kaymakam)"
+        },
+        {
+          "key": "C",
+          "text": "Sadece halk"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis"
+        },
+        {
+          "key": "E",
+          "text": "Sadece belediye meclisi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdari vesayet denetimi, merkezi idarenin temsilcileri olan Bakanlık, Vali veya Kaymakam tarafından yürütülür.",
+      "difficulty_level": 2
+    }
+  ]
+}

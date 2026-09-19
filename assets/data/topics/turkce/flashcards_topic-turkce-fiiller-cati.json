@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-fiiller-cati",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "İsim-Fiil (Mastar) Ekleri",
+      "body": "Fiil kök veya gövdelerine gelen '-ma, -ış, -mak' (Mayışmak) ekleridir. Örnek: Kitap okumak insanı geliştirir."
+    },
+    {
+      "card_number": 2,
+      "title": "Sıfat-Fiil (Ortaç) Ekleri",
+      "body": "Fiillere gelen '-an, -ası, -mez, -ar, -dik, -ecek, -miş' (Anası mezar dikecekmiş) ekleridir. Örnek: Koşan çocuk düştü."
+    },
+    {
+      "card_number": 3,
+      "title": "Zarf-Fiil (Ulaç/Bağ-Fiil) Ekleri",
+      "body": "Fiillere gelen '-ken, -alı, -esi, -em, -meden, -ince, -ip, -arak' ekleridir. Örnek: Gülerek içeri girdi."
+    },
+    {
+      "card_number": 4,
+      "title": "Geçişli Fiil Testi (Onu Testi)",
+      "body": "Nesne alabilen fiillerdir. Fiilin başına 'onu' kelimesi getirildiğinde anlamlı oluyorsa fiil geçişlidir. Örnek: (Onu) okudu."
+    },
+    {
+      "card_number": 5,
+      "title": "Geçişsiz Fiil Testi",
+      "body": "Nesne alamayan fiillerdir. Fiilin başına 'onu' kelimesi getirildiğinde anlamsız olur. Örnek: (Onu) güldü (Anlamsız)."
+    },
+    {
+      "card_number": 6,
+      "title": "Etken Fiil Özelliği",
+      "body": "İşi yapan gerçek bir öznenin (açık veya gizli) bulunduğu fiillerdir. Örnek: Ali camı kırdı (Özne: Ali)."
+    },
+    {
+      "card_number": 7,
+      "title": "Edilgen Fiil Özelliği",
+      "body": "İşi yapanın belli olmadığı, '-l' veya '-n' eki alan fiillerdir; özne sözde öznedir. Örnek: Cam kırıldı."
+    },
+    {
+      "card_number": 8,
+      "title": "Dönüşlü Fiil Özelliği",
+      "body": "İşi yapanın ve işten etkilenenin aynı kişi olduğu, '-l' veya '-n' eki alan fiillerdir. Örnek: Ahmet süslendi."
+    },
+    {
+      "card_number": 9,
+      "title": "İşteş Fiil Özelliği",
+      "body": "Eylemin birden fazla kişi tarafından birlikte veya karşılıklı yapıldığını belirten, '-ş' eki alan fiillerdir. Örnek: Kuşlar uçuştu."
+    },
+    {
+      "card_number": 10,
+      "title": "Oldurgan ve Ettirgen Fiil",
+      "body": "Geçişsiz fiilin '-r, -t, -tır' ile geçişli yapılması Oldurgan; zaten geçişli olan fiilin geçişlilik derecesinin artırılması Ettirgendir."
+    }
+  ]
+}

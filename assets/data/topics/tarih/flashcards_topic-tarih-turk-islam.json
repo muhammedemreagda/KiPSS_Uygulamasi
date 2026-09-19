@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-tarih-turk-islam",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "İlk Müslüman Türk Devleti",
+      "body": "Orta Asya'da kurulan ilk Müslüman Türk devleti Karahanlılar'dır (Satuk Buğra Han dönemi). Doğu Avrupa'da ise İtil Bulgar Devleti'dir."
+    },
+    {
+      "card_number": 2,
+      "title": "Divan-ı Lügati't-Türk",
+      "body": "Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılan ilk Türkçe sözlüktür (İçinde ilk Türk dünyası haritası bulunur)."
+    },
+    {
+      "card_number": 3,
+      "title": "Kutadgu Bilig (Mutluluk Veren Bilgi)",
+      "body": "Yusuf Has Hacip tarafından Tabgaç Buğra Han'a sunulan ilk İslami Türk eseridir; siyasetname niteliğindedir."
+    },
+    {
+      "card_number": 4,
+      "title": "Gazneli Mahmud Unvanı",
+      "body": "Hindistan'a 17 sefer düzenleyerek İslamiyet'i yayan ve tarihte 'Sultan' unvanını kullanan ilk Türk hükümdarı Gazneli Mahmud'dur."
+    },
+    {
+      "card_number": 5,
+      "title": "Dandanakan Savaşı (1040)",
+      "body": "Büyük Selçuklu Devleti ile Gazneliler arasında yapılmış, Büyük Selçuklu resmen kurulurken Gazneliler yıkılış sürecine girmiştir."
+    },
+    {
+      "card_number": 6,
+      "title": "Malazgirt Savaşı (1071)",
+      "body": "Sultan Alparslan'ın Bizans'ı mağlup ettiği, Anadolu'nun kapılarını Türklere açan ve 'Yurt Açan Savaş' olarak bilinen tarihi zaferdir."
+    },
+    {
+      "card_number": 7,
+      "title": "Miryokefalon Savaşı (1176)",
+      "body": "II. Kılıç Arslan döneminde Bizans mağlup edilmiş, Anadolu'nun Türk yurdu olduğu kesinleşmiş ('Yurt Tutan Savaş') ve Bizans savunmaya geçmiştir."
+    },
+    {
+      "card_number": 8,
+      "title": "Anadolu'daki İlk Türk Medresesi",
+      "body": "Danişmentliler tarafından Tokat Niksar'da kurulan Yağıbasan Medresesi, Anadolu'da yapılan ilk Türk medresesidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Nizamiye Medreseleri",
+      "body": "Büyük Selçuklu Veziri Nizamülmülk tarafından Bağdat'ta kurulan, dünyanın ilk üniversitesi kabul edilen medresedir."
+    },
+    {
+      "card_number": 10,
+      "title": "Kösedağ Savaşı (1243)",
+      "body": "Anadolu Selçuklu Devleti'nin Moğollara (İlhanlılar) yenildiği ve Anadolu'da İkinci Beylikler Dönemi'nin başladığı yıkılış savaşıdır."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-sekil-oruntuleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Şekil Örüntüsü Adım Analizi",
+      "body": "Şekil örüntülerinde 1, 2 ve 3. adımlardaki kibrit/çubuk/kare sayıları sayı dizisine çevrilerek genel kural bulunur."
+    },
+    {
+      "card_number": 2,
+      "title": "Adım Miktarı Doğrusal Kural",
+      "body": "Her adımda kibrit sayısı 3 artıyorsa genel terim 3n ile başlar. 1. adımda 4 kibrit varsa kural (3n + 1)'dir."
+    },
+    {
+      "card_number": 3,
+      "title": "Karesel Şekil Örüntüleri",
+      "body": "Nokta veya kare sayısı 1, 4, 9, 16... şeklinde ilerliyorsa n. adımdaki eleman sayısı n^2 ile ifade edilir."
+    },
+    {
+      "card_number": 4,
+      "title": "Üçgensel Sayılar Dizisi",
+      "body": "1, 3, 6, 10, 15... şeklinde giden örüntülerde n. adımdaki eleman sayısı n.(n+1) / 2 formülüdür."
+    },
+    {
+      "card_number": 5,
+      "title": "Periyodik Tekrar Eden Şekiller",
+      "body": "Şekil dizilimi her 5 adımda bir başa dönüyorsa (ABCDEABCDE...), 43. adımdaki şekil için 43'ün 5'e bölümünden kalan 3 kullanılır (C)."
+    },
+    {
+      "card_number": 6,
+      "title": "İçi İçe Geçen Kareler Örüntüsü",
+      "body": "Her adımda karelerin kenarları yarıya iniyorsa alanlar 1/4 oranında küçülür (Geometrik azalış)."
+    },
+    {
+      "card_number": 7,
+      "title": "Köşe Noktaları Çakışması",
+      "body": "Yan yana dizilen altıgen/karelerde ortak kenarlar tekrar sayılmamalıdır (n adet kare için çubuk sayısı 3n + 1)."
+    },
+    {
+      "card_number": 8,
+      "title": "Katlanıp Kesilen Kağıt Şekli",
+      "body": "Kağıt 2'ye katlanıp kesilirse simetri eksenine göre açıldığında 2 katı parça ve simetrik delikler oluşur."
+    },
+    {
+      "card_number": 9,
+      "title": "Küp İstifleme (Birim Küp)",
+      "body": "Piramit şeklinde üst üste konan küplerde katlardaki küp sayıları 1, 3, 6 veya 1, 4, 9 dizilimini takip eder."
+    },
+    {
+      "card_number": 10,
+      "title": "Saat Yönünde Dönme Örüntüsü",
+      "body": "Şekil her adımda 90 derece dönüyorsa 4 adımda bir başa döner. n. adımdaki yön n mod 4 ile bulunur."
+    }
+  ]
+}

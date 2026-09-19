@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-paragraf-yapi",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Giriş Cümlesi Özellikleri",
+      "body": "Giriş cümlesi bağımsızdır; 'bu yüzden', 'oysa', 'çünkü', 'ama' gibi bağlayıcı unsurlarla veya kendinden önce bir cümle varmış hissiyle başlamaz."
+    },
+    {
+      "card_number": 2,
+      "title": "Gelişme Bölümü Özellikleri",
+      "body": "Düşüncenin örnekler, karşılaştırmalar ve tanık göstermelerle geliştirildiği, ayrıntılara girildiği bölümdür."
+    },
+    {
+      "card_number": 3,
+      "title": "Sonuç Cümlesi İpuçları",
+      "body": "'Özetle', 'kısacası', 'sonuç olarak', 'demek ki' gibi toparlayıcı ifadelerle başlayan ve ana fikri özetleyen son cümledir."
+    },
+    {
+      "card_number": 4,
+      "title": "Akışı Bozan Cümleyi Bulma",
+      "body": "Paragrafta anlatılan genel konunun dışına çıkan veya konunun farklı bir yönüne değinen cümle akışı bozar."
+    },
+    {
+      "card_number": 5,
+      "title": "Paragrafı İki Parçaya Bölme",
+      "body": "Yazarın yeni bir konuya veya aynı konunun farklı bir bakış açısına geçtiği cümle ikinci paragrafın ilk cümlesidir."
+    },
+    {
+      "card_number": 6,
+      "title": "Cümle Yerleştirme Tekniği",
+      "body": "Verilen cümlenin öncesindeki ve sonrasındaki cümlelerle zamir (bu, şu), bağlaç ve anlam mantığı yönünden tam uyumlu olması gerekir."
+    },
+    {
+      "card_number": 7,
+      "title": "Paragraf Tamamlama (Boşluk Bırakma)",
+      "body": "Boşluktan önceki ve sonraki cümleler arasındaki mantık bağını kuran en uygun seçenek doğru cevaptır."
+    },
+    {
+      "card_number": 8,
+      "title": "Cümlelerin Yerini Değiştirme",
+      "body": "Olay ya da düşünce akışındaki kronolojik/mantıksal kopukluğu düzeltecek ikili cümle değişimini bulma yöntemidir."
+    },
+    {
+      "card_number": 9,
+      "title": "Bağlantı Unsuru Takibi",
+      "body": "'Bu durum', 'söz konusu olay', 'nitelikli eser' gibi gönderme yapan sözcükler cümle sıralamasında rehberdir."
+    },
+    {
+      "card_number": 10,
+      "title": "Paragrafta Kronolojik Akış",
+      "body": "Olay anlatımlarında zaman sıralamasına (önce, sonra, daha sonra, en sonunda) dikkat edilmelidir."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-cografi-konum",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Türkiye'nin Matematiksel (Mutlak) Konumu",
+      "body": "Türkiye 36° - 42° Kuzey Paralelleri ile 26° - 45° Doğu Meridyenleri arasında yer alır."
+    },
+    {
+      "card_number": 2,
+      "title": "En Doğu ve En Batı Uçları",
+      "body": "En doğusu Iğdır (Dilucu), en batısı Çanakkale (Gökçeada - Avlaka Burnu)'dur. Aralarında 19 meridyen (76 dakika) fark vardır."
+    },
+    {
+      "card_number": 3,
+      "title": "En Kuzey ve En Güney Uçları",
+      "body": "En kuzeyi Sinop (İnceburun), en güneyi Hatay (Beysun köyü)'dur. Aralarında 6 paralellik (666 km) kuş uçuşu mesafe vardır."
+    },
+    {
+      "card_number": 4,
+      "title": "Orta Kuşakta Olmanın Sonuçları (AABC)",
+      "body": "Akdeniz iklimi görülür, Batı rüzgarları etkilidir, Dört mevsim belirgin yaşanır, Cephesel yağışlar görülür."
+    },
+    {
+      "card_number": 5,
+      "title": "Yengeç Dönencesi ve Bakı Etkisi",
+      "body": "Türkiye Yengeç Dönencesi'nin kuzeyinde olduğu için Güneş ışınları asla 90 dereceyle düşmez, dağların güney yamacı (bakı) daha sıcaktır."
+    },
+    {
+      "card_number": 6,
+      "title": "Gölge Boyu ve Yönü",
+      "body": "Türkiye'de yatay düzlemdeki cisimlerin gölge boyu asla sıfır olmaz. Gölge yönü yıl boyunca daima KUZEYİ gösterir."
+    },
+    {
+      "card_number": 7,
+      "title": "En Uzun Sınırımız ve Komşumuz",
+      "body": "En uzun kara sınırımız Suriye (911 km), en kısa kara sınırımız Nahçıvan (Azerbaycan - 18 km) ile olan sınırdır."
+    },
+    {
+      "card_number": 8,
+      "title": "En Eski ve Değişmeyen Sınırımız",
+      "body": "İran ile olan sınırımız 1639 Kasr-ı Şirin Antlaşması ile çizilmiş olup en eski ve hemen hemen hiç değişmeyen sınırımızdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Demiryolu Bağlantısı Olmayan Komşular",
+      "body": "Irak ve Nahçıvan (Azerbaycan) ile demiryolu sınır kapımız yoktur. Diğer komşularla demiryolu bağlantısı mevcuttur."
+    },
+    {
+      "card_number": 10,
+      "title": "Ulusal Saat (Yerel Saat) Kuralı",
+      "body": "Türkiye'de 2016'dan beri yıl boyunca 45° Doğu (Iğdır) meridyeninin yerel saati (+3 GMT) ortak ulusal saat olarak kullanılır."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-mat-grafik-tablo-detay",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Daire Grafiği Açısı (360 Derece)",
+      "body": "Daire grafiğinde tüm verilerin toplamı 360 derecelik açıya karşılık gelir. Orantı 360 derece üzerinden kurulur."
+    },
+    {
+      "card_number": 2,
+      "title": "Daire Grafiğinde Yüzde Derece Dönüşümü",
+      "body": "%100 dilim 360 derece ise, %1'lik dilim 3.6 dereceye denk gelir. Örnek: %25 dilim = 90 derecelik dik açıdır."
+    },
+    {
+      "card_number": 3,
+      "title": "Çizgi Grafiği Kullanım Amacı",
+      "body": "Zaman içindeki sürekli değişimi, artış/azalış trendlerini ve sıcaklık/döviz takibini göstermek için en uygun grafiktir."
+    },
+    {
+      "card_number": 4,
+      "title": "Sütun Grafiği Kullanım Amacı",
+      "body": "Farklı kategorilerin veya grupların miktarlarını birbiriyle karşılaştırmak için kullanılır."
+    },
+    {
+      "card_number": 5,
+      "title": "Grafikte Yüzde Değişim Bulma",
+      "body": "Artış Oranı = [(Son Değer - İlk Değer) / İlk Değer] x 100 formülüyle grafik üzerinden hesaplanır."
+    },
+    {
+      "card_number": 6,
+      "title": "İki Grafiği Birbirine Bağlama",
+      "body": "Birinci grafikte bulunan toplam miktar (örn: ürün sayısı), ikinci grafikteki açılara ortak oran olarak dağıtılır."
+    },
+    {
+      "card_number": 7,
+      "title": "Tablo Okumada Satır-Sütun Kesişimi",
+      "body": "İki boyutlu tablolarda yatay satır ile dikey sütunun kesiştiği hücre aranan veriyi verir."
+    },
+    {
+      "card_number": 8,
+      "title": "Eğim ve Grafik Hızı",
+      "body": "Yol-Zaman grafiğinde çizginin eğimi (dikey/yatay) hızı verir. Çizgi ne kadar dikse hız o kadar yüksektir."
+    },
+    {
+      "card_number": 9,
+      "title": "Grafikte Kâr-Zarar Bölgesi",
+      "body": "Gelir-Gider grafiğinde Gelir çizgisi Gider çizgisinin üstündeyse KÂR, altındaysa ZARAR bölgesidir."
+    },
+    {
+      "card_number": 10,
+      "title": "Grafik Sorularında Birim Kontrolü",
+      "body": "Eksenlerdeki sayıların (Bin), (Milyon) veya (kg/ton) cinsinden olup olmadığına mutlaka dikkat edilmelidir."
+    }
+  ]
+}

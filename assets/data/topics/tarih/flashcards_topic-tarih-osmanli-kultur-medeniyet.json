@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-tarih-osmanli-kultur-medeniyet",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Divan-ı Hümayun ve Baş meclis",
+      "body": "Orhan Bey kurmuş, II. Mahmut kaldırmıştır. Fatih'ten itibaren Sadrazam başkanlık etmeye başlamıştır."
+    },
+    {
+      "card_number": 2,
+      "title": "Seyfiye (Kılıç Ehli)",
+      "body": "Yönetim ve askerlik sınıfıdır. Sadrazam, Kubbealtı vezirleri, Kaptan-ı Derya, Yeniçeri Ağası bu sınıftadır."
+    },
+    {
+      "card_number": 3,
+      "title": "İlmiye (İlim Ehli)",
+      "body": "Adalet, din ve eğitim sınıfıdır. Şeyhülislam, Kazasker, Kadı ve Müderrisler bu sınıftadır (Sadrazam olamazlar)."
+    },
+    {
+      "card_number": 4,
+      "title": "Kalemiye (Kalem Ehli)",
+      "body": "Bürokrasi ve diplomasi sınıfıdır. Nişancı, Defterdar ve Reisülküttab bu sınıftadır."
+    },
+    {
+      "card_number": 5,
+      "title": "Kazasker (Kadıasker) Görevi",
+      "body": "Divanda adalet ve eğitim işlerinden sorumludur. Kadı ve Müderris tayinlerini yapar (Türk ve Müslüman olma şartı vardır)."
+    },
+    {
+      "card_number": 6,
+      "title": "Nişancı ve Reisülküttab",
+      "body": "Nişancı padişahın tuğrasını çeker, tımar kayıtlarını (Tahrir defteri) tutar. Reisülküttab ise dış işlerden sorumlu bakandır."
+    },
+    {
+      "card_number": 7,
+      "title": "Devşirme Sistemi ve Enderun",
+      "body": "Hristiyan çocukların eğitilerek asker (Kapıkulu) veya devlet adamı (Enderun mektebi) yapıldığı sistemdir."
+    },
+    {
+      "card_number": 8,
+      "title": "Tımar (Dirlik) Sistemi",
+      "body": "Toprak gelirine göre asker (Cebelü) yetiştirme sistemidir. Devlet cebinden para çıkmadan hazineden yük almadan ordu besler."
+    },
+    {
+      "card_number": 9,
+      "title": "Lonca Teşkilatı (Ahilik)",
+      "body": "Esnaf ve zanaatkarlar örgütüdür. Fiyat belirleme (Narh koyma), ürün kalitesi denetimi ve ustalık belgesi verir."
+    },
+    {
+      "card_number": 10,
+      "title": "Millet Sistemi Kuralı",
+      "body": "Osmanlı'da toplum ırkına göre değil, DİN VE MEZHEP esasına göre sınıflandırılmıştır."
+    }
+  ]
+}

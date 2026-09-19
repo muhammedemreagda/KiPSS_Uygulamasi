@@ -1,0 +1,707 @@
+{
+  "topic_id": "topic-turkce-sozcukte-anlam",
+  "title": "Sözcükte Anlam",
+  "course_id": "course-turkce",
+  "question_count": 21,
+  "quick_note": {
+    "id": "qn-topic-turkce-sozcukte-anlam",
+    "topic_id": "topic-turkce-sozcukte-anlam",
+    "title": "Sözcükte Anlam Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Sözcükte Anlam' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Sözcükte Anlam konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nSözcükte Anlam başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Sözcükte Anlam konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Gerçek (Temel) Anlam",
+        "body": "Bir sözcüğün zihinde uyandırdığı ilk ve asıl anlamdır. Örnek: 'Soğuk sudan boğazı ağrıdı' cümlesindeki soğuk kelimesi ısı düşüklüğünü ifade eder ve gerçek anlamındadır."
+      },
+      {
+        "card_number": 2,
+        "title": "Mecaz Anlam",
+        "body": "Sözcüğün gerçek anlamından tamamen uzaklaşarak kazandığı soyut yeni anlamdır. Örnek: 'Bize karşı çok soğuk davrandı' cümlesinde soğuk kelimesi samimiyetsiz anlamında mecazdır."
+      },
+      {
+        "card_number": 3,
+        "title": "Yan Anlam",
+        "body": "Gerçek anlamla şekil veya işlev benzerliği kurularak kazanılan yaklaştırılmış anlamdır. Örnek: 'Masanın ayağı kırıldı' örneğinde insandaki ayak organından benzetme yapılmıştır."
+      },
+      {
+        "card_number": 4,
+        "title": "Terim Anlam Altın Kuralı",
+        "body": "Bir bilim, sanat, spor veya meslek dalına özgü özel kavramları karşılayan sözcüklerdir. Örnek: 'Hücre' biyolojide terim anlamlıyken, 'hapis hücresi' derken gerçek anlamdadır."
+      },
+      {
+        "card_number": 5,
+        "title": "Somutlaştırma (Somutlama)",
+        "body": "Soyut bir kavramın daha anlaşılır kılınmak için somut bir nesneymiş gibi anlatılmasıdır. Örnek: 'Aşk bir alevdir' derken soyut aşk kavramı somut bir nesneye benzetilmiştir."
+      },
+      {
+        "card_number": 6,
+        "title": "Soyutlaştırma (Soyutlama)",
+        "body": "Somut anlamlı bir sözcüğün mecazlaşarak soyut bir anlam kazanmasıdır. Örnek: 'Bu işte senin de parmağın var' cümlesindeki parmak somut değil, rol/katkı anlamında soyuttur."
+      },
+      {
+        "card_number": 7,
+        "title": "Ad Aktarması (Mecazımürsel)",
+        "body": "Benzetme amacı gütmeden bir sözcüğün başka bir sözcük yerine kullanılmasıdır. Örnek: 'Tüm ev maçı izliyordu' derken kastedilen ev değil, evin içindeki insanlardır."
+      },
+      {
+        "card_number": 8,
+        "title": "Duyular Arası Aktarma",
+        "body": "Bir duyuya ait algının başka bir duyuya aktarılarak anlatılmasıdır. Örnek: 'Tatlı bir gülüş' ifadesinde tat duyusu (tatlı), görme duyusuna (gülüş) aktarılmıştır."
+      },
+      {
+        "card_number": 9,
+        "title": "Dolaylama Şifresi",
+        "body": "Tek kelimeyle anlatılabilecek bir kavramı birden fazla kelimeyle süsleyerek anlatmaktır. Örnek: Kömür yerine 'kara elmas', balık yerine 'derya kuzusu' denmesi dolaylamadır."
+      },
+      {
+        "card_number": 10,
+        "title": "Güzel Adlandırma",
+        "body": "Korkutucu veya rahatsız edici kavramların daha nazik sözcüklerle ifade edilmesidir. Örnek: Verem hastalığı yerine 'ince hastalık', ölüm yerine 'son yolculuk' denmesi."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-1",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Bir duyu organıyla algılanabilen bir kavramın başka bir duyu organıyla algılanabilir biçimde kullanılmasına 'duyu aktarımı' denir. Buna göre aşağıdaki cümlelerin hangisinde duyu aktarımı yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fırından yeni çıkan ekmeğin tatlı kokusu sokaktaki herkese ulaşmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Sokaktaki gürültü yüzünden konsantre olmakta güçlük çekiyordu."
+        },
+        {
+          "key": "C",
+          "text": "Güneşin kavurucu sıcağında tarlada saatlerce çalışmak zorunda kaldılar."
+        },
+        {
+          "key": "D",
+          "text": "Taze demlenmiş çayın buğusu pencerelerin camını tamamen kapladı."
+        },
+        {
+          "key": "E",
+          "text": "Karanlık koridorda ilerlerken önünü görmekte zorlanıyordu."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tatlı kelimesi normalde tatma duyusuyla ilgili bir kavramken bu cümlede koku duyusunu nitelemek için kullanılmıştır. Bu durum duyular arası aktarıma (duyu aktarımı) doğrudan bir örnektir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-2",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Bir sözcüğün benzetme amacı güdülmeksizin başka bir sözcük yerine kullanılmasına ad aktarması (mecazımürsel) denir. Aşağıdaki cümlelerin hangisinde bu açıklamaya uygun bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneşin son ışıkları dağın arkasında yavaşça kayboldu."
+        },
+        {
+          "key": "B",
+          "text": "Ünlü yazarın son romanını iki günde bitiren sınıf, haftaya yeni bir esere başlayacak."
+        },
+        {
+          "key": "C",
+          "text": "Yağmurun ardından açan gökkuşağı görsel bir şölen sundu."
+        },
+        {
+          "key": "D",
+          "text": "Sonbaharda dökülen yapraklar yolları adeta sarı bir halı gibi kaplamıştı."
+        },
+        {
+          "key": "E",
+          "text": "İhtiyar adam, eski günlerini özlemle anarak iç çekti."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sınıf sözcüğüyle mekân adı verilerek orada bulunan öğrenciler kastedilmiştir. Benzetme amacı gütmeden iç-dış veya mekân-insan ilişkisiyle yapılan bu aktarma ad aktarmasıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-3",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Soyut bir kavramın, anlatımı daha canlı ve anlaşılır kılmak amacıyla somut bir nesneymiş gibi ifade edilmesine 'somutlaştırma' denir. Aşağıdaki cümlelerin hangisinde somutlaştırmaya başvurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehir merkezindeki yoğun trafik insanları çileden çıkarıyordu."
+        },
+        {
+          "key": "B",
+          "text": "Bilgisayar teknolojisindeki gelişmeler günlük yaşamı hızlandırdı."
+        },
+        {
+          "key": "C",
+          "text": "Yıllardır içinde biriken öfkeyi en sonunda dışarıya kustu."
+        },
+        {
+          "key": "D",
+          "text": "Dürüstlük, her insanın sahip olması gereken en erdemli davranıştır."
+        },
+        {
+          "key": "E",
+          "text": "Başarıya ulaşmak için kararlı bir şekilde çalışmaya devam etti."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Soyut bir duygu olan öfke kavramı, fiziksel ve somut bir eylem olan kusmak fiili ile eşleştirilerek zihinde somutlaştırılmış ve anlatım güçlendirilmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-4",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Tek bir sözcükle anlatılabilecek bir kavramın birden fazla sözcükle anlatılmasına 'dolaylama' denir. Aşağıdaki cümlelerin hangisinde dolaylama yapılmamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yedi tepeli şehir, tarih boyunca pek çok medeniyete ev sahipliği yapmıştır."
+        },
+        {
+          "key": "B",
+          "text": "Yavru vatanın ekonomik ve kültürel gelişimi için yeni projeler hazırlandı."
+        },
+        {
+          "key": "C",
+          "text": "Bacasız sanayi, ülkemizin döviz girdisinde önemli bir paya sahiptir."
+        },
+        {
+          "key": "D",
+          "text": "Tarihî yapının restorasyon çalışmaları önümüzdeki ay tamamlanacak."
+        },
+        {
+          "key": "E",
+          "text": "Kara kıta, zengin yer altı kaynaklarına rağmen uzun yıllar sömürülmüştür."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "A'da İstanbul yerine 'Yedi tepeli şehir', B'de Kıbrıs yerine 'Yavru vatan', C'de turizm yerine 'Bacasız sanayi', E'de Afrika yerine 'Kara kıta' dolaylamaları kullanılmıştır. D şıkkında ise dolaylamaya yer verilmemiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-5",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "İnsanlarda korku, tiksinti ya da üzüntü uyandıran bazı durum ve kavramların daha hoşa giden veya olumsuzluk çağrıştırmayan kelimelerle ifade edilmesine 'güzel adlandırma' denir. Aşağıdaki cümlelerin hangisinde güzel adlandırma örneği vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınav sonuçlarının açıklanmasıyla birlikte tüm öğrencileri büyük bir heyecan kapladı."
+        },
+        {
+          "key": "B",
+          "text": "Yıllardır ara vermeden sürdürdüğü meslek hayatını noktalamaya karar verdi."
+        },
+        {
+          "key": "C",
+          "text": "Yol kenarındaki kurumuş ağaçlar belediye ekipleri tarafından budandı."
+        },
+        {
+          "key": "D",
+          "text": "Çevredeki gürültünün kesilmesiyle birlikte derin bir sessizlik hâkim oldu."
+        },
+        {
+          "key": "E",
+          "text": "Mahallenin sevilen büyüğü dün gece son yolculuğuna uğurlandı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Ölüm veya defnetme kavramının yarattığı olumsuz çağrışımı hafifletmek amacıyla 'son yolculuğuna uğurlanmak' ifadesi kullanılmıştır. Bu durum edebi ve dilsel açıdan güzel adlandırmadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-6",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde yer alan deyim, cümleye 'hiçbir şey olmamış gibi davranmak, tepki vermemek veya aldırış etmemek' anlamı katmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Olayın detaylarını öğrenince eteği tutuştu, sağa sola koşturdu."
+        },
+        {
+          "key": "B",
+          "text": "Tüm bu karmaşanın ortasında istifini bozmadan gazetesini okumaya devam etti."
+        },
+        {
+          "key": "C",
+          "text": "Son yapılan zamlar karşısında belini bükmek zorunda kaldı."
+        },
+        {
+          "key": "D",
+          "text": "Toplantıda sunulan önerilere hemen göz gezdirdi."
+        },
+        {
+          "key": "E",
+          "text": "Verilen sözlerin tutulmaması üzerine çileden çıktı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'İstifini bozmamak' deyimi, gelişen olaylar karşısında durumunu değiştirmemek, rahatını bozmamak ve tepkisiz kalarak aldırış etmemek anlamını taşımaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-7",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "İkilemeler farklı yollarla oluşturulabilir. Aşağıdaki cümlelerin hangisinde kullanılan ikileme, 'biri anlamlı biri anlamsız iki sözcüğün birleşmesiyle' kurulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gece boyunca doğru dürüst bir uyku uyuyamadığı için oldukça yorgundu."
+        },
+        {
+          "key": "B",
+          "text": "Çocuklar bahçede şırıl şırıl akan suyun kenarında neşeyle oynuyorlardı."
+        },
+        {
+          "key": "C",
+          "text": "Evdeki eski püskü eşyaları bodrum katına kaldırmaya karar verdiler."
+        },
+        {
+          "key": "D",
+          "text": "Konuyla ilgili olan biten her şeyi tek tek rapor etmesi gerekiyordu."
+        },
+        {
+          "key": "E",
+          "text": "Çarşıdan eften püften bahanelerle eli boş dönmüştü."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Eski püskü' ikilemesinde 'eski' tek başına anlamlı bir kelimneyken 'püskü' tek başına bir anlam taşımamaktadır. Dolayısıyla ikileme biri anlamlı biri anlamsız kelimelerden oluşmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-8",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Sözcüklerin ölçülebilen, sayılabilen miktar belirten anlamlarına 'nicel', ölçülemeyen özellik ve nitelik belirten anlamlarına ise 'nitel' anlam denir. Buna göre aşağıdaki cümlelerde yer alan sıfatlardan hangisi 'nitel' anlamda kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şirket, bu yıl geniş bir binaya taşınarak çalışma alanını büyüttü."
+        },
+        {
+          "key": "B",
+          "text": "Ağır çuvalları taşımakta zorlanan işçilere yardım etti."
+        },
+        {
+          "key": "C",
+          "text": "Yüksek binaların arasından gökyüzünü görmek imkânsızdı."
+        },
+        {
+          "key": "D",
+          "text": "Derin düşüncelere dalarak uzun süre pencereden dışarıyı seyretti."
+        },
+        {
+          "key": "E",
+          "text": "Uzun bir sopayla ağacın üst dallarındaki meyveleri silkelemeye başladı."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Derin düşünce' tamlamasındaki 'derin' sözcüğü fiziksel bir derinliği veya metreyle ölçülebilen bir mesafeyi değil, düşüncenin niteliğini ve yoğunluğunu anlattığı için nitel anlamlıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-9",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde 'kuru' sözcüğü mecaz anlamıyla kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaz sıcağında kurumuş yapraklar rüzgârda savruluyordu."
+        },
+        {
+          "key": "B",
+          "text": "Yıkadığı çamaşırları kuruması için balkondaki ipe astı."
+        },
+        {
+          "key": "C",
+          "text": "Toprak haftalardır yağmur yağmadığı için iyice kurumuştu."
+        },
+        {
+          "key": "D",
+          "text": "Dere yatağındaki kuru taşların üzerinden atlayarak karşıya geçti."
+        },
+        {
+          "key": "E",
+          "text": "Bize hiçbir kanıt sunmadan kuru vaatlerle vakit kaybettirdi."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Kuru vaat' ifadesinde geçen 'kuru' sözcüğü, nemin ve ıslaklığın karşıtı olan ilk ve gerçek anlamından tamamen uzaklaşarak 'içi boş, temelsiz, etkisiz' anlamında mecaz olarak kullanılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-10",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Doğadaki canlı veya cansız varlıkların çıkardığı seslerin taklit edilmesiyle oluşan sözcüklere 'yansıma sözcük' denir. Aşağıdaki cümlelerin hangisinde yansıma kökten türemiş bir eylem (fiil) kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçedeki kurumuş yapraklar rüzgâr estikçe hışırdıyordu."
+        },
+        {
+          "key": "B",
+          "text": "Şelaleden akan suyun çağıltısı insanı dinlendiriyordu."
+        },
+        {
+          "key": "C",
+          "text": "Mutfağın tezgahındaki bardağın patırtısı herkesi korkuttu."
+        },
+        {
+          "key": "D",
+          "text": "Gece boyunca cırcır böceklerinin sesi hiç kesilmedi."
+        },
+        {
+          "key": "E",
+          "text": "Fırtınada camların uğultusu evi tamamen doldurdu."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Hışırdıyordu' kelimesi doğadaki 'hışır' sesinden türemiş bir fiildir. B, C, D ve E seçeneklerindeki yansıma kelimeler ise fiil değil isim soyludur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-11",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Sözcükler arasındaki anlam ilişkileri göz önüne alındığında, aşağıdaki cümlelerin hangisinde altı çizili sözcükler arasında 'zıt (karşıt) anlamlılık' ilişkisi bulunmamaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hayatındaki acı ve tatlı anıları bir kitapta toplamaya karar verdi."
+        },
+        {
+          "key": "B",
+          "text": "Gece gündüz demeden sınav için hazırlık yapmaya devam etti."
+        },
+        {
+          "key": "C",
+          "text": "Açık kapıdan süzülen hafif rüzgâr odadaki kâğıtları uçuşturdu."
+        },
+        {
+          "key": "D",
+          "text": "Büyük küçük herkesin bu etkinliğe katılması hedefleniyordu."
+        },
+        {
+          "key": "E",
+          "text": "Er geç hak ettiği başarıyı elde edeceğinden son derece emindi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "A'da acı-tatlı, B'de gece-gündüz, D'de büyük-küçük, E'de er-geç sözcükleri birbiriyle karşıt anlamlıdır. C şıkkındaki 'açık' ve 'hafif' sözcükleri arasında ise zıt anlamlılık ilişkisi yoktur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-12",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Bir bilim, sanat, spor veya meslek dalıyla ilgili özel ve belirli bir kavramı karşılayan sözcüklere 'terim anlamlı sözcükler' denir. Aşağıdaki cümlelerin hangisinde terim anlamlı bir sözcük kullanılmamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şair, şiirinde kullandığı hece ölçüsüyle dönemin üslubunu yansıtmıştır."
+        },
+        {
+          "key": "B",
+          "text": "Mahkeme kararıyla davalı tarafın itirazı reddedildi."
+        },
+        {
+          "key": "C",
+          "text": "Dünya'nın Güneş etrafındaki eliptik yörüngesi mevsimleri oluşturur."
+        },
+        {
+          "key": "D",
+          "text": "Evin geniş salonuna koymak için yeni bir koltuk takımı satın aldılar."
+        },
+        {
+          "key": "E",
+          "text": "Oyuncular, tiyatro oyununun ikinci perdesinde sahneye çıktılar."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "A'da 'hece ölçüsü' (edebiyat), B'de 'davalı' (hukuk), C'de 'yörünge' (astronomi) ve E'de 'perde' (tiyatro) sözcükleri terim anlamlıdır. D şıkkında ise herhangi bir alana ait terim anlamlı kelime yoktur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-13",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Anlam kapsamı geniş olan sözcüklere genel anlamlı, anlam kapsamı dar olan sözcüklere ise özel anlamlı sözcükler denir. Aşağıdaki cümlelerin hangisinde sözcükler 'genelden özele' doğru sıralanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çam, ağaçlar arasında en sevdiğim bitki türüdür."
+        },
+        {
+          "key": "B",
+          "text": "Şiir, edebiyatın en duygusal türü olarak kabul edilir."
+        },
+        {
+          "key": "C",
+          "text": "Hamsi, Karadeniz balıkları içinde ayrı bir yere sahiptir."
+        },
+        {
+          "key": "D",
+          "text": "Papatya, bahar çiçeklerinin en narin olanıdır."
+        },
+        {
+          "key": "E",
+          "text": "Varlıklar içinde canlılar, canlılar içinde bitkiler özel bir inceleme alanıdır."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde en kapsayıcı kavram olan 'varlık' ile başlanmış, ardından 'canlı' ve son olarak daha dar kapsamlı olan 'bitki' kelimesine geçilerek genelden özele doğru bir sıralama takip edilmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-14",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Aşağıdaki atasözlerinden hangisi 'tedbirli olmak, gelecekteki zor durumlar ve sıkıntılar için önceden hazırlık yapmak' anlamı taşır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ak akçe kara gün içindir."
+        },
+        {
+          "key": "B",
+          "text": "Damlaya damlaya göl olur."
+        },
+        {
+          "key": "C",
+          "text": "Bir elin nesi var, iki elin sesi var."
+        },
+        {
+          "key": "D",
+          "text": "İşleyen demir ışıldar."
+        },
+        {
+          "key": "E",
+          "text": "Gülünü seven dikenine katlanır."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Ak akçe kara gün içindir' atasözü, insanın dürüst çalışarak kazandığı birikimlerin zor ve sıkıntılı zamanlarda imdada yetişeceğini, bu sebeple tedbirli olunması gerektiğini vurgular.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-15",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Somut anlamlı bir sözcüğün mecazlaşarak soyut bir anlam kazanmasına 'soyutlaştırma' denir. Aşağıdaki cümlelerin hangisinde soyutlaştırmaya örnek bir kullanım vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taş duvarların ardında ne olduğunu kimse merak etmiyordu."
+        },
+        {
+          "key": "B",
+          "text": "Bu ihale sürecinde onun da parmağı olduğunu herkes biliyordu."
+        },
+        {
+          "key": "C",
+          "text": "Masanın üzerindeki soğuk su bardağını eline aldı."
+        },
+        {
+          "key": "D",
+          "text": "Rüzgâr sert estikçe pencereler zangır zangır titriyordu."
+        },
+        {
+          "key": "E",
+          "text": "Çocuk, cebinden çıkardığı anahtarla kapıyı açtı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Somut bir organ adı olan 'parmak' sözcüğü cümlede 'etki, müdahale, rol oynama' anlamında kullanılarak soyutlaşmış ve soyutlaştırmaya örnek oluşturmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-16",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde 'göz' sözcüğü bir deyim içinde yer alarak 'birini veya bir şeyi aşırı korumak, üzerine titremek' anlamında kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınav sonuçları açıklanınca sevinçten gözlerinin içi gülüyordu."
+        },
+        {
+          "key": "B",
+          "text": "Yorgunluktan göz kapaklarını açık tutmakta zorlanıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Yanlış davranışları yüzünden en sonunda müdürün gözünden düştü."
+        },
+        {
+          "key": "D",
+          "text": "Tek çocuğunu gözünden sakınır, ona zarar gelmesine asla izin vermezdi."
+        },
+        {
+          "key": "E",
+          "text": "Yeni aldığı arabaya imrenen komşular nazarla göz değdirdi."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "'Gözünden sakınmak' deyimi, bir kimseden veya şeyden sevgisi ve koruma içgüdüsü sebebiyle her türlü sakınmayı göstermek, onun üzerine çok titremek anlamında kullanılır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-17",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Anlamları birebir aynı olmasa da birbirinin yerine kullanılabilen veya anlamca birbirine çok yakın olan sözcüklere 'yakın anlamlı sözcükler' denir. Aşağıdaki cümlelerin hangisinde yakın anlamlı sözcükler bir arada kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğru söyleyeni dokuz köyden kovarlar derler."
+        },
+        {
+          "key": "B",
+          "text": "İyi günde kötü günde yanımda olan dostlarımı unutmam."
+        },
+        {
+          "key": "C",
+          "text": "Gece ile gündüz arasındaki sıcaklık farkı iyice arttı."
+        },
+        {
+          "key": "D",
+          "text": "Az veren candan, çok veren maldan verir."
+        },
+        {
+          "key": "E",
+          "text": "Yalan yanlış bilgilerle insanların kafasını karıştırmamalısın."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "'Yalan' (gerçek dışı) ve 'yanlış' (hatalı) sözcükleri eş anlamlı olmasalar da anlam bakımından birbirine son derece yakın sözcüklerdir ve cümlede ikileme yapısı içinde bir arada kullanılmışlardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-18",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Bir sözcüğün temel anlamından tamamen kopmadan, biçimsel veya işlevsel bir benzerlik sebebiyle kazandığı yeni anlama 'yan anlam' denir. Aşağıdaki cümlelerin hangisinde altı çizili sözcük yan anlamıyla kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dağın sırtlarına doğru tırmanan dağcılar kısa bir mola verdi."
+        },
+        {
+          "key": "B",
+          "text": "Başarılı olmak için gece gündüz durmadan çalıştı."
+        },
+        {
+          "key": "C",
+          "text": "Çocuk, elindeki oyuncağı yere düşürünce ağlamaya başladı."
+        },
+        {
+          "key": "D",
+          "text": "Bahçedeki elma ağaçlarının dalları meyveden sarkıyordu."
+        },
+        {
+          "key": "E",
+          "text": "Kitabın son sayfasını da okuyup kapağını kapattı."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "'Sırt' kelimesi temel anlamda insan ve hayvan bedeninin arka bölümünü ifade eder. Cümlede ise biçimsel benzerlik nedeniyle dağın yükselti oluşturan arka kısmı için kullanılarak yan anlam kazanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-19",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Sözcükler cümle içindeki kullanımlarına göre farklı anlamlar kazanabilir. 'Çekmek' sözcüğü aşağıdaki cümlelerin hangisinde 'bir sıkıntıya, üzüntüye katlanmak veya olumsuz bir durumu deneyimlemek' anlamında kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Arabayı yolun kenarına çekip motoru tamamen durdurdu."
+        },
+        {
+          "key": "B",
+          "text": "Yıllarca bu amansız hastalığın kahrını tek başına çekti."
+        },
+        {
+          "key": "C",
+          "text": "Fotoğraf makinesini çıkarıp manzarayı birkaç açıdan çekti."
+        },
+        {
+          "key": "D",
+          "text": "Kura çekiminde ilk sırada onun ismi belirlendi."
+        },
+        {
+          "key": "E",
+          "text": "Balıkçılar ağları karaya doğru güçlükle çekti."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "'Kahır çekmek' kullanımındaki 'çekmek' fiili, katlanılması zor bir duruma rıza göstermek, eziyet ve sıkıntılara dayanmak anlamında kullanılmıştır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-20",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde yansıma sözcüklerin tekrarlanmasıyla oluşmuş bir ikileme yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehir merkezinde abur cubur gıdalarla beslenen gençler çoğaldı."
+        },
+        {
+          "key": "B",
+          "text": "Merdivenlerden ağır ağır inerek salona doğru geçti."
+        },
+        {
+          "key": "C",
+          "text": "Şelaleden dökülen sular şırıl şırıl akmaya devam ediyordu."
+        },
+        {
+          "key": "D",
+          "text": "Konu hakkında yalan yanlış duyumlarla hareket etmemelisin."
+        },
+        {
+          "key": "E",
+          "text": "Pazardan çoluk çocuk bütün aile alışverişe çıktılar."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "'Şırıl şırıl' ikilemesi, doğadaki su akış sesinin taklit edilmesiyle ortaya çıkan 'şırıl' yansıma sözcüğünün tekrar edilmesiyle kurulmuştur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-sozcukte-anlam-71",
+      "topic_id": "topic-turkce-sozcukte-anlam",
+      "question_text": "Aşağıdaki cümlelerin hangisinde 'çıkmak' sözcüğü 'bir yere ulaşmak, varmak' anlamında kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merdivenleri hızla çıkarak terasa ulaştı."
+        },
+        {
+          "key": "B",
+          "text": "Bu yol doğrudan şehir merkezine çıkıyor."
+        },
+        {
+          "key": "C",
+          "text": "Sınavlarda her zaman yüksek notlar çıkardı."
+        },
+        {
+          "key": "D",
+          "text": "Bu gömlek bana biraz dar çıkacak gibi."
+        },
+        {
+          "key": "E",
+          "text": "Yarın sabah çok erken yola çıkacağız."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde yolun merkeze varması/ulaşması anlamında kullanılmıştır.",
+      "difficulty_level": 3
+    }
+  ]
+}

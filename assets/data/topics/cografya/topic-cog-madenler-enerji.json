@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-madenler-enerji",
+  "title": "Türkiye'de Madenler ve Enerji Kaynakları",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-madenler-enerji",
+    "topic_id": "topic-cog-madenler-enerji",
+    "title": "Türkiye'de Madenler ve Enerji Kaynakları Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'de Madenler ve Enerji Kaynakları' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'de Madenler ve Enerji Kaynakları konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'de Madenler ve Enerji Kaynakları başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'de Madenler ve Enerji Kaynakları konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Demir Madeni Çıkarım Yerleri",
+        "body": "Sivas (Divriği, Kangal) ve Malatya (Hekimhan, Hasançelebi) ana çıkarım alanlarıdır. Karabük ve Ereğli'de işlenir (Kömüre yakınlık)."
+      },
+      {
+        "card_number": 2,
+        "title": "Bakır Madeni Çıkarım Yerleri (KADER)",
+        "body": "Kastamonu (Küre), Artvin (Murgul), Elazığ (Maden), Rize (Çayeli). Samsun'da işlenir (Ulaşım kolaylığı)."
+      },
+      {
+        "card_number": 3,
+        "title": "Krom Madeni Çıkarım Yerleri",
+        "body": "Paslanmaz çelik yapımında kullanılır. Elazığ (Guleman) ve Muğla (Fethiye-Dalaman). Antalya ve Elazığ Ferro-Krom tesislerinde işlenir."
+      },
+      {
+        "card_number": 4,
+        "title": "Bor Mineralleri Rezervi",
+        "body": "Dünya rezervinin %70'inden fazlası Türkiye'dedir. Balıkesir (Bandırma), Eskişehir (Kırka), Kütahya (Emet), Bursa (Mustafakemalpaşa)."
+      },
+      {
+        "card_number": 5,
+        "title": "Boksit (Alüminyum) Madeni",
+        "body": "Hafif ve dayanıklıdır. Konya (Seydişehir) ve Antalya (Akseki). Seydişehir Alüminyum Tesisleri tek entegre tesistir."
+      },
+      {
+        "card_number": 6,
+        "title": "Mermer Yatakları",
+        "body": "Türkiye'nin ihraç ettiği en önemli madendir. Afyonkarahisar, Balıkesir (Marmara Adası), Denizli, Bilecik ön sıradadır."
+      },
+      {
+        "card_number": 7,
+        "title": "Taş Kömürü (I. Jeolojik Zaman)",
+        "body": "Kalorisi yüksektir, demir-çelik sanayinde kullanılır. Zonguldak ve çevresinde çıkarılır."
+      },
+      {
+        "card_number": 8,
+        "title": "Linyit (III. Jeolojik Zaman)",
+        "body": "Türkiye'nin hemen her bölgesinde çıkarılır. Manisa (Soma), Kütahya (Tunçbilek, Seyitömer), Kahramanmaraş (Afşin-Elbistan)."
+      },
+      {
+        "card_number": 9,
+        "title": "Doğal Gaz Santrallerimiz (O H A)",
+        "body": "Ovaakça (Bursa), Hamitabat (Kırklareli), Ambarlı (İstanbul). Kırklareli (Hamitabat) ve Mardin (Çamurlu)'da çıkarılır."
+      },
+      {
+        "card_number": 10,
+        "title": "Jeotermal Enerji Santralleri",
+        "body": "Yeraltı sıcak su kaynaklarıdır (Fay hatları). Denizli (Sarayköy) ve Aydın (Germencik) santralleri meşhurdur."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-madenler-enerji-1",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de bor minerallerinin dünya rezervindeki payı oldukça yüksektir. Bor mineralleri en fazla hangi ilimizde çıkarılmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eskişehir"
+        },
+        {
+          "key": "B",
+          "text": "Balıkesir"
+        },
+        {
+          "key": "C",
+          "text": "Kütahya"
+        },
+        {
+          "key": "D",
+          "text": "Bursa"
+        },
+        {
+          "key": "E",
+          "text": "Manisa"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye, dünya bor rezervinin büyük kısmına sahiptir. Balıkesir (Susurluk-Bigadiç-Marmara) bor madeninin en fazla çıkarıldığı ve işlendiği ilimizdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-2",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de taş kömürü (1. jeolojik zaman) yataklarının bulunduğu tek havzamız neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Zonguldak ve çevresi (Batı Karadeniz)"
+        },
+        {
+          "key": "B",
+          "text": "Kahramanmaraş Elbistan"
+        },
+        {
+          "key": "C",
+          "text": "Manisa Soma"
+        },
+        {
+          "key": "D",
+          "text": "Kütahya Tavşanlı"
+        },
+        {
+          "key": "E",
+          "text": "Muğla Yatağan"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'de taş kömürü sadece Zonguldak ve civarında (Karabük-Bartın hattı) bulunur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-3",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de demir-çelik sanayisinde enerji kaynağı olarak kullanılan taş kömürünün çıkarıldığı Zonguldak'ta hangi termik santral yer alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çatalağzı Termik Santrali"
+        },
+        {
+          "key": "B",
+          "text": "Yatağan Termik Santrali"
+        },
+        {
+          "key": "C",
+          "text": "Afşin-Elbistan Termik Santrali"
+        },
+        {
+          "key": "D",
+          "text": "Seyitömer Termik Santrali"
+        },
+        {
+          "key": "E",
+          "text": "Tunçbilek Termik Santrali"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Çatalağzı Termik Santrali, Zonguldak'ta çıkarılan kalori değeri yüksek taş kömürü ile elektrik üreten santraldir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-4",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de bakır madeninin en çok çıkarıldığı ve işlendiği merkezlerden biri olmayan ilimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Artvin (Murgul)"
+        },
+        {
+          "key": "B",
+          "text": "Kastamonu (Küre)"
+        },
+        {
+          "key": "C",
+          "text": "Elazığ (Maden)"
+        },
+        {
+          "key": "D",
+          "text": "Rize (Çayeli)"
+        },
+        {
+          "key": "E",
+          "text": "Erzurum"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Bakır madenimiz Kader şifresiyle hatırlanır: Kastamonu (Küre), Artvin (Murgul), Diyarbakır (Ergani), Elazığ (Maden), Rize (Çayeli). Erzurum ana yataklar arasında değildir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-5",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de paslanmaz çelik ve zırh yapımında kullanılan Krom madeni en fazla hangi ilimizde çıkarılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Elazığ (Guleman)"
+        },
+        {
+          "key": "B",
+          "text": "Muğla (Fethiye)"
+        },
+        {
+          "key": "C",
+          "text": "Denizli"
+        },
+        {
+          "key": "D",
+          "text": "Erzincan"
+        },
+        {
+          "key": "E",
+          "text": "Sivas"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Elazığ (Guleman) ve Muğla (Fethiye-Köyceğiz) krom yataklarının en zengin olduğu merkezlerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-6",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de boksit (alüminyum ham maddesi) madeninin hem çıkarıldığı hem de tesislerinde işlendiği merkez hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Konya (Seydişehir)"
+        },
+        {
+          "key": "B",
+          "text": "Antalya (Akseki)"
+        },
+        {
+          "key": "C",
+          "text": "Muğla (Milas)"
+        },
+        {
+          "key": "D",
+          "text": "Adana (Tufanbeyli)"
+        },
+        {
+          "key": "E",
+          "text": "Zonguldak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Seydişehir (Konya), boksit madeninin çıkarıldığı ve Türkiye'nin tek Alüminyum Tesisinin bulunduğu yerdir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-7",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de ham petrol üretiminin neredeyse tamamının karşılandığı coğrafi bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneydoğu Anadolu Bölgesi"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Ege"
+        },
+        {
+          "key": "D",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "E",
+          "text": "Doğu Anadolu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Raman, Garzan, Batman, Adıyaman ve Siirt sahalarıyla Güneydoğu Anadolu petrol merkezimizdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-8",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de yerli doğalgaz üretimi yapılan yerlerden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırklareli (Hamitabat)"
+        },
+        {
+          "key": "B",
+          "text": "Düzce (Akçakoca)"
+        },
+        {
+          "key": "C",
+          "text": "Mardin (Çamurlu)"
+        },
+        {
+          "key": "D",
+          "text": "Batman Raman"
+        },
+        {
+          "key": "E",
+          "text": "Tekirdağ (Hayrabolu)"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Batman Raman ve Garzan sahaları ham petrol sahalarıdır; doğalgaz sahası değildir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-9",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de linyit yataklarının hemen hemen her bölgemizde çok yaygın olmasının temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye'nin 1. zaman arazisine sahip olması"
+        },
+        {
+          "key": "B",
+          "text": "Türkiye'nin geneli itibarıyla 3. jeolojik zamanda (Tersiyer) oluşmuş genç ülke olması"
+        },
+        {
+          "key": "C",
+          "text": "Volkanik faaliyetlerin az olması"
+        },
+        {
+          "key": "D",
+          "text": "Deniz tabanında oluşması"
+        },
+        {
+          "key": "E",
+          "text": "Kayaçların sert olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Linyit kömürü 3. jeolojik zamanda oluştuğu için, genç bir arazi yapısına sahip Türkiye'nin hemen her yerinde linyit rezervi bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-10",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de jeotermal enerji potansiyelinin ve jeotermal santrallerin en fazla yoğunlaştığı bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Ege Bölgesi (Denizli - Aydın)"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ege Bölgesi'nin faylı ve graben yapısı sayesinde Denizli (Sarayköy) ve Aydın (Germencik) jeotermal santrallerin kurulduğu ilk ve en büyük alanlardır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-11",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de demir madeninin işlendiği büyük Demir-Çelik fabrikalarına sahip merkezlerden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karabük (KARDEMİR)"
+        },
+        {
+          "key": "B",
+          "text": "Zonguldak Ereğli (ERDEMİR)"
+        },
+        {
+          "key": "C",
+          "text": "Hatay İskenderun (İSDEMİR)"
+        },
+        {
+          "key": "D",
+          "text": "Sivas Divriği (Çıkarım merkezi)"
+        },
+        {
+          "key": "E",
+          "text": "Kırıkkale Sanayi Kompleksi"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sivas Divriği, Türkiye'nin en büyük demir madeni çıkarım sahasıdır; entegre ham demir-çelik fabrikası Karabük, Ereğli ve İskenderun'dadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-12",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de rüzgar enerjisi potansiyelinin ve Rüzgar Enerji Santrallerinin (RES) en yüksek olduğu bölgeler hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Ege ve Marmara kıyıları (Çanakkale, Balıkesir, İzmir)"
+        },
+        {
+          "key": "C",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "E",
+          "text": "Karadeniz"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Rüzgar gücü potansiyeli sürekli rüzgar alan Ege ve Marmara kıyı kuşaklarında (Çanakkale, İzmir Çeşme, Balıkesir Bandırma) çok yüksektir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-13",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de yıllık güneşlenme süresinin en fazla olduğu ve güneş enerjisi santrallerinin en verimli çalıştığı bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "B",
+          "text": "Güneydoğu Anadolu Bölgesi"
+        },
+        {
+          "key": "C",
+          "text": "Marmara"
+        },
+        {
+          "key": "D",
+          "text": "Ege"
+        },
+        {
+          "key": "E",
+          "text": "Doğu Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Güneydoğu Anadolu (3000 saati aşan süreyle) güneşlenme süresinin en uzun ve güneş potansiyelinin en yüksek olduğu bölgemizdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-14",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'nin ilk Nükleer Güç Santrali (Akkuyu NGS) hangi ilimizin sınırları içerisinde inşa edilmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mersin (Gülnar)"
+        },
+        {
+          "key": "B",
+          "text": "Sinop"
+        },
+        {
+          "key": "C",
+          "text": "İzmir"
+        },
+        {
+          "key": "D",
+          "text": "Hatay"
+        },
+        {
+          "key": "E",
+          "text": "Bursa"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Akkuyu Nükleer Santrali, Mersin'in Gülnar ilçesinde yapılmaktadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-15",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Suni gübre sanayisinin en temel ham maddesi olan 'Fosfat' madeni en çok hangi ilimizde çıkarılmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Mardin (Mazıdağı)"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Ege"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mardin Mazıdağı, Türkiye'nin fosfat rezervi ve entegre gübre tesisi ile tanınan en büyük yeridir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-16",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'nin maden ihracatında çok önemli bir tutar oluşturan kaliteli Mermer yatakları en çok hangi bölgede yoğunlaşmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege ve Güney Marmara (Afyon, Muğla, Balıkesir)"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ege (Afyonkarahisar, Muğla) ve Güney Marmara (Marmara Adası, Balıkesir) mermer ihracatımızın merkezleridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-17",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Aşağıdaki şehirlerimizden hangisinde ham petrolü işleyen Petrol Rafinerisi bulunmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İzmit (İPRAŞ / TÜPRAŞ)"
+        },
+        {
+          "key": "B",
+          "text": "İzmir (Aliağa)"
+        },
+        {
+          "key": "C",
+          "text": "Kırıkkale (Orta Anadolu)"
+        },
+        {
+          "key": "D",
+          "text": "Batman"
+        },
+        {
+          "key": "E",
+          "text": "Ankara"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Türkiye'deki petrol rafinerileri: İzmit (TÜPRAŞ), İzmir (Aliağa), Kırıkkale (Orta Anadolu), Batman ve Mersin (ATAŞ - depolama). Ankara'da rafineri yoktur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-18",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Aşağıdaki şehirlerden hangisinde ithal veya yerli doğalgaz ile elektrik üreten büyük bir Doğalgaz Çevrim Santrali bulunmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İstanbul (Ambarlı)"
+        },
+        {
+          "key": "B",
+          "text": "Bursa (Ovaakça)"
+        },
+        {
+          "key": "C",
+          "text": "Kırklareli (Hamitabat)"
+        },
+        {
+          "key": "D",
+          "text": "Van"
+        },
+        {
+          "key": "E",
+          "text": "İzmir (Aliağa)"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Hamitabat (Kırklareli), Ambarlı (İstanbul) ve Ovaakça (Bursa) doğalgaz kombine çevrim santrallerinin en büyükleridir. Van'da devasa doğalgaz santrali yoktur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-19",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Yoğunluğu yüksek olduğu için petrol ve doğalgaz sondaj kuyularında çamur ağırlaştırıcı olarak kullanılan maden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barit madeni"
+        },
+        {
+          "key": "B",
+          "text": "Demir madeni"
+        },
+        {
+          "key": "C",
+          "text": "Linyit"
+        },
+        {
+          "key": "D",
+          "text": "Fosfat"
+        },
+        {
+          "key": "E",
+          "text": "Krom"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Barit madeni (Antalya, Alanya, Muş), petrol ve gaz kuyusu açma sondajlarında çamuru ağırlaştırıp fışkırmayı önlemede kullanılır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-20",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de linyit kömürü ile çalışan termik santrallerin (Soma, Yatağan, Tunçbilek, Yeniköy vb.) en yoğun olduğu bölgemiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege Bölgesi"
+        },
+        {
+          "key": "B",
+          "text": "Marmara"
+        },
+        {
+          "key": "C",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "E",
+          "text": "Doğu Anadolu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ege Bölgesi (Manisa Soma, Muğla Yatağan/Yeniköy, Kütahya Tunçbilek/Seyitömer), linyitle elektrik üreten termik santrallerin en yoğun olduğu yerdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-21",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Geleceğin temiz nükleer enerjisi kabul edilen 'Toryum' rezervleri bakımından dünya çapında bir zenginliğe sahip olan alan neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eskişehir (Sivrihisar)"
+        },
+        {
+          "key": "B",
+          "text": "Antalya"
+        },
+        {
+          "key": "C",
+          "text": "Kars"
+        },
+        {
+          "key": "D",
+          "text": "Artvin"
+        },
+        {
+          "key": "E",
+          "text": "Sivas"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Eskişehir Sivrihisar (Kızılcaören) sahası, dünyanın en önemli toryum ve nadir toprak elementleri yataklarından biridir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-22",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de dışarıdan ithal edilen doğalgazın büyük bir kısmının elektrik üretiminde kullanılmasının temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çevreci olması"
+        },
+        {
+          "key": "B",
+          "text": "Doğalgaz çevrim santrallerinin yüksek verimle ve hızlı kurulup elektrik üretebilmesi"
+        },
+        {
+          "key": "C",
+          "text": "Türkiye'de çok fazla doğalgaz bulunması"
+        },
+        {
+          "key": "D",
+          "text": "Bedava olması"
+        },
+        {
+          "key": "E",
+          "text": "Evlerde kullanılmaması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğalgaz santralleri daha düşük yatırım maliyetiyle yüksek verimli elektrik enerjisi ürettiği için elektrik üretiminde sıkça kullanılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-23",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Matbaa harfleri, pil ve alaşım imalatında kullanılan 'Antimon' madeni en çok hangi bölgemizde çıkarılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara ve Ege (Balıkesir, Kütahya, Tokat, İzmir)"
+        },
+        {
+          "key": "B",
+          "text": "Erzurum"
+        },
+        {
+          "key": "C",
+          "text": "Artvin"
+        },
+        {
+          "key": "D",
+          "text": "Mersin"
+        },
+        {
+          "key": "E",
+          "text": "Kars"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Antimon madeni Balıkesir, Kütahya, Tokat ve İzmir kıvrım alanlarında çıkarılmaktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-24",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'nin toplam elektrik üretiminde ve birincil enerji tüketiminde en büyük paya sahip olan fosil yakıt kaynaklarından biri hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğalgaz ve İthal Kömür"
+        },
+        {
+          "key": "B",
+          "text": "Taş kömürü"
+        },
+        {
+          "key": "C",
+          "text": "Güneş enerjisi"
+        },
+        {
+          "key": "D",
+          "text": "Odun"
+        },
+        {
+          "key": "E",
+          "text": "Jeotermal"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye elektrik üretiminde doğalgaz, linyit, ithal kömür ve hidroelektrik en büyük paya sahip kaynaklardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-25",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de büyük arazi tipi Güneş Enerji Santrallerinin (GES) son yıllarda dev yatırımlarla kurulduğu (Karapınar GES vb.) ilimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rize"
+        },
+        {
+          "key": "B",
+          "text": "Konya"
+        },
+        {
+          "key": "C",
+          "text": "İstanbul"
+        },
+        {
+          "key": "D",
+          "text": "Bolu"
+        },
+        {
+          "key": "E",
+          "text": "Trabzon"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Konya Karapınar Güneş Santrali, düz arazisi ve yüksek güneşlenme süresiyle Türkiye'nin ve Avrupa'nın en büyük GES alanlarındandır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-26",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye maden çeşitliliği açısından çok zengin olmasına rağmen enerji sektöründe neden dışa bağımlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Maden mühendisi olmaması"
+        },
+        {
+          "key": "B",
+          "text": "Madenlerin işlenmemesi"
+        },
+        {
+          "key": "C",
+          "text": "Sanayide tüketilen ham petrol ve doğalgaz rezervlerinin ülke ihtiyacını karşılayamayacak kadar az olması"
+        },
+        {
+          "key": "D",
+          "text": "Linyitin bulunmaması"
+        },
+        {
+          "key": "E",
+          "text": "Güneşin olmaması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Türkiye jeolojik çeşitlilikle zengin madenlere sahiptir ancak petrol ve doğalgaz gibi stratejik enerji kaynaklarında %90'ın üzerinde dışa bağımlıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-27",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de madenciliğe dayalı sanayinin gelişiminde taş kömürünün elektrik üretiminde ilk kullanıldığı yer neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Soma"
+        },
+        {
+          "key": "B",
+          "text": "Zonguldak (Çatalağzı)"
+        },
+        {
+          "key": "C",
+          "text": "Tarsus"
+        },
+        {
+          "key": "D",
+          "text": "Batman"
+        },
+        {
+          "key": "E",
+          "text": "Seydişehir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Zonguldak Çatalağzı, taş kömüründen elektrik üreten en eski kömürlü termik santral tesisimizdir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-28",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de 'Rüzgar Tribünleri' ve santrallerinin ilk kurulduğu ve yoğunlaştığı Çeşme-Alaçatı hangi ilimiz sınırları içindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İzmir"
+        },
+        {
+          "key": "B",
+          "text": "Balıkesir"
+        },
+        {
+          "key": "C",
+          "text": "Çanakkale"
+        },
+        {
+          "key": "D",
+          "text": "Manisa"
+        },
+        {
+          "key": "E",
+          "text": "Muğla"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye'nin ilk rüzgar santrali 1998'de İzmir Çeşme (Alaçatı)'de faaliyete geçmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-29",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'de Manisa Gördes ve Eskişehir Sivrihisar sahalarında rezervi bulunan stratejik maden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nikel"
+        },
+        {
+          "key": "B",
+          "text": "Tuz"
+        },
+        {
+          "key": "C",
+          "text": "Taş kömürü"
+        },
+        {
+          "key": "D",
+          "text": "Linyit"
+        },
+        {
+          "key": "E",
+          "text": "Kükürt"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Manisa Gördes, Türkiye'nin nikel tesisleri ve maden çıkarımının yapıldığı önemli alandır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-madenler-enerji-30",
+      "topic_id": "topic-cog-madenler-enerji",
+      "question_text": "Türkiye'nin dünya rezervinde lider olduğu ve ham ya da işlenmiş olarak ihraç ettiği maden hammaddemiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bor mineralleri"
+        },
+        {
+          "key": "B",
+          "text": "Ham Petrol"
+        },
+        {
+          "key": "C",
+          "text": "Doğalgaz"
+        },
+        {
+          "key": "D",
+          "text": "Taş kömürü"
+        },
+        {
+          "key": "E",
+          "text": "Taş tuzu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Türkiye, dünya bor rezervlerinin %73'üne sahiptir ve dünya bor pazarında lider ihracatçıdır.",
+      "difficulty_level": 1
+    }
+  ]
+}

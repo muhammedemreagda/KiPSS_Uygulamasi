@@ -1,0 +1,1727 @@
+{
+  "topic_id": "topic-vat-yargi-organlari",
+  "title": "Yargı Organı & Yüksek Mahkemeler",
+  "course_id": "course-vatandaslik",
+  "question_count": 55,
+  "quick_note": {
+    "id": "qn-topic-vat-yargi-organlari",
+    "topic_id": "topic-vat-yargi-organlari",
+    "title": "Yargı Organı & Yüksek Mahkemeler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'Yargı Organı & Yüksek Mahkemeler' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "Yargı Organı & Yüksek Mahkemeler konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nYargı Organı & Yüksek Mahkemeler konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. Yargı Organı & Yüksek Mahkemeler konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "1982 Anayasası'na Göre Yüksek Mahkemeler",
+        "body": "Anayasa Mahkemesi, Yargıtay, Danıştay, Uyuşmazlık Mahkemesi. (Askeri Yargıtay ve AYİM 2017'de KALDIRILMIŞTIR!)."
+      },
+      {
+        "card_number": 2,
+        "title": "Anayasa Mahkemesi (AYM) Üye Sayısı",
+        "body": "Toplam 15 üyeden oluşur. 12 üyesini Cumhurbaşkanı, 3 üyesini TBMM seçer. Görev süreleri 12 YILDIR (Tekrar seçilemezler)."
+      },
+      {
+        "card_number": 3,
+        "title": "AYM Bireysel Başvuru Hakkı (2010)",
+        "body": "Anayasada güvence altına alınmış temel hakları ihlal edilen herkes, iç hukuk yollarını tükettikten sonra 30 GÜN içinde AYM'ye bireysel başvuru yapabilir."
+      },
+      {
+        "card_number": 4,
+        "title": "Yüce Divan Sıfatıyla Yargılama",
+        "body": "AYM; Cumhurbaşkanı, Bakanlar, AYM/Yargıtay/Danıştay üyeleri, HSK üyeleri, Sayıştay Başkanı, TBMM Başkanı ve Genelkurmay Başkanı ile Kuvvet Komutanlarını yargılar."
+      },
+      {
+        "card_number": 5,
+        "title": "Yargıtay (Adli Yargının Son İnceleme Mercii)",
+        "body": "Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir. Üyelerini HAKİMLER VE SAVCILAR KURULU (HSK) seçer."
+      },
+      {
+        "card_number": 6,
+        "title": "Danıştay (İdari Yargının Son İnceleme Mercii)",
+        "body": "İdari mahkemelerce verilen kararların son inceleme merciidir. Üyelerinin 3/4'ünü HSK, 1/4'ünü CUMHURBAŞKANI seçer."
+      },
+      {
+        "card_number": 7,
+        "title": "Uyuşmazlık Mahkemesi Görevi",
+        "body": "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözen mahkemedir. Başkanı AYM kendi üyeleri arasından seçer."
+      },
+      {
+        "card_number": 8,
+        "title": "Hakimler ve Savcılar Kurulu (HSK)",
+        "body": "13 üyeden oluşur. Başkanı ADALET BAKANI'dır. Adalet Bakanı Müsteşarı tabii üyedir. 4 üyeyi Cumhurbaşkanı, 7 üyeyi TBMM seçer."
+      },
+      {
+        "card_number": 9,
+        "title": "Sayıştay (Mali Denetim Organı)",
+        "body": "TBMM adına kamu kurumlarının gelir, gider ve mallarını denetleyen yüksek mali denetim organıdır (Anayasada Yüksek Mahkeme olarak sayılmaz)."
+      },
+      {
+        "card_number": 10,
+        "title": "Hakimlik ve Savcılık Teminatı",
+        "body": "Hakimler ve savcılar azlolunamaz, kendileri istemedikçe anayasada gösterilen yaştan (65 yaş) önce emekliye ayrılamaz."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-yargi-organlari-55",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin 'Siyasi Parti Kapatma' davasına bakmasıyla ilgili dava açma yetkisi kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay Cumhuriyet Başsavcısı"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "C",
+          "text": "TBMM Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Adalet Bakanı"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay Başkanı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Siyasi partilerin kapatılması davası, Yargıtay Cumhuriyet Başsavcısı'nın açacağı dava üzerine Anayasa Mahkemesi tarafından karara bağlanır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-65",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin 'Siyasi Parti Kapatma' davasına bakmasıyla ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay Cumhuriyet Başsavcısı dava açar"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı doğrudan dava açar"
+        },
+        {
+          "key": "C",
+          "text": "TBMM Başkanı dava açar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Yargıtay Başkanı dava açar"
+        },
+        {
+          "key": "E",
+          "text": "Seçmenler dava açar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Siyasi partilerin kapatılması davası, Yargıtay Cumhuriyet Başsavcısı'nın açtığı dava ile Anayasa Mahkemesi'nde görülür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-105",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Hakimler ve Savcılar Kurulu'nun (HSK) başkanı 1982 Anayasası'na göre kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anayasa Mahkemesi Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Adalet Bakanı"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "Yargıtay Başkanı"
+        },
+        {
+          "key": "E",
+          "text": "Adalet Bakan Yardımcısı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Adalet Bakanı, HSK'nın doğal başkanıdır. Adalet Bakan Yardımcısı ise HSK'nın doğal üyesidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-115",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin 'Siyasi Parti Kapatma' davasında kapatma kararı verilebilmesi için aranan oy oranı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Salt çoğunluk"
+        },
+        {
+          "key": "B",
+          "text": "Toplantıya katılan üyelerin 2/3 (üçte iki) nitelikli çoğunluğu"
+        },
+        {
+          "key": "C",
+          "text": "Üye tamsayısının 3/5'i"
+        },
+        {
+          "key": "D",
+          "text": "Oy birliği"
+        },
+        {
+          "key": "E",
+          "text": "Başkanın oyu oy sayılır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Siyasi partilerin kapatılmasına veya devlet yardımından yoksun bırakılmasına karar verilebilmesi için toplantıya katılan üyelerin 2/3 oy çokluğu şarttır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-125",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Aşağıdakilerden hangisi Anayasa Mahkemesi'nin görevlerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kanunların anayasaya uygunluğunu denetlemek"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi partilerin kapatılması davasına bakmak"
+        },
+        {
+          "key": "C",
+          "text": "Adli mahkemelerin kararlarını temyiz etmek"
+        },
+        {
+          "key": "D",
+          "text": "Bireysel başvuruları karara bağlamak"
+        },
+        {
+          "key": "E",
+          "text": "Yüce Divan sıfatıyla yargılama yapmak"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Adli mahkemelerin kararlarını temyiz etmek Yargıtay'ın görevidir; Anayasa Mahkemesi adli temyiz mercii değildir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-135",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Yargıtay'ın görev alanı ve yapısı ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdari uyuşmazlıklara bakar"
+        },
+        {
+          "key": "B",
+          "text": "Adli mahkemelerden gelen kararların son inceleme merciidir"
+        },
+        {
+          "key": "C",
+          "text": "Parti kapatma davasına bakar"
+        },
+        {
+          "key": "D",
+          "text": "Vergi uyuşmazlıklarına bakar"
+        },
+        {
+          "key": "E",
+          "text": "Bireysel başvuruya bakar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yargıtay, adli yargıda ilk derece mahkemelerinden verilen kararların son temyiz ve inceleme mercii olan yüksek mahkemedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-145",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "1982 Anayasası'na göre Anayasa Mahkemesi üyelerinin görev süresi kaç yıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6 yıl"
+        },
+        {
+          "key": "B",
+          "text": "9 yıl"
+        },
+        {
+          "key": "C",
+          "text": "12 yıl"
+        },
+        {
+          "key": "D",
+          "text": "15 yıl"
+        },
+        {
+          "key": "E",
+          "text": "Emeklilik yaşına kadar"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa Mahkemesi üyeleri 12 yıl için seçilirler ve bir kimse iki defa Anayasa Mahkemesi üyesi seçilemez.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-1",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Aşağıdakilerden hangisi 1982 Anayasası'nda yer alan yüksek mahkemelerden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "B",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "C",
+          "text": "Danıştay"
+        },
+        {
+          "key": "D",
+          "text": "Sayıştay"
+        },
+        {
+          "key": "E",
+          "text": "Uyuşmazlık Mahkemesi"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sayıştay bir denetim organıdır ancak yüksek mahkeme değildir. Yüksek mahkemeler Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-2",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin üye sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "13"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "17"
+        },
+        {
+          "key": "E",
+          "text": "21"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa Mahkemesi 15 üyeden oluşur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-4",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Siyasi parti kapatma davasına bakmakla görevli yüksek mahkeme hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "B",
+          "text": "Danıştay"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Uyuşmazlık Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Sayıştay"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Siyasi partilerin kapatılması davasına bakmak Anayasa Mahkemesi'nin görev ve yetkilerindendir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-5",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Adli yargı ilk derece mahkemelerinin kararlarını inceleyen yüksek mahkeme hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danıştay"
+        },
+        {
+          "key": "B",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "C",
+          "text": "Bölge İdare Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "İdare Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Vergi Mahkemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yargıtay, adli yargıda ilk derece mahkemelerinden gelen kararların son inceleme merciidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-6",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "İdari yargı kolunda görevli yüksek mahkeme hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "B",
+          "text": "Danıştay"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Uyuşmazlık Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "İdare Mahkemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Danıştay, idari yargı kolundaki davalara bakan en üst yüksek mahkemedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-7",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözümleyen mahkeme hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "B",
+          "text": "Danıştay"
+        },
+        {
+          "key": "C",
+          "text": "Uyuşmazlık Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Sayıştay"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Uyuşmazlık Mahkemesi, adli ve idari yargı arasındaki görev uyuşmazlıklarını çözer.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-8",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'ne bireysel başvuru hakkı hangi tarihte getirilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1982"
+        },
+        {
+          "key": "B",
+          "text": "2001"
+        },
+        {
+          "key": "C",
+          "text": "2010"
+        },
+        {
+          "key": "D",
+          "text": "2012"
+        },
+        {
+          "key": "E",
+          "text": "2017"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Bireysel başvuru hakkı 2010 anayasa değişikliği ile getirilmiş, 2012'de uygulamaya başlanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-9",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "HSK'nın başkanı kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "Adalet Bakanı"
+        },
+        {
+          "key": "C",
+          "text": "Yargıtay Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Danıştay Başkanı"
+        },
+        {
+          "key": "E",
+          "text": "Adalet Bakan Yardımcısı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Adalet Bakanı, Hakimler ve Savcılar Kurulu'nun (HSK) doğal başkanıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-10",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi üyelerini kim seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Sadece Cumhurbaşkanı"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı ve TBMM"
+        },
+        {
+          "key": "D",
+          "text": "Sadece HSK"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Yargıtay"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa Mahkemesi'nin 15 üyesinin 12'sini Cumhurbaşkanı, 3'ünü TBMM seçer.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-11",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin kararları hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tavsiye niteliğindedir"
+        },
+        {
+          "key": "B",
+          "text": "Kesindir, yasama, yürütme ve yargıyı bağlar"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı tarafından veto edilebilir"
+        },
+        {
+          "key": "D",
+          "text": "Meclis tarafından değiştirilebilir"
+        },
+        {
+          "key": "E",
+          "text": "Dava yoluyla iptal edilebilir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa Mahkemesi'nin kararları kesindir; yasama, yürütme ve yargı organlarını, idareyi ve kişileri bağlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-12",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Danıştay'ın idari yargıdaki temel görevi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Adli davaları görmek"
+        },
+        {
+          "key": "B",
+          "text": "İdare mahkemelerinin kararlarını temyizen incelemek"
+        },
+        {
+          "key": "C",
+          "text": "Anayasayı denetlemek"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi partileri kapatmak"
+        },
+        {
+          "key": "E",
+          "text": "Sayıştay ile ortak karar almak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Danıştay, idare ve vergi mahkemelerinden gelen kararların son inceleme merciidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-13",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "HSK'nın temel görevi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kanun yapmak"
+        },
+        {
+          "key": "B",
+          "text": "Hakim ve savcıların atama, nakil ve disiplin işlemlerini yürütmek"
+        },
+        {
+          "key": "C",
+          "text": "Parti kapatmak"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa'yı değiştirmek"
+        },
+        {
+          "key": "E",
+          "text": "Bütçeyi denetlemek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "HSK, hakim ve savcıların özlük, atama, yükseltme ve disiplin işlerini yürüten kuruldur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-14",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Sayıştay'ın en önemli denetim alanı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Siyasi partiler"
+        },
+        {
+          "key": "B",
+          "text": "Merkezi yönetim bütçesi (TBMM adına)"
+        },
+        {
+          "key": "C",
+          "text": "Hakimler ve savcılar"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Yargıtay üyeleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayıştay, bütçeyi TBMM adına denetlemekle görevli bir mali denetim kurumudur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-15",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Yargıtay üyelerini kim seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "HSK"
+        },
+        {
+          "key": "C",
+          "text": "TBMM"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yargıtay üyeleri, Hakimler ve Savcılar Kurulu (HSK) tarafından seçilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-16",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'ne üye olmak için gereken en önemli yaş sınırı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa Mahkemesi'ne seçilebilmek için 45 yaşını doldurmuş olmak gerekir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-17",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Uyuşmazlık Mahkemesi başkanı hangi mahkemenin üyeleri arasından seçilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "C",
+          "text": "Danıştay"
+        },
+        {
+          "key": "D",
+          "text": "Sayıştay"
+        },
+        {
+          "key": "E",
+          "text": "İdare Mahkemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Uyuşmazlık Mahkemesi'nin başkanı, Anayasa Mahkemesi'nin üyeleri arasından seçilir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-18",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Bireysel başvuru hangi haklar için yapılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her türlü dava"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa'da güvence altına alınan temel hakların ihlali"
+        },
+        {
+          "key": "C",
+          "text": "Sadece mülkiyet hakları"
+        },
+        {
+          "key": "D",
+          "text": "Sadece iş hukuku"
+        },
+        {
+          "key": "E",
+          "text": "Sadece idari kararlar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bireysel başvuru, Anayasa'da güvence altına alınan temel hak ve hürriyetlerin ihlali durumunda yapılır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-19",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Mahkemelerin bağımsızlığı ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahkemeler yürütmeye bağlıdır"
+        },
+        {
+          "key": "B",
+          "text": "Mahkemeler hiçbir makamdan emir alamaz"
+        },
+        {
+          "key": "C",
+          "text": "Mahkemeler Meclis'ten emir alır"
+        },
+        {
+          "key": "D",
+          "text": "Mahkemeler sadece yasaları uygulamaz"
+        },
+        {
+          "key": "E",
+          "text": "Mahkemeler siyasi olabilir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre mahkemeler bağımsızdır, hiçbir makam mahkemelere emir veremez.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-20",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi kaç daireden oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "Daire yoktur (Genel Kurul ve 2 Bölüm)"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Anayasa Mahkemesi daireler halinde çalışmaz; Genel Kurul ve iki bölüm halinde çalışır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-21",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Danıştay üyelerinin kaçta kaçını Cumhurbaşkanı seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/4"
+        },
+        {
+          "key": "B",
+          "text": "1/2"
+        },
+        {
+          "key": "C",
+          "text": "3/4"
+        },
+        {
+          "key": "D",
+          "text": "1/3"
+        },
+        {
+          "key": "E",
+          "text": "1/5"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Danıştay üyelerinin 3/4'ü HSK, 1/4'ü Cumhurbaşkanı tarafından seçilir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-22",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Yargıtay üyelerinin seçimi kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "HSK"
+        },
+        {
+          "key": "C",
+          "text": "TBMM"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yargıtay üyelerinin tamamı HSK tarafından seçilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-23",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Adalet Bakanı'nın HSK'daki durumu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üyedir"
+        },
+        {
+          "key": "B",
+          "text": "Doğal başkandır"
+        },
+        {
+          "key": "C",
+          "text": "Hiçbir ilişkisi yoktur"
+        },
+        {
+          "key": "D",
+          "text": "Sadece gözlemcidir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece üye seçiminde oy kullanır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Adalet Bakanı HSK'nın doğal başkanıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-24",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'ne kimler bireysel başvuru yapabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece mahkemeler"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa'da belirtilen temel hakları ihlal edilen herkes"
+        },
+        {
+          "key": "C",
+          "text": "Sadece kamu kurumları"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yabancılar"
+        },
+        {
+          "key": "E",
+          "text": "Sadece milletvekilleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bireysel başvuru, temel hakları ihlal edilen herkes tarafından yapılabilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-25",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Yargı yetkisi hangi ilkeye dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Siyaset"
+        },
+        {
+          "key": "B",
+          "text": "Bağımsızlık ve tarafsızlık"
+        },
+        {
+          "key": "C",
+          "text": "İdari vesayet"
+        },
+        {
+          "key": "D",
+          "text": "Hiyerarşi"
+        },
+        {
+          "key": "E",
+          "text": "Seçim"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yargı yetkisi, bağımsızlık ve tarafsızlık ilkesine dayanır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-26",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Hakimler ve Savcılar Kurulu kaç üyeden oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "13"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "21"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "HSK 13 üyeden oluşur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-27",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "HSK üyelerini kim seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı ve TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Sadece TBMM"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Yargıtay"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "HSK'nın 13 üyesinden 4'ünü Cumhurbaşkanı, 7'sini TBMM seçer, Adalet Bakanı ve yardımcısı doğal üyedir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-28",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nde kararlar olağan durumlarda nasıl alınır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oybirliğiyle"
+        },
+        {
+          "key": "B",
+          "text": "Salt çoğunlukla"
+        },
+        {
+          "key": "C",
+          "text": "Sadece 2/3 çoğunlukla"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Toplantıya katılanların oy çokluğuyla"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "AYM kararlarını toplantıya katılanların oy çokluğuyla alır (Parti kapatma ve Anayasa değişikliği iptali hariç).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-29",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "İdari Yargılama Usulü Kanunu'na göre idare mahkemesi kararlarının son temyiz mercii neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "B",
+          "text": "Danıştay"
+        },
+        {
+          "key": "C",
+          "text": "İstinaf"
+        },
+        {
+          "key": "D",
+          "text": "Bölge İdare Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdare mahkemesi kararlarının temyizi Danıştay'da yapılır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-30",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi üyeliği için gereken 'yükseköğretim' şartı neyi gerektirir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Hukuk"
+        },
+        {
+          "key": "B",
+          "text": "Hukuk, iktisat, işletme, siyasal bilgiler vb."
+        },
+        {
+          "key": "C",
+          "text": "Sadece siyaset bilimi"
+        },
+        {
+          "key": "D",
+          "text": "Eğitim alanı önemli değildir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece mühendislik"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "AYM üyeleri için hukuk, iktisat, işletme, siyasal bilgiler vb. dallardan mezuniyet şartı vardır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-31",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Uyuşmazlık Mahkemesi üyelerini kim seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "TBMM"
+        },
+        {
+          "key": "C",
+          "text": "İlgili yüksek mahkemeler (Yargıtay ve Danıştay)"
+        },
+        {
+          "key": "D",
+          "text": "HSK"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Üyeleri Yargıtay ve Danıştay kendi üyeleri arasından seçer.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-32",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Danıştay'ın 'danışma' organı olması ne demektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdareye hukuki görüş bildirmesi"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi karar alması"
+        },
+        {
+          "key": "C",
+          "text": "Meclis Başkanı'na emir vermesi"
+        },
+        {
+          "key": "D",
+          "text": "Mahkemelere emir vermesi"
+        },
+        {
+          "key": "E",
+          "text": "Kanun teklifi vermesi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Danıştay'ın bir görevi de idarenin başvurduğu konularda hukuki mütalaa vermektir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-33",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi hangi davalarda 'Yüce Divan' sıfatıyla yargılama yapabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece partilerin kapatılması"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı, bakanlar ve yüksek yargı organı üyelerinin görev suçları"
+        },
+        {
+          "key": "C",
+          "text": "Sadece kanunların iptali"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bireysel başvurular"
+        },
+        {
+          "key": "E",
+          "text": "Sadece idari uyuşmazlıklar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, Cumhurbaşkanı yardımcıları ve bakanların görev suçları Yüce Divan'da (AYM) görülür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-34",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Adli yargıdaki 'Bölge Adliye Mahkemesi' nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Temyiz mahkemesidir"
+        },
+        {
+          "key": "B",
+          "text": "İstinaf mahkemesidir"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi'dir"
+        },
+        {
+          "key": "D",
+          "text": "Danıştay'dır"
+        },
+        {
+          "key": "E",
+          "text": "Sayıştay'dır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bölge Adliye Mahkemeleri (İstinaf), ilk derece mahkemelerinin kararlarını inceleyen bir ara yargı birimidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-35",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "HSK'nın disiplin yetkisi kime karşıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece avukatlar"
+        },
+        {
+          "key": "B",
+          "text": "Hakim ve savcılar"
+        },
+        {
+          "key": "C",
+          "text": "Sadece noterler"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bakanlık personeli"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "HSK'nın görevi hakim ve savcıların mesleki disiplinini sağlamaktır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-36",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin 'somut norm denetimi' (itiraz yolu) nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Görülmekte olan bir davada uygulanacak kanunun Anayasa'ya aykırılığının mahkemece ileri sürülmesi"
+        },
+        {
+          "key": "B",
+          "text": "Doğrudan Meclis'in başvurusu"
+        },
+        {
+          "key": "C",
+          "text": "Bireysel başvuru"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi parti kapatma"
+        },
+        {
+          "key": "E",
+          "text": "Sadece kanun teklifi denetimi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Somut norm denetimi, görülmekte olan bir davada uygulanan kanunun Anayasa'ya aykırı bulunması üzerine yapılan denetimdir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-37",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Sayıştay'ın bütçe denetiminde kime bağlılığı yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Yürütme organı / Bakanlar"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayıştay, bütçeyi sadece TBMM adına denetler; yürütmenin etkisinden uzaktır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-38",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "İdari yargıdaki 'İdare Mahkemesi'nin kuruluşu hangisine bağlıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece valilikler"
+        },
+        {
+          "key": "B",
+          "text": "İdari yargı ilk derece mahkemesi olarak bölge/il bazında kurulur"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Ankara"
+        },
+        {
+          "key": "D",
+          "text": "Sadece İstanbul"
+        },
+        {
+          "key": "E",
+          "text": "Sadece HSK"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İdare mahkemeleri, idari yargının temelini oluşturan ve bölge/il bazlı teşkilatlanan yerel yargı organlarıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-39",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Mahkemelerin bağımsızlığının anayasal temeli hangi maddededir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Madde 9 ve Madde 138"
+        },
+        {
+          "key": "B",
+          "text": "Kanun"
+        },
+        {
+          "key": "C",
+          "text": "Genelge"
+        },
+        {
+          "key": "D",
+          "text": "Tüzük"
+        },
+        {
+          "key": "E",
+          "text": "Siyasi karar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'nın 9. ve 138. maddeleri, yargı yetkisinin bağımsız ve tarafsız mahkemelerce kullanılacağını düzenler.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-40",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Yargıtay'ın adli yargıdaki en önemli temel görevi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Son temyiz incelemesini yapmak"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi parti kapatmak"
+        },
+        {
+          "key": "C",
+          "text": "Kanun teklifi vermek"
+        },
+        {
+          "key": "D",
+          "text": "Referandum yapmak"
+        },
+        {
+          "key": "E",
+          "text": "İdari denetim yapmak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yargıtay, adli mahkemelerin kararlarını temyizen inceleyen yüksek mahkemedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-41",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi siyasi parti kapatma kararını toplantıya katılan üyelerin hangi çoğunluğu ile alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Salt çoğunluk"
+        },
+        {
+          "key": "B",
+          "text": "2/3 çoğunluk"
+        },
+        {
+          "key": "C",
+          "text": "1/3 çoğunluk"
+        },
+        {
+          "key": "D",
+          "text": "Oybirliği"
+        },
+        {
+          "key": "E",
+          "text": "Basit çoğunluk"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Siyasi parti kapatma kararları 2/3 nitelikli çoğunlukla alınır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-42",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "İdari yargıdaki 'Bölge İdare Mahkemesi' ne yapar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlk derece davalara bakar"
+        },
+        {
+          "key": "B",
+          "text": "İstinaf mercii olarak idare ve vergi mahkemesi kararlarını denetler"
+        },
+        {
+          "key": "C",
+          "text": "Anayasayı denetler"
+        },
+        {
+          "key": "D",
+          "text": "Siyasi partileri kapatır"
+        },
+        {
+          "key": "E",
+          "text": "Kanun yapar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bölge İdare Mahkemeleri, idare ve vergi mahkemelerinin kararlarını istinaf incelemesinden geçirir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-43",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Adalet Bakanı HSK'nın başkanlığını yürütürken HSK'nın kararları nasıl alınır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kararlara katılmaz"
+        },
+        {
+          "key": "B",
+          "text": "Sadece toplantıyı yönetir, oy kullanmaz"
+        },
+        {
+          "key": "C",
+          "text": "Kurul üyelerinin oy çokluğu ile bağlayıcı karar alınır"
+        },
+        {
+          "key": "D",
+          "text": "Diğer üyeler kararı tek başına alır"
+        },
+        {
+          "key": "E",
+          "text": "Kararlar Bakan'ın onayına tabidir"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "HSK kararlarını daire veya genel kurul oy çokluğuyla alır; HSK kararlarına karşı (meslekten çıkarma hariç) yargı yolu kapalıdır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-44",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Yargıtay'ın 'İçtihadı Birleştirme' kararı neyi amaçlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hukukta uygulama birliği ve istikrar sağlamak"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi partileri kapatmak"
+        },
+        {
+          "key": "C",
+          "text": "Kanun yapmak"
+        },
+        {
+          "key": "D",
+          "text": "Mahkeme kurmak"
+        },
+        {
+          "key": "E",
+          "text": "Temyiz reddi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İçtihadı birleştirme kararları, farklı mahkeme kararları arasındaki çelişkiyi giderip hukuki uygulama birliğini sağlamak içindir ve bağlayıcıdır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-46",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi başkanı nasıl seçilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı atar"
+        },
+        {
+          "key": "B",
+          "text": "AYM Asıl üyeleri arasından gizli oyla seçilir"
+        },
+        {
+          "key": "C",
+          "text": "TBMM seçer"
+        },
+        {
+          "key": "D",
+          "text": "Kıdem sırasına göre"
+        },
+        {
+          "key": "E",
+          "text": "HSK atar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa Mahkemesi Başkanı ve başkanvekilleri, üyelerin kendi arasından 4 yıl için gizli oyla seçilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-47",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "İdari yargıda 'İptal davası' hangi amaçla açılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kişilerarası alacak davası için"
+        },
+        {
+          "key": "B",
+          "text": "İdari işlemlerin menfaatleri ihlal edilenler tarafından menfaat bağı kurularak hukuka aykırılığı sebebiyle iptali için"
+        },
+        {
+          "key": "C",
+          "text": "Şirketleşmek için"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclise karşı"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanına karşı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İptal davası, idarenin hukuka aykırı işlemlerinin iptali için menfaati ihlal edilenlerce açılan idari davadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-48",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Hakimler ve Savcılar Kurulu kaç daire halinde çalışır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2 daire halinde"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "HSK, 2 daire halinde çalışır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-49",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Adli mahkemelerin son inceleme temyiz mercii neresidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danıştay"
+        },
+        {
+          "key": "B",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "C",
+          "text": "İdare Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Sayıştay"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Adli mahkemelerin son kararlarını inceleyen temyiz mercii Yargıtay'dır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yargi-organlari-50",
+      "topic_id": "topic-vat-yargi-organlari",
+      "question_text": "Anayasa Mahkemesi'nin 'Yüce Divan' yargılamasında kararlarının temyizi var mıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay'a temyiz edilebilir"
+        },
+        {
+          "key": "B",
+          "text": "Yüce Divan kararları kesindir; ancak Yeniden İnceleme İsteminde bulunulabilir"
+        },
+        {
+          "key": "C",
+          "text": "TBMM'ye temyiz edilebilir"
+        },
+        {
+          "key": "D",
+          "text": "Danıştay'a gidilir"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanı bozar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yüce Divan kararlarına karşı yeniden inceleme başvurusu yapılabilir; Genel Kurul'un yeniden inceleme sonucu verdiği karar kesindir.",
+      "difficulty_level": 5
+    }
+  ]
+}

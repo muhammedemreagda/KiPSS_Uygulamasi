@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-tarim-hayvancilik",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Intansif (Modern) Tarım",
+      "body": "Sulama, gübreleme, kaliteli tohum ve makine kullanımının yüksek olduğu, birim alandan en yüksek verimin alındığı gelişmiş tarımdır."
+    },
+    {
+      "card_number": 2,
+      "title": "Ekstansif (Geleneksel) Tarım",
+      "body": "Doğa koşullarına bağımlı, sulama ve teknolojinin az olduğu tarımdır. Yıldan yıla üretim dalgalanması fazladır."
+    },
+    {
+      "card_number": 3,
+      "title": "Nadas Tarımı ve Çözümü",
+      "body": "Toprağın nem ve mineral kazanması için bir yıl boş bırakılmasıdır. Sulamanın gelişmesi ve nöbetleşe ekim nadası azaltır."
+    },
+    {
+      "card_number": 4,
+      "title": "Devlet Kontrolünde Olan Ürünler",
+      "body": "Pirinç (Sıtma riski), Kenevir ve Haşhaş (Uyuşturucu), Tütün (Kalite kontrolü), Çay (Kota sınırlaması)."
+    },
+    {
+      "card_number": 5,
+      "title": "Cumhuriyetin Üretim Birincisi Ürünler",
+      "body": "Fındık, İncir, Kayısı, Kiraz, Antep Fıstığı ve Ayva üretiminde Türkiye dünya birincisidir."
+    },
+    {
+      "card_number": 6,
+      "title": "Zeytin ve İklim Seçiciliği",
+      "body": "Zeytin kış ılıklığı ister. Ege, Akdeniz ve Marmara ana üretim alanıdır. Doğu Karadeniz'de (Artvin/Mikroklima) yetişir."
+    },
+    {
+      "card_number": 7,
+      "title": "Büyükbaş Hayvancılık (Mera)",
+      "body": "Yaz yağışlarıyla gür yaz çayırlarının yetiştiği Erzurum-Kars ve Ardahan yöresinde mera büyükbaş hayvancılığı yaygındır."
+    },
+    {
+      "card_number": 8,
+      "title": "Küçükbaş Hayvancılık (Koyun/Keçi)",
+      "body": "Bozkır ikliminin görüldüğü İç ve Güneydoğu Anadolu'da Koyun; Taşeli ve Teke platolarında Kıl Keçisi yaygındır."
+    },
+    {
+      "card_number": 9,
+      "title": "Kümes Hayvancılığı Yayılışı",
+      "body": "İklimden etkilenmez! Tüketici nüfusa yakınlık nedeniyle İstanbul, Bursa, Bolu, Manisa gibi büyükşehir çevrelerinde yoğunlaşmıştır."
+    },
+    {
+      "card_number": 10,
+      "title": "Arıcılıkta Önde Gelen İller",
+      "body": "Bitki çeşitliliğinin fazla olduğu Muğla (Çam balı), Ordu, Rize (Anzer balı), Kars ve Hakkari ön sıradadır."
+    }
+  ]
+}

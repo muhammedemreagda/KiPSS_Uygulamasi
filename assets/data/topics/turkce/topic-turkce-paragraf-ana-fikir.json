@@ -1,0 +1,677 @@
+{
+  "topic_id": "topic-turkce-paragraf-ana-fikir",
+  "title": "Paragrafta Ana Fikir & Yardımcı Fikirler",
+  "course_id": "course-turkce",
+  "question_count": 20,
+  "quick_note": {
+    "id": "qn-topic-turkce-paragraf-ana-fikir",
+    "topic_id": "topic-turkce-paragraf-ana-fikir",
+    "title": "Paragrafta Ana Fikir & Yardımcı Fikirler Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Paragrafta Ana Fikir & Yardımcı Fikirler' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Paragrafta Ana Fikir & Yardımcı Fikirler konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nParagrafta Ana Fikir & Yardımcı Fikirler başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Paragrafta Ana Fikir & Yardımcı Fikirler konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Ana Fikir (Ana Düşünce)",
+        "body": "Yazarın okuyucuya vermek istediği temel mesaj, öğüt veya asıl düşüncedir. Paragrafın genelini kapsar ve genellikle sonuç cümlelerinde yoğunlaşır."
+      },
+      {
+        "card_number": 2,
+        "title": "Konu ile Ana Fikir Farkı",
+        "body": "Konu 'Paragrafta ne anlatılıyor?' sorusuna yanıt verirken; Ana fikir 'Yazar bu konuda okura ne mesaj veriyor?' sorusunun yanıtıdır."
+      },
+      {
+        "card_number": 3,
+        "title": "Yardımcı Fikirler",
+        "body": "Ana fikri destekleyen, açıklayan ve zenginleştiren yan düşüncelerdir. Yanıtı parça içinde birebir bulunan soru tipleridir."
+      },
+      {
+        "card_number": 4,
+        "title": "Paragrafta Başlık Bulma",
+        "body": "Başlık, paragrafın konusunu en özlü şekilde özetleyen, anahtar kelimeleri içeren 1-3 kelimelik ifadedir."
+      },
+      {
+        "card_number": 5,
+        "title": "Anahtar Kelime Tekniği",
+        "body": "Paragrafta en çok tekrarlanan ve metnin özünü oluşturan kavramlar anahtar kelimelerdir; ana fikre ulaşmada en büyük ipucudur."
+      },
+      {
+        "card_number": 6,
+        "title": "Oysa / Oysaki Geçiş İfadeleri",
+        "body": "'Oysa', 'ancak', 'fakat', 'ne var ki' gibi bağlaçlardan sonra gelen cümleler genellikle yazarın asıl ana düşüncesini barındırır."
+      },
+      {
+        "card_number": 7,
+        "title": "Vurgulanan Düşünce",
+        "body": "Yazarın özellikle altını çizdiği, okuyucunun zihnine kazımak istediği en önemli mesajdır."
+      },
+      {
+        "card_number": 8,
+        "title": "Paragrafta Soru-Cevap Uyumsuzluğu",
+        "body": "Soru metne uygun görünse de paragrafın ilk cümlesi sorunun doğrudan yanıtı olmalıdır; ilk cümleye odaklanın."
+      },
+      {
+        "card_number": 9,
+        "title": "Çıkarım Yapma Cümleleri",
+        "body": "Metinde doğrudan yazmayan fakat paragraftaki ipuçlarından hareketle ulaşılan mantıksal sonuçlardır."
+      },
+      {
+        "card_number": 10,
+        "title": "Paragrafta Olumsuz Soru Kökleri",
+        "body": "'Değinilmemiştir', 'ulaşılamaz', 'çıkarılamaz' sorularında önce seçenekler okunup anahtar kelimeler çizilmeli, sonra paragraf taranmalıdır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-1",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Edebiyat, yalnızca güzel söz söyleme sanatı değildir. O, toplumsal dönüşümlerin, bireysel sancıların ve tarihsel kırılmaların en canlı şahididir. Bir yazarın kaleme aldığı eser, çağının zihniyetinden ve sosyokültürel dokusundan bağımsız düşünülemez. Sanatçı ne kadar 'fildişi kulesine' çekilmeye çalışırsa çalışsın, kullandığı dilin, seçtiği imgelerin ve kurguladığı dünyada yaşadığı toplumun ayak izleri vardır. Dolayısıyla edebiyat yapıtları, yazıldığı dönemin toplumsal ve kültürel atmosferini yansıtan birer ayna niteliği taşır.\n\nBu parçada vurgulanmak istenen temel düşünce aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Edebî eserler, oluşturuldukları dönemin ve toplumun izlerini zorunlu olarak bünyesinde barındırır."
+        },
+        {
+          "key": "B",
+          "text": "Sanatçıların bireysel yalnızlıkları edebî eserlerin niteliğini belirleyen en önemli unsurdur."
+        },
+        {
+          "key": "C",
+          "text": "Toplumsal sorunları işlemeyen edebi yapıtların kalıcı olması mümkün değildir."
+        },
+        {
+          "key": "D",
+          "text": "Dil ve imge kullanımı, yazarın edebi üslubunu şekillendiren temel faktördür."
+        },
+        {
+          "key": "E",
+          "text": "Tarihsel olaylar ancak edebiyat aracılığıyla doğru ve tarafsız biçimde aktarılabilir."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Parçada yazarın yaşadığı çağın ve toplumun zihniyetinden bağımsız olamayacağı, kaçınsa bile eserinin toplumun ayak izlerini taşıyacağı ve dönemin aynası olduğu vurgulanmaktadır. Bu durum A seçeneğinde eksiksiz özetlenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-2",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Klasik eserler, her okunuşta okura yeni ufuklar açan, zamana meydan okuyan metinlerdir. Bir klasiği ilk kez gençlik yıllarınızda okuduğunuzda aldığınız tat ile olgunluk çağınızda okuduğunuzda edindiğiniz kazanımlar çok farklıdır. Çünkü eser değişmez ancak okur zamanla değişir, olgunlaşır ve yaşam deneyimi kazandıkça metnin derinliklerindeki gizli katmanları keşfetmeye başlar. Bu yüzden klasikler, her yaştan ve her dönemden okurla yeniden diyalog kurabilme gücüne sahiptir.\n\nBu parçaya göre klasik eserlerin temel özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her çağda sadece uzman araştırmacılar tarafından anlaşılabilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Yazıldığı dönemin toplumsal kurallarını sıkı sıkıya savunması"
+        },
+        {
+          "key": "C",
+          "text": "Okurun yaşam deneyimine bağlı olarak sürekli yeni anlam katmanları sunması"
+        },
+        {
+          "key": "D",
+          "text": "Gençlik yıllarında okunduğunda daha derin etkiler bırakması"
+        },
+        {
+          "key": "E",
+          "text": "Konularının evrensel değerlerden çok yerel unsurlara dayanması"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Parçada klasik eserlerin kendisinin değişmediği, fakat okurun yaş ve tecrübesi arttıkça metinde yeni anlam katmanları keşfettiği ve her okunuşta yeni ufuklar açtığı ifade edilmiştir. Doğru yanıt C seçeneğidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-3",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Günümüzde bilgiye ulaşmak hiç olmadığı kadar kolay ve hızlı. Ancak bu hız ve bolluk, bilginin derinlemesine özümsenmesini engelliyor. İnternet kullanıcıları metinleri baştan sona okumak yerine ekran üzerinde hızlıca göz gezdiriyor, yüzeysel bilgilerle yetiniyor. Bilginin sindirilmeden, eleştirel bir süzgeçten geçirilmeden tüketilmesi ise yüzeysel bir zihinsel yapılanmaya yol açıyor. Çağımızın asıl sorunu bilgiye ulaşamamak değil, ulaşılan bilgiyi işleyip derinlikli bir birikime dönüştürememektir.\n\nBu parçada asıl yakınılan durum aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Teknolojik gelişmelerin kütüphanelere olan ilgiyi azaltması"
+        },
+        {
+          "key": "B",
+          "text": "Bilgiye erişim hızının günden güne artış göstermesi"
+        },
+        {
+          "key": "C",
+          "text": "İnternetteki bilgilerin çoğunun doğrulanmamış içeriklerden oluşması"
+        },
+        {
+          "key": "D",
+          "text": "Bilgi bolluğu karşısında bilginin yüzeysel tüketilip derinlemesine işlenememesi"
+        },
+        {
+          "key": "E",
+          "text": "Genç kuşağın okuma alışkanlıklarını tamamen kaybetmiş olması"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Parçanın son cümlesinde de özetlendiği üzere, asıl yakınılan ve eleştirilen durum bilgiye erişim rahatlığına rağmen bilginin yüzeysel kalması, sindirilmeden tüketime sunulması ve derinlikli birikime dönüştürülememesidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-4",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Eleştiri, sanat eserini yıkmak ya da yazarını yıpratmak için yapılan bir saldırı değildir. Aksine eleştiri, metnin görünmeyen yönlerini açığa çıkaran, estetik değerini sorgulayan ve okura kılavuzluk eden zihinsel bir çabadır. Nitelikli bir eleştirmen, esere tarafsız bir gözle yaklaşarak hem sanatçının ufkunu genişletir hem de okurun yapıtla kurduğu bağı derinleştirir. Eleştiriden yoksun bir edebiyat ortamı, niteliksiz eserlerin çoğalmasına ve sanatsal standardın düşmesine zemin hazırlar.\n\nBu parçadan eleştiri ile ilgili olarak aşağıdakilerin hangisine ulaşılamaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Edebî ortamın niteliğini ve sanatsal düzeyini korumaya katkı sağladığına"
+        },
+        {
+          "key": "B",
+          "text": "Amacının eseri yok etmek değil, gizli yönlerini ve estetik değerini ortaya koymak olduğuna"
+        },
+        {
+          "key": "C",
+          "text": "Okurun eserle olan ilişkisini daha nitelikli kılacak kılavuzluk sunduğuna"
+        },
+        {
+          "key": "D",
+          "text": "Tarafsız yaklaşıldığında sanatçının gelişimine olumlu katkıda bulunduğuna"
+        },
+        {
+          "key": "E",
+          "text": "Yalnızca edebiyat alanında başarılı olmuş usta yazarlarca yapılması gerektiğine"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parçada eleştirinin işlevi, amacım niteliği ve edebiyata katkıları açıklanmıştır; ancak eleştirinin 'yalnızca usta yazarlarca yapılması gerektiği' yönünde bir ifade veya çıkarım bulunmamaktadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-5",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Mimari, sadece taş ve harçla binalar inşa etme sanatı değildir; o, bir toplumun yaşam biçiminin, estetik anlayışının ve doğayla kurduğu ilişkinin mekâna yansımasıdır. Geleneksel Türk evlerine baktığımızda, komşuluk ilişkilerini gözeten pencere düzenlerinden doğaya zarar vermeyen ahşap ve kerpiç kullanımına kadar her detayda bir hayat felsefesi görürüz. Bugünün yüksek katlı, betona boğulmuş tip mimarisi ise insanı hem doğadan hem de toplumsal bağlardan koparmaktadır.\n\nBu parçadan aşağıdakilerin hangisi çıkarılamaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mimari yapıların toplumların yaşam kültürünü ve felsefesini yansıttığı"
+        },
+        {
+          "key": "B",
+          "text": "Geleneksel mimaride doğayla uyumlu malzeme kullanımının öne çıktığı"
+        },
+        {
+          "key": "C",
+          "text": "Çağdaş mimari uygulamaların bireyleri sosyalleşmeye teşvik ettiği"
+        },
+        {
+          "key": "D",
+          "text": "Yapı tasarımlarında komşuluk ve mahremiyet gibi sosyal değerlerin gözetildiği"
+        },
+        {
+          "key": "E",
+          "text": "Günümüz binalarının insanı doğal çevresinden uzaklaştıran nitelikte olduğu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Parçada günümüz yüksek katlı beton mimarisinin 'insanı hem doğadan hem de toplumsal bağlardan kopardığı' belirtilmiştir. C seçeneğinde belirtilen 'bireyleri sosyalleşmeye teşvik ettiği' yargısı parçadaki bilgiyle tamamen çelişmektedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-6",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Yaratıcılık, durup dururken gökten inen bir ilham perisinin eseri değildir. O, uzun süren bir gözlem, aralıksız bir çalışma ve zihinsel bir birikimin sonucunda filizlenir. Büyük buluşlara veya sanat yapıtlarına imza atan kişilerin hayatına baktığımızda, arkalarında yıllarca süren bir disiplin ve başarısızlıklarla dolu deneyimler görürüz. İlhama bel bağlayıp harekete geçmeyi bekleyenler, üretkenliğin kapısını asla aralayamazlar.\n\nBu parçada vurgulanmak istenen ana düşünce aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlham, sanatçının eser verme sürecinde en çok ihtiyaç duyduğu kaynaktır."
+        },
+        {
+          "key": "B",
+          "text": "Yaratıcı düşünce ve başarı, tesadüfi ilhamlara değil, disiplinli çalışma ve birikime dayanır."
+        },
+        {
+          "key": "C",
+          "text": "Bilimsel buluşlar ile sanatsal ürünler tamamen farklı yöntemlerle ortaya çıkar."
+        },
+        {
+          "key": "D",
+          "text": "Başarısızlıkla sonuçlanan çalışmalar insanı yaratıcılıktan uzaklaştırır."
+        },
+        {
+          "key": "E",
+          "text": "Gözlem yeteneği gelişmemiş kişilerin edebiyatta başarı yakalaması imkânsızdır."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Parçada yaratıcılığın pasif bir ilham bekleme süreci olmadığı, aksine disiplinli çalışma, birikim ve gözlem sonucunda ortaya çıktığı vurgulanmaktadır. Bu ana düşünce B seçeneğinde verilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-7",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Çeviri faaliyeti, iki dil arasında sadece kelime takası yapmak anlamına gelmez. Gerçek bir çevirmen, kaynak dilin ait olduğu kültürün ruhunu, imge dünyasını ve deyimsel zenginliğini hedef dile aktarabilen kişidir. Metni kelime kelime çevirmeye kalkan biri, metnin ruhunu öldürür. Bu yüzden çeviri, bir dil bilgisinden ziyade kültürel bir köprü kurma ve yeniden yaratım sanatıdır.\n\nBu parçaya göre nitelikli bir çeviride bulunması gereken temel nitelik aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaynak metindeki tüm kelimelerin birebir karşılıklarını sözlükten bulmak"
+        },
+        {
+          "key": "B",
+          "text": "Metnin yazıldığı dönemin dilbilgisi kurallarına eksiksiz uymak"
+        },
+        {
+          "key": "C",
+          "text": "Hedef dilin yapısal özelliklerini kaynak dilden üstün tutmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece metnin konusunu özetleyerek okuyucuya aktarmak"
+        },
+        {
+          "key": "E",
+          "text": "Kaynak metnin ait olduğu kültürün ruhunu ve anlamını hedef dile hissettirerek aktarmak"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parçada çevirinin kelime kelime yapılan bir takas olmadığı, kültürün ruhunu, imge dünyasını ve anlamını hedef dile aktaran bir kültürel köprü olduğu ifade edilmiştir. Doğru yanıt E'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-8",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Anadolu coğrafyası, yüzyıllar boyunca farklı uygarlıkların kesişim noktası olmuş son derece zengin bir kültürel mirasa sahiptir. Bu topraklarda höyüklerden antik kentlere, Selçuklu kervansaraylarından Osmanlı camilerine kadar pek çok tarihi eser yan yana varlığını sürdürür. Ancak bu zenginlik, bilinçsiz yapılaşma, definecilik ve bakımsızlık gibi sebeplerle ciddi tehdit altındadır. Tarihi mirası korumak yalnızca devlet kurumlarının değil, bu topraklarda yaşayan her bireyin ortak sorumluluğudur.\n\nBu parçada aşağıdakilerden hangisine değinilmemiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anadolu'nun geçmişte farklı medeniyetlere ev sahipliği yaptığına"
+        },
+        {
+          "key": "B",
+          "text": "Bölgede farklı dönemlere ait mimari ve tarihi eserlerin bulunduğuna"
+        },
+        {
+          "key": "C",
+          "text": "Tarihi eserlerin korunmasında bireysel bilincin de önemli olduğuna"
+        },
+        {
+          "key": "D",
+          "text": "Tarihi mirasın bozulmasına yol açan insan odaklı faktörlere"
+        },
+        {
+          "key": "E",
+          "text": "Anadolu'daki tarihi eserlerin dünyada en çok ziyaret edilen yapılar olduğuna"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parçada Anadolu'nun tarihinden, eser çeşidinden, koruma sorumluluğundan ve tehditlerden bahsedilmiştir. Ancak eserlerin 'dünyada en çok ziyaret edilen yapılar olduğu' yönünde hiçbir bilgiye veya istatistiğe yer verilmemiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-9",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Unutmak, insan zihninin sadece bir kusuru veya zayıflığı değil, aynı zamanda sağlıklı bir yaşam sürdürebilmesi için gerekli olan bir koruma mekanizmasıdır. Zihin, karşılaştığı her ayrıntıyı, yaşadığı her travmayı ve olumsuz deneyimi ilk günkü tazeliğiyle saklasaydı, insan psikolojik olarak bu yükün altından kalkamazdı. Unutma sayesinde zihin gereksiz bilgileri ayıklar ve ruhsal dengesini korur. Dolayısıyla hafızanın silme yeteneği, yaşama tutunmamızı sağlayan bir mucizedir.\n\nBu parçanın ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unutmak, insan zihninin olumsuz deneyimlerle baş etmesini ve ruhsal dengesini korumasını sağlayan işlevsel bir süreçtir."
+        },
+        {
+          "key": "B",
+          "text": "İnsan hafızası zaman geçtikçe yaşandığı olayların ayrıntılarını değiştirmeye meyllidir."
+        },
+        {
+          "key": "C",
+          "text": "Unutkanlık, yaş ilerledikçe ortaya çıkan doğal bir zihinsel gerilemedir."
+        },
+        {
+          "key": "D",
+          "text": "Yaşanan travmalar ancak profesyonel destek alındığında zihinden tamamen silinebilir."
+        },
+        {
+          "key": "E",
+          "text": "Zihnin bilgi depolama kapasitesi sınırsız olduğu için her bilgi kalıcı olarak saklanır."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Metinde unutmanın bir eksiklik değil, zihnin ruhsal dengesini koruması ve olumsuzlukların üstesinden gelmesi için gerekli bir savunma mekanizması olduğu anlatılmıştır. Bu ana düşünce A şıkkında açıkça ifade edilmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-10",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Masallar, çocuklara sadece hoş vakit geçirtmeyi amaçlayan hayal ürünü anlatılar değildir. Onlar, yüzyılların birikimiyle şekillenmiş evrensel ahlaki değerleri, iyilik ile kötülük arasındaki mücadeleyi sembolik bir dille çocuklara aktarır. Masal dinleyerek büyüyen çocuklar, empati kurmayı, zorluklar karşısında pes etmemeyi ve adaletin önemini kavrarlar. Bu yönüyle masal, çocuğun duygusal ve zihinsel gelişiminde yeri doldurulamaz bir pedagojik araçtır.\n\nBu parçadan masallarla ilgili olarak aşağıdakilerin hangisine varılamaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çocukların kişilik ve duygusal gelişimine olumlu katkılar sunduğuna"
+        },
+        {
+          "key": "B",
+          "text": "İçeriğinde soyut ve sembolik anlatımlara yer verildiğine"
+        },
+        {
+          "key": "C",
+          "text": "Bireylere empati ve adalet gibi evrensel değerleri aşıladığına"
+        },
+        {
+          "key": "D",
+          "text": "Yalnızca çocukların eğlenmesi amacıyla kurgulanan metinler olduğuna"
+        },
+        {
+          "key": "E",
+          "text": "Kuşaktan kuşağa aktarılan köklü bir kültürel birikimi taşıdığına"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Parçanın ilk cümlesinde \"Masallar, çocuklara sadece hoş vakit geçirtmeyi amaçlayan hayal ürünü anlatılar değildir\" denilerek D seçeneğindeki iddia doğrudan reddedilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-11",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Bir dilin söz varlığı, o dili konuşan toplumun dünyayı algılama biçimini yansıtır. Örneğin karlar altında yaşayan Eskimo dilinde karın yağış şekline, yapısına ve rengine göre onlarca farklı kelime bulunurken; çöl ikliminde yaşayan toplumlarda deve için yüzlerce farklı tanımlama mevcuttur. İnsanlar çevrelerinde hayati önem taşıyan kavramları daha detaylı adlandırırlar. Dil, kültür ve coğrafya arasındaki bu kopmaz bağ, dilin durağan değil canlı bir yapı olduğunu kanıtlar.\n\nBu parçada vurgulanmak istenen temel düşünce aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bütün diller zamanla coğrafi şartların etkisiyle kelime hazinelerini yitirirler."
+        },
+        {
+          "key": "B",
+          "text": "Dilin söz varlığı ve kavramsal zenginliği, toplumun yaşadığı coğrafya ve kültürle doğrudan ilişkilidir."
+        },
+        {
+          "key": "C",
+          "text": "Çöl ikliminde yaşayan toplumların dilleri diğer kültürlere göre daha gelişmiştir."
+        },
+        {
+          "key": "D",
+          "text": "Bir dilin gramer yapısı, o dilin konuşulduğu coğrafi sınırları belirler."
+        },
+        {
+          "key": "E",
+          "text": "Teknolojik gelişmeler diller arasındaki kelime alışverişini hızlandırmıştır."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Parçada verilen Eskimo ve çöl toplumları örnekleriyle dilin zenginliğinin ve kelime dağarcığının coğrafya, kültür ve yaşam biçimiyle sıkı bir bağ içinde olduğu gösterilmiştir. Doğru cevap B seçeneğidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-12",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Gelenek, geçmişten devralınan ve olduğu gibi muhafaza edilmesi gereken ölü bir kalıntı değildir. Yaşayan bir gelenek, zamanın ruhuna uyum sağlayabilen, yenilikleri bünyesine katarak kendini tazeleyen bir süreçtir. Geçmişi aynen taklit etmek gelenekçilik değil, muhafazakâr bir donmuşluktur. Gerçek gelenek, köklerinden beslenirken dallarını geleceğe uzatabilen ve çağa cevap verebilen dinamik bir yapıya sahiptir.\n\nBu parçaya göre 'gerçek gelenek' anlayışı aşağıdakilerden hangisiyle bağdaşır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geçmişten gelen değerleri hiçbir değişikliğe uğratmadan korumakla"
+        },
+        {
+          "key": "B",
+          "text": "Yeniliklere kapıyı kapatarak eski yaşam tarzını sürdürmekle"
+        },
+        {
+          "key": "C",
+          "text": "Köklerine bağlı kalarak zamanın gereksinimlerine ve yeniliklere uyum sağlamakla"
+        },
+        {
+          "key": "D",
+          "text": "Geçmişle olan tüm bağları koparıp tamamen modern olana yönelmekle"
+        },
+        {
+          "key": "E",
+          "text": "Yabancı kültürlerin etkilerini engellemek için katı kurallar koymakla"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Metinde gerçek geleneğin 'köklerinden beslenirken dallarını geleceğe uzatabilen' ve çağa uyum sağlayan bir dinamizme sahip olduğu vurgulanmıştır. Bu da C şıkkıyla tam olarak örtüşür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-13",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Biyolojik çeşitlilik, dünya üzerindeki ekosistemlerin dengede kalmasını sağlayan en temel unsurdur. Bir ekosistemde yer alan tek bir türün yok olması bile, besin zincirinde kırılmalara yol açarak diğer türlerin ve nihayetinde insanların yaşamını tehdit eder. Son yüzyılda sanayileşme, kontrolsüz şehirleşme ve iklim değişikliği sebebiyle canlı türleri tarihte görülmemiş bir hızla yok olmaktadır. Biyoçeşitliliği kaybetmek, insanlığın kendi geleceğini tehlikeye atması demektir.\n\nBu parçadan aşağıdakilerin hangisine ulaşılamaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ekosistemdeki türlerin birbiriyle etkileşim içinde bir denge oluşturduğuna"
+        },
+        {
+          "key": "B",
+          "text": "Sanayileşme ve iklim değişikliğinin biyoçeşitliliği olumsuz etkilediğine"
+        },
+        {
+          "key": "C",
+          "text": "Bir türün yok olmasının besin zincirinde aksamalara yol açacağına"
+        },
+        {
+          "key": "D",
+          "text": "Canlı türlerindeki azalmanın insan yaşamı üzerinde olumsuz sonuçlar doğurabileceğine"
+        },
+        {
+          "key": "E",
+          "text": "Doğadaki tüm canlı türlerinin insan müdahalesi olmadan da yok olabileceğine"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Parçada türlerin yok olmasının insan faaliyetleri (sanayileşme, şehirleşme) ve insan kaynaklı iklim değişikliği sebebiyle hızlandığı ifade edilmiştir. 'Tüm canlı türlerinin insan müdahalesi olmadan da yok olabileceği' yönünde genel bir yargıya değinilmemiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-14",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Popüler kültür ürünleri, geniş kitlelere hızla ulaşan ve kısa sürede tüketilen geçici fenomendir. Buna karşılık yüksek sanat eserleri, hemen tüketilmeyen, derin bir estetik kavrayış gerektiren ve zamana karşı direnç gösteren niteliktedir. Popüler kültür insanı eğlendirip anlık hazlar sunarken, nitelikli sanat bireyi düşünmeye, sorgulamaya ve kendini dönüştürmeye davet eder. Bu bakımdan iki alanın sunduğu deneyim ve beklenti birbirinden tamamen farklıdır.\n\nBu parçada aşağıdakilerden hangisi vurgulanmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Popüler kültürün zamanla yüksek sanata dönüşme potansiyeli taşıdığı"
+        },
+        {
+          "key": "B",
+          "text": "Yüksek sanatın geniş kitleler tarafından anlaşılamamasının bir eksiklik olduğu"
+        },
+        {
+          "key": "C",
+          "text": "Popüler kültür ile nitelikli sanatın tüketim hızı, işlev ve etki derinliği bakımından ayrıştığı"
+        },
+        {
+          "key": "D",
+          "text": "Eğlence odaklı eserlerin sanatsal değer taşımadığı"
+        },
+        {
+          "key": "E",
+          "text": "Sanatçıların popüler kültürün etkisinden tamamen uzak durması gerektiği"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Parçada popüler kültür ve yüksek sanatın tüketilme süreleri, bireyde yarattığı etkiler ve işlevleri karşılaştırılarak iki alan arasındaki temel farklılıklar vurgulanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-15",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Yalnızlık ile tek başınalık sıklıkla karıştırılan iki kavramdır. Yalnızlık, insanın çevresinde kimse olmamasından ziyade anlaşılamama ve soyutlanma hissidir; insan kalabalıklar içinde de yalnızlık çekebilir. Tek başınalık ise bireyin kendi arzusuyla kendi iç dünyasına çekilmesi, kendisiyle baş başa kalıp üretmesi ve tazelenmesidir. Yalnızlık bir yoksunluk durumuyken, tek başınalık bir zenginleşme ve özgürleşme alanıdır.\n\nBu parçaya göre 'tek başınalık' kavramının özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bireyin çevre tarafından dışlanması sonucu ortaya çıkan zorunlu bir durum olması"
+        },
+        {
+          "key": "B",
+          "text": "İnsanın kendi tercihiyle iç dünyasına yönelerek zihinsel ve ruhsal bir derinlik kazanması"
+        },
+        {
+          "key": "C",
+          "text": "Toplumsal yaşamdan tamamen koparak yalnızlığa mahkûm kalması"
+        },
+        {
+          "key": "D",
+          "text": "Kalabalık ortamlarda hissedilen yabancılaşma duygusunu ifade etmesi"
+        },
+        {
+          "key": "E",
+          "text": "İletişim becerilerinin zayıflığı sebebiyle ortaya çıkan psikolojik bir problem olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Metinde tek başınalık, bireyin kendi arzusuyla iç dünyasına çekilmesi, kendisiyle kalıp üretmesi ve zenginleşmesi olarak tanımlanmıştır. B seçeneği bu tanımı tam olarak karşılar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-16",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Sanatçının özgürlüğü, aklına gelen her şeyi sorumsuzca ifade etmesi anlamına gelmez. Gerçek sanatçı, eserini oluştururken estetik sorumluluğun yanı sıra insani değerlere karşı da bir duyarlılık taşır. Özgürlük, kuralsızlık veya karmaşa yaratmak değil; insan ruhunu yüceltecek sanatsal formları özgün biçimde yaratabilmektir. İnsanı ve toplumu tahrip eden bir söylem, özgürlük kılıfı altında meşrulaştırılamaz.\n\nBu parçadan çıkarılabilecek en kapsamlı yargı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sanatçı, eserlerini üretirken toplumsal kurallara harfiyen uymak zorundadır."
+        },
+        {
+          "key": "B",
+          "text": "Sanatsal özgürlük, insani değerler ve estetik sorumluluk bilinciyle anlam kazanır."
+        },
+        {
+          "key": "C",
+          "text": "Özgür olmayan toplumlarda nitelikli sanat eserlerinin ortaya çıkması imkânsızdır."
+        },
+        {
+          "key": "D",
+          "text": "Sanat eserlerinin değeri, ele aldığı konunun ahlaki boyutuna göre ölçülür."
+        },
+        {
+          "key": "E",
+          "text": "Kuralsızlık ve sınırsızlık, çağdaş sanatın en belirgin niteliğidir."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Parçada sanatsal özgürlüğün sınırsız kuralsızlık olmadığı, aksine insani değerler ve estetik sorumlulukla birlikte bulunması gerektiği anlatılmıştır. Bu da B seçeneğinde doğru verilmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-17",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Bilimsel araştırmalarda hata yapmak, sürecin doğal ve hatta gerekli bir parçasıdır. Pek çok büyük bilimsel buluş, hipotezlerin yanlışlanması ve yapılan hataların analiz edilmesi sayesinde gerçekleşmiştir. Hatadan korkan ve risk almayan bir bilim insanı, yalnızca var olan bilinenleri tekrarlar. İlerleme, başarısızlıkları birer öğrenme fırsatı olarak görüp yeni yollar denemekle mümkündür.\n\nBu parçaya göre bilimsel ilerlemenin temel koşulu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Daha önce denenmiş ve kanıtlanmış yöntemleri titizlikle uygulamak"
+        },
+        {
+          "key": "B",
+          "text": "Hata yapma riskini göze alarak başarısızlıklardan ders çıkarıp yeni yollar denemek"
+        },
+        {
+          "key": "C",
+          "text": "Araştırma bütçesini sürekli artırarak teknolojik imkânları kullanmak"
+        },
+        {
+          "key": "D",
+          "text": "Hipotezlerin doğruluğunu tartışmaya açmadan kabul etmek"
+        },
+        {
+          "key": "E",
+          "text": "Sadece teorik çalışmalara yoğunlaşıp pratik uygulamalardan kaçınmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Parçada hataların bilimin doğal parçası olduğu, risk alıp başarısızlıklardan öğrenerek yeni yollar denemenin ilerlemeyi sağladığı vurgulanmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-18",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Müzik, insanlığın evrensel dilidir. Farklı kültürlerden, dillerden ve dini inançlardan gelen insanlar, sözlerini anlamadıkları bir melodinin ritminde aynı duyguyu hissedebilir, aynı coşkuyu veya hüznü paylaşabilirler. Çünkü müzik, akla değil doğrudan duygulara ve bilinçaltına hitap eder. Bu yüzden müzik, sınırlar ötesinde insanlar arasında empati ve bağ kurmanın en kestirme yoludur.\n\nBu parçada müziğin hangi yönü üzerinde durulmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kültürden kültüre değişen yapısı ve yerel motifleri"
+        },
+        {
+          "key": "B",
+          "text": "İnsan zekâsını ve mantıksal düşünmeyi geliştirici etkisi"
+        },
+        {
+          "key": "C",
+          "text": "Farklı dilden ve kültürden insanları ortak duygularda buluşturan evrensel gücü"
+        },
+        {
+          "key": "D",
+          "text": "Tarih boyunca dini ritüellerde oynadığı birleştirici rol"
+        },
+        {
+          "key": "E",
+          "text": "Eğitim hayatında bireysel başarıyı artıran pedagojik katkısı"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Metinde müziğin evrensel dili sayesinde sözleri anlaşılmasa bile insanları aynı hüzün veya coşkuda birleştirdiği ve sınırlar ötesi bağ kurduğu vurgulanmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-19",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Bir şehrin ruhunu oluşturan şey yalnızca beton binaları, geniş caddeleri ve ulaşım ağları değildir. Şehrin asıl kimliği; o caddelerde yürüyen insanların anılarında, mahalle kültüründe, tarihi dokusunda ve sokaklarındaki yaşam ritminde saklıdır. Tarihi ve kültürel dokusunu koruyamayan, sürekli kentsel dönüşüm adı altında hafızasını yitiren şehirler, kimliksiz birer beton yığınına dönüşür.\n\nBu parçada bir şehrin kimliği ile ilgili olarak aşağıdakilerden hangisi vurgulanmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Binaların yüksekliği ve mimari tarzının modernliği"
+        },
+        {
+          "key": "B",
+          "text": "Ulaşım imkânlarının gelişmişliği ve kent içi düzeni"
+        },
+        {
+          "key": "C",
+          "text": "Tarihi dokusu, kültürel birikimi ve insanlarının ortak hafızası"
+        },
+        {
+          "key": "D",
+          "text": "Şehrin sunduğu ekonomik ve istihdam olanakları"
+        },
+        {
+          "key": "E",
+          "text": "Yeşil alanların oranı ve çevre düzenlemeleri"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Metinde şehrin asıl kimliğinin beton binalar değil; tarihi doku, mahalle kültür, insan anıları ve kent hafızası olduğu açıkça ifade edilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-paragraf-ana-fikir-20",
+      "topic_id": "topic-turkce-paragraf-ana-fikir",
+      "question_text": "Kitap okuma alışkanlığı, insanlara sadece bilgi kazandırmakla kalmaz; onların eleştirel düşünme yetisini geliştirir, empati duygusunu besler ve olaylara farklı açılardan bakabilme esnekliği kazandırır. Okumayan bireyler, kendilerine sunulan bilgileri sorgulamadan kabul etme eğilimindedir. Oysa nitelikli okumalar yapan bir zihin, dogma ve kalıplara hapsolmaz; her zaman gerçeğin peşinden gider.\n\nBu parçadan hareketle kitap okumanın bireye sağladığı en önemli kazanım aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplum içinde prestij ve saygınlık kazanmasını sağlaması"
+        },
+        {
+          "key": "B",
+          "text": "Eleştirel, sorgulayıcı ve çok yönlü bir düşünme becerisi kazandırması"
+        },
+        {
+          "key": "C",
+          "text": "İş hayatında hızlı kararlar almasını kolaylaştırması"
+        },
+        {
+          "key": "D",
+          "text": "Hızlı okuma tekniklerini öğrenerek zamandan tasarruf etmesi"
+        },
+        {
+          "key": "E",
+          "text": "Yalnızca akademik sınavlarda başarılı olmasını temin etmesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Parçada kitap okumanın kişiye kazandırdığı temel özelliğin eleştirel düşünme, sorgulama, kalıplara hapsolmama ve çok yönlü bakış açısı geliştirmek olduğu belirtilmiştir.",
+      "difficulty_level": 3
+    }
+  ]
+}

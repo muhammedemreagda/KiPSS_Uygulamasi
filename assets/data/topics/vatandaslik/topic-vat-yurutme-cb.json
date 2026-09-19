@@ -1,0 +1,1727 @@
+{
+  "topic_id": "topic-vat-yurutme-cb",
+  "title": "Yürütme Organı & Cumhurbaşkanlığı Sistemi",
+  "course_id": "course-vatandaslik",
+  "question_count": 55,
+  "quick_note": {
+    "id": "qn-topic-vat-yurutme-cb",
+    "topic_id": "topic-vat-yurutme-cb",
+    "title": "Yürütme Organı & Cumhurbaşkanlığı Sistemi Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'Yürütme Organı & Cumhurbaşkanlığı Sistemi' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "Yürütme Organı & Cumhurbaşkanlığı Sistemi konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nYürütme Organı & Cumhurbaşkanlığı Sistemi konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. Yürütme Organı & Cumhurbaşkanlığı Sistemi konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Cumhurbaşkanı Seçilme Şartları",
+        "body": "Türk vatandaşı olmak, 40 yaşını doldurmak, yükseköğrenim (üniversite) mezunu olmak ve milletvekili seçilme yeterliliğine sahip olmak."
+      },
+      {
+        "card_number": 2,
+        "title": "Cumhurbaşkanı Seçim Usulü",
+        "body": "Halk tarafından seçilir. Görev süresi 5 YILDIR. Bir kimse en fazla İKİ DEFA Cumhurbaşkanı seçilebilir."
+      },
+      {
+        "card_number": 3,
+        "title": "Cumhurbaşkanlığına Aday Gösterme",
+        "body": "Siyasi parti grupları, en son seçimde tek başına veya toplamda en az %5 oy almış partiler veya en az 100 BİN SEÇMEN aday gösterebilir."
+      },
+      {
+        "card_number": 4,
+        "title": "Cumhurbaşkanı Seçimi Kazanma Oranı",
+        "body": "Geçerli oyların SALT ÇOĞUNLUĞUNU (%50 + 1 oy) alan aday Cumhurbaşkanı seçilir."
+      },
+      {
+        "card_number": 5,
+        "title": "Cumhurbaşkanına Vekalet Etme",
+        "body": "Cumhurbaşkanlığı makamının boşalması veya hastalık/yurtdışı durumlarında CUMHURBAŞKANI YARDIMCISI vekalet eder."
+      },
+      {
+        "card_number": 6,
+        "title": "Cumhurbaşkanlığı Kararnamesi (CBK)",
+        "body": "Yürütme yetkisine ilişkin konularda çıkarılır. Temel haklar, kişisel haklar ve siyasi haklar CBK ile DÜZENLENEMEZ (Sadece Sosyal Haklar düzenlenebilir)."
+      },
+      {
+        "card_number": 7,
+        "title": "Olağanüstü Hal (OHAL) CBK'sı",
+        "body": "OHAL durumlarında çıkarılır. Hak ve özgürlükler kısıtlanabilir. Resmi Gazetede yayımlandığı gün TBMM onayına sunulur."
+      },
+      {
+        "card_number": 8,
+        "title": "OHAL İlan Etme Yetkisi",
+        "body": "Tabii afet, ağır ekonomik kriz veya şiddet olaylarında OLAĞANÜSTÜ HALİ CUMHURBAŞKANI İLAN EDER. Süresi en fazla 6 aydır, uzatma yetkisi TBMM'ye aittir."
+      },
+      {
+        "card_number": 9,
+        "title": "Cumhurbaşkanının Cezai Sorumluluğu",
+        "body": "Suç işlediği iddiasıyla TBMM üye tamsayısının 3/10'unun teklifi, 3/5'inin kararıyla soruşturma açılır. 2/3 (400) kararla Yüce Divan'a sevk edilir."
+      },
+      {
+        "card_number": 10,
+        "title": "Devlet Denetleme Kurulu (DDK)",
+        "body": "Cumhurbaşkanlığına bağlıdır. Başkan ve üyelerini Cumhurbaşkanı atar. Yargı organları HARİÇ tüm kamu kurum ve kuruluşlarını denetler."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-yurutme-cb-54",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Olağanüstü Hal (OHAL) sürecinde çıkarılan 'Cumhurbaşkanlığı Kararnamesi' ile ilgili hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Meclis tarafından çıkarılır"
+        },
+        {
+          "key": "B",
+          "text": "Olağan dönemin aksine temel haklara sınırlama getirebilir"
+        },
+        {
+          "key": "C",
+          "text": "Yargısal denetimi Anayasa Mahkemesi'nde yapılamaz"
+        },
+        {
+          "key": "D",
+          "text": "Kanunlara aykırı olamaz"
+        },
+        {
+          "key": "E",
+          "text": "Sadece bütçe düzenleyebilir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "OHAL Cumhurbaşkanlığı kararnameleri olağanüstü halin gerekli kıldığı konularda temel hak ve hürriyetleri sınırlayabilir veya durdurabilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-64",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının 'seçilebilmesi' için gereken şartlar arasında hangisi yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türk vatandaşı olmak"
+        },
+        {
+          "key": "B",
+          "text": "Yükseköğrenim yapmış olmak"
+        },
+        {
+          "key": "C",
+          "text": "40 yaşını doldurmuş olmak"
+        },
+        {
+          "key": "D",
+          "text": "Milletvekili seçilme yeterliliğine sahip olmak"
+        },
+        {
+          "key": "E",
+          "text": "Askerlik hizmetini fiilen yapmış olmak"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Cumhurbaşkanı adayı için fiilen askerlik yapma şartı aranmaz; ancak 40 yaş, yükseköğrenim ve milletvekili seçilme yeterliliği Anayasa Madde 101 gereğince şarttır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-104",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının 'Milli Güvenlik Kurulu' (MGK) ile ilgili yetkisi ve konumu hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kurulun doğal üyesi değildir"
+        },
+        {
+          "key": "B",
+          "text": "Milli Güvenlik Kurulu'na başkanlık eder"
+        },
+        {
+          "key": "C",
+          "text": "Kurulun kararları Cumhurbaşkanını bağlar"
+        },
+        {
+          "key": "D",
+          "text": "Kurul üyelerini sadece TBMM seçer"
+        },
+        {
+          "key": "E",
+          "text": "Kurul ayda bir kez toplanmak zorundadır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, Milli Güvenlik Kurulu'na başkanlık eder; kurul tavsiye niteliğinde kararlar alır ve 2 ayda bir toplanır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-114",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının, kanunları yayımlamayıp bir kez daha görüşülmek üzere TBMM'ye geri göndermesi yetkisine ne ad verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İptal davası"
+        },
+        {
+          "key": "B",
+          "text": "Veto (Geri gönderme)"
+        },
+        {
+          "key": "C",
+          "text": "Fesih yetkisi"
+        },
+        {
+          "key": "D",
+          "text": "Soruşturma istemi"
+        },
+        {
+          "key": "E",
+          "text": "Yayımlama zorunluluğu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, yayımlanmasını uygun bulmadığı kanunları gerekçesiyle birlikte 15 gün içinde TBMM'ye geri gönderir (Veto). Bütçe kanunu istisnadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-124",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "1982 Anayasası'na göre Cumhurbaşkanının 'seçilebilme' yaşı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "45"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Cumhurbaşkanı adayı olabilmek için 40 yaşını doldurmuş olmak gerekir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-134",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Olağan dönem Cumhurbaşkanlığı kararnamesi ile aşağıdaki alanlardan hangisi düzenlenemez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İdari teşkilat"
+        },
+        {
+          "key": "B",
+          "text": "Temel haklar, kişi hakları ve siyasi haklar"
+        },
+        {
+          "key": "C",
+          "text": "Kamu hizmetlerinin yürütülmesi"
+        },
+        {
+          "key": "D",
+          "text": "Kurumların çalışma usulleri"
+        },
+        {
+          "key": "E",
+          "text": "Bakanlıkların kurulması ve kaldırılması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre temel haklar, kişi hakları ve siyasi haklar sadece kanunla düzenlenebilir; olağan CBK ile düzenlenemez.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-144",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Anayasa'ya göre Cumhurbaşkanının Bütçe Kanunu teklifini geri gönderme (veto etme) yetkisi var mıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, her zaman vardır"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, bütçe kanununu veto etme yetkisi yoktur"
+        },
+        {
+          "key": "C",
+          "text": "Sadece bütçe açığı varsa vardır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis isterse vardır"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Anayasa Mahkemesi kararıyla vardır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa gereğince Cumhurbaşkanı bütçe kanunlarını veto edemez (geri gönderemez); yayımlamakla yükümlüdür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-1",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "1982 Anayasası'na göre Cumhurbaşkanı'nın görev süresi kaç yıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanının görev süresi 5 yıldır ve bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-2",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı adayı olabilmek için gereken yaş sınırı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "35"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "45"
+        },
+        {
+          "key": "E",
+          "text": "50"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhurbaşkanı seçilebilmek için 40 yaşını doldurmuş olmak gerekir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-3",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı kim tarafından seçilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM tarafından"
+        },
+        {
+          "key": "B",
+          "text": "Halk tarafından doğrudan"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi tarafından"
+        },
+        {
+          "key": "D",
+          "text": "Yargıtay tarafından"
+        },
+        {
+          "key": "E",
+          "text": "Hükümet tarafından"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "2007 değişikliği ile Cumhurbaşkanı halk tarafından doğrudan seçilmektedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-4",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Aşağıdakilerden hangisi Cumhurbaşkanının görev ve yetkileri arasında yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milletlerarası antlaşmaları onaylamak ve yayımlamak"
+        },
+        {
+          "key": "B",
+          "text": "Kanunları yayımlamak"
+        },
+        {
+          "key": "C",
+          "text": "Yargıtay üyelerini seçmek"
+        },
+        {
+          "key": "D",
+          "text": "Genelkurmay Başkanı'nı atamak"
+        },
+        {
+          "key": "E",
+          "text": "Kanun teklif etmek"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Kanun teklif etme yetkisi sadece milletvekillerine aittir (bütçe hariç); Cumhurbaşkanının kanun teklif etme yetkisi yoktur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-5",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Olağanüstü Hal (OHAL) ilan etme yetkisi kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "C",
+          "text": "İçişleri Bakanı"
+        },
+        {
+          "key": "D",
+          "text": "Milli Güvenlik Kurulu"
+        },
+        {
+          "key": "E",
+          "text": "Yargıtay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre OHAL ilan etme yetkisi Cumhurbaşkanına aittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-7",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı yardımcılarını ve bakanları kim atar ve görevlerine son verir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "Halk"
+        },
+        {
+          "key": "E",
+          "text": "Bakanlar Kurulu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhurbaşkanı yardımcıları ve bakanlar doğrudan Cumhurbaşkanı tarafından atanır ve görevden alınır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-8",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının veto yetkisi kapsamında kanunu yayımlama veya Meclise geri gönderme süresi kaç gündür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhurbaşkanı, TBMM'den gelen kanunları 15 gün içinde yayımlar veya bir kez daha görüşülmek üzere veto ederek geri gönderir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-9",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı bütçe kanun teklifini veto edebilir mi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, her durumda"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, bütçe kanununu veto edemez"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Anayasa Mahkemesi isterse"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis isterse"
+        },
+        {
+          "key": "E",
+          "text": "Sadece eksiklik varsa"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa uyarınca Cumhurbaşkanı bütçe kanununu geri gönderemez (veto edemez).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-10",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, Meclis'in kanun görüşmelerine katılır mı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, her zaman"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, katılamaz"
+        },
+        {
+          "key": "C",
+          "text": "Sadece yasama yılı açılışında konuşabilir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece veto ederken"
+        },
+        {
+          "key": "E",
+          "text": "Sadece oylamada"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı milletvekili olmadığı için Meclis kanun görüşmelerine katılamaz (yasama yılı açılışında mesaj verebilir).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-11",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının Yüce Divan'a sevki kararı için TBMM Genel Kurulu'nda aranan oy oranı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Salt çoğunluk (301)"
+        },
+        {
+          "key": "B",
+          "text": "3/5 (360)"
+        },
+        {
+          "key": "C",
+          "text": "2/3 (400)"
+        },
+        {
+          "key": "D",
+          "text": "Üye tamsayısının tamamı"
+        },
+        {
+          "key": "E",
+          "text": "500"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhurbaşkanının Yüce Divana sevki için üye tamsayısının 2/3 (400) oyu gerekir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-12",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı Yardımcıları ve Bakanlar TBMM'ye karşı siyasi olarak sorumlu mudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet, doğrudan"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, doğrudan Cumhurbaşkanına karşı sorumludurlar"
+        },
+        {
+          "key": "C",
+          "text": "Sadece bütçe hakkında"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis Başkanı isterse"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Anayasa Mahkemesi huzurunda"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı yardımcıları ve bakanlar doğrudan Cumhurbaşkanına karşı sorumludur, TBMM'ye karşı siyasi sorumlulukları yoktur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-13",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanlığı Kararnamesi aksine bir tarih belirtilmemişse ne zaman yürürlüğe girer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM kabul edince"
+        },
+        {
+          "key": "B",
+          "text": "Resmi Gazete'de yayımlandığı gün"
+        },
+        {
+          "key": "C",
+          "text": "İmzalandığı gün"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa Mahkemesi onaylayınca"
+        },
+        {
+          "key": "E",
+          "text": "Valilik ilan edince"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kararnameler, yayımlandıkları gün yürürlüğe girer.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-14",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı adayı kimler tarafından gösterilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Meclis Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi parti grupları, son seçimde %5 alan partiler veya 100.000 seçmen"
+        },
+        {
+          "key": "C",
+          "text": "Sadece YSK"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Hükümet"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı adayı siyasi parti grupları, toplam geçerli oyların tek başına veya birlikte en az %5'ini almış partiler ya da en az 100.000 seçmen tarafından gösterilebilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-15",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı'nın 'yürütme' erki içindeki konumu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargı başıdır"
+        },
+        {
+          "key": "B",
+          "text": "Devletin başıdır ve yürütme yetkisi tek başına Cumhurbaşkanına aittir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece kanun teklifi verir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bütçe yapar"
+        },
+        {
+          "key": "E",
+          "text": "Sadece asker atar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, devletin başıdır ve yürütme yetkisi Cumhurbaşkanına aittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-16",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, Milli Güvenlik Kurulu toplantısında hangi sıfata sahiptir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gözlemci"
+        },
+        {
+          "key": "B",
+          "text": "Kurul Başkanı"
+        },
+        {
+          "key": "C",
+          "text": "Sadece üye"
+        },
+        {
+          "key": "D",
+          "text": "Sadece dinleyici"
+        },
+        {
+          "key": "E",
+          "text": "Raportör"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, Milli Güvenlik Kurulu'na başkanlık eder.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-18",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı yardımcılarını atama ve görevden alma yetkisi kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "Halk"
+        },
+        {
+          "key": "E",
+          "text": "Bakanlar Kurulu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhurbaşkanı yardımcılarını atama ve görevden alma yetkisi tamamen Cumhurbaşkanına aittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-19",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı adaylığı için Anayasa'da hangi öğrenim şartı aranır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yükseköğrenim (Üniversite) mezunu olmak"
+        },
+        {
+          "key": "B",
+          "text": "Lise mezunu olmak"
+        },
+        {
+          "key": "C",
+          "text": "İlkokul mezunu olmak"
+        },
+        {
+          "key": "D",
+          "text": "Doktora diploması"
+        },
+        {
+          "key": "E",
+          "text": "Eğitim şartı yoktur"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Cumhurbaşkanı adayı olabilmek için yükseköğrenim (lisans) mezunu olmak şarttır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-20",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Bir kimse en fazla kaç defa Cumhurbaşkanı seçilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "Ömür boyu"
+        },
+        {
+          "key": "E",
+          "text": "4"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre bir kişi en fazla iki defa Cumhurbaşkanı seçilebilir (İstisna: TBMM'nin 2. dönemde seçimleri yenilemesi).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-21",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, Meclis ve Cumhurbaşkanlığı seçimlerini yenileme (erken seçim) kararını nasıl alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece sebep göstermek kaydıyla"
+        },
+        {
+          "key": "B",
+          "text": "Herhangi bir gerekçe göstermeksizin doğrudan karar alabilir"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Meclis onay verirse"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yargı kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Sadece kriz anında"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, herhangi bir gerekçe göstermeksizin seçimlerin yenilenmesine karar verebilir; bu durumda her iki seçim birlikte yapılır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-22",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanlığı kararnamesi ile kanunlar çelişirse hangisi esas alınır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanlığı Kararnamesi"
+        },
+        {
+          "key": "B",
+          "text": "Kanun hükümleri esas alınır"
+        },
+        {
+          "key": "C",
+          "text": "İkisi de geçersiz kalır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bakanlık kararı uygulanır"
+        },
+        {
+          "key": "E",
+          "text": "Seçim yenilenir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa Madde 104 gereği kanun ile Cumhurbaşkanlığı Kararnamesinde farklı hükümler bulunması halinde kanun hükümleri uygulanır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-23",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanlığı kararnamesi Anayasa'ya aykırı olabilir mi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet"
+        },
+        {
+          "key": "B",
+          "text": "Hayır, Anayasa'ya ve açık kanun hükümlerine aykırı olamaz"
+        },
+        {
+          "key": "C",
+          "text": "Sadece OHAL'de olabilir"
+        },
+        {
+          "key": "D",
+          "text": "Sadece savaşta olabilir"
+        },
+        {
+          "key": "E",
+          "text": "Sadece bütçede olabilir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanlığı kararnameleri anayasaya ve kanunlara aykırı olamaz.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-24",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, üst kademe kamu yöneticilerini nasıl atar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınavla"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanlığı kararnamesinde belirtilen usullere göre atama yetkisiyle"
+        },
+        {
+          "key": "C",
+          "text": "TBMM'nin seçimiyle"
+        },
+        {
+          "key": "D",
+          "text": "Halkın oylarıyla"
+        },
+        {
+          "key": "E",
+          "text": "Partilerin önerisiyle"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Üst kademe kamu yöneticilerinin atanması ve görevden alınması Cumhurbaşkanlığı Kararnamesi ile düzenlenir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-25",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı hakkında bir suç işlediği iddiasıyla Meclis soruşturması açılması teklifi en az kaç milletvekilinin imzasıyla verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "301 (Üye tamsayısının salt çoğunluğu)"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "360"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "151"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Cumhurbaşkanı hakkında soruşturma açılması için üye tamsayısının salt çoğunluğu (301) milletvekilinin teklifi gerekir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-26",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının 'yürütme' yetki ve görevi Anayasa'nın hangi düzenlemesine dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece kanunlara"
+        },
+        {
+          "key": "B",
+          "text": "Doğrudan Anayasa'nın 8. ve 104. maddelerine"
+        },
+        {
+          "key": "C",
+          "text": "Meclisin emrine"
+        },
+        {
+          "key": "D",
+          "text": "Partisinin kararına"
+        },
+        {
+          "key": "E",
+          "text": "Halkın isteğine"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından Anayasa ve kanunlara uygun olarak kullanılır ve yerine getirilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-27",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Milletvekili olan bir kişi Cumhurbaşkanı seçilirse milletvekilliği durumu ne olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İkisi birlikte devam eder"
+        },
+        {
+          "key": "B",
+          "text": "Milletvekilliği kendiliğinden sona erer"
+        },
+        {
+          "key": "C",
+          "text": "Sadece bir yıl için dondurulur"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis isterse düşer"
+        },
+        {
+          "key": "E",
+          "text": "Sadece yargı isterse düşer"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı seçilen milletvekilinin TBMM üyeliği kendiliğinden sona erer.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-28",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanına karşı cezai sorumluluk kapsamında Meclis Soruşturması açma yetkisi hangi organadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "C",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanlığı Kabinesi"
+        },
+        {
+          "key": "E",
+          "text": "HSK"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Cumhurbaşkanına karşı Meclis Soruşturması açma yetkisi TBMM'ye aittir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-29",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının 'kararname' çıkarma yetkisi doğrudan nereden kaynaklanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kanundan"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa'dan (Madde 104)"
+        },
+        {
+          "key": "C",
+          "text": "Meclis Başkanı'ndan"
+        },
+        {
+          "key": "D",
+          "text": "Yargıtay'dan"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi'nden"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanlığı kararnamesi çıkarma yetkisi doğrudan Anayasa'dan kaynaklanan asli bir yetkidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-30",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanlığı Kararnamelerinin anayasaya uygunluk denetimini hangi mahkeme yapar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danıştay"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "C",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "D",
+          "text": "Uyuşmazlık Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Sayıştay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanlığı kararnamelerinin anayasaya şekil ve esas bakımlarından uygunluğunu Anayasa Mahkemesi denetler.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-31",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı adaylığında '100.000 seçmen' imzası kuralı kimler içindir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece parti başkanları"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi parti grubu bulunmayan bağımsız aday gösterilecek kişiler için"
+        },
+        {
+          "key": "C",
+          "text": "Sadece meclisteki partiler"
+        },
+        {
+          "key": "D",
+          "text": "YSK üyeleri"
+        },
+        {
+          "key": "E",
+          "text": "Bakanlar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Siyasi parti grubu olmayan adayların Cumhurbaşkanı adayı gösterilebilmesi için 100.000 seçmenin imzası şarttır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-32",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının üst kademe kamu yöneticilerini ataması hangi yönetim ilkesinin bir parçasıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Parlamenter sistem"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanlığı Hükümet Sistemi (Yürütmenin tekliği)"
+        },
+        {
+          "key": "C",
+          "text": "Meclis hükümeti"
+        },
+        {
+          "key": "D",
+          "text": "Yarı başkanlık"
+        },
+        {
+          "key": "E",
+          "text": "Mutlak monarşi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanının yürütmenin tüm kamu yönetim birimlerine hakim olması Cumhurbaşkanlığı Hükümet Sistemi esasıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-33",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı veto ettiği kanunu TBMM üye tamsayısının salt çoğunluğu ile (301) aynen kabul ederse ne yapmak zorundadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kanunu yayımlamak zorundadır"
+        },
+        {
+          "key": "B",
+          "text": "Tekrar veto edebilir"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi'ne götüremez"
+        },
+        {
+          "key": "D",
+          "text": "Seçimleri yeniler"
+        },
+        {
+          "key": "E",
+          "text": "Referanduma götürür"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Meclis veto edilen kanunu üye tamsayısının salt çoğunluğuyla (301) aynen kabul ederse Cumhurbaşkanı kanunu yayımlamak zorundadır (Ancak AYM'de iptal davası açabilir).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-34",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, milletlerarası antlaşmaları onaylama yetkisini neye dayanarak kullanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM'nin çıkaracağı uygun bulma kanununa dayanarak"
+        },
+        {
+          "key": "B",
+          "text": "Doğrudan kendi kararıyla"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Meclis Başkanı imzasıyla"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yargı kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Halk oylamasıyla"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Milletlerarası antlaşmaların onaylanması TBMM'nin onaylamayı bir kanunla uygun bulmasına bağlıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-35",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanlığı Kararnamesi hangi konularda kesinlikle çıkarılamaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anayasa'da açıkça kanunla düzenlenmesi öngörülen konularda"
+        },
+        {
+          "key": "B",
+          "text": "İdari teşkilatta"
+        },
+        {
+          "key": "C",
+          "text": "Bakanlık kuruluşlarında"
+        },
+        {
+          "key": "D",
+          "text": "Kamu kurumlarının yapısında"
+        },
+        {
+          "key": "E",
+          "text": "Memur kadrolarında"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'da açıkça kanunla düzenlenmesi öngörülen konularda ve kanunlarda açıkça düzenlenen konularda Cumhurbaşkanlığı kararnamesi çıkarılamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-36",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı kabinedeki bakanları hangi yöntemle belirler?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM'nin seçimiyle"
+        },
+        {
+          "key": "B",
+          "text": "Doğrudan kendi atama kararıyla"
+        },
+        {
+          "key": "C",
+          "text": "Parti meclislerinin oyuyla"
+        },
+        {
+          "key": "D",
+          "text": "Valilerin önerisiyle"
+        },
+        {
+          "key": "E",
+          "text": "Halk oylamasıyla"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bakanları doğrudan atama yetkisi Cumhurbaşkanına aittir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-37",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Milletvekili olan bir kişi Bakan olarak atanırsa vekillik görevi ne olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İki görevi birlikte yürütür"
+        },
+        {
+          "key": "B",
+          "text": "Milletvekilliği kendiliğinden sona erer"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Meclis isterse düşer"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Anayasa Mahkemesi isterse düşer"
+        },
+        {
+          "key": "E",
+          "text": "Sadece bir yıl için dondurulur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM üyeleri, Cumhurbaşkanı yardımcısı veya bakan olarak atanırlarsa üyelikleri kendiliğinden sona erer.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-38",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı yardımcıları ve bakanların taşıması gereken temel Anayasal şart nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milletvekili seçilme yeterliliğine sahip olmak"
+        },
+        {
+          "key": "B",
+          "text": "Üniversitede profesör olmak"
+        },
+        {
+          "key": "C",
+          "text": "Valilik yapmış olmak"
+        },
+        {
+          "key": "D",
+          "text": "40 yaşını doldurmuş olmak"
+        },
+        {
+          "key": "E",
+          "text": "Siyasi parti üyesi olmak"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Cumhurbaşkanı yardımcıları ve bakanlar, milletvekili seçilme yeterliliğine sahip olanlar arasından atanırlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-39",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı milli güvenlik politikalarını hangi kurulun görüşünü alarak belirler?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM"
+        },
+        {
+          "key": "B",
+          "text": "Milli Güvenlik Kurulu (MGK)"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Yargıtay"
+        },
+        {
+          "key": "E",
+          "text": "Danıştay"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanı, devletin milli güvenlik politikalarını belirler ve gerekli tedbirleri alırken MGK'nın görüşünü değerlendirir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-40",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının yabancı devletlere Türkiye Cumhuriyeti'nin temsilcilerini göndermesi ve yabancı devlet temsilcilerini kabul etmesi hangi yetki grubundadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yürütme yetkisi"
+        },
+        {
+          "key": "B",
+          "text": "Yasama yetkisi"
+        },
+        {
+          "key": "C",
+          "text": "Yargı yetkisi"
+        },
+        {
+          "key": "D",
+          "text": "Askeri yetki"
+        },
+        {
+          "key": "E",
+          "text": "Mahalli yetki"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Diplomatik temsil yetkisi Cumhurbaşkanının yürütme erki kapsamındaki Anayasal yetkisidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-41",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının 'yürütme' yetkisi içinde aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üst kademe kamu yöneticilerini atamak"
+        },
+        {
+          "key": "B",
+          "text": "Kanun teklifi vermek"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanlığı kararnamesi çıkarmak"
+        },
+        {
+          "key": "D",
+          "text": "Bakanları atamak"
+        },
+        {
+          "key": "E",
+          "text": "Milli güvenlik politikasını belirlemek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kanun teklifi yetkisi milletvekillerine aittir, Cumhurbaşkanına değil (Bütçe hariç).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-42",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, ilan ettiği OHAL kararını onaylanmak üzere hangi gün TBMM'ye sunar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "OHAL ilan edildiği gün"
+        },
+        {
+          "key": "B",
+          "text": "15 gün sonra"
+        },
+        {
+          "key": "C",
+          "text": "30 gün sonra"
+        },
+        {
+          "key": "D",
+          "text": "1 ay sonra"
+        },
+        {
+          "key": "E",
+          "text": "Seçimden sonra"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Olağanüstü hal ilanı kararı, verildiği gün Resmi Gazete'de yayımlanır ve aynı gün TBMM'nin onayına sunulur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-43",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı yardımcılarının sayısı ile ilgili Anayasa hükmü nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sayı sınırı belirtilmemiştir; Cumhurbaşkanı bir veya daha fazla yardımcı atayabilir"
+        },
+        {
+          "key": "B",
+          "text": "En az 2 olmak zorundadır"
+        },
+        {
+          "key": "C",
+          "text": "En fazla 3 olabilir"
+        },
+        {
+          "key": "D",
+          "text": "Tek bir yardımcı atanır"
+        },
+        {
+          "key": "E",
+          "text": "Meclis belirler"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'da Cumhurbaşkanı yardımcılarının sayısı belirtilmemiş olup, Cumhurbaşkanının takdirindedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-44",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, MGK kararlarını hukuken nasıl değerlendirir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "MGK kararları tavsiye niteliğindedir, Cumhurbaşkanı öncelikle değerlendirir"
+        },
+        {
+          "key": "B",
+          "text": "Doğrudan bağlayıcıdır"
+        },
+        {
+          "key": "C",
+          "text": "İptal etmek zorundadır"
+        },
+        {
+          "key": "D",
+          "text": "Yargıya gönderir"
+        },
+        {
+          "key": "E",
+          "text": "Halk oylamasına sunar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "MGK kararları tavsiye niteliğindedir; Cumhurbaşkanı bu kararları değerlendirir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-45",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Bakanlıkların kurulması, kaldırılması, görevleri ve yetkileri ne ile düzenlenir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece kanunla"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanlığı Kararnamesi ile"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Meclis kararıyla"
+        },
+        {
+          "key": "D",
+          "text": "Halk oylamasıyla"
+        },
+        {
+          "key": "E",
+          "text": "Sadece yargı kararıyla"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "104. madde uyarınca bakanlıkların kurulması, kaldırılması, görevleri ve teşkilat yapısı Cumhurbaşkanlığı Kararnamesi ile düzenlenir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-46",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının görev süresi resmen ne zaman başlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçim sonuçları ilan edilince"
+        },
+        {
+          "key": "B",
+          "text": "TBMM Genel Kurulu'nda andiçtiği (yemin ettiği) gün"
+        },
+        {
+          "key": "C",
+          "text": "Mazbatasını aldığı an"
+        },
+        {
+          "key": "D",
+          "text": "Meclis açılınca"
+        },
+        {
+          "key": "E",
+          "text": "Yıl başında"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanının görevi, TBMM Genel Kurulu'nda andiçtiği gün başlar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-47",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanlığına bağlı olan Devlet Denetleme Kurulu (DDK) hangi organ haricinde inceleme ve denetleme yapabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargı organları"
+        },
+        {
+          "key": "B",
+          "text": "Belediyeler"
+        },
+        {
+          "key": "C",
+          "text": "Bakanlıklar"
+        },
+        {
+          "key": "D",
+          "text": "Sendikalar"
+        },
+        {
+          "key": "E",
+          "text": "Kamu iktisadi teşebbüsleri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Devlet Denetleme Kurulu, yargı organları dışındaki tüm kamu kurum ve kuruluşlarında, meslek kuruluşlarında, sendikalarda inceleme, araştırma ve denetleme yapar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-48",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, Yargıtay Cumhuriyet Başsavcısı ve Vekilini kimlerin arasından seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargıtay Genel Kurulu'nun belirlediği adaylar arasından"
+        },
+        {
+          "key": "B",
+          "text": "TBMM üyeleri arasından"
+        },
+        {
+          "key": "C",
+          "text": "Anayasa Mahkemesi üyeleri arasından"
+        },
+        {
+          "key": "D",
+          "text": "HSK üyeleri arasından"
+        },
+        {
+          "key": "E",
+          "text": "Sadece avukatlar arasından"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yargıtay Cumhuriyet Başsavcısı, Yargıtay Genel Kurulu'nun kendi üyeleri arasından göstereceği adaylar arasından Cumhurbaşkanı tarafından 4 yıl için seçilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-49",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanı, Anayasa Mahkemesi'nin 15 üyesinden kaç tanesini doğrudan veya aday gösterilenler arasından seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "10"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa Mahkemesi'nin 15 üyesinin 12'sini Cumhurbaşkanı, 3'ünü TBMM seçer.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yurutme-cb-50",
+      "topic_id": "topic-vat-yurutme-cb",
+      "question_text": "Cumhurbaşkanının TBMM üyesi olamamasının ve meclis oylamalarına katılamamasının temel sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Meclis Başkanının kararı"
+        },
+        {
+          "key": "B",
+          "text": "Kuvvetler ayrılığı ilkesi gereği yürütme ve yasama erkinin ayrılmış olması"
+        },
+        {
+          "key": "C",
+          "text": "Meclisin güvenliği"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yargı kararı"
+        },
+        {
+          "key": "E",
+          "text": "Sadece tatil olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Cumhurbaşkanlığı Hükümet Sisteminde yürütme organının başı olan Cumhurbaşkanı, yasama organının üyesi olamaz ve oylamalarına katılamaz.",
+      "difficulty_level": 3
+    }
+  ]
+}

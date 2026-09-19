@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-turkce-anlatim-bicimleri",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Öyküleyici Anlatım (Öyküleme)",
+      "body": "Olay, kişi, yer ve zaman ögelerine dayanır. Olaylar bir film şeridi gibi akıp gider; hareket ve eylem ön plandadır."
+    },
+    {
+      "card_number": 2,
+      "title": "Betimleyici Anlatım (Betimleme)",
+      "body": "Kelimelerle resim çizme sanatıdır. Duyu organlarına hitap eden sıfatlar ve görsellik ön plandadır, eylem durağandır."
+    },
+    {
+      "card_number": 3,
+      "title": "Açıklayıcı Anlatım (Açıklama)",
+      "body": "Okuyucuya bilgi vermek, öğretmek amacıyla yazılır. Sade, nesnel ve yalın bir dil kullanılır; makale ve ders kitaplarında yaygındır."
+    },
+    {
+      "card_number": 4,
+      "title": "Tartışmacı Anlatım (Tartışma)",
+      "body": "Yerleşik bir düşünceyi değiştirmek veya kendi görüşünü kabul ettirmek için yazılır. 'Sizce de öyle değil mi?', 'Bence...' gibi ifadeler içerir."
+    },
+    {
+      "card_number": 5,
+      "title": "Tanımlama İpucu",
+      "body": "'Bu nedir?' sorusuna yanıt veren, -dır/-dir veya 'denir' ile biten cümlelerdir. Örnek: 'Şiir, duyguların ritmik ifadesidir.'"
+    },
+    {
+      "card_number": 6,
+      "title": "Örnekleme İpucu",
+      "body": "Soyut bir düşünceyi somutlaştırmak için konuyla ilgili bilinen nesne, kişi veya eser isimlerinin sıralanmasıdır."
+    },
+    {
+      "card_number": 7,
+      "title": "Tanık Gösterme (Alıntı Yapma)",
+      "body": "Düşünceyi inandırıcı kılmak için alanında uzman bir kişinin ismiyle birlikte sözünün birebir aktarılmasıdır."
+    },
+    {
+      "card_number": 8,
+      "title": "Karşılaştırma İpucu",
+      "body": "İki kavram, olay veya durum arasındaki benzerlik ya da farklılıkların 'en', 'daha', 'ise', 'göre' sözcükleriyle ortaya konmasıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Sayısal Verilerden Yararlanma",
+      "body": "Düşünceyi kanıtlamak için anket, istatistik, grafik veya araştırma sonuçlarına ait rakamsal verilerin kullanılmasıdır."
+    },
+    {
+      "card_number": 10,
+      "title": "Benzetme İpucu",
+      "body": "Aralarında ilgi bulunan iki şeyden zayıf olanın güçlü olana 'gibi', 'sanki', 'adeta' kelimeleriyle benzetilmesidir."
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-cog-tarim-hayvancilik",
+  "title": "Türkiye'de Tarım ve Hayvancılık",
+  "course_id": "course-cografya",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-cog-tarim-hayvancilik",
+    "topic_id": "topic-cog-tarim-hayvancilik",
+    "title": "Türkiye'de Tarım ve Hayvancılık Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Coğrafya testinde 'Türkiye'de Tarım ve Hayvancılık' konusu, Türkiye'nin fiziki, beşeri ve ekonomik coğrafyası ile harita okuma becerisini sorgulayan görsel ve mantıksal bir alandır.",
+    "content": "Türkiye'de Tarım ve Hayvancılık konusu, KPSS Coğrafya sorularının temelini oluşturur. Coğrafya dersinde başarılı olmanın anahtarı harita bilgisini teorik bilgiyle birleştirmektir.\n\n1. Coğrafi Özellikler ve Dağılış ilkeleri:\nTürkiye'de Tarım ve Hayvancılık başlığı altında incelenen olgular, Türkiye'nin coğrafi konumu, yükseltisi, iklim koşulları ve insan faaliyetleriyle doğrudan ilişkilidir. Nedensellik ve dağılış ilkeleri coğrafyanın temelidir.\n\n2. ÖSYM'nin Vurguladığı Alanlar:\n- Harita üzerinde işaretli merkezlerin iklim, yer şekli veya ekonomik potansiyelini okuma.\n- Karstik, volkanik, kıvrım veya kırık oluşumlu yer şekillerinin coğrafi dağılışı.\n- Tarım ürünleri ve madenlerde ham maddeye yakınlık, ulaşım veya pazarlama kolaylığı ilkesi.\n\n3. Soru Çözüm Taktikleri:\n- Haritalı sorularda işaretli noktalara bakarken hemen o bölgenin iklimini ve arazi yapısını anımsayın.\n- İstatistiksel sorularda 'miktar' ile 'oran' kavramlarını birbirine karıştırmayın.",
+    "key_points": [
+      "1. Türkiye'de Tarım ve Hayvancılık konusundaki dağılışları mutlaka dilsiz harita üzerinde çalışarak öğrenin.",
+      "2. Yer şekilleri, iklim, nüfus ve ekonomik faaliyetler arasındaki sebep-sonuç bağını kurun.",
+      "3. Madenler, sanayi tesisleri ve tarım ürünlerinde öne çıkan illeri ve bölgeleri ezberleyin.",
+      "4. Bölgesel kalkınma projelerinin (GAP, KOP, DOKAP) amaçlarını ve kapsadığı illeri bilin.",
+      "5. Grafikli sorularında eksen birimlerine ve toplam/oran farkına dikkat edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Intansif (Modern) Tarım",
+        "body": "Sulama, gübreleme, kaliteli tohum ve makine kullanımının yüksek olduğu, birim alandan en yüksek verimin alındığı gelişmiş tarımdır."
+      },
+      {
+        "card_number": 2,
+        "title": "Ekstansif (Geleneksel) Tarım",
+        "body": "Doğa koşullarına bağımlı, sulama ve teknolojinin az olduğu tarımdır. Yıldan yıla üretim dalgalanması fazladır."
+      },
+      {
+        "card_number": 3,
+        "title": "Nadas Tarımı ve Çözümü",
+        "body": "Toprağın nem ve mineral kazanması için bir yıl boş bırakılmasıdır. Sulamanın gelişmesi ve nöbetleşe ekim nadası azaltır."
+      },
+      {
+        "card_number": 4,
+        "title": "Devlet Kontrolünde Olan Ürünler",
+        "body": "Pirinç (Sıtma riski), Kenevir ve Haşhaş (Uyuşturucu), Tütün (Kalite kontrolü), Çay (Kota sınırlaması)."
+      },
+      {
+        "card_number": 5,
+        "title": "Cumhuriyetin Üretim Birincisi Ürünler",
+        "body": "Fındık, İncir, Kayısı, Kiraz, Antep Fıstığı ve Ayva üretiminde Türkiye dünya birincisidir."
+      },
+      {
+        "card_number": 6,
+        "title": "Zeytin ve İklim Seçiciliği",
+        "body": "Zeytin kış ılıklığı ister. Ege, Akdeniz ve Marmara ana üretim alanıdır. Doğu Karadeniz'de (Artvin/Mikroklima) yetişir."
+      },
+      {
+        "card_number": 7,
+        "title": "Büyükbaş Hayvancılık (Mera)",
+        "body": "Yaz yağışlarıyla gür yaz çayırlarının yetiştiği Erzurum-Kars ve Ardahan yöresinde mera büyükbaş hayvancılığı yaygındır."
+      },
+      {
+        "card_number": 8,
+        "title": "Küçükbaş Hayvancılık (Koyun/Keçi)",
+        "body": "Bozkır ikliminin görüldüğü İç ve Güneydoğu Anadolu'da Koyun; Taşeli ve Teke platolarında Kıl Keçisi yaygındır."
+      },
+      {
+        "card_number": 9,
+        "title": "Kümes Hayvancılığı Yayılışı",
+        "body": "İklimden etkilenmez! Tüketici nüfusa yakınlık nedeniyle İstanbul, Bursa, Bolu, Manisa gibi büyükşehir çevrelerinde yoğunlaşmıştır."
+      },
+      {
+        "card_number": 10,
+        "title": "Arıcılıkta Önde Gelen İller",
+        "body": "Bitki çeşitliliğinin fazla olduğu Muğla (Çam balı), Ordu, Rize (Anzer balı), Kars ve Hakkari ön sıradadır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-1",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de çay tarımının sadece Doğu Karadeniz Bölgesi'nde yapılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toprak verimliliği"
+        },
+        {
+          "key": "B",
+          "text": "Güneşlenme süresinin azlığı"
+        },
+        {
+          "key": "C",
+          "text": "Her mevsim yağışlı ve nemli iklim koşulları"
+        },
+        {
+          "key": "D",
+          "text": "Yer şekillerinin sadeliği"
+        },
+        {
+          "key": "E",
+          "text": "Pazar olanaklarının genişliği"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çay, yetişme döneminde bol yağış ve yüksek nem isteyen, ayrıca don olayına karşı hassas bir bitkidir. Doğu Karadeniz'in iklim koşulları çay tarımı için en uygun ortamı sunar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-2",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de pamuk tarımının en fazla yapıldığı bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege"
+        },
+        {
+          "key": "B",
+          "text": "Marmara"
+        },
+        {
+          "key": "C",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "E",
+          "text": "Doğu Anadolu"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "GAP Projesi ile sulama olanaklarının artmasıyla birlikte Güneydoğu Anadolu Bölgesi (Şanlıurfa vb.), Türkiye'de pamuk üretiminde ilk sıraya yerleşmiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-3",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Tütün tarımı Türkiye'de devlet tarafından kontrol altında tutulan bir üründür. Bunun temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaliteyi korumak ve aşırı üretimi engellemek"
+        },
+        {
+          "key": "B",
+          "text": "İthalatını yasaklamak"
+        },
+        {
+          "key": "C",
+          "text": "Sadece belirli bölgelerde yetişmesi"
+        },
+        {
+          "key": "D",
+          "text": "Yüksek su ihtiyacı"
+        },
+        {
+          "key": "E",
+          "text": "Erozyona sebep olması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tütün tarımı, ürün kalitesini belirli bir seviyede tutmak ve arz fazlasını önlemek amacıyla devlet denetiminde yapılmaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-4",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de büyükbaş hayvancılığın (mera hayvancılığı) en çok geliştiği yöre hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ege"
+        },
+        {
+          "key": "B",
+          "text": "Erzurum-Kars Platosu"
+        },
+        {
+          "key": "C",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "D",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Güneydoğu Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yaz yağışlarıyla yeşeren gür dağ çayırlarının varlığı, Erzurum-Kars ve Ardahan yöresinde büyükbaş mera hayvancılığını geliştirmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-5",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Aşağıdaki illerimizden hangisi 'incir' üretiminde dünya çapında tanınan bir merkezdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Antalya"
+        },
+        {
+          "key": "B",
+          "text": "Aydın"
+        },
+        {
+          "key": "C",
+          "text": "Mersin"
+        },
+        {
+          "key": "D",
+          "text": "Malatya"
+        },
+        {
+          "key": "E",
+          "text": "Ordu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Aydın, Türkiye'de ve dünyada en kaliteli taze ve kuru incir üretiminin yapıldığı en önemli merkezdir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-6",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de 'büyükbaş' hayvancılıkta verimi artırmak için yapılması gereken en temel çalışma nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Daha fazla mera alanı otlatmak"
+        },
+        {
+          "key": "B",
+          "text": "Hayvan soylarının ıslahı ve ahır/besi hayvancılığına geçiş"
+        },
+        {
+          "key": "C",
+          "text": "Meraları daraltmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece doğal otla beslemek"
+        },
+        {
+          "key": "E",
+          "text": "Yabancı hayvan ithal etmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mera hayvancılığında iklim değişkenliğine bağlı olarak verim düşüktür; ahır (besi) hayvancılığı, suni yemleme ve ırk ıslahı verimi artıran en etkili yöntemdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-7",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "İpek böcekçiliği hangi bitkinin yaprağına dayalı bir hayvancılık faaliyetidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çay"
+        },
+        {
+          "key": "B",
+          "text": "Dut"
+        },
+        {
+          "key": "C",
+          "text": "Zeytin"
+        },
+        {
+          "key": "D",
+          "text": "Pamuk"
+        },
+        {
+          "key": "E",
+          "text": "Fındık"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İpek böceği tırtılları dut yaprağıyla beslendiği için dut yetiştiriciliği ipek böcekçiliği için şarttır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-8",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de seracılık faaliyetlerinin en çok geliştiği bölge hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz Bölgesi"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Akdeniz Bölgesi (Antalya, Mersin kıyıları), kış ılıklığı ve güneşlenme süresinin uzunluğu sayesinde seracılık için en elverişli bölgedir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-9",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de ekim alanı en geniş olan ve en yaygın yetiştirilen tarım ürünü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pamuk"
+        },
+        {
+          "key": "B",
+          "text": "Buğday"
+        },
+        {
+          "key": "C",
+          "text": "Çay"
+        },
+        {
+          "key": "D",
+          "text": "Mısır"
+        },
+        {
+          "key": "E",
+          "text": "Zeytin"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Buğday, Türkiye'nin iklim şartlarına (özellikle iç bölgelerdeki yarı kuraklığa) en iyi uyum sağlayan ve en geniş alanda ekimi yapılan temel tahıldır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-10",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de kıl keçisi yetiştiriciliği en çok hangi bölgemizde yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Marmara"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz Bölgesi (Toroslar)"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kıl keçisi, engebeli dağlık araziye ve maşalık/çalı formundaki bitki örtüsüne uyumlu olduğu için Akdeniz Bölgesi'nde (Toroslar) yaygındır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-11",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Mersin, Adana ve Hatay gibi illerde narenciye (turunçgil) üretiminin yaygın olması doğrudan neyle açıklanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yükseltinin az olması"
+        },
+        {
+          "key": "B",
+          "text": "Kış ılıklığı (don olayı riskinin düşük olması)"
+        },
+        {
+          "key": "C",
+          "text": "Bol yaz yağışları"
+        },
+        {
+          "key": "D",
+          "text": "Toprak verimliliği"
+        },
+        {
+          "key": "E",
+          "text": "Ulaşım kolaylığı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Turunçgiller dondan çok çabuk etkilenir; kış sıcaklıklarının sıfırın altına düşmediği Akdeniz kıyıları bu yüzden idealdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-12",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de en fazla fındık üretimi hangi bölgemizde gerçekleştirilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "B",
+          "text": "Ege"
+        },
+        {
+          "key": "C",
+          "text": "Karadeniz Bölgesi"
+        },
+        {
+          "key": "D",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Marmara"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Karadeniz Bölgesi (Ordu, Giresun, Trabzon, Sakarya vb.), nem ve yağış isteği nedeniyle Türkiye'deki fındık üretiminin merkezidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-13",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Ankara keçisi (tiftik keçisi) ile meşhur olan ilimiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ankara"
+        },
+        {
+          "key": "B",
+          "text": "Konya"
+        },
+        {
+          "key": "C",
+          "text": "Van"
+        },
+        {
+          "key": "D",
+          "text": "Sivas"
+        },
+        {
+          "key": "E",
+          "text": "Kars"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tiftik keçisi (Ankara Keçisi), İç Anadolu'nun steppe iklim koşullarına ve özellikle Ankara civarına özgü endemik bir keçi türüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-14",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de mısır tarımı önceden sadece Karadeniz'de yapılırken, günümüzde modern sulama projeleriyle en fazla nerede üretilmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz Bölgesi (Çukurova ve Akdeniz kuşağı)"
+        },
+        {
+          "key": "B",
+          "text": "Ege"
+        },
+        {
+          "key": "C",
+          "text": "Marmara"
+        },
+        {
+          "key": "D",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "E",
+          "text": "Yıldız Dağları"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Modern sulama imkanlarıyla mısır, Akdeniz Bölgesi'nde (özellikle Çukurova) ikincil ürün olarak yoğun bir şekilde yetiştirilmektedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-15",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Kurak ve yarı kurak bölgelerde uygulanan 'Nadas' yönteminin temel zorunlu sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaliteyi artırmak"
+        },
+        {
+          "key": "B",
+          "text": "Yağış azlığından dolayı toprağın nem ve su biriktirmesini sağlamak"
+        },
+        {
+          "key": "C",
+          "text": "Sadece gübreleme yapmak"
+        },
+        {
+          "key": "D",
+          "text": "Ekim alanını genişletmek"
+        },
+        {
+          "key": "E",
+          "text": "Otlatma yapmak"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Nadas, sulama imkanı olmayan kurak alanlarda toprağın bir yıl boş bırakılarak bir sonraki yıla nem ve mineral biriktirmesini sağlama yöntemidir (erozyonu artırır).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-16",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de çam balı üretimi ve arıcılık faaliyetlerinin en fazla geliştiği yöremiz hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muğla (Menteşe Yöresi)"
+        },
+        {
+          "key": "B",
+          "text": "İç Anadolu düzlükleri"
+        },
+        {
+          "key": "C",
+          "text": "Güneydoğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Marmara"
+        },
+        {
+          "key": "E",
+          "text": "Ergene Havzası"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Muğla (Menteşe Yöresi), zengin çam ormanları ve florasıyla çam balı üretiminde Türkiye ve dünya liderlerindendir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-17",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de doğal 'Bozkır' ve 'Antropojen Bozkır' alanlarında hangi küçükbaş hayvancılık türü yaygındır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kümes hayvancılığı"
+        },
+        {
+          "key": "B",
+          "text": "Koyun yetiştiriciliği"
+        },
+        {
+          "key": "C",
+          "text": "Büyükbaş hayvancılık"
+        },
+        {
+          "key": "D",
+          "text": "Kıl keçisi"
+        },
+        {
+          "key": "E",
+          "text": "İpek böcekçiliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kısa boylu otlardan oluşan bozkır bitki örtüsü, küçükbaş hayvanlar (koyun) için en uygun otlak alanıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-18",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Zeytin tarımı için en ideal doğal iklim koşulları hangi iklim tipinde bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akdeniz İklimi"
+        },
+        {
+          "key": "B",
+          "text": "Karadeniz İklimi"
+        },
+        {
+          "key": "C",
+          "text": "Karasal İklim"
+        },
+        {
+          "key": "D",
+          "text": "Sert Karasal İklim"
+        },
+        {
+          "key": "E",
+          "text": "Tundra İklimi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Zeytin, yaz kuraklığı ve kış ılıklığı isteyen Akdeniz ikliminin maki florasına ait maktu tarım ürünüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-19",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de kümes hayvancılığı ve entegre tavukçuluk tesislerinin büyükşehirlerin etrafında yoğunlaşmasının temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İklim şartlarının elverişliliği"
+        },
+        {
+          "key": "B",
+          "text": "Büyük tüketici kitleye (Pazar merkezlerine) yakınlık"
+        },
+        {
+          "key": "C",
+          "text": "Ucuz iş gücü"
+        },
+        {
+          "key": "D",
+          "text": "Yer şekillerinin düz olması"
+        },
+        {
+          "key": "E",
+          "text": "Yem bitkilerinin fazla yetiştirilmesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Tavuk eti ve yumurtanın çabuk bozulan ürünler olması sebebiyle kümes hayvancılığı büyük şehirlerin pazar imkanları etrafında kurulur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-20",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de 'orman' varlığının en fazla olduğu bölge ile en az olduğu bölge sırasıyla hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz - Güneydoğu Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz - İç Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Ege - Karadeniz"
+        },
+        {
+          "key": "D",
+          "text": "Marmara - Akdeniz"
+        },
+        {
+          "key": "E",
+          "text": "İç Anadolu - Doğu Anadolu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Nem ve yağış oranı yüksek Karadeniz orman varlığında 1. sırada iken; yaz kuraklığı ve şiddetli buharlaşmanın olduğu Güneydoğu Anadolu son sıradadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-21",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye tarımında verimi artıran ve ürün çeşitliliğini garantileyen en önemli teknik altyapı etkeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nadas uygulaması"
+        },
+        {
+          "key": "B",
+          "text": "Tarımsal Sulama imkanları"
+        },
+        {
+          "key": "C",
+          "text": "Geleneksel tarım araçları"
+        },
+        {
+          "key": "D",
+          "text": "Doğal yağışlar"
+        },
+        {
+          "key": "E",
+          "text": "Tarım arazilerini küçültmek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sulama, Türkiye'de iklime olan bağımlılığı azaltır, nadası ortadan kaldırır ve birim alandan alınan verimi katlar.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-22",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de iç piyasada en çok tüketilen ve üretimi en fazla olan yemeklik baklagil hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fasulye"
+        },
+        {
+          "key": "B",
+          "text": "Mercimek"
+        },
+        {
+          "key": "C",
+          "text": "Nohut"
+        },
+        {
+          "key": "D",
+          "text": "Bezelye"
+        },
+        {
+          "key": "E",
+          "text": "Bakla"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Nohut, kuraklığa dayanıklı yapısıyla İç Anadolu ve Güneydoğu'da en geniş ekim alanına sahip baklagildir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-23",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Endüstriyel yağ bitkisi olan Soya Fasulyesi en fazla hangi bölgemizde sulama ile yetiştirilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karadeniz"
+        },
+        {
+          "key": "B",
+          "text": "Akdeniz Bölgesi (Çukurova)"
+        },
+        {
+          "key": "C",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "D",
+          "text": "Marmara"
+        },
+        {
+          "key": "E",
+          "text": "Ege"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Soya fasulyesi Akdeniz Bölgesi'nde (Çukurova) ikincil ürün olarak yoğun bir şekilde yetiştirilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-24",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye genelinde iklim uyumluluğu nedeniyle en yaygın yetiştirilen ve üretimi en fazla olan meyve türü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Elma"
+        },
+        {
+          "key": "B",
+          "text": "Üzüm"
+        },
+        {
+          "key": "C",
+          "text": "Portakal"
+        },
+        {
+          "key": "D",
+          "text": "Kayısı"
+        },
+        {
+          "key": "E",
+          "text": "İncir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Üzüm, soğuğa ve kuraklığa olan yüksek direnci sayesinde Türkiye'nin hemen her yöresinde yetiştirilebilen meyvedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-25",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de et ve süt verimi yüksek modern 'Besi ve Ahır Hayvancılığı' tesisleri daha çok nerede kümelenmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yüksek dağ meralarında"
+        },
+        {
+          "key": "B",
+          "text": "Büyükşehirlerin ve pazar merkezlerinin etrafında (Marmara, Ege, İç Anadolu)"
+        },
+        {
+          "key": "C",
+          "text": "Tuzçölü kıyısında"
+        },
+        {
+          "key": "D",
+          "text": "Kıyı ormanlarında"
+        },
+        {
+          "key": "E",
+          "text": "Sınır kasabalarında"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Besi ve ahır hayvancılığı, tüketim pazarının büyük olduğu metropollerin (İstanbul, Bursa, İzmir, Ankara) yakınlarında yoğunlaşır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-26",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de 'Çeltik' (pirinç) tarım alanlarının devlet iznine ve kontrolüne tabi tutulmasının temel tıbbi nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aşırı su tüketmesi"
+        },
+        {
+          "key": "B",
+          "text": "Durgun bataklık sularının Sivrisinek ve Sıtma hastalığına yol açması"
+        },
+        {
+          "key": "C",
+          "text": "Toprağı çoraklaştırması"
+        },
+        {
+          "key": "D",
+          "text": "Üretim kotası uygulaması"
+        },
+        {
+          "key": "E",
+          "text": "İthalatı engellemek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Pirinç (çeltik) tavalarında oluşan durgun sular anofel sivrisineklerinin üremesine ve sıtma salgınına sebep olduğu için meskun mahallerde izne tabidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-27",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'deki orman alanlarının büyük çoğunluğu (%99) kimin mülkiyeti ve koruması altındadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şahıs özel mülkiyeti"
+        },
+        {
+          "key": "B",
+          "text": "Devlet Mülkiyeti (Orman Genel Müdürlüğü)"
+        },
+        {
+          "key": "C",
+          "text": "Vakıf mülkiyeti"
+        },
+        {
+          "key": "D",
+          "text": "Köylerin ortak mülkiyeti"
+        },
+        {
+          "key": "E",
+          "text": "Şirketler"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Türkiye'deki ormanlar Anayasa'nın 169. maddesi gereği devletin mülkiyetindedir ve devletçe yönetilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-28",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de Ayçiçeği yağlık tarımının en yoğun yapıldığı ve üretimin yarıya yakınının karşılandığı yöre hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İç Anadolu"
+        },
+        {
+          "key": "B",
+          "text": "Doğu Anadolu"
+        },
+        {
+          "key": "C",
+          "text": "Marmara Bölgesi (Ergene Havzası / Trakya)"
+        },
+        {
+          "key": "D",
+          "text": "Akdeniz"
+        },
+        {
+          "key": "E",
+          "text": "Karadeniz"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Marmara Bölgesi (Trakya / Ergene Havzası - Tekirdağ, Edirne), ayçiçeği üretiminin kalbidir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-29",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de seracılıkta kışın ısıtma ve iklimlendirme maliyetlerini en aza indiren yenilenebilir doğal kaynak hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş enerjisi"
+        },
+        {
+          "key": "B",
+          "text": "Jeotermal (Sıcak Su) Kaynakları"
+        },
+        {
+          "key": "C",
+          "text": "Rüzgar enerjisi"
+        },
+        {
+          "key": "D",
+          "text": "Kömür"
+        },
+        {
+          "key": "E",
+          "text": "Doğalgaz"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ege ve İç Anadolu'daki jeotermal sıcak su kaynakları sera ısıtmasında kullanılarak kışın maliyetleri büyük oranda düşürür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-cog-tarim-hayvancilik-30",
+      "topic_id": "topic-cog-tarim-hayvancilik",
+      "question_text": "Türkiye'de mısır tarımı gelişim ve koçan oluşturma evresinde en fazla hangi mevsimde sulanmaya ihtiyaç duyar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kış"
+        },
+        {
+          "key": "B",
+          "text": "İlkbahar"
+        },
+        {
+          "key": "C",
+          "text": "Yaz mevsimi"
+        },
+        {
+          "key": "D",
+          "text": "Sonbahar"
+        },
+        {
+          "key": "E",
+          "text": "Tüm yıl eşit"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Mısır yazın yüksek sıcaklık ve yoğun su/sulama isteyen bir üründür.",
+      "difficulty_level": 2
+    }
+  ]
+}

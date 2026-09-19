@@ -1,0 +1,647 @@
+{
+  "topic_id": "topic-turkce-cumlenin-ogeleri",
+  "title": "Cümlenin Ögeleri",
+  "course_id": "course-turkce",
+  "question_count": 19,
+  "quick_note": {
+    "id": "qn-topic-turkce-cumlenin-ogeleri",
+    "topic_id": "topic-turkce-cumlenin-ogeleri",
+    "title": "Cümlenin Ögeleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Türkçe testinde 'Cümlenin Ögeleri' konusu, dil bilgisinin ve okuduğunu anlama becerisinin en belirleyici alanlarından biridir. ÖSYM bu konuda doğrudan kural ezberini değil, kuralın metin içindeki işlevini ve çeldiricileri sorgular.",
+    "content": "Cümlenin Ögeleri konusu, KPSS Türkçe sınavında net kazanmanın anahtarıdır. ÖSYM, adayların dile hakimiyetini ve mantıksal çözümleme kabiliyetini bu konu üzerinden test eder.\n\n1. Konunun Temel Mantığı ve Kuralları:\nCümlenin Ögeleri başlığı altında yer alan kavramlar, dilin anlamsal ve yapısal düzenini sağlar. Soru çözerken kelimelerin veya cümlelerin tekil anlamına değil, parçadaki konumuna ve işlevine bakılmalıdır. Özellikle kuralların yanında yer alan istisnai durumlar ÖSYM tarafından soru çeldiricisi olarak kullanılır.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Soruları okurken kökteki olumlu/olumsuz ifadelere ('değinilmemiştir', 'ulaşılamaz', 'yanlıştır') azami dikkat gösterin.\n- Anlatım özelliklerinde ve ses olaylarında kelimelerin kök ve ek ayrımını doğru yapın.\n- Paragraf ve anlam sorularında kendi kişisel yorumunuzu katmadan tamamen metindeki ifadelere sadık kalın.\n\n3. Pratik Soru Çözüm Taktikleri:\n- Şıklardan gitmek yerine önce soru metnindeki anahtar kelimelerin altını çizin.\n- Dil bilgisi sorularında ses düşmesi, yumuşaması veya ek ayrımı yaparken kelimenin yalın halini zihninizde canlandırın.\n- Konuyu pekiştirmek için test çözümü sonrası yanlış yaptığınız soruların çözüm açıklamalarını mutlaka okuyun.",
+    "key_points": [
+      "1. Cümlenin Ögeleri konusunda ÖSYM'nin en çok kullandığı çeldirici kelimeleri ve kalıpları ezberleyin.",
+      "2. Cümle ve paragraf sorularında sözcüğün tek başına anlamına değil, bağlam içindeki kazanımına odaklanın.",
+      "3. Kuralları ve istisnaları somut örnek cümlelerle zihninize oturtun.",
+      "4. Yanlış şıkları elerken dil bilgisi kurallarının kesinliğinden faydalanın.",
+      "5. Hızlı Okuma Kartları sekmesindeki pratik kartları soru çözmeden önce tekrar edin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Cümlenin Temel Ögeleri",
+        "body": "Bir cümlenin oluşması için şart olan temel ögeler Yüklem ve Özne'dir. Yüklemsiz cümle olmaz."
+      },
+      {
+        "card_number": 2,
+        "title": "Yüklem Bulma Altın Kuralı",
+        "body": "Cümledeki yargıyı bildiren ögedir. Ögeler bulunurken ilk olarak yüklem tespit edilir ve tüm sorular yükleme sorulur."
+      },
+      {
+        "card_number": 3,
+        "title": "Özne Bulma Soruları",
+        "body": "Yükleme sorulan 'Kim?' ve 'Ne?' sorularının yanıtıdır. Yüklemden hemen sonra bulunmalıdır."
+      },
+      {
+        "card_number": 4,
+        "title": "Nesne (Belirtili ve Belirtisiz)",
+        "body": "Yükleme sorulan 'Neyi, Kimi?' soruları Belirtili Nesneyi (-i hali); 'Ne?' sorusu Belirtisiz Nesneyi verir."
+      },
+      {
+        "card_number": 5,
+        "title": "Dolaylı Tümleç (Yer Tamlayıcısı)",
+        "body": "Yükleme sorulan '-e, -de, -den' eklerini içeren soruların (Nereye, Nerede, Nereden, Kime...) yanıtıdır."
+      },
+      {
+        "card_number": 6,
+        "title": "Zarf Tümleci Soruları",
+        "body": "Yükleme sorulan 'Nasıl, Ne zaman, Ne kadar, Neden, Niçin?' sorularının yanıtıdır."
+      },
+      {
+        "card_number": 7,
+        "title": "Edat Tümleci Soruları",
+        "body": "Yükleme sorulan 'Ne ile, Kimin ile, Ne için, Kimin için?' sorularının yanıtıdır."
+      },
+      {
+        "card_number": 8,
+        "title": "Tamlamaları Bölmeme Kuralı",
+        "body": "Cümlenin ögeleri bulunurken isim tamlamaları, sıfat tamlamaları ve deyimler asla bölünmez; tek bir öge kabul edilir."
+      },
+      {
+        "card_number": 9,
+        "title": "Ara Söz ve Ara Cümle",
+        "body": "İki virgül veya iki kısa çizgi arasında yer alan, bir ögenin açıklayıcısı olan veya bağımsız giren ifadelerdir."
+      },
+      {
+        "card_number": 10,
+        "title": "Vurgulanan Öge İpucu",
+        "body": "Fiil cümlelerinde vurgulanan öge, yüklemden hemen önce gelen ögedir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-1",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde ögelerin dizilişi 'Özne - Zarf Tümleci - Dolaylı Tümleç - Yüklem' şeklindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç araştırmacı, akşam saatlerinde kütüphanedeki sessiz odada çalışıyordu."
+        },
+        {
+          "key": "B",
+          "text": "Dün akşam fırtına çıkınca rüzgâr evin pencerelerini sarsmaya başladı."
+        },
+        {
+          "key": "C",
+          "text": "Yaşlı adam elindeki ağır çuvalları zorlukla durağa kadar taşıdı."
+        },
+        {
+          "key": "D",
+          "text": "Sınav sonuçları açıklandığında öğrenciler büyük bir sevinç yaşadı."
+        },
+        {
+          "key": "E",
+          "text": "Yazar son romanında çocukluk yıllarında yaşadığı Ege kasabasını anlatıyor."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde 'Genç araştırmacı' (Özne), 'akşam saatlerinde' (Zarf Tümleci), 'kütüphanedeki sessiz odada' (Dolaylı Tümleç), 'çalışıyordu' (Yüklem) dizilimi mevcuttur. Cümle ögelerine eksiksiz ayrılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-2",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Cümlede yüklem bir deyim, isim tamlaması veya sıfat tamlaması gibi bir söz öbeğinden oluşuyorsa ögelerine ayrılırken bölünemez. Aşağıdaki cümlelerin hangisinde yüklem bir 'isim tamlaması'ndan oluşmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Şehrin tarihi sokaklarında yürümek insana huzur veren bir deneyimdi."
+        },
+        {
+          "key": "B",
+          "text": "Yaşanan tüm olumsuzluklara rağmen ayakta kalmayı başaran kişi mahallenin emektar bakkalıydı."
+        },
+        {
+          "key": "C",
+          "text": "Sınav evraklarını dikkatle inceleyen müdür bey derin düşüncelere daldı."
+        },
+        {
+          "key": "D",
+          "text": "Konuşmacının anlattığı öyküler salondaki herkesin gözünü korkuttu."
+        },
+        {
+          "key": "E",
+          "text": "Küçük çocuğun en büyük hayali ileride yetenekli bir ressam olmaktı."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki yüklem 'mahallenin emektar bakkalıydı' ifadesidir. Araya sıfat girmiş bir belirtili isim tamlaması (mahallenin bakkalı) olduğu için yüklem tek parça olarak alınır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-3",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde yer alan öge 'belirtisiz nesne' görevindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden aldığı eski ve yıpranmış kitabı masanın üzerine bıraktı."
+        },
+        {
+          "key": "B",
+          "text": "Yazar, son romanında çocukluk yıllarında yaşadığı Ege kasabasını anlatıyor."
+        },
+        {
+          "key": "C",
+          "text": "Akşamüzeri sahil kenarındaki küçük büfeden taze demlenmiş çay istedi."
+        },
+        {
+          "key": "D",
+          "text": "Mahallenin tarihi sokaklarını rehber eşliğinde saatlerce gezdiler."
+        },
+        {
+          "key": "E",
+          "text": "Sınav salonundaki görevli memur evrakları dikkatle kontrol etti."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde 'istedi' yüklemine sorulan 'Ne istedi?' sorusunun cevabı durum eki almamış yalın haldeki 'taze demlenmiş çay' söz öbeğidir ve belirtisiz nesnedir. A, B, D ve E'deki nesneler belirtme eki (-ı/-i) aldığı için belirtili nesnedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-4",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Fiil cümlelerinde vurgu, yüklemden hemen önce gelen öge üzerindedir. Aşağıdaki cümlelerin hangisinde 'dolaylı tümleç (yer tamlayıcısı)' vurgulanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarın akşam düzenlenecek olan törene şirket yöneticileri de katılacak."
+        },
+        {
+          "key": "B",
+          "text": "Sınav sonuçlarını öğrendikten sonra sevincini ailesiyle paylaştı."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin tarihi kütüphanesinden aldığı kaynak kitabı dün akşam getirdi."
+        },
+        {
+          "key": "D",
+          "text": "Yağmurun bastırmasıyla birlikte tüm sokak sakinleri yakındaki durağa sığındı."
+        },
+        {
+          "key": "E",
+          "text": "Yazar, çocukluk anılarını kaleme aldığı yeni kitabını yarın imzalayacak."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 'sığındı' yükleminden hemen önce gelen öge 'yakındaki durağa' kelime grubudur ve Nereye? sorusuna yanıt vererek dolaylı tümleç olarak vurgulanmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-5",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Cümlede bir ögenin anlamını pekiştirmek veya açıklamak amacıyla iki virgül ya da iki kısa çizgi arasında verilen söze 'ara söz' denir. Ara söz açıkladığı ögenin peşinden gelir. Aşağıdaki cümlelerin hangisinde ara söz 'özne'nin açıklayıcısı durumundadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğup büyüdüğüm kenti, o yeşil ve huzurlu kasabayı, yıllar sonra tekrar ziyaret ettim."
+        },
+        {
+          "key": "B",
+          "text": "Çocukluğumun en güzel günlerini geçirdiğim yeri, dedemin köyünü, hiç unutamıyorum."
+        },
+        {
+          "key": "C",
+          "text": "Haftaya salı günü, sınavın açıklanacağı tarihte, okulda buluşacağız."
+        },
+        {
+          "key": "D",
+          "text": "Çocuklar oyun alanında, parkın en güvenli köşesinde, neşeyle vakit geçiriyordu."
+        },
+        {
+          "key": "E",
+          "text": "Edebiyat öğretmenimiz, o her zaman gülümseyen nazik insan, dün okuldan ayrıldı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde yüklem 'ayrıldı'dır. Ayrılan kim? 'Edebiyat öğretmenimiz' (Özne). Virgüller arasındaki 'o her zaman gülümseyen nazik insan' ara sözü doğrudan özneyi açıklayan ögedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-6",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Dolaylı tümleç (yer tamlayıcısı), yüklemin anlamını yaklaşma (-e), bulunma (-de) ve uzaklaşma (-den) yönünden tamamlar. Ancak bu ekleri alan her sözcük dolaylı tümleç olmayabilir; zaman bildiriyorsa zarf tümleci olur. Aşağıdaki cümlelerin hangisinde '-de / -da' ekini alan sözcük 'zarf tümleci' görevindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaz mevsiminde Akdeniz sahilleri oldukça hareketli olur."
+        },
+        {
+          "key": "B",
+          "text": "Toplantı salonunda geleceğe dönük önemli kararlar alındı."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler ders saatinin gelmesini koridorda bekliyorlardı."
+        },
+        {
+          "key": "D",
+          "text": "Tarihi müzede sergilenen eşsiz heykeller ziyaretçileri büyüledi."
+        },
+        {
+          "key": "E",
+          "text": "Genç adamın cüzdanı otobüste unutulunca karakola haber verildi."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğindeki 'Yaz mevsiminde' ifadesi eylemin nerede yapıldığını değil, ne zaman gerçekleştiğini (zamanını) bildirdiği için zarf tümleci görevindedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-7",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde cümlenin ögeleri sırasıyla 'Zarf Tümleci - Özne - Nesne - Yüklem' şeklindedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç yazar son eserinde Anadolu insanının yaşamını gerçekçi bir dille aktarıyor."
+        },
+        {
+          "key": "B",
+          "text": "Dün akşam fırtına çıkınca rüzgâr evin pencerelerini sarsmaya başladı."
+        },
+        {
+          "key": "C",
+          "text": "Sahil kenarındaki bankta oturan yaşlı adam martılara ekmek atıyordu."
+        },
+        {
+          "key": "D",
+          "text": "Toplantı salonundaki görevli memur evrakları masanın üzerine bıraktı."
+        },
+        {
+          "key": "E",
+          "text": "Çocuklar bahçedeki çimlerin üzerinde saatlerce neşeyle oynadılar."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğinde: 'Dün akşam fırtına çıkınca' (Zarf Tümleci) / 'rüzgâr' (Özne) / 'evin pencerelerini' (Belirtili Nesne) / 'sarsmaya başladı' (Yüklem) sıralaması tam uyum göstermektedir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-8",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Yüklemi edilgen çatılı olan cümlelerde işi yapan gerçek özne bulunmaz; yapılan işten etkilenen öge 'sözde özne' görevini üstlenir. Aşağıdaki cümlelerin hangisinde 'sözde özne' kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaşlı adam parktaki bankta saatlerce sessizce oturdu."
+        },
+        {
+          "key": "B",
+          "text": "Genç öğretmen ilk ders gününde öğrencilerine tebessümle sarıldı."
+        },
+        {
+          "key": "C",
+          "text": "Okul bahçesindeki kurumuş ağaç dalları belediye ekiplerince budandı."
+        },
+        {
+          "key": "D",
+          "text": "Küçük çocuk elindeki dondurmayı düşürünce ağlamaya başladı."
+        },
+        {
+          "key": "E",
+          "text": "Güneş dağların ardından süzülerek yavaşça batıyordu."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğindeki 'budandı' fiili edilgen çatılıdır. Budama eylemini yapan gerçek özne verilmemiş, eylemden etkilenen 'kurumuş ağaç dalları' ögesi cümlede sözde özne olmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-9",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Soru cümleleri, yanıtlandıklarında ilgili ögeyi buldurmaya yöneliktir. Aşağıdaki cümlelerin hangisinde soru 'nesne'yi buldurmaya yöneliktir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu güzel ve anlamlı hediyeyi sana kim verdi?"
+        },
+        {
+          "key": "B",
+          "text": "Önümüzdeki hafta düzenlenecek geziye nereye gideceksiniz?"
+        },
+        {
+          "key": "C",
+          "text": "Sınav sonuçları resmi internet sitesinde ne zaman açıklanacak?"
+        },
+        {
+          "key": "D",
+          "text": "Otobüs durağında saatlerdir kimi bekliyorsun?"
+        },
+        {
+          "key": "E",
+          "text": "Kütüphanedeki en dikkat çekici kaynak kitap hangisiydi?"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki 'kimi' soru zamirine verilen cevap (örn: 'Ahmet'i bekliyorum') cümlenin belirtili nesnesidir. Bu nedenle soru nesneyi buldurmayı amaçlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-10",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Aşağıdaki cümlelerin hangisi ögelerinin sayısı ve dizilişi bakımından 'Uzun yıllardır bu tarihi kentte yaşayan ihtiyar adam, her sabah sahildeki martılara ekmek atardı.' cümlesiyle birebir aynıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarihi kütüphanedeki eski kitapları inceleyen genç araştırmacı, dün akşam salonda uzun süre çalıştı."
+        },
+        {
+          "key": "B",
+          "text": "Okul bahçesindeki ulu çam ağacının altında duran öğrenciler, zilin çalmasıyla sınıflara koşuştu."
+        },
+        {
+          "key": "C",
+          "text": "Gece boyunca aralıksız yağan şiddetli yağmur, kentin altyapı sistemlerini kilitlenme noktasına getirdi."
+        },
+        {
+          "key": "D",
+          "text": "Sokağın başındaki fırından taze ekmek alan çocuk, koşarak eve doğru gitti."
+        },
+        {
+          "key": "E",
+          "text": "Şehrin gürültüsünden uzaklaşmak isteyen genç ressam, dün akşam dağ evinde yeni bir tablo çizdi."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Örnek cümle ve E seçeneğindeki cümle 'Özne - Zarf Tümleci - Dolaylı Tümleç - Belirtisiz Nesne - Yüklem' sıralamasına ve 5 ögeye sahiptir. Öge eşleşmesi birebir aynıdır.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-11",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Yan cümlecikler (fiilimsiler) temel cümlenin herhangi bir ögesi olabilir. 'Güneşin batışını seyrederken derin düşüncelere daldı.' cümlesinde yan cümlecik (fiilimsi grubu) temel cümlenin hangi ögesi durumundadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Zarf Tümleci"
+        },
+        {
+          "key": "B",
+          "text": "Özne"
+        },
+        {
+          "key": "C",
+          "text": "Belirtili Nesne"
+        },
+        {
+          "key": "D",
+          "text": "Belirtisiz Nesne"
+        },
+        {
+          "key": "E",
+          "text": "Dolaylı Tümleç"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Cümlede 'daldı' yüklemine sorulan 'Ne zaman daldı?' sorusunun cevabı 'Güneşin batışını seyrederken' zarf-fiil grubudur. Yan cümlecik zarf tümleci görevini üstlenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-12",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Tamlamalar, deyimler, birleşik fiiller ve edat öbekleri ögelerine ayrılırken bölünemez. Aşağıdaki cümlelerin hangisinde ögelerine ayırmada bir hata yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genç adam / sınavı kazandığını duyunca / sevinçten / havalara uçtu."
+        },
+        {
+          "key": "B",
+          "text": "Kütüphanedeki / görevli memur / gelen / kitapları / raflara / yerleştirdi."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin tarihi sokaklarında yürümek / insana / huzur veriyordu."
+        },
+        {
+          "key": "D",
+          "text": "Sokağın başındaki fırından / taze ekmek / aldı."
+        },
+        {
+          "key": "E",
+          "text": "Akşam saatlerinde / sahilde / uzun yürüyüşler / yaptılar."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'Kütüphanedeki görevli memur' grubu bir sıfat tamlamasıdır ve bölünemez. İfadenin tek parça halinde 'Özne' alınması gerekirken yanlış şekilde bölünmüştür.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-13",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "İki yüklemli sıralı ve bağlı cümlelerde bazı ögeler ortak kullanılabilir. Aşağıdaki cümlelerin hangisinde 'dolaylı tümleç (yer tamlayıcısı)' ortak kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yazar yeni kitabını dün akşam bitirdi ve hemen yayınevine gönderdi."
+        },
+        {
+          "key": "B",
+          "text": "Yaşlı kadın bahçedeki çiçekleri suladı, kurumuş olanları tek tek budadı."
+        },
+        {
+          "key": "C",
+          "text": "Müdür bey genç memura güveniyordu ve her konuda yardım ediyordu."
+        },
+        {
+          "key": "D",
+          "text": "Çocuklar bahçeye koştular ve saatlerce neşeyle oynadılar."
+        },
+        {
+          "key": "E",
+          "text": "Kitabı masanın üzerine bıraktı ama kimsenin almasına izin vermedi."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C seçeneğinde 'genç memura' dolaylı tümleci hem 'güveniyordu' yüklemine hem de ikinci cümlenin yüklemi olan 'yardım ediyordu' eylemine bağlanmıştır (dolaylı tümleç ortaktır).",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-14",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "İsim cümlelerinde vurgu yüklemin kendisindedir. Aşağıdaki cümlelerin hangisinde vurgu yüklemdedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarın akşam düzenlenecek tiyatro oyununa biz de gideceğiz."
+        },
+        {
+          "key": "B",
+          "text": "Kütüphaneden aldığı kitabı iki gün içinde baştan sona okudu."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin gürültüsünden uzaklaşmak isteyenler sahil kasabasına sığındı."
+        },
+        {
+          "key": "D",
+          "text": "Sınav maratonunda en önemli unsur disiplinli çalışmaktır."
+        },
+        {
+          "key": "E",
+          "text": "Bahçedeki kurumuş yaprakları sabah erkenden topladılar."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğindeki yüklem 'çalışmaktır' sözcüğüdür. İsim-fiil eki alan bu yüklem isim cümlesi oluşturur. İsim cümlelerinde vurgu yüklemin kendi üzerindedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-15",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde 'edat grubu (edat öbeği)' zarf tümleci görevinde kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Masanın üzerindeki kırık bardak küçük çocuk için bir tehlikeydi."
+        },
+        {
+          "key": "B",
+          "text": "Okul kütüphanesindeki en değerli ve nadide eser senin içindir."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin kenar mahalleleri rüzgâr gibi hızlı bir gelişim gösteriyordu."
+        },
+        {
+          "key": "D",
+          "text": "Yağmurun ardından açan berrak güneş bizim için umut kaynağı oldu."
+        },
+        {
+          "key": "E",
+          "text": "Sınavı kazanabilmek için gece gündüz demeden aralıksız çalıştı."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğinde 'Sınavı kazanabilmek için' grubu edat öbeğidir ve yükleme sorulan 'Niçin çalıştı?' sorusunun cevabı olarak zarf tümleci görevini üstlenmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-16",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Yükleme sorulan 'Ne?' sorusu hem özneyi hem de belirtisiz nesneyi buldurur. Karışıklığı önlemek için önce özne, ardından nesne bulunmalıdır. Aşağıdaki cümlelerin hangisinde altı/belirtilen öge 'özne'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Masanın üzerindeki vazoda duran kırmızı gül odaya mis gibi koku yayıyordu."
+        },
+        {
+          "key": "B",
+          "text": "Akşam saatlerinde sahil kenarındaki küçük dükkândan sıcak bir çay içti."
+        },
+        {
+          "key": "C",
+          "text": "Çocuklar bahçede oyun oynarken büyük bir gürültü duydular."
+        },
+        {
+          "key": "D",
+          "text": "Yazar son romanında toplumsal bir sorunu dile getirmiş."
+        },
+        {
+          "key": "E",
+          "text": "Pazardan taze meyve ve sebze satın aldılar."
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "A seçeneğinde 'yayıyordu' yüklemine sorulan 'Yayan ne?' sorusunun cevabı 'Masanın üzerindeki vazoda duran kırmızı gül' ögesidir ve cümlenin öznesidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-17",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Yükleme sorulan 'Neyi, Kimi?' sorularına cevap veren ve belirtme hâl eki (-ı, -i, -u, -ü) alan öge belirtili nesnedir. Aşağıdaki cümlelerin hangisinde 'belirtili nesne' kullanılmamıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kütüphaneden aldığı nadide eseri büyük bir titizlikle inceledi."
+        },
+        {
+          "key": "B",
+          "text": "Sınav sonuçları açıklandığı an tüm adaylar derin bir nefes aldı."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin tarihi sokaklarını rehber eşliğinde saatlerce gezdiler."
+        },
+        {
+          "key": "D",
+          "text": "Çocukluğunun geçtiği eski evi uzun yıllar sonra yeniden gördü."
+        },
+        {
+          "key": "E",
+          "text": "Masanın üstünde unutulan kırmızı kalemi sahibine teslim etti."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "B seçeneğindeki 'derin bir nefes' ifadesi belirtme eki almamış yalın halde bir belirtisiz nesnedir. Cümlede belirtili nesne yer almamaktadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-19",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Aşağıdaki cümlelerin hangisinde öge sayısı diğerlerinden daha fazladır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ahmet dün geldi."
+        },
+        {
+          "key": "B",
+          "text": "Kütüphanedeki sessizlik öğrencilerin verimli çalışmasını kolaylaştırıyordu."
+        },
+        {
+          "key": "C",
+          "text": "Akşamüzeri sahil kenarında yürüyen genç ressam, denizden esen hafif rüzgârla dinlendi."
+        },
+        {
+          "key": "D",
+          "text": "Dün akşam fırtına çıkınca, sokaktaki yaşlı adam yakındaki durağa sığınarak otobüsünü bekledi."
+        },
+        {
+          "key": "E",
+          "text": "Güneş dağların ardında yavaşça batıyordu."
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "D seçeneğinde 5 öge bulunmaktadır: 'Dün akşam fırtına çıkınca' (Zarf T.) / 'sokaktaki yaşlı adam' (Özne) / 'yakındaki durağa sığınarak' (Zarf T.) / 'otobüsünü' (Nesne) / 'bekledi' (Yüklem). Diğer seçeneklerde öge sayıları 2 ile 4 arasındadır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-turkce-cumlenin-ogeleri-20",
+      "topic_id": "topic-turkce-cumlenin-ogeleri",
+      "question_text": "Yüklem tek başına bir cümle oluşturabilir veya bir tamlamadan ibaret olabilir. Aşağıdaki cümlelerin hangisi sadece yüklemden oluşmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçede açan renkli çiçekler etrafa mis gibi koku yayıyordu."
+        },
+        {
+          "key": "B",
+          "text": "Sınavı kazanan öğrenci mahallenin en çalışkan genciydi."
+        },
+        {
+          "key": "C",
+          "text": "Şehrin tarihi dokusunu korumak her bireyin ortak görevidir."
+        },
+        {
+          "key": "D",
+          "text": "Güneş dağların ardında yavaşça kayboluyordu."
+        },
+        {
+          "key": "E",
+          "text": "Yıllardır hayalini kurduğu özgün ve nitelikli roman projelerinin ilk ürünüydü."
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "E seçeneğindeki ifadenin tamamı birbirine bağlı bir sıfat ve isim tamlaması zinciridir. Tamlamalar bölünemediği için cümlenin tamamı 'Yüklem'den oluşur.",
+      "difficulty_level": 5
+    }
+  ]
+}

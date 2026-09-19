@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-grafik-tablo-detay",
+  "title": "Grafik ve Tablo Yorumlama",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-grafik-tablo-detay",
+    "topic_id": "topic-mat-grafik-tablo-detay",
+    "title": "Grafik ve Tablo Yorumlama Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Grafik ve Tablo Yorumlama' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Grafik ve Tablo Yorumlama konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nGrafik ve Tablo Yorumlama konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Grafik ve Tablo Yorumlama konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Daire Grafiği Açısı (360 Derece)",
+        "body": "Daire grafiğinde tüm verilerin toplamı 360 derecelik açıya karşılık gelir. Orantı 360 derece üzerinden kurulur."
+      },
+      {
+        "card_number": 2,
+        "title": "Daire Grafiğinde Yüzde Derece Dönüşümü",
+        "body": "%100 dilim 360 derece ise, %1'lik dilim 3.6 dereceye denk gelir. Örnek: %25 dilim = 90 derecelik dik açıdır."
+      },
+      {
+        "card_number": 3,
+        "title": "Çizgi Grafiği Kullanım Amacı",
+        "body": "Zaman içindeki sürekli değişimi, artış/azalış trendlerini ve sıcaklık/döviz takibini göstermek için en uygun grafiktir."
+      },
+      {
+        "card_number": 4,
+        "title": "Sütun Grafiği Kullanım Amacı",
+        "body": "Farklı kategorilerin veya grupların miktarlarını birbiriyle karşılaştırmak için kullanılır."
+      },
+      {
+        "card_number": 5,
+        "title": "Grafikte Yüzde Değişim Bulma",
+        "body": "Artış Oranı = [(Son Değer - İlk Değer) / İlk Değer] x 100 formülüyle grafik üzerinden hesaplanır."
+      },
+      {
+        "card_number": 6,
+        "title": "İki Grafiği Birbirine Bağlama",
+        "body": "Birinci grafikte bulunan toplam miktar (örn: ürün sayısı), ikinci grafikteki açılara ortak oran olarak dağıtılır."
+      },
+      {
+        "card_number": 7,
+        "title": "Tablo Okumada Satır-Sütun Kesişimi",
+        "body": "İki boyutlu tablolarda yatay satır ile dikey sütunun kesiştiği hücre aranan veriyi verir."
+      },
+      {
+        "card_number": 8,
+        "title": "Eğim ve Grafik Hızı",
+        "body": "Yol-Zaman grafiğinde çizginin eğimi (dikey/yatay) hızı verir. Çizgi ne kadar dikse hız o kadar yüksektir."
+      },
+      {
+        "card_number": 9,
+        "title": "Grafikte Kâr-Zarar Bölgesi",
+        "body": "Gelir-Gider grafiğinde Gelir çizgisi Gider çizgisinin üstündeyse KÂR, altındaysa ZARAR bölgesidir."
+      },
+      {
+        "card_number": 10,
+        "title": "Grafik Sorularında Birim Kontrolü",
+        "body": "Eksenlerdeki sayıların (Bin), (Milyon) veya (kg/ton) cinsinden olup olmadığına mutlaka dikkat edilmelidir."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-1",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1: Bir şirketin 2023-2025 yılları satış verileri (Adet).\nYıl | A Ürünü | B Ürünü | C Ürünü\n2023 | 100 | 150 | 200\n2024 | 120 | 180 | 240\n2025 | 150 | 200 | 250\nVerilere göre, 2023 yılında satılan toplam ürün sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "400"
+        },
+        {
+          "key": "B",
+          "text": "450"
+        },
+        {
+          "key": "C",
+          "text": "500"
+        },
+        {
+          "key": "D",
+          "text": "550"
+        },
+        {
+          "key": "E",
+          "text": "600"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "2023 toplam = 100 + 150 + 200 = 450 adet ürün satılmıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-2",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 2024 yılında A ürününün satış miktarındaki artış oranı yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "%10"
+        },
+        {
+          "key": "B",
+          "text": "%15"
+        },
+        {
+          "key": "C",
+          "text": "%20"
+        },
+        {
+          "key": "D",
+          "text": "%25"
+        },
+        {
+          "key": "E",
+          "text": "%30"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "A ürünü 2023: 100 adet, 2024: 120 adet. Artış = 20 adet. Artış oranı = (20 / 100) · 100 = %20 olarak bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-3",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 3 yıl boyunca satılan toplam C ürünü sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "650"
+        },
+        {
+          "key": "B",
+          "text": "670"
+        },
+        {
+          "key": "C",
+          "text": "690"
+        },
+        {
+          "key": "D",
+          "text": "700"
+        },
+        {
+          "key": "E",
+          "text": "710"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam C ürünü = 200 + 240 + 250 = 690 adet bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-4",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 2025 yılındaki toplam satış adedi kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "550"
+        },
+        {
+          "key": "B",
+          "text": "580"
+        },
+        {
+          "key": "C",
+          "text": "600"
+        },
+        {
+          "key": "D",
+          "text": "620"
+        },
+        {
+          "key": "E",
+          "text": "650"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "2025 toplam satış = 150 + 200 + 250 = 600 adet bulunur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-5",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 2023-2025 yılları arasında toplam kaç B ürünü satılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "500"
+        },
+        {
+          "key": "B",
+          "text": "530"
+        },
+        {
+          "key": "C",
+          "text": "550"
+        },
+        {
+          "key": "D",
+          "text": "580"
+        },
+        {
+          "key": "E",
+          "text": "600"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Toplam B ürünü = 150 + 180 + 200 = 530 adet elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-6",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 2024 yılında en az satılan ürün hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "Hepsi eşit"
+        },
+        {
+          "key": "E",
+          "text": "Belirlenemez"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "2024 yılı satış değerleri: A = 120, B = 180, C = 240. En az satılan ürün 120 adet ile A ürünüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-7",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, toplam ürün satışının en yüksek olduğu yıl hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2023"
+        },
+        {
+          "key": "B",
+          "text": "2024"
+        },
+        {
+          "key": "C",
+          "text": "2025"
+        },
+        {
+          "key": "D",
+          "text": "2023 ve 2024 eşit"
+        },
+        {
+          "key": "E",
+          "text": "Belirlenemez"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yıllara göre toplam satışlar: 2023 = 450, 2024 = 540, 2025 = 600. En yüksek satış 2025 yılındadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-8",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 2025 yılında B ürünü satışının tüm satışlara oranı yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "%30,3"
+        },
+        {
+          "key": "B",
+          "text": "%33,3"
+        },
+        {
+          "key": "C",
+          "text": "%36,3"
+        },
+        {
+          "key": "D",
+          "text": "%40"
+        },
+        {
+          "key": "E",
+          "text": "%45"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "2025 B ürünü = 200 adet, 2025 Toplam satış = 600 adet. Oran = 200 / 600 = 1/3 ≈ %33,3 olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-9",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, A ürününün 3 yıllık toplam satışı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "350"
+        },
+        {
+          "key": "B",
+          "text": "370"
+        },
+        {
+          "key": "C",
+          "text": "390"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "420"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Toplam A ürünü = 100 + 120 + 150 = 370 adet bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-10",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-1'e göre, 2024 yılında satılan C ürününün tüm C ürünleri içindeki payı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "240/690"
+        },
+        {
+          "key": "B",
+          "text": "240/540"
+        },
+        {
+          "key": "C",
+          "text": "240/250"
+        },
+        {
+          "key": "D",
+          "text": "240/200"
+        },
+        {
+          "key": "E",
+          "text": "120/690"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "2024 C ürünü = 240 adet, 3 yıllık Toplam C ürünü = 690 adet. Oran = 240/690'dır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-11",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2: Okuldaki kulüpler.\nKulüp | Kız | Erkek\nSatranç | 10 | 15\nMüzik | 20 | 10\nSpor | 15 | 25\nSatranç kulübündeki öğrenci sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Satranç kulübü toplam = 10 (kız) + 15 (erkek) = 25 öğrenci.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-12",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, okulda toplam kaç kız öğrenci kulüplere katılmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35"
+        },
+        {
+          "key": "B",
+          "text": "40"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "55"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam kız öğrenci = 10 + 20 + 15 = 45 öğrenci bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-13",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, en çok tercih edilen kulüp hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Satranç"
+        },
+        {
+          "key": "B",
+          "text": "Müzik"
+        },
+        {
+          "key": "C",
+          "text": "Spor"
+        },
+        {
+          "key": "D",
+          "text": "Satranç ve Müzik"
+        },
+        {
+          "key": "E",
+          "text": "Hepsi eşit"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kulüp mevcutları: Satranç = 25, Müzik = 30, Spor = 40. En çok tercih edilen kulüp Spor kulübüdür.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-14",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, Müzik kulübündeki kızların tüm öğrencilere oranı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20/95"
+        },
+        {
+          "key": "B",
+          "text": "20/100"
+        },
+        {
+          "key": "C",
+          "text": "10/95"
+        },
+        {
+          "key": "D",
+          "text": "20/30"
+        },
+        {
+          "key": "E",
+          "text": "10/100"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Müzik kulübündeki kız sayısı = 20. Kulüplerdeki toplam öğrenci sayısı = 25 + 30 + 40 = 95. Oran = 20/95 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-15",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, Spor kulübündeki kız ve erkek öğrenci farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Spor kulübü erkek = 25, kız = 15. Öğrenci sayısı farkı = 25 - 15 = 10 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-16",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, tüm kulüplerdeki erkek öğrenci toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "45"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "55"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam erkek öğrenci = 15 + 10 + 25 = 50 öğrenci.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-17",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, kulüplere katılan toplam öğrenci sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "85"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "95"
+        },
+        {
+          "key": "D",
+          "text": "100"
+        },
+        {
+          "key": "E",
+          "text": "105"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Toplam öğrenci sayısı = 45 (kız) + 50 (erkek) = 95 öğrenci bulunur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-18",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, Müzik kulübü kaç kişiden oluşmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "35"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Müzik kulübü toplam = 20 (kız) + 10 (erkek) = 30 kişi.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-19",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, Satranç kulübündeki kızların sayısı, Spor kulübündeki kızların sayısından kaç azdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Spor kulübü kız = 15, Satranç kulübü kız = 10. Fark = 15 - 10 = 5 azdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-20",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-2'ye göre, kulüplerdeki genel kız/erkek oranı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9/10"
+        },
+        {
+          "key": "B",
+          "text": "8/9"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "10/11"
+        },
+        {
+          "key": "E",
+          "text": "11/12"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Toplam kız = 45, Toplam erkek = 50. Kız/Erkek oranı = 45 / 50 = 9/10 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-21",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3: Bir ailenin aylık gider dağılımı (Toplam Gider 20.000 TL).\nGider | Oran (%)\nKira | 40\nGıda | 30\nEğitim | 20\nDiğer | 10\nAilenin kira gideri kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6000"
+        },
+        {
+          "key": "B",
+          "text": "7000"
+        },
+        {
+          "key": "C",
+          "text": "8000"
+        },
+        {
+          "key": "D",
+          "text": "9000"
+        },
+        {
+          "key": "E",
+          "text": "10000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kira gideri = 20.000 · (40 / 100) = 8.000 TL bulunur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-22",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, eğitim gideri kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3000"
+        },
+        {
+          "key": "B",
+          "text": "4000"
+        },
+        {
+          "key": "C",
+          "text": "5000"
+        },
+        {
+          "key": "D",
+          "text": "6000"
+        },
+        {
+          "key": "E",
+          "text": "7000"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Eğitim gideri = 20.000 · (20 / 100) = 4.000 TL bulunur.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-23",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, gıda gideri diğer giderlerden kaç TL fazladır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2000"
+        },
+        {
+          "key": "B",
+          "text": "3000"
+        },
+        {
+          "key": "C",
+          "text": "4000"
+        },
+        {
+          "key": "D",
+          "text": "5000"
+        },
+        {
+          "key": "E",
+          "text": "6000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Gıda gideri = 20.000 · 0,30 = 6.000 TL. Diğer giderler = 20.000 · 0,10 = 2.000 TL. Fark = 6.000 - 2.000 = 4.000 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-24",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, kira ve eğitim gideri toplamı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10000"
+        },
+        {
+          "key": "B",
+          "text": "11000"
+        },
+        {
+          "key": "C",
+          "text": "12000"
+        },
+        {
+          "key": "D",
+          "text": "13000"
+        },
+        {
+          "key": "E",
+          "text": "14000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kira = 8.000 TL, Eğitim = 4.000 TL. Toplam = 8.000 + 4.000 = 12.000 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-25",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, kira gideri tüm giderlerin yüzde kaçıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Tabloda verildiği üzere kira gideri tüm giderlerin %40'ıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-26",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, diğer giderlerin toplam gider içindeki payı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/5"
+        },
+        {
+          "key": "B",
+          "text": "1/8"
+        },
+        {
+          "key": "C",
+          "text": "1/10"
+        },
+        {
+          "key": "D",
+          "text": "1/12"
+        },
+        {
+          "key": "E",
+          "text": "1/15"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Diğer gider oranı = %10 = 10 / 100 = 1/10 paya sahiptir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-27",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, aile aylık 5.000 TL tasarruf edebiliyor olsaydı aylık toplam geliri kaç TL olurdu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25000"
+        },
+        {
+          "key": "B",
+          "text": "22000"
+        },
+        {
+          "key": "C",
+          "text": "20000"
+        },
+        {
+          "key": "D",
+          "text": "18000"
+        },
+        {
+          "key": "E",
+          "text": "15000"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Toplam gider = 20.000 TL. 5.000 TL tasarruf yapılabilmesi için aylık toplam gelirin Gider + Tasarruf = 20.000 + 5.000 = 25.000 TL olması gerekir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-28",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, gıda gideri eğitim giderinin kaç katıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,2"
+        },
+        {
+          "key": "B",
+          "text": "1,5"
+        },
+        {
+          "key": "C",
+          "text": "1,8"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        },
+        {
+          "key": "E",
+          "text": "2,5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gıda gideri = 6.000 TL, Eğitim gideri = 4.000 TL. Kat oranı = 6.000 / 4.000 = 1,5 katıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-29",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, eğitim gideri ile diğer giderler toplamı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5000"
+        },
+        {
+          "key": "B",
+          "text": "6000"
+        },
+        {
+          "key": "C",
+          "text": "7000"
+        },
+        {
+          "key": "D",
+          "text": "8000"
+        },
+        {
+          "key": "E",
+          "text": "9000"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Eğitim = 4.000 TL, Diğer = 2.000 TL. Toplam = 4.000 + 2.000 = 6.000 TL bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-grafik-tablo-detay-30",
+      "topic_id": "topic-mat-grafik-tablo-detay",
+      "question_text": "Tablo-3'e göre, Kira, Gıda ve Diğer giderlerin toplamı kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "14000"
+        },
+        {
+          "key": "B",
+          "text": "15000"
+        },
+        {
+          "key": "C",
+          "text": "16000"
+        },
+        {
+          "key": "D",
+          "text": "17000"
+        },
+        {
+          "key": "E",
+          "text": "18000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Kira (8.000) + Gıda (6.000) + Diğer (2.000) = 16.000 TL bulunur.",
+      "difficulty_level": 2
+    }
+  ]
+}

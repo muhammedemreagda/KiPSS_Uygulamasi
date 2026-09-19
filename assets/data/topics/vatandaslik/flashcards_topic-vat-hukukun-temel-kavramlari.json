@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-vat-hukukun-temel-kavramlari",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Toplumsal Düzen Kuralları",
+      "body": "Din, ahlak, görgü ve hukuk kurallarıdır. Hukuk kurallarını diğerlerinden ayıran temel fark MADDİ YAPTIRIMLI (Devlet gücüne dayalı) olmasıdır."
+    },
+    {
+      "card_number": 2,
+      "title": "Hukuki Yaptırım (Müeyyide) Türleri",
+      "body": "Ceza, Cebri İcra, Tazminat, Hükümsüzlük (İptal, Yokluk, Butlan)."
+    },
+    {
+      "card_number": 3,
+      "title": "Yokluk ve Butlan Farkı",
+      "body": "Yokluk: Kurucu unsurun olmamasıdır (İmamsız nikah). Butlan: Emredici kurala aykırılıktır (Kardeşle evlenme - Mutlak Butlan)."
+    },
+    {
+      "card_number": 4,
+      "title": "Pozitif (Müspet) Hukuk",
+      "body": "Bir ülkede belirli bir zamanda yürürlükte bulunan YAZILI VE YAZISIZ hukuk kurallarının tamamıdır."
+    },
+    {
+      "card_number": 5,
+      "title": "Mevzu Hukuk (Mevzuat)",
+      "body": "Bir ülkede yetkili makamlar tarafından konulmuş SADECE YAZILI hukuk kurallarının (Anayasa, Kanun, Yönetmelik) tamamıdır."
+    },
+    {
+      "card_number": 6,
+      "title": "Hak Ehliyeti ve Fiil Ehliyeti",
+      "body": "Hak Ehliyeti: Sağ ve tam doğmak şartıyla ANNE KARNINA DÜŞTÜĞÜ ANDA başlar. Fiil Ehliyeti: Reşit (18 yaş), ayırt etme gücü ve kısıtlı olmamakla başlar."
+    },
+    {
+      "card_number": 7,
+      "title": "Evlenme İle Ergin Olma (Rüşt)",
+      "body": "Normal erginlik yaşı 18'dir. Olağan evlenme yaşı 17, olağanüstü evlenme yaşı (mahkeme kararıyla) 16'dır."
+    },
+    {
+      "card_number": 8,
+      "title": "Mahkeme Kararıyla Erginlik (Kazai Rüşt)",
+      "body": "15 yaşını dolduran küçüğün kendi isteği, velisinin rızası ve mahkeme kararı ile ergin kılınmasıdır."
+    },
+    {
+      "card_number": 9,
+      "title": "Gaiplik Kararı ve Süreleri",
+      "body": "Ölüm tehlikesi içinde kaybolmada 1 YIL; uzun süredir haber alınamama durumunda 5 YIL sonra mahkemeden gaiplik istenir. Miras için güvence süresi 5 ve 15 yıldır."
+    },
+    {
+      "card_number": 10,
+      "title": "Hukuki Hakların Kazanılması ve Kullanılması",
+      "body": "Hakların kazanılmasında İYİNİYET (Objektif); hakların kullanılmasında ve borçların ifasında DÜRÜSTLÜK (Subjektif) kuralı geçerlidir."
+    }
+  ]
+}

@@ -1,0 +1,1697 @@
+{
+  "topic_id": "topic-vat-yasama-tbmm",
+  "title": "Yasama Organı (TBMM)",
+  "course_id": "course-vatandaslik",
+  "question_count": 54,
+  "quick_note": {
+    "id": "qn-topic-vat-yasama-tbmm",
+    "topic_id": "topic-vat-yasama-tbmm",
+    "title": "Yasama Organı (TBMM) Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Vatandaşlık & Anayasa Hukuku testinde 'Yasama Organı (TBMM)' konusu, 1982 Anayasası maddelerine, hukuki nisaplara, yetkili organlara ve devlet teşkilatına dayanan net bilgi alanıdır.",
+    "content": "Yasama Organı (TBMM) konusu, KPSS Vatandaşlık ve Anayasa sorularında doğrudan bilgi ölçen net soru alanlarındandır.\n\n1. Hukuki Esaslar ve Devlet Teşkilatı:\nYasama Organı (TBMM) konusu, 1982 Anayasası'nın hükümleri ve Türk hukuk sisteminin kuralları çerçevesinde işlenmektedir. Yasa, yürütme ve yargı organlarının görev ve yetki sınırları belirgindir.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Meclis karar ve toplantı yetersayıları (200, 151, 360, 400 gibi nisaplar).\n- Cumhurbaşkanlığı Kararnameleri (CBK) ile düzenlenebilen ve düzenlenemeyen hak alanları.\n- İdarenin bütünlüğünü sağlayan Hiyerarşi (aynı tüzel kişilik) ve İdari Vesayet (ayrı tüzel kişilik) ayrımları.\n- 657 Sayılı Devlet Memurları Kanunu'ndaki disiplin cezaları ve yetkili kurullar.\n\n3. Soru Çözüm Yöntemi:\n- Sorularda verilen hukuki şartları (yaş sınırı, öğrenim durumu, süreler) harfiyen inceleyin.\n- Kesin hüküm içeren şıklarda anayasa metnine tam uygunluğu arayın.",
+    "key_points": [
+      "1. Yasama Organı (TBMM) konusundaki anayasa maddelerini, sayısal süreleri ve karar nisaplarını ezberleyin.",
+      "2. Yargı organları, idare yapısı ve memurluk hukukundaki görev tanımlarını netleştirin.",
+      "3. Hukuk terimlerini (Yokluk, Butlan, Hak Ehliyeti, Fiil Ehliyeti) birbiriyle karıştırmayın.",
+      "4. Son anayasa değişiklikleriyle kaldırılan veya yeni gelen kurum/kurallara dikkat edin.",
+      "5. Hiyerarşi ile İdari Vesayet arasındaki farkı örnekleriyle öğrenin."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "TBMM Üye Tamsayısı ve Seçim Dönemi",
+        "body": "TBMM 600 milletvekilinden oluşur. Genel seçimler 5 YILDA BİR Cumhurbaşkanlığı seçimiyle aynı gün yapılır."
+      },
+      {
+        "card_number": 2,
+        "title": "Milletvekili Seçilme Yeterliliği",
+        "body": "Türk vatandaşı olmak, 18 yaşını doldurmak, en az ilkokul mezunu olmak, kısıtlı olmamak, taksirli suçlar hariç 1 yıldan fazla hapis yatmamış olmak."
+      },
+      {
+        "card_number": 3,
+        "title": "Seçim İçin İstifa Etmesi Gerekenler",
+        "body": "Hakimler, savcılar, yüksek yargı mensupları, TSK mensupları ve memurlar aday olmak için istifa etmelidir. Seçilemezlerse görevlerine dönemeyenler: Hakimler, savcılar ve TSK mensuplarıdır."
+      },
+      {
+        "card_number": 4,
+        "title": "Yasama Dokunulmazlığı",
+        "body": "Milletvekilinin tutuklanmasını, sorgulanmasını ve yargılanmasını engeller (Nitelikli çoğunlukla kaldırılabilir). Sadece ceza davalarını kapsar."
+      },
+      {
+        "card_number": 5,
+        "title": "Yasama Sorumsuzluğu (Kürsü Hürriyeti)",
+        "body": "Milletvekilinin meclis çalışmalarındaki oy, söz ve düşüncelerinden ÖMÜR BOYU sorumlu tutulamamasıdır. Asla KALDIRILAMAZ."
+      },
+      {
+        "card_number": 6,
+        "title": "Milletvekilliğinin Düşme Durumları",
+        "body": "İstifa (Meclis kararıyla), kesin hüküm giyme (Bildirimle), kısıtlanma (Bildirimle), bağdaşmayan görevde ısrar etme ve devamsızlık (1 ayda 5 birleşim)."
+      },
+      {
+        "card_number": 7,
+        "title": "Milletvekilliğini DÜŞÜRMEYEN Durumlar",
+        "body": "TBMM Başkanı seçilmek, bakan veya Cumhurbaşkanı yardımcısı olmak (Milletvekilliği kendiliğinden sona erer ama 'düşme' kararı değildir)."
+      },
+      {
+        "card_number": 8,
+        "title": "TBMM Toplantı ve Karar Yetersayısı",
+        "body": "Toplantı Yetersayısı: Üye tamsayısının 1/3'ü (200 milletvekili). Karar Yetersayısı: Toplantıya katılanların salt çoğunluğudur; ancak üye tamsayısının 1/4'ünün 1 fazlasından (151) az olamaz."
+      },
+      {
+        "card_number": 9,
+        "title": "Anayasa Değişikliği Nisapları",
+        "body": "Teklif için 1/5 (120 milletvekili). Kabul için 3/5 (360 milletvekili - Referandumlu kabul) veya 2/3 (400 milletvekili - Doğrudan onay)."
+      },
+      {
+        "card_number": 10,
+        "title": "TBMM Bilgi Edinme Yolları",
+        "body": "Yazılı Soru, Genel Görüşme, Meclis Araştırması, Meclis Soruşturması. (Gensoru ve Sözlü Soru 2017 değişikliğiyle KALDIRILMIŞTIR!)."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-vat-yasama-tbmm-53",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekilliği 'dokunulmazlığının' kaldırılması kararı TBMM Genel Kurulu'nda hangi oy oranı ile alınır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplantıya katılanların nitelikli çoğunluğu"
+        },
+        {
+          "key": "B",
+          "text": "Toplantıya katılanların üye tamsayısının salt çoğunluğu (301) ile"
+        },
+        {
+          "key": "C",
+          "text": "Üye tamsayısının 3/5'i ile"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Cumhurbaşkanı kararıyla"
+        },
+        {
+          "key": "E",
+          "text": "Başkanlık Divanı kararıyla"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yasama dokunulmazlığı TBMM Genel Kurulu tarafından kaldırılabilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-63",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "1982 Anayasası'na göre TBMM'nin milletvekili üye tamsayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "550"
+        },
+        {
+          "key": "B",
+          "text": "600"
+        },
+        {
+          "key": "C",
+          "text": "450"
+        },
+        {
+          "key": "D",
+          "text": "300"
+        },
+        {
+          "key": "E",
+          "text": "400"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "2017 anayasa değişikliği ile TBMM milletvekili üye tamsayısı 550'den 600'e çıkarılmıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-103",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin bir kanun teklifini görüşüp kabul etmesi sürecinde, Cumhurbaşkanı'nın kanunu yayımlaması için tanınan Anayasal süre kaç gündür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 gün"
+        },
+        {
+          "key": "B",
+          "text": "10 gün"
+        },
+        {
+          "key": "C",
+          "text": "15 gün"
+        },
+        {
+          "key": "D",
+          "text": "30 gün"
+        },
+        {
+          "key": "E",
+          "text": "60 gün"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Cumhurbaşkanı, TBMM tarafından kabul edilen kanunları 15 gün içinde Resmi Gazete'de yayımlar veya bir kez daha görüşülmek üzere Meclise geri gönderir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-113",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de 'kanun yapım süreci'nde, kanun tekliflerinin Meclis'e sunulmasından sonraki ilk değerlendirme aşaması nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İlgili İhtisas Komisyonu Görüşmeleri"
+        },
+        {
+          "key": "B",
+          "text": "TBMM Genel Kurul Oylaması"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanının Onayı"
+        },
+        {
+          "key": "D",
+          "text": "Resmi Gazete'de Yayımlanması"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanlığı Kararnamesi ile Kabulü"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Kanun teklifleri Meclis Başkanlığı'nca öncelikle ilgili ihtisas komisyonlarına (örn. Adalet Komisyonu, Plan Bütçe Komisyonu) havale edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-123",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "1982 Anayasası'na göre TBMM'nin üye tamsayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "550"
+        },
+        {
+          "key": "B",
+          "text": "600"
+        },
+        {
+          "key": "C",
+          "text": "450"
+        },
+        {
+          "key": "D",
+          "text": "300"
+        },
+        {
+          "key": "E",
+          "text": "400"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "2017 anayasa değişikliği ile TBMM üye tamsayısı 600'e yükseltilmiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-133",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM seçimlerinin yenilenmesi (erken seçim) kararını almaya yetkili olan organlar hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Bakanlar Kurulu"
+        },
+        {
+          "key": "B",
+          "text": "Sadece YSK"
+        },
+        {
+          "key": "C",
+          "text": "TBMM (3/5 çoğunlukla) veya doğrudan Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Anayasa Mahkemesi"
+        },
+        {
+          "key": "E",
+          "text": "Başbakan"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1982 Anayasası'na göre TBMM üye tamsayısının 3/5 çoğunluğu ile (360) veya doğrudan Cumhurbaşkanı tarafından seçimlerin yenilenmesine karar verilebilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-143",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekillerinin 'yasama dokunulmazlığı'nın kaldırılması için TBMM Genel Kurulu'nda aranan oy çoğunluğu nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Salt çoğunluk"
+        },
+        {
+          "key": "B",
+          "text": "Üye tamsayısının mutlak çoğunluğu (301)"
+        },
+        {
+          "key": "C",
+          "text": "Üye tamsayısının 3/5 çoğunluğu (360)"
+        },
+        {
+          "key": "D",
+          "text": "Üye tamsayısının 2/3 çoğunluğu (400)"
+        },
+        {
+          "key": "E",
+          "text": "Oy birliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yasama dokunulmazlığının kaldırılması için TBMM Genel Kurulu'nda üye tamsayısının mutlak çoğunluğu olan en az 301 milletvekilinin kabul oyu gereklidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-2",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekili seçilebilmek için gereken yaş sınırı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "2017 değişikliği ile milletvekili seçilme yaşı 18'e indirilmiştir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-3",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM seçimleri normal şartlarda kaç yılda bir yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "7"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1982 Anayasası'na göre TBMM genel seçimleri 5 yılda bir yapılır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-4",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Yasama dokunulmazlığının kaldırılması için Meclis'te gereken oy oranı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Salt çoğunluk"
+        },
+        {
+          "key": "B",
+          "text": "Üye tamsayısının mutlak çoğunluğu (301)"
+        },
+        {
+          "key": "C",
+          "text": "Üye tamsayısının 3/5'i"
+        },
+        {
+          "key": "D",
+          "text": "Üye tamsayısının 2/3'ü"
+        },
+        {
+          "key": "E",
+          "text": "Oybirliği"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yasama dokunulmazlığının kaldırılması için TBMM üye tamsayısının mutlak çoğunluğu (301 oy) gereklidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-5",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin denetim yollarından hangisi 2017 değişikliği ile kaldırılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Soru"
+        },
+        {
+          "key": "B",
+          "text": "Genel görüşme"
+        },
+        {
+          "key": "C",
+          "text": "Meclis araştırması"
+        },
+        {
+          "key": "D",
+          "text": "Gensoru"
+        },
+        {
+          "key": "E",
+          "text": "Meclis soruşturması"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "2017 anayasa değişikliği ile hükümeti düşürmeyi sağlayan 'gensoru' mekanizması kaldırılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-6",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Yasama sorumsuzluğu ne zamana kadar devam eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Görev süresi bitene kadar"
+        },
+        {
+          "key": "B",
+          "text": "Ömür boyu"
+        },
+        {
+          "key": "C",
+          "text": "Seçim bitene kadar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece meclis açıkken"
+        },
+        {
+          "key": "E",
+          "text": "Sadece bir yıl"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yasama sorumsuzluğu, milletvekilinin meclis içi konuşma ve oylamaları için mutlak ve ömür boyu süren bir korumadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-7",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM Başkanlık Divanı seçimleri bir yasama döneminde kaç defa yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM Başkanlık Divanı seçimleri bir yasama döneminde iki defa (ilk 2 yıl için ve dönem sonuna kadar) yapılır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-8",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin bir yasama yılındaki tatil süresi en fazla ne kadardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 ay"
+        },
+        {
+          "key": "B",
+          "text": "2 ay"
+        },
+        {
+          "key": "C",
+          "text": "3 ay"
+        },
+        {
+          "key": "D",
+          "text": "4 ay"
+        },
+        {
+          "key": "E",
+          "text": "6 ay"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "TBMM bir yasama yılında en çok 3 ay tatil yapabilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-9",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Kanun teklif etmeye kim yetkilidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "Milletvekilleri"
+        },
+        {
+          "key": "C",
+          "text": "Bakanlar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis Başkanı"
+        },
+        {
+          "key": "E",
+          "text": "İl Genel Meclisi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "1982 Anayasası'na göre kanun teklif etme yetkisi sadece milletvekillerine aittir (Bütçe hariç).",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-10",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM toplantı yeter sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/3 (200 milletvekili)"
+        },
+        {
+          "key": "B",
+          "text": "Salt çoğunluk (301)"
+        },
+        {
+          "key": "C",
+          "text": "400"
+        },
+        {
+          "key": "D",
+          "text": "276"
+        },
+        {
+          "key": "E",
+          "text": "Üyelerin yarısı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "TBMM Genel Kurulu, üye tamsayısının üçte biri olan 200 milletvekili ile toplanır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-11",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Cumhurbaşkanı yardımcısı veya bakanlar hakkında meclis soruşturması açılması için gereken imza sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200"
+        },
+        {
+          "key": "B",
+          "text": "301 (salt çoğunluk)"
+        },
+        {
+          "key": "C",
+          "text": "330"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "151"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Meclis soruşturması açılması için üye tamsayısının salt çoğunluğu (301) tarafından teklif verilmesi gerekir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-12",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Meclis soruşturması sonucunda yüce divana sevk kararı için gereken oy sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "301"
+        },
+        {
+          "key": "B",
+          "text": "330"
+        },
+        {
+          "key": "C",
+          "text": "360 (üye tamsayısının 3/5'i)"
+        },
+        {
+          "key": "D",
+          "text": "400 (üye tamsayısının 2/3'ü)"
+        },
+        {
+          "key": "E",
+          "text": "276"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yüce divana sevk kararı için üye tamsayısının 3/5'inin (360) gizli oyu gerekir.",
+      "difficulty_level": 5
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-13",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM Başkanı'nı kim seçer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "Meclis Genel Kurulu"
+        },
+        {
+          "key": "C",
+          "text": "Halk"
+        },
+        {
+          "key": "D",
+          "text": "Bakanlar Kurulu"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM Başkanı, Meclis Genel Kurulu tarafından gizli oyla seçilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-14",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM Başkanlık Divanı'nda hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Başkan"
+        },
+        {
+          "key": "B",
+          "text": "Başkanvekilleri"
+        },
+        {
+          "key": "C",
+          "text": "Katip üyeler"
+        },
+        {
+          "key": "D",
+          "text": "İdare amirleri"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanı yardımcıları"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Başkanlık Divanı; Başkan, Başkanvekilleri, Katip üyeler ve İdare amirlerinden oluşur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-15",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Anayasa değişikliği teklifleri en az kaç milletvekilinin imzasıyla verilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "151"
+        },
+        {
+          "key": "C",
+          "text": "200 (üye tamsayısının 1/3'ü)"
+        },
+        {
+          "key": "D",
+          "text": "301"
+        },
+        {
+          "key": "E",
+          "text": "330"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Anayasa değişikliği teklifi için üye tamsayısının en az 1/3'ünün (200 milletvekili) imzası gerekir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-16",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'kanun koyma' yetkisi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınırsızdır"
+        },
+        {
+          "key": "B",
+          "text": "Anayasa ile sınırlıdır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece bütçe ile ilgilidir"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanının onayına bağlı değildir"
+        },
+        {
+          "key": "E",
+          "text": "Yargı ile paylaşılır"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM'nin yasama yetkisi Anayasa ile sınırlı ve çerçevelenmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-17",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de 'karar yeter sayısı' genel kural olarak nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toplantıya katılanların salt çoğunluğu (üye tamsayısının 1/4'ünün 1 fazlasından az olamaz)"
+        },
+        {
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "key": "C",
+          "text": "2/3"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "Oybirliği"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "TBMM'de karar yeter sayısı, karar toplantısına katılanların salt çoğunluğudur (ancak üye tamsayısının 1/4'ünün 1 fazlası olan 151'den az olamaz).",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-18",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekili seçilme yeterliliğine sahip olmayan kişi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türk vatandaşı olmayan"
+        },
+        {
+          "key": "B",
+          "text": "Okuma yazma bilmeyen"
+        },
+        {
+          "key": "C",
+          "text": "Askerlik hizmetiyle ilişiği olan"
+        },
+        {
+          "key": "D",
+          "text": "Kısıtlı veya taksirli suçlar hariç toplam 1 yıl veya daha fazla hapis cezası giyen hükümlü"
+        },
+        {
+          "key": "E",
+          "text": "Yukarıdakilerin hepsi"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Vatandaş olmayanlar, okuma yazma bilmeyenler, askerlikle ilişiği olanlar ve ağır hükümlüler seçilemez.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-19",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'bilgi edinme ve denetim' yolları hangileridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gensoru"
+        },
+        {
+          "key": "B",
+          "text": "Yazılı Soru, Meclis Araştırması, Genel Görüşme, Meclis Soruşturması"
+        },
+        {
+          "key": "C",
+          "text": "Güvenoyu"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanını sorgulama"
+        },
+        {
+          "key": "E",
+          "text": "Referandum"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM, yürütme organını yazılı soru, meclis araştırması, genel görüşme ve meclis soruşturması yollarıyla denetler.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-20",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Yasama dokunulmazlığı hangi durumda doğrudan uygulanamaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ağır cezayı gerektiren suçüstü halinde"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi suçlarda"
+        },
+        {
+          "key": "C",
+          "text": "Hakaret davalarında"
+        },
+        {
+          "key": "D",
+          "text": "İftira iddialarında"
+        },
+        {
+          "key": "E",
+          "text": "Trafik ihlallerinde"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Anayasa'ya göre, ağır cezayı gerektiren suçüstü halinde ve Anayasa Madde 14 ihlallerinde soruşturmaya başlanmış olmak kaydıyla dokunulmazlık uygulanamaz.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-21",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin tatilde veya ara vermede olması durumunda olağanüstü toplantıya kim çağırabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanı veya doğrudan/1/5 üyenin yazılı istemi üzerine TBMM Başkanı"
+        },
+        {
+          "key": "B",
+          "text": "Sadece Meclis İdare Amirleri"
+        },
+        {
+          "key": "C",
+          "text": "Sadece Anayasa Mahkemesi"
+        },
+        {
+          "key": "D",
+          "text": "Sadece YSK"
+        },
+        {
+          "key": "E",
+          "text": "Sadece muhalefet lideri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "TBMM Başkanı doğrudan veya üye tamsayısının 1/5'inin (120) yazılı istemi üzerine, Cumhurbaşkanı ise doğrudan Meclis'i olağanüstü toplantıya çağırabilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-22",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekillerinin 'milletvekilliği' sıfatı Anayasa uyarınca ne zaman sona erer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçim bitince"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanının kararıyla"
+        },
+        {
+          "key": "C",
+          "text": "İstifanın kabulü, kesin hüküm giyme veya kısıtlanma ile"
+        },
+        {
+          "key": "D",
+          "text": "Partisinden ayrılınca"
+        },
+        {
+          "key": "E",
+          "text": "Meclis Başkanı istifa edince"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Milletvekilliği; istifa, kesin hüküm giyme, kısıtlanma, milletvekilliğiyle bağdaşmayan bir görevi sürdürmekte ısrar etme ile sona erer.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-23",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de siyasi parti 'grubu' kurabilmek için en az kaç milletvekili gereklidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        },
+        {
+          "key": "E",
+          "text": "30"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "TBMM'de siyasi parti grubu kurabilmek için en az 20 milletvekili gerekir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-25",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Yasama dokunulmazlığının kaldırılması kararına karşı milletvekili iptal istemiyle nereye başvurabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anayasa Mahkemesi'ne (7 gün içinde)"
+        },
+        {
+          "key": "B",
+          "text": "Yargıtay'a"
+        },
+        {
+          "key": "C",
+          "text": "İdare Mahkemesine"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis Başkanlığına"
+        },
+        {
+          "key": "E",
+          "text": "Yol kapalıdır"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yasama dokunulmazlığının kaldırılması kararına karşı ilgili milletvekili 7 gün içinde Anayasa Mahkemesi'ne başvurabilir; AYM 15 gün içinde karara bağlar.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-26",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'kanun yapma' yetkisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kanun teklifi milletvekillerine aittir"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı kanunları bir kez daha görüşülmek üzere geri gönderebilir"
+        },
+        {
+          "key": "C",
+          "text": "Meclis Genel Kurulu kanun tekliflerini görüşüp oylar"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Bakanlar Kurulu kanun teklif edebilir"
+        },
+        {
+          "key": "E",
+          "text": "Kanunlar Resmi Gazete'de yayımlanarak yürürlüğe girer"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Bakanlar Kurulu 2017 değişikliğiyle kaldırılmış olup, kanun teklif etme yetkisi sadece milletvekillerindedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-28",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM seçimlerini 'erken seçim' kararıyla yenileme yetkisi kimdedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Meclis"
+        },
+        {
+          "key": "B",
+          "text": "Sadece Cumhurbaşkanı"
+        },
+        {
+          "key": "C",
+          "text": "TBMM (3/5 çoğunlukla) veya Cumhurbaşkanı"
+        },
+        {
+          "key": "D",
+          "text": "YSK"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "TBMM (3/5 çoğunlukla - 360 oy) veya doğrudan Cumhurbaşkanı seçimlerin yenilenmesine karar verebilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-29",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de 'meclis soruşturması' kimlerin cezai sorumluluğu için açılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milletvekilleri"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı yardımcıları veya bakanlar"
+        },
+        {
+          "key": "C",
+          "text": "Meclis Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "Valiler"
+        },
+        {
+          "key": "E",
+          "text": "Yargıtay üyeleri"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Meclis soruşturması, Cumhurbaşkanı yardımcıları ve bakanların görevleriyle ilgili suç işledikleri iddiası üzerine açılır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-30",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM Başkanı'nın ilk seçilenler için görev süresi ne kadardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 yıl"
+        },
+        {
+          "key": "B",
+          "text": "2 yıl"
+        },
+        {
+          "key": "C",
+          "text": "5 yıl"
+        },
+        {
+          "key": "D",
+          "text": "Dönem sonuna kadar"
+        },
+        {
+          "key": "E",
+          "text": "Ömür boyu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Bir yasama döneminde iki seçim yapılır; ilk seçilenlerin görev süresi 2 yıldır, ikinci seçilenlerin görev süresi ise o yasama döneminin sonuna kadardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-31",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de kanunlar Genel Kurul'da olağan durumlarda hangi oy sayısı ile kabul edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oybirliğiyle"
+        },
+        {
+          "key": "B",
+          "text": "Toplantıya katılanların salt çoğunluğu ile"
+        },
+        {
+          "key": "C",
+          "text": "Nitelikli 2/3 çoğunlukla"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Meclis Başkanının oyuyla"
+        },
+        {
+          "key": "E",
+          "text": "Referandumla"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kanunlar TBMM'de basit çoğunluk (toplantıya katılanların salt çoğunluğu) ile kabul edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-32",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekillerinin partilerinden ayrılması veya başka partiye geçmesi dokunulmazlıklarını veya milletvekilliklerini nasıl etkiler?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milletvekilliği düşer"
+        },
+        {
+          "key": "B",
+          "text": "Etkilemez, vekillik ve dokunulmazlık devam eder"
+        },
+        {
+          "key": "C",
+          "text": "Dokunulmazlık askıya alınır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece süreli kalkar"
+        },
+        {
+          "key": "E",
+          "text": "Seçim yapılana kadar kalkar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Milletvekillerinin partisinden ayrılması veya başka partiye geçmesi vekillik sıfatını veya dokunulmazlığını düşürmez.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-33",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin denetim araçlarından 'Yazılı Soru' nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Başbakanı sorgulama"
+        },
+        {
+          "key": "B",
+          "text": "Cumhurbaşkanı yardımcıları veya bakanlardan yazılı olarak bilgi istenmesi"
+        },
+        {
+          "key": "C",
+          "text": "Devletin gizli belgelerini alma"
+        },
+        {
+          "key": "D",
+          "text": "Mahkemeyi denetleme"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Meclis Başkanına sorma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yazılı soru, milletvekillerinin Cumhurbaşkanı yardımcıları veya bakanlardan en geç 15 gün içinde cevaplanmak üzere yazılı bilgi istemeleridir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-34",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM üyeleri ant içmeden (yemin etmeden) meclis çalışmalarına katılabilir mi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evet"
+        },
+        {
+          "key": "B",
+          "text": "Hayır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece yemin edecekleri gün"
+        },
+        {
+          "key": "D",
+          "text": "Başkan isterse"
+        },
+        {
+          "key": "E",
+          "text": "Sadece komisyonlarda"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Milletvekilleri yemin etmeden meclis çalışmalarına ve oylamalara katılamazlar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-35",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'meclis araştırması' bilgi edinme yolu ne demektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece bir kişinin yargılanması"
+        },
+        {
+          "key": "B",
+          "text": "Belli bir konuda bilgi edinmek için kurulan komisyon marifetiyle yapılan inceleme"
+        },
+        {
+          "key": "C",
+          "text": "Hükümeti düşürme yolu"
+        },
+        {
+          "key": "D",
+          "text": "Anayasa değiştirme yolu"
+        },
+        {
+          "key": "E",
+          "text": "Sadece seçimler hakkında"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Meclis araştırması, belirli bir konuda bilgi edinmek amacıyla kurulan özel komisyon marifetiyle yapılan incelemedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-36",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'görev ve yetkileri' arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kanun koymak, değiştirmek ve kaldırmak"
+        },
+        {
+          "key": "B",
+          "text": "Bütçe ve kesinhesap kanun tekliflerini görüşmek ve kabul etmek"
+        },
+        {
+          "key": "C",
+          "text": "Para basılmasına karar vermek"
+        },
+        {
+          "key": "D",
+          "text": "Savaş ilanına karar vermek"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanını doğrudan atamak"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Cumhurbaşkanı halk tarafından seçilir, TBMM tarafından atanmaz.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-37",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekili genel seçimi hangi seçimle birlikte aynı günde yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cumhurbaşkanlığı seçimi ile"
+        },
+        {
+          "key": "B",
+          "text": "Yerel seçimlerle"
+        },
+        {
+          "key": "C",
+          "text": "Muhtarlık seçimleri ile"
+        },
+        {
+          "key": "D",
+          "text": "Baro seçimleri ile"
+        },
+        {
+          "key": "E",
+          "text": "Anayasa Mahkemesi seçimleri ile"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1982 Anayasası'na göre milletvekili genel seçimi ile Cumhurbaşkanlığı seçimi aynı günde 5 yılda bir yapılır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-38",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM üye tamsayısının üçte biri olan toplantı yeter sayısı sayısal olarak kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200"
+        },
+        {
+          "key": "B",
+          "text": "301"
+        },
+        {
+          "key": "C",
+          "text": "400"
+        },
+        {
+          "key": "D",
+          "text": "276"
+        },
+        {
+          "key": "E",
+          "text": "550"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Üye tamsayısı 600 olan TBMM, 1/3 yani 200 milletvekili ile toplanır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-39",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'denetim yolları' hakkında hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güvenoyu bir denetim yoludur"
+        },
+        {
+          "key": "B",
+          "text": "Yazılı soru bir denetim yoludur"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanının onayı denetim yoludur"
+        },
+        {
+          "key": "D",
+          "text": "Mahkeme kararları denetim yoludur"
+        },
+        {
+          "key": "E",
+          "text": "Bütçe denetim değildir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yazılı soru, meclis araştırması, genel görüşme ve meclis soruşturması TBMM'nin denetim yollarıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-40",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM Başkanlık Divanı hangi organ ve üyelerden oluşur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TBMM Başkanı, Başkanvekilleri, Katip üyeler ve İdare amirleri"
+        },
+        {
+          "key": "B",
+          "text": "Sadece Başkan ve yardımcıları"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi parti grup başkanları"
+        },
+        {
+          "key": "D",
+          "text": "Bakanlar"
+        },
+        {
+          "key": "E",
+          "text": "Cumhurbaşkanı"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "TBMM Başkanlık Divanı; TBMM Başkanı, Başkanvekilleri, Katip üyeler ve İdare amirlerinden oluşur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-41",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de 'genel görüşme' bilgi edinme yolu neyi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece ekonomi hakkında görüşme"
+        },
+        {
+          "key": "B",
+          "text": "Toplumu ve devlet faaliyetlerini ilgilendiren belli bir konunun Meclis Genel Kurulu'nda görüşülmesi"
+        },
+        {
+          "key": "C",
+          "text": "Hükümeti düşürme verisi"
+        },
+        {
+          "key": "D",
+          "text": "Sadece bütçe hakkında"
+        },
+        {
+          "key": "E",
+          "text": "Soru sorma süreci"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Genel görüşme, toplumu ve devlet faaliyetlerini ilgilendiren belirli bir konunun Meclis Genel Kurulu'nda görüşülmesidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-42",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekili seçilme yeterliliği için Anayasa'da hangi öğrenim şartı aranır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üniversite mezunu olmak"
+        },
+        {
+          "key": "B",
+          "text": "En az ilkokul mezunu / okuma yazma bilmek"
+        },
+        {
+          "key": "C",
+          "text": "Lise mezunu olmak"
+        },
+        {
+          "key": "D",
+          "text": "Doktora yapmış olmak"
+        },
+        {
+          "key": "E",
+          "text": "Eğitim şartı yoktur"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre en az ilkokul mezunu olmak / okuma yazma bilmek şarttır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-43",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin Anayasal 'yasama yetkisi'nin içeriği nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yargı mahkemesi kurmak"
+        },
+        {
+          "key": "B",
+          "text": "Kanun koymak, değiştirmek ve kaldırmak"
+        },
+        {
+          "key": "C",
+          "text": "İdari eylem yapmak"
+        },
+        {
+          "key": "D",
+          "text": "Sadece atanmış amir belirlemek"
+        },
+        {
+          "key": "E",
+          "text": "Sadece bütçe düzenlemek"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yasama yetkisi; kanun koyma, değiştirme ve kaldırma yetkisidir.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-44",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Milletvekillerinin Anayasa'da belirtilen 'ant içmesi' (yemin) ne zaman gerçekleşir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçimden 1 ay sonra"
+        },
+        {
+          "key": "B",
+          "text": "Meclis ilk katıldıkları birleşimde / toplantıda"
+        },
+        {
+          "key": "C",
+          "text": "Yıl sonunda"
+        },
+        {
+          "key": "D",
+          "text": "Cumhurbaşkanı isteyince"
+        },
+        {
+          "key": "E",
+          "text": "Seçim gecesi"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Milletvekilleri, Meclis'e ilk katıldıkları birleşimde ant içerek göreve başlarlar.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-45",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'de 'tutanak dergisi' nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meclis Genel Kurulu'ndaki tüm görüşmelerin ve konuşmaların stenograflarca yazılı kaydı"
+        },
+        {
+          "key": "B",
+          "text": "Sadece seçim sonuçları"
+        },
+        {
+          "key": "C",
+          "text": "İdari belgeler"
+        },
+        {
+          "key": "D",
+          "text": "Mahkeme kararları"
+        },
+        {
+          "key": "E",
+          "text": "Siyasi parti bildirisi"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Tutanak Dergisi, Meclis görüşmelerinin olduğu gibi kaydedildiği yazılı belgedir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-46",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin 'bütçeyi kabul etme ve denetleme' yetkisi nasıldır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bütçe ve kesinhesap kanun tekliflerini görüşüp kabul etme yetkisi Meclis'tedir"
+        },
+        {
+          "key": "B",
+          "text": "Sadece Cumhurbaşkanı kararnamesidir"
+        },
+        {
+          "key": "C",
+          "text": "Mahkemeler yapar"
+        },
+        {
+          "key": "D",
+          "text": "Bakanlar yapar"
+        },
+        {
+          "key": "E",
+          "text": "Referandumla belirlenir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Bütçe kanun teklifi Cumhurbaşkanınca sunulur; ancak görüşme ve onaylama yetkisi TBMM'dedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-47",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "1982 Anayasası'na göre 'savaş ilanına karar verme' yetkisi kime aittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece Cumhurbaşkanı"
+        },
+        {
+          "key": "B",
+          "text": "TBMM"
+        },
+        {
+          "key": "C",
+          "text": "Genelkurmay Başkanı"
+        },
+        {
+          "key": "D",
+          "text": "İçişleri Bakanı"
+        },
+        {
+          "key": "E",
+          "text": "Yüksek Seçim Kurulu"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Anayasa'ya göre savaş ilanına ve Türk Silahlı Kuvvetleri'nin yabancı ülkelere gönderilmesine karar verme yetkisi TBMM'ye aittir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-48",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM Başkanı nasıl ve hangi yöntemle seçilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Halk oylaması ile"
+        },
+        {
+          "key": "B",
+          "text": "Meclis Genel Kurulu tarafından milletvekilleri arasından gizli oyla"
+        },
+        {
+          "key": "C",
+          "text": "Cumhurbaşkanı tarafından atanır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece milletvekili olmak yetmez"
+        },
+        {
+          "key": "E",
+          "text": "Parti liderleri seçer"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM Başkanı, milletvekilleri arasından Genel Kurul tarafından gizli oyla en fazla 4 turda seçilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-49",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "Yasama dokunulmazlığı milletvekilini hangi adli işlemlere karşı korur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece tutuklama"
+        },
+        {
+          "key": "B",
+          "text": "Sorgulanma, gözaltına alınma, tutuklanma ve yargılanma (kovuşturma)"
+        },
+        {
+          "key": "C",
+          "text": "Sadece sorgulama"
+        },
+        {
+          "key": "D",
+          "text": "Sadece trafik cezası"
+        },
+        {
+          "key": "E",
+          "text": "Sadece meclis içi cezalar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Yasama dokunulmazlığı; milletvekilinin sorgulanmasını, tutuklanmasını ve kovuşturulmasını Meclis kararına bağlar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-vat-yasama-tbmm-50",
+      "topic_id": "topic-vat-yasama-tbmm",
+      "question_text": "TBMM'nin bir yasama döneminde Başkanlık Divanı için toplam kaç kez seçim yapılır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2 (İlk 2 yıl için ve dönem sonuna kadar)"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "TBMM Başkanlık Divanı için bir yasama döneminde iki kez seçim yapılır.",
+      "difficulty_level": 3
+    }
+  ]
+}

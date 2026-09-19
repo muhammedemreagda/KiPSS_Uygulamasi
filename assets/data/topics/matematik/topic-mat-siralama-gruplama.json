@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-siralama-gruplama",
+  "title": "Sıralama ve Gruplama",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-siralama-gruplama",
+    "topic_id": "topic-mat-siralama-gruplama",
+    "title": "Sıralama ve Gruplama Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Sıralama ve Gruplama' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Sıralama ve Gruplama konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nSıralama ve Gruplama konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Sıralama ve Gruplama konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Permütasyon (Sıralama)",
+        "body": "n adet elemanın r'li sıralanışıdır: P(n,r) = n! / (n - r)!. Elemanların sırası (dizilişi) önemlidir."
+      },
+      {
+        "card_number": 2,
+        "title": "Kombinasyon (Seçme / Gruplama)",
+        "body": "n eleman arasından r eleman seçilmesidir: C(n,r) = n! / [r! . (n - r)!]. Sıralama önemsizdir, sadece seçim yapılır."
+      },
+      {
+        "card_number": 3,
+        "title": "Faktöriyel Pratik Permütasyon",
+        "body": "P(5, 3) hesaplanırken 5'ten geriye doğru 3 tane sayı çarpılır: 5 . 4 . 3 = 60."
+      },
+      {
+        "card_number": 4,
+        "title": "Tekrarlı Permütasyon Kuralı",
+        "body": "Bazı elemanları aynı olan n elemanın farklı sıralanışı: n! / (n1! . n2! ...). Örnek: KELEBEK kelimesi harf sıralanışı."
+      },
+      {
+        "card_number": 5,
+        "title": "Yuvarlak Masa Permütasyonu",
+        "body": "n kişinin yuvarlak bir masa etrafında farklı diziliş sayısı (n - 1)! formülü ile bulunur."
+      },
+      {
+        "card_number": 6,
+        "title": "Kombinasyon Özellikleri",
+        "body": "C(n, 0) = 1, C(n, n) = 1 ve C(n, a) = C(n, b) ise a + b = n olur. Örnek: C(10, 3) = C(10, 7)."
+      },
+      {
+        "card_number": 7,
+        "title": "Klasik Olasılık Formülü",
+        "body": "Bir A olayının olasılığı P(A) = İstenen Durum Sayısı / Tüm Olası Durumların Sayısı formülüyle hesaplanır."
+      },
+      {
+        "card_number": 8,
+        "title": "İmkansız ve Kesin Olasılık",
+        "body": "Olasılık değeri daima 0 ile 1 arasındadır (0 <= P(A) <= 1). 0 İmkansız Olay, 1 Kesin Olaydır."
+      },
+      {
+        "card_number": 9,
+        "title": "Bağımsız Olayların Olasılığı",
+        "body": "A ve B olayları birbirinden bağımsız ise birlikte gerçekleşme olasılığı P(A n B) = P(A) . P(B)'dir."
+      },
+      {
+        "card_number": 10,
+        "title": "Tümleyen Olasılık (1 - İstenmeyen)",
+        "body": "'En az bir' sorularında İstenen Olasılık = 1 - (Hiç Olmama Olasılığı) taktiği soruyu çok kısaltır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-siralama-gruplama-1",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir yarışta Ali, Berk, Can, Deniz ve Emre adlı 5 kişi ilk 5 sırayı paylaşmıştır. Ali, Can'dan daha öndedir. Berk, Deniz'den daha öndedir. Emre yarışta 3. olmuştur. Deniz 5. olduğuna göre, yarışı 1. bitiren kişi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Berk"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Deniz"
+        },
+        {
+          "key": "E",
+          "text": "Emre"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Verilen bilgilere göre: 5. sırada Deniz, 3. sırada Emre bulunmaktadır. Ali Can'dan daha ön sırada (Ali > Can), Berk ise Deniz'den ön sıradadır (Berk > Deniz). Berk 4. sıraya yerleştiğinde, 1. sıraya Ali ve 2. sıraya Can geçer. Dolayısıyla yarışı 1. sırada bitiren kişi Ali'dir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-2",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir rafta 6 kitap (K, L, M, N, P, R) bulunmaktadır. K, L'nin hemen sağındadır. M, en baştadır. P, en sondadır. N, L'nin sağındadır. R, N'nin sağındadır. Bu durumda 2. sıradaki kitap hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "L"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "N"
+        },
+        {
+          "key": "E",
+          "text": "P"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Soldan sağa sıralama kurulursa: 1. sırada M, 6. sırada P vardır. K L'nin hemen sağında (LK), N L'nin sağında, R de N'nin sağındadır. Buna göre sıralama: M - L - K - N - R - P şeklindedir. 2. sıradaki kitap L'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-3",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir sınıftaki 4 öğrenci (A, B, C, D) 4 farklı dersten (Matematik, Fizik, Kimya, Biyoloji) en yüksek notu almıştır. A, Matematikten en yüksek notu almıştır. B, Fizik ve Kimyadan düşük not almıştır. D, Biyolojiden en yüksek notu almıştır. Buna göre Matematikten en yüksek notu alan öğrenci kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Soru metninde doğrudan A öğrencisinin Matematik dersinden en yüksek notu aldığı açıkça belirtilmiştir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-4",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "A, B, C, D, E adlı 5 kişi yaşlarına göre sıralanmıştır. A, B'den büyüktür. C, D'den büyüktür. E, A'dan büyüktür. B, C'den büyüktür. En küçük kişi hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Büyükten küçüğe yaş sıralaması: E > A > B > C > D şeklindedir. Dolayısıyla en küçük kişi D'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-5",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Kırmızı, Mavi, Yeşil ve Sarı renkli 4 araba bir yarışa katılmıştır. Kırmızı araba Yeşil'i geçmiştir. Sarı araba Mavi'nin önündedir. Yeşil araba Sarı'dan önce yarışı bitirmiştir. Yarışı 2. bitiren araba hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırmızı"
+        },
+        {
+          "key": "B",
+          "text": "Mavi"
+        },
+        {
+          "key": "C",
+          "text": "Yeşil"
+        },
+        {
+          "key": "D",
+          "text": "Sarı"
+        },
+        {
+          "key": "E",
+          "text": "Belirlenemez"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yarış bitirme sıralaması önden arkaya: Kırmızı > Yeşil > Sarı > Mavi şeklindedir. Yarışı 2. sırada bitiren araba Yeşil'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-6",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir sınıfta A, B, C, D, E adlı 5 öğrenci oturma düzeninde yan yanadır. A, B'nin yanındadır. C, D'nin yanındadır. B, C'nin yanındadır. E, A'nın yanındadır. Buna göre sıranın bir ucunda yer alan E'nin diğer tarafında yan yana kimse yoksa E'nin hemen yanında kim vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Kimse yok"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Oturma sıralaması: E - A - B - C - D şeklindedir. Sıranın en başında yer alan E'nin hemen yanında A öğrencisi vardır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-7",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Haftanın ilk 5 gününde (Pazartesi-Cuma) nöbet tutan 5 kişi (Ali, Berk, Can, Deniz, Efe) vardır. Ali, Berk'ten sonra nöbet tutar. Can, Cuma günü nöbet tutar. Deniz, Ali'den sonra nöbet tutar. Efe, Perşembe günü nöbet tutar. Pazartesi günü kim nöbet tutar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Berk"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Deniz"
+        },
+        {
+          "key": "E",
+          "text": "Efe"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Günlük nöbet dizilimi: Perşembe = Efe, Cuma = Can. Kalan günler Pazartesi, Salı, Çarşamba'dır. Öncüllere göre Berk < Ali < Deniz sırası vardır. Dolayısıyla Pazartesi = Berk, Salı = Ali, Çarşamba = Deniz nöbet tutar. Pazartesi nöbetçi Berk'tir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-8",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir binada A, B, C, D, E adlı 5 daire üst üste sıralanmıştır. A, B'nin üstündedir. C, D'nin altındadır. B, C'nin üstündedir. E, D'nin üstündedir. En üstteki daire hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Kat sıralaması yukarıdan aşağıya: E > D > C > B > A (veya E > A > B > D > C yerine E > D > C > B > A). Her durumda E dairesi D'nin de üstünde olduğundan en üst katta E daire bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-9",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir gruptaki 4 arkadaşın (Pınar, Rana, Selin, Tuğba) boyları farklıdır. Pınar, Rana'dan uzundur. Tuğba, Selin'den uzundur. Rana, Selin'den uzundur. En kısa boylu olan kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pınar"
+        },
+        {
+          "key": "B",
+          "text": "Rana"
+        },
+        {
+          "key": "C",
+          "text": "Selin"
+        },
+        {
+          "key": "D",
+          "text": "Tuğba"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Verilenlere göre: Pınar > Rana > Selin ve Tuğba > Selin. Selin hem Rana'dan hem de Tuğba'dan kısa olduğundan grubun en kısa boylu kişisi Selin'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-10",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "A, B, C, D adlı 4 kutu yan yana dizilmiştir. A, B'nin solundadır. C, D'nin solundadır. B, C'nin solundadır. En sağda hangi kutu vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Soldan sağa sıralama: A - B - C - D şeklindedir. En sağdaki kutu D kutusudur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-11",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "5 öğrenci (Ali, Berk, Can, Deniz, Efe) bir sıraya dizilmiştir. Ali, Can'ın hemen yanındadır. Deniz, Efe'nin hemen yanındadır. Berk, Ali'nin hemen yanındadır. Efe, Can'ın hemen yanındadır. Buna göre sıra düzeni soldan sağa hangisi olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali - Berk - Can - Deniz - Efe"
+        },
+        {
+          "key": "B",
+          "text": "Berk - Ali - Can - Efe - Deniz"
+        },
+        {
+          "key": "C",
+          "text": "Can - Ali - Berk - Efe - Deniz"
+        },
+        {
+          "key": "D",
+          "text": "Deniz - Efe - Ali - Can - Berk"
+        },
+        {
+          "key": "E",
+          "text": "Berk - Can - Ali - Deniz - Efe"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Şartlar: (Berk-Ali-Can), (Can-Efe-Deniz). Yan yana gelme şartlarını sağlayan tek sıralama B seçeneğinde verilen Berk - Ali - Can - Efe - Deniz dizilimidir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-12",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir sınıftaki 4 arkadaşın (Ali, Banu, Cem, Derya) sınav notları farklıdır. Ali, Banu'dan yüksek, Cem'den düşük almıştır. Derya, Banu'dan düşük almıştır. En yüksek 2. notu kim almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Banu"
+        },
+        {
+          "key": "C",
+          "text": "Cem"
+        },
+        {
+          "key": "D",
+          "text": "Derya"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Not sıralaması yüksekten düşüğe: Cem > Ali > Banu > Derya şeklindedir. En yüksek 2. notu Ali almıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-13",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "A, B, C, D takımları ligde 1, 2, 3, 4. sıradadır. A, B'nin önündedir. C, D'nin önündedir. D, B'nin önündedir. A ligin şampiyonu (1.) olduğuna göre ligi 2. sırada bitiren takım hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Sıralama: A (1.) > C (2.) > D (3.) > B (4.). Dolayısıyla ligi 2. sırada tamamlayan takım C takımıdır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-14",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir otoparkta 5 araba (K, L, M, N, P) yan yana park halindedir. L, K'nin sağındadır. M, L'nin sağındadır. N, M'nin sağındadır. P, N'nin sağındadır. En soldaki araba hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "L"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "N"
+        },
+        {
+          "key": "E",
+          "text": "P"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Soldan sağa park dizilimi: K - L - M - N - P şeklindedir. En soldaki araba K arabasıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-15",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "4 arkadaş (Ali, Berk, Can, Deniz) boy sırasına göre dizilmiştir. Ali, Berk'ten uzun, Can'dan kısadır. Deniz, Can'dan daha uzundur. En uzun olan kişi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Berk"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Deniz"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Boy sıralaması uzundan kısaya: Deniz > Can > Ali > Berk şeklindedir. En uzun olan kişi Deniz'dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-16",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "4 kitap (X, Y, Z, T) bir kütüphane rafında yan yanadır. Z, T'nin solundadır. T, X'in solundadır. X, Y'nin solundadır. En soldaki kitap hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "X"
+        },
+        {
+          "key": "B",
+          "text": "Y"
+        },
+        {
+          "key": "C",
+          "text": "Z"
+        },
+        {
+          "key": "D",
+          "text": "T"
+        },
+        {
+          "key": "E",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Soldan sağa kütüphane raf dizilimi: Z - T - X - Y şeklindedir. En soldaki kitap Z kitabıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-17",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "A, B, C, D takımlarının puanları farklıdır. A, B'den fazla; B, D'den fazla; D, C'den fazla puan almıştır. En az puanı hangi takım almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Puan sıralaması yüksekten düşüğe: A > B > D > C şeklindedir. En az puanı C takımı almıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-18",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Ali, Berk, Can ve Deniz bir sınava girmişlerdir. Can en yüksek notu almıştır. Ali, Berk'ten yüksek not almıştır. Deniz, Ali'den düşük fakat Berk'ten yüksek not almıştır. En yüksek 2. notu kim almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Berk"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Deniz"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Not sıralaması yüksekten düşüğe: Can (1.) > Ali (2.) > Deniz (3.) > Berk (4.). En yüksek 2. not Ali'ye aittir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-19",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "A, B, C, D, E adlı 5 öğrenci bir yarışta 1-5 arası derece almıştır. C en başarılı (1.), E 2. olmuştur. A, B'den daha başarılı; B ise D'den daha başarılı derece almıştır. 3. olan öğrenci kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Başarı sıralaması: C (1.) > E (2.) > A (3.) > B (4.) > D (5.). 3. olan öğrenci A'dır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-20",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "5 kişi (L, M, P, K, N) soldan sağa bir masada oturmaktadır. L en solda, M L'nin sağında, P M'nin sağında, K P'nin sağında, N ise K'nin sağındadır. En sağda kim oturmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "L"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "N"
+        },
+        {
+          "key": "E",
+          "text": "P"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Soldan sağa masa oturma düzeni: L - M - P - K - N şeklindedir. En sağda N oturmaktadır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-21",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir yarışmada 5 atlet (1, 2, 3, 4, 5) vardır. 3, 4'ü geçmiş; 4, 5'i geçmiş; 5, 1'i geçmiş; 1 ise 2'yi geçmiştir. Yarışmayı 1. bitiren atlet hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Yarış bitirme sıralaması: 3 > 4 > 5 > 1 > 2 şeklindedir. Yarışmayı 1. olarak bitiren atlet 3 numaralı atletdir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-22",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "4 kişi (A, B, C, D) bir merdivende durmaktadır. A, B'nin üstünde; B, C'nin üstünde; C, D'nin üstündedir. En üstteki kişi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yukarıdan aşağıya merdiven dizilimi: A > B > C > D şeklindedir. En üstteki kişi A'dır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-23",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Ali, Veli, Can ve Cem 4 kişilik bir koşu takımıdır. Ali, Veli'den hızlı; Veli, Can'dan hızlı; Can ise Cem'den hızlı koşmaktadır. En yavaş koşucu kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Veli"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Cem"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Hız sıralaması hızlıdan yavaşa: Ali > Veli > Can > Cem şeklindedir. En yavaş koşucu Cem'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-24",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "5 araba arkaya arkaya konvoy halinde dizilmiştir. E en öndedir. D E'nin arkasında, C D'nin arkasında, B C'nin arkasında, A ise B'nin arkasındadır. En öndeki araba hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Konvoy dizilimi önden arkaya: E - D - C - B - A şeklindedir. En öndeki araba E arabasıdır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-25",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "4 arkadaşın (K, L, M, N) boyları farklıdır. L boyca en uzundur. K L'den kısa, M N'den uzun, L de M'den uzundur. En uzun olan kişi kimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "K"
+        },
+        {
+          "key": "B",
+          "text": "L"
+        },
+        {
+          "key": "C",
+          "text": "M"
+        },
+        {
+          "key": "D",
+          "text": "N"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Soru metninde ve öncüllerde L'nin diğer tüm arkadaşlardan (K, M, N) daha uzun olduğu açıkça belirtilmiştir. En uzun L'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-26",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir yarışta 1, 2, 3, 4, 5 numaralı atlar yarışmıştır. 1, 2'nin önünde; 2, 3'ün önünde; 3, 4'ün önünde; 4, 5'in önünde bitirmiştir. Yarışı 3. sırada bitiren at hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Derece sıralaması: 1 (1.) > 2 (2.) > 3 (3.) > 4 (4.) > 5 (5.). Yarışı 3. bitiren at 3 numaralı attır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-27",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "A, B, C, D, E adlı 5 öğrenci sınavda 1-5 arası derece almıştır. E en başarılı (1.), A 2., B 3., C 4., D ise 5. olmuştur. En kötü dereceyi kim almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sıralama: E (1.) > A (2.) > B (3.) > C (4.) > D (5.). En kötü dereceyi (5.) alan öğrenci D'dir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-28",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir rafta T, X, Y, Z yan yana dizilmiştir. Soldan sağa sırasıyla T, X, Y, Z dizildiğinde en sol ile en sağ arasında ortada yer alan X ile Y çiftinden sol tarafta kalan X olduğuna göre sıralamadaki 2. kitap hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "X"
+        },
+        {
+          "key": "B",
+          "text": "Y"
+        },
+        {
+          "key": "C",
+          "text": "Z"
+        },
+        {
+          "key": "D",
+          "text": "T"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Soldan sağa sıralama: 1:T, 2:X, 3:Y, 4:Z şeklindedir. 2. sıradaki kitap X'tir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-29",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "4 arkadaşın notları farklıdır. Veli, Ali'den yüksek; Ali, Can'dan yüksek; Can, Cem'den yüksek not almıştır. En yüksek notu kim almıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ali"
+        },
+        {
+          "key": "B",
+          "text": "Veli"
+        },
+        {
+          "key": "C",
+          "text": "Can"
+        },
+        {
+          "key": "D",
+          "text": "Cem"
+        },
+        {
+          "key": "E",
+          "text": "Bilinemez"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Not sıralaması yüksekten düşüğe: Veli > Ali > Can > Cem şeklindedir. En yüksek notu Veli almıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-siralama-gruplama-30",
+      "topic_id": "topic-mat-siralama-gruplama",
+      "question_text": "Bir yarışta 5 araba (A, B, C, E, D) sırasıyla 1, 2, 3, 4 ve 5. olmuşlardır. A 1., B 2., C 3., E 4., D ise 5. olmuştur. Yarışı 4. bitiren araba hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "C"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "E"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Yarış bitirme sıralaması: A (1.) > B (2.) > C (3.) > E (4.) > D (5.). Yarışı 4. sırada bitiren araba E arabasıdır.",
+      "difficulty_level": 2
+    }
+  ]
+}

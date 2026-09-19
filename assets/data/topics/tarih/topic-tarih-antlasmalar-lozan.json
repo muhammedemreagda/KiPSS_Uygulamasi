@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-tarih-antlasmalar-lozan",
+  "title": "Ateşkesler, Barış Antlaşmaları & Lozan",
+  "course_id": "course-tarih",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-tarih-antlasmalar-lozan",
+    "topic_id": "topic-tarih-antlasmalar-lozan",
+    "title": "Ateşkesler, Barış Antlaşmaları & Lozan Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Tarih testinde 'Ateşkesler, Barış Antlaşmaları & Lozan' konusu, kronolojik akışın, sebep-sonuç ilişkilerinin ve dönemsel ıslahat/antlaşmaların sorgulandığı yüksek soru potansiyeline sahip bir alandır.",
+    "content": "Ateşkesler, Barış Antlaşmaları & Lozan konusu, KPSS Tarih testinde adayların bilgi düzeyini ve tarihsel mantık yürütme kabiliyetini ölçer.\n\n1. Tarihsel Süreç ve Dönemin Önemi:\nAteşkesler, Barış Antlaşmaları & Lozan dönemi, Türk ve dünya tarihinin şekillenmesinde kritik bir evredir. Bu dönemde yaşanan siyasi, askeri, ekonomik ve kültürel gelişmeler bir sonraki dönemin temelini oluşturmuştur.\n\n2. ÖSYM'nin Sıkça Sorduğu Püf Noktaları:\n- Antlaşmaların maddelerindeki bağımsızlık, egemenlik ve sınır değişiklikleri detaylarına dikkat edin.\n- Islahatlarda yapılan yeniliklerin hangi alana (askeri, hukuki, idari, eğitim) ait olduğunu ayırt edin.\n- Kurtuluş Savaşı ve İnkılap Tarihi konularında Atatürk'ün sözlerini ve bu sözlerin hangi olay üzerine söylendiğini mutlaka bilin.\n\n3. Soru Çözüm Stratejisi:\n- Öncüllü (I, II, III) sorularda verilen bilgilerin sorudaki öncüle tam uyup uymadığını kontrol edin.\n- Tarih sorularını çözerken günümüz değerleriyle değil, olayın yaşandığı dönemin şartlarıyla değerlendirin.",
+    "key_points": [
+      "1. Ateşkesler, Barış Antlaşmaları & Lozan dönemindeki olayları ezberlemek yerine sebep-sonuç zinciri kurarak öğrenin.",
+      "2. Dönemin önemli antlaşmalarını, maddelerini ve getirdiği yenilikleri zihninize oturtun.",
+      "3. Devlet adamlarının, padişahların veya komutanların döneme damga vuran unvanlarını bilin.",
+      "4. Kültür ve Medeniyet kavramlarını (kurumlar, meclisler, vergi türleri) karıştırmayın.",
+      "5. Soru çözerken dönemin koşullarını ve 'Yalnızca bu bilgiye dayanarak' kuralını unutmayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Büyük Taarruz (Başkomutanlık Meydan Muh.)",
+        "body": "26 Ağustos 1922'de başlamış, Dumlupınar'da Yunan ordusu imha edilmiştir. Mustafa Kemal: 'Ordular ilk hedefiniz Akdeniz'dir, ileri!' demiştir."
+      },
+      {
+        "card_number": 2,
+        "title": "Mudanya Ateşkes Antlaşması (11 Ekim 1922)",
+        "body": "İsmet İnönü temsil etmiştir. Savaş yapılmadan Doğu Trakya, İstanbul ve Boğazlar kurtarılmıştır. Osmanlı fiilen ve hukuken sona ermiştir."
+      },
+      {
+        "card_number": 3,
+        "title": "Saltanatın Kaldırılması (1 Kasım 1922)",
+        "body": "Lozan'a iki hükümetin birden çağrılmasını önlemek ve milli egemenliği pekiştirmek için kaldırılmıştır. Osmanlı hukuken resmen bitti."
+      },
+      {
+        "card_number": 4,
+        "title": "Lozan Barış Konferansı Temsilcileri",
+        "body": "TBMM'yi Dışişleri Bakanı İsmet İnönü (Başkan), Rıza Nur ve Hasan Saka temsil etmiştir."
+      },
+      {
+        "card_number": 5,
+        "title": "Lozan'da Taviz Verilmeyen İki Konu",
+        "body": "Mustafa Kemal İsmet Paşa'dan KAPİTÜLASYONLAR ve ERMENİ YURDU konularında kesinlikle taviz verilmemesini istemiştir."
+      },
+      {
+        "card_number": 6,
+        "title": "Lozan'da Çözülen Kapitülasyonlar",
+        "body": "Kapitülasyonlar ve Düyun-ı Umumiye (Genel Borçlar İdaresi) tamamen kaldırılmış, ekonomik bağımsızlık sağlanmıştır."
+      },
+      {
+        "card_number": 7,
+        "title": "Lozan'da Çözülemeyen Tek Konu (Musul)",
+        "body": "Irak Sınırı (Musul sorunu) Türkiye ile İngiltere arasında ikili görüşmelere bırakılmış, Lozan'da çözülemeyen TEK konu olmuştur."
+      },
+      {
+        "card_number": 8,
+        "title": "Lozan'da Aleyhimize Çözülen Konular",
+        "body": "Hatay (Suriye sınırı) ve Boğazlar Komisyonu (Boğazlar yönetimi) Lozan'da aleyhimize çözülmüş, daha sonra lehimize çevrilmiştir."
+      },
+      {
+        "card_number": 9,
+        "title": "Patrikhane ve Azınlıklar Kararı",
+        "body": "Tüm azınlıklar Türk vatandaşı kabul edilerek Avrupalıların iç işlerimize karışması önlenmiştir. Patrikhane siyasi yetkilerinden arındırılmıştır."
+      },
+      {
+        "card_number": 10,
+        "title": "Lozan Antlaşması'nın Önemi",
+        "body": "24 Temmuz 1923'te imzalanmış, Türkiye Cumhuriyeti'nin kurucu tapu senedi olmuş ve I. Dünya Savaşı antlaşmaları içinde hala geçerli tek antlaşmadır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-1",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Mondros Ateşkes Antlaşması'nın 7. maddesi İtilaf Devletlerine hangi yetkiyi vermiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orduları terhis etme"
+        },
+        {
+          "key": "B",
+          "text": "Güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal etme"
+        },
+        {
+          "key": "C",
+          "text": "Boğazları kontrol etme"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik vergi toplama"
+        },
+        {
+          "key": "E",
+          "text": "Padişahı görevden alma"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Mondros'un 7. maddesi, İtilaf Devletlerine güvenliklerini tehdit eden bir durum gördüklerinde herhangi bir stratejik noktayı işgal etme yetkisi vererek işgallere hukuki zemin hazırlamıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-2",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Sevr Antlaşması'na göre İstanbul'un gelecekteki hukuki durumu ne olacaktı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osmanlı'nın kayıtsız şartsız başkenti olarak kalacaktı"
+        },
+        {
+          "key": "B",
+          "text": "Milletler Cemiyeti'ne bırakılacaktı"
+        },
+        {
+          "key": "C",
+          "text": "Osmanlı'nın başkenti olmaya devam edecek ancak azınlıklar tarafından yönetilecekti"
+        },
+        {
+          "key": "D",
+          "text": "Osmanlı antlaşma şartlarına uymazsa İstanbul Türklerin elinden alınacaktı"
+        },
+        {
+          "key": "E",
+          "text": "Tamamen Yunanistan'a bırakılacaktı"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sevr Antlaşması'na göre İstanbul Osmanlı'da kalacak ancak Osmanlı antlaşma şartlarına uymazsa İstanbul Türklerin elinden alınacaktı.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-3",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "TBMM'nin imzaladığı ilk antlaşma olan Gümrü Antlaşması hangi devletle yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rusya"
+        },
+        {
+          "key": "B",
+          "text": "Ermenistan"
+        },
+        {
+          "key": "C",
+          "text": "Gürcistan"
+        },
+        {
+          "key": "D",
+          "text": "Yunanistan"
+        },
+        {
+          "key": "E",
+          "text": "İngiltere"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Doğu Cephesi'nde Kazım Karabekir komutasındaki ordunun başarısı sonucunda 3 Aralık 1920'de Ermenistan ile Gümrü Antlaşması imzalanmıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-4",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Moskova Antlaşması (1921) ile Türkiye, Misak-ı Milli'den ilk kez hangi bölgeyi taviz olarak vermiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kars"
+        },
+        {
+          "key": "B",
+          "text": "Ardahan"
+        },
+        {
+          "key": "C",
+          "text": "Batum"
+        },
+        {
+          "key": "D",
+          "text": "Hatay"
+        },
+        {
+          "key": "E",
+          "text": "Musul"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Moskova Antlaşması ile Batum, Gürcistan'a (Sovyet yönetimine) bırakılmış ve bu Misak-ı Milli'den verilen ilk taviz olmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-5",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Barış Antlaşması'nda çözülemeyip sonraya bırakılan ve daha sonra Türkiye ile İngiltere arasında soruna dönüşen konu hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Boğazlar"
+        },
+        {
+          "key": "B",
+          "text": "Musul (Irak Sınırı)"
+        },
+        {
+          "key": "C",
+          "text": "Kapitülasyonlar"
+        },
+        {
+          "key": "D",
+          "text": "Azınlıklar"
+        },
+        {
+          "key": "E",
+          "text": "Yabancı okullar"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Musul sorunu, Lozan'da çözülememiş ve antlaşmadan sonraki 9 ay içinde Türkiye ile İngiltere arasındaki ikili görüşmelere bırakılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-6",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Mudanya Ateşkes Antlaşması'nın Türkiye açısından temel askeri ve siyasi önemi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kurtuluş Savaşı'nın askeri safhasını sona erdirmesi"
+        },
+        {
+          "key": "B",
+          "text": "Lozan'a gidilmesini kesinleştirmesi"
+        },
+        {
+          "key": "C",
+          "text": "İtilaf Devletlerini sadece masada yenmesi"
+        },
+        {
+          "key": "D",
+          "text": "Doğu sınırını kesinleştirmesi"
+        },
+        {
+          "key": "E",
+          "text": "Batı Trakya'yı alması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Mudanya Ateşkes Antlaşması, Milli Mücadele'nin askeri safhasını resmen sona erdiren antlaşmadır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-7",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan'da Boğazlar için kurulan uluslararası komisyon hangi gelişme ile kaldırılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1936 Montrö Boğazlar Sözleşmesi"
+        },
+        {
+          "key": "B",
+          "text": "Lozan Antlaşması"
+        },
+        {
+          "key": "C",
+          "text": "Sadabat Paktı"
+        },
+        {
+          "key": "D",
+          "text": "Balkan Antantı"
+        },
+        {
+          "key": "E",
+          "text": "1921 Ankara Antlaşması"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "1936 Montrö Boğazlar Sözleşmesi ile Lozan'da kurulan uluslararası komisyon kaldırılmış ve Boğazların egemenliği tam olarak Türkiye'ye geçmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-8",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan'da 'Türkiye'nin iç işlerine karışılması' gerekçesiyle uluslararası bir komisyona veya müzakereye kapalı tutulan konu hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yabancı okullar sorunu"
+        },
+        {
+          "key": "B",
+          "text": "Osmanlı borçları"
+        },
+        {
+          "key": "C",
+          "text": "Ermeni yurdu"
+        },
+        {
+          "key": "D",
+          "text": "Boğazlar"
+        },
+        {
+          "key": "E",
+          "text": "Kapitülasyonlar"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yabancı okulların denetimi Türkiye'nin bir iç meselesi olarak kabul edilmiş ve dış müdahalelere kapatılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-9",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "1921 Londra Konferansı'na TBMM'nin katılmayı kabul etmesinin en temel nedeni nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türklerin barış yanlısı olduğunu ve Misak-ı Milli'yi dünya kamuoyuna duyurmak"
+        },
+        {
+          "key": "B",
+          "text": "Barış antlaşması imzalamak"
+        },
+        {
+          "key": "C",
+          "text": "Yunanistan ile barışmak"
+        },
+        {
+          "key": "D",
+          "text": "Sevr'i yumuşatmak"
+        },
+        {
+          "key": "E",
+          "text": "İngiltere'yi ikna etmek"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "TBMM, dünya kamuoyundaki 'Türkler savaştan yana, barışa yanaşmıyor' propagandasını çürütmek için katılmıştır.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-10",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "13 Ekim 1921 Kars Antlaşması Türkiye ile hangi Sovyet cumhuriyetleri arasında imzalanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rusya, Ermenistan, Gürcistan"
+        },
+        {
+          "key": "B",
+          "text": "Ermenistan, Azerbaycan, Gürcistan"
+        },
+        {
+          "key": "C",
+          "text": "İran, Azerbaycan, Rusya"
+        },
+        {
+          "key": "D",
+          "text": "Ermenistan, Gürcistan, İngiltere"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Ermenistan"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Kars Antlaşması, Sovyet Rusya garantörlüğünde Kafkas cumhuriyetleri olan Ermenistan, Azerbaycan ve Gürcistan ile yapılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-11",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Barış Antlaşması'na göre Batı Trakya hangi devlete bırakılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye'ye"
+        },
+        {
+          "key": "B",
+          "text": "Bulgaristan'a"
+        },
+        {
+          "key": "C",
+          "text": "Yunanistan'a"
+        },
+        {
+          "key": "D",
+          "text": "İngiltere'ye"
+        },
+        {
+          "key": "E",
+          "text": "Sırbistan'a"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Batı Trakya, Lozan Antlaşması ile Yunanistan sınırları içinde bırakılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-12",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Amasya Genelgesi hangi temel yönüyle Mondros Ateşkes Antlaşması'na doğrudan bir tepkidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İşgalleri meşrulaştırması"
+        },
+        {
+          "key": "B",
+          "text": "Sessiz kalınması"
+        },
+        {
+          "key": "C",
+          "text": "İstanbul Hükümeti'nin işgallere karşı kayıtsız ve görevini yapamaz durumda olduğunu açıklaması"
+        },
+        {
+          "key": "D",
+          "text": "Orduyu terhis etmesi"
+        },
+        {
+          "key": "E",
+          "text": "Manda yönetimini istemesi"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Amasya Genelgesi, İstanbul Hükümeti'nin işgallere karşı duyarsız kaldığını belirterek milli mücadeleyi başlatmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-13",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan'da Osmanlı borçları ile ilgili kabul edilen temel esas nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hepsi Türkiye tarafından ödenecektir"
+        },
+        {
+          "key": "B",
+          "text": "Osmanlı'dan ayrılan devletler ile Türkiye arasında yüzölçümü ve gelir oranına göre paylaştırılması"
+        },
+        {
+          "key": "C",
+          "text": "Hepsi silinecektir"
+        },
+        {
+          "key": "D",
+          "text": "İngiltere ödeyecektir"
+        },
+        {
+          "key": "E",
+          "text": "Fransa ödeyecektir"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Lozan'da Osmanlı borçları, Osmanlı İmparatorluğu'ndan kopan yeni devletler ve Türkiye arasında adil biçimde paylaştırılmıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-14",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "1921 Ankara Antlaşması ile hangi vatan toprağı Fransa mandasındaki Suriye sınırları içerisinde kalmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Musul"
+        },
+        {
+          "key": "B",
+          "text": "Batum"
+        },
+        {
+          "key": "C",
+          "text": "Hatay (İskenderun)"
+        },
+        {
+          "key": "D",
+          "text": "Kars"
+        },
+        {
+          "key": "E",
+          "text": "Edirne"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "1921 Ankara Antlaşması ile Hatay özerk bir statüde Fransa mandasındaki Suriye'ye bırakılmış, Misak-ı Milli'den ikinci taviz verilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-15",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan'da Fener Rum Patrikhanesi'nin durumu hakkında ne karar alınmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye'den çıkartılması"
+        },
+        {
+          "key": "B",
+          "text": "Siyasi yetkilerinden arındırılarak sadece dini Kurum olarak İstanbul'da kalması"
+        },
+        {
+          "key": "C",
+          "text": "Siyasi yetkilerinin artırılması"
+        },
+        {
+          "key": "D",
+          "text": "Vatikan'a bağlanması"
+        },
+        {
+          "key": "E",
+          "text": "Devlet dairesi olması"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Patrikhane'nin siyasi faaliyetlerde bulunması yasaklanmış, yalnızca ekümenik olmayan dini bir kurum olarak İstanbul'da kalmasına izin verilmiştir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-16",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "I. TBMM'nin uluslararası alandaki ilk askeri ve diplomatik başarısı hangi antlaşmadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Moskova Antlaşması"
+        },
+        {
+          "key": "B",
+          "text": "Gümrü Antlaşması"
+        },
+        {
+          "key": "C",
+          "text": "Lozan Antlaşması"
+        },
+        {
+          "key": "D",
+          "text": "Londra Konferansı"
+        },
+        {
+          "key": "E",
+          "text": "Mudanya"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Gümrü Antlaşması, TBMM Hükümeti'nin kazandığı ilk askeri zafer ve imzaladığı ilk uluslararası diplomatik antlaşmadır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-17",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Barış Antlaşması'nda kapitülasyonlar hakkında alınan karar nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kısmen devam etmiştir"
+        },
+        {
+          "key": "B",
+          "text": "Tüm adli, mali ve ticari kapitülasyonlar kesin olarak kaldırılmıştır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece İngiltere'ye tanınmıştır"
+        },
+        {
+          "key": "D",
+          "text": "Sadece Fransa'ya tanınmıştır"
+        },
+        {
+          "key": "E",
+          "text": "Vergileri düşürülmüştür"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Lozan'ın en büyük zaferlerinden biri, Osmanlı'yı ekonomik ablukaya alan kapitülasyonların kayıtsız şartsız kaldırılmasıdır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-18",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Sevr Antlaşması'nı imzalayan Saltanat Şurası kararı Türk milletinde nasıl bir tepkiye yol açmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyük nefret ve Milli Mücadele etrafında kenetlenme"
+        },
+        {
+          "key": "B",
+          "text": "Kabullenme ve sessizlik"
+        },
+        {
+          "key": "C",
+          "text": "Destekleme"
+        },
+        {
+          "key": "D",
+          "text": "Kararsızlık"
+        },
+        {
+          "key": "E",
+          "text": "Sadece İstanbul'da tepki"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sevr Antlaşması'nın ağır şartları ve imzalanması, Anadolu'daki milli direniş azmini kamçılamış ve TBMM'ye katılımı zirveye taşımıştır.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-19",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Antlaşması'nda Türkiye sınırları içindeki gayrimüslim azınlıkların hukuki durumu ne olarak tescil edilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eşit haklara sahip Türk vatandaşı"
+        },
+        {
+          "key": "B",
+          "text": "Yabancı devlet tebaası"
+        },
+        {
+          "key": "C",
+          "text": "Özel imtiyazlı topluluk"
+        },
+        {
+          "key": "D",
+          "text": "Hakları olmayan kitle"
+        },
+        {
+          "key": "E",
+          "text": "Sadece Hristiyan azınlık"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Lozan'da Türkiye'deki tüm azınlıklar Türk vatandaşı sayılmış, böylece Avrupalı devletlerin azınlıkları bahane edip iç işlerimize karışması engellenmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-20",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "İtilaf Devletleri'nin Londra Konferansı'na İstanbul Hükümeti'nin yanında TBMM Hükümeti'ni de birlikte davet etmelerinin temel amacı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İki taraf arasındaki görüş ayrılıklarından yararlanıp Sevr'i kabul ettirmek"
+        },
+        {
+          "key": "B",
+          "text": "İki hükümeti barıştırmak"
+        },
+        {
+          "key": "C",
+          "text": "Konferansın süresini uzatmak"
+        },
+        {
+          "key": "D",
+          "text": "Türkiye'yi zenginleştirmek"
+        },
+        {
+          "key": "E",
+          "text": "İngiltere'nin isteği"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "İtilaf Devletleri ikilik çıkararak Türk tarafını zayıflatmayı ve Sevr'i hafifleterek kabul ettirmeyi hedeflemiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-21",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Mustafa Kemal Paşa'nın 'Siyasi ve askeri zaferler ne kadar büyük olurlarsa olsunlar, ekonomik zaferlerle taçlandırılmazlarsa sürdürülemez' mantığı neyi vurgular?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ekonomik ve diplomatik bağımsızlığın önemini"
+        },
+        {
+          "key": "B",
+          "text": "Sadece askeri gücü"
+        },
+        {
+          "key": "C",
+          "text": "Askeri gücün diplomasiden üstün olduğunu"
+        },
+        {
+          "key": "D",
+          "text": "Dış devletlerin yardımını"
+        },
+        {
+          "key": "E",
+          "text": "Anlaşmaların geçersiz olduğunu"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Mustafa Kemal Paşa, askeri zaferlerin kalıcı olabilmesi için ekonomik bağımsızlık ve diplomatik antlaşmalarla desteklenmesi gerektiğini savunmuştur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-22",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Barış Antlaşması Türkiye ile aşağıdaki güç gruplarından hangisi arasında imzalanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İtilaf Devletleri (İngiltere, Fransa, İtalya, Yunanistan, Japonya vb.)"
+        },
+        {
+          "key": "B",
+          "text": "Sadece İngiltere"
+        },
+        {
+          "key": "C",
+          "text": "Almanya ve İtalya"
+        },
+        {
+          "key": "D",
+          "text": "Rusya"
+        },
+        {
+          "key": "E",
+          "text": "Yunanistan"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Lozan Barış Antlaşması, I. Dünya Savaşı'nın galibi olan İtilaf Devletleri ile TBMM Hükümeti arasında imzalanmıştır.",
+      "difficulty_level": 1
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-23",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Antlaşması'na göre Ege Adaları'nın hukuki paylaşımı nasıl yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hepsi Türkiye'ye bırakıldı"
+        },
+        {
+          "key": "B",
+          "text": "Bozcaada, Gökçeada ve Tavşan Adaları Türkiye'ye, diğer Kuzey Ege Adaları silahlandırılmamak kaydıyla Yunanistan'a bırakıldı"
+        },
+        {
+          "key": "C",
+          "text": "Hepsi Yunanistan'a bırakıldı"
+        },
+        {
+          "key": "D",
+          "text": "İtalya'ya bırakıldı"
+        },
+        {
+          "key": "E",
+          "text": "Ortak yönetime bırakıldı"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Çanakkale Boğazı'nın güvenliği için Bozcaada ve Gökçeada Türkiye'de kalmış, diğer adalar silahsızlandırılma şartıyla Yunanistan'a verilmiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-24",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan Antlaşması'nda 'Karaağaç' kasabasının Türkiye'ye devredilme sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yunanistan'ın savaş tazminatı karşılığı vermesi"
+        },
+        {
+          "key": "B",
+          "text": "Türkiye'nin satın alması"
+        },
+        {
+          "key": "C",
+          "text": "Yunanistan'ın isteği üzerine"
+        },
+        {
+          "key": "D",
+          "text": "Stratejik nükleer tesisler nedeniyle"
+        },
+        {
+          "key": "E",
+          "text": "Boğazların kontrolü için"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Yunanistan, Batı Anadolu'da verdiği yıkım ve savaş zararları sebebiyle nakit para yerine Karaağaç kasabasını savaş tazminatı olarak vermiştir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-25",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Amasya Genelgesi ile Sivas Kongresi arasında hangi bölgesel ama ulusal kararlar alan önemli kongre yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Erzurum Kongresi"
+        },
+        {
+          "key": "B",
+          "text": "TBMM'nin açılması"
+        },
+        {
+          "key": "C",
+          "text": "Lozan"
+        },
+        {
+          "key": "D",
+          "text": "Büyük Taarruz"
+        },
+        {
+          "key": "E",
+          "text": "I. İnönü"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Milli Mücadele kronolojisinde Amasya Genelgesi sonrası Erzurum Kongresi (23 Temmuz - 7 Ağustos 1919), ardından Sivas Kongresi toplanmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-26",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan'daki 'Yabancı Okullar' sorunu en sert tartışmalarla hangi devlet ile yaşanmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İngiltere"
+        },
+        {
+          "key": "B",
+          "text": "Fransa"
+        },
+        {
+          "key": "C",
+          "text": "Rusya"
+        },
+        {
+          "key": "D",
+          "text": "İtalya"
+        },
+        {
+          "key": "E",
+          "text": "Almanya"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Osmanlı ülkesinde en çok okulu ve misyonerlik kurumu bulunan Fransa ile Yabancı Okullar konusu sert diplomatik krizlere sebep olmuştur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-27",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Moskova Antlaşması ile TBMM'nin varlığını resmen tanıyan ilk büyük Avrasya gücü hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İngiltere"
+        },
+        {
+          "key": "B",
+          "text": "Sovyet Rusya (SSCB)"
+        },
+        {
+          "key": "C",
+          "text": "Fransa"
+        },
+        {
+          "key": "D",
+          "text": "Almanya"
+        },
+        {
+          "key": "E",
+          "text": "İtalya"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "16 Mart 1921 Moskova Antlaşması ile Sovyet Rusya (SSCB), TBMM Hükümeti'ni tanıyan ilk Avrupalı/Avrasyalı büyük devlettir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-28",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Lozan'da Osmanlı Borçları (Düyun-u Umumiye) meselesi nasıl bir çözüme kavuşturulmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Düyun-u Umumiye idaresi kaldırılmış, borçlar Osmanlı'dan kopan ülkelere dağıtılarak Türkiye payı kâğıt para ve taksitle ödemeye bağlanmıştır"
+        },
+        {
+          "key": "B",
+          "text": "Borçlar tamamen silinmiştir"
+        },
+        {
+          "key": "C",
+          "text": "Borçlar İngiltere'ye aktarılmıştır"
+        },
+        {
+          "key": "D",
+          "text": "Borçlar tek seferde altınla ödenmiştir"
+        },
+        {
+          "key": "E",
+          "text": "Borçlar iptal edilmiştir"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Lozan'da mali bağımsızlığa aykırı olan Düyun-u Umumiye lağvedilmiş, borçlar takside bağlanarak Türk lirası üzerinden ödenmesi kararlaştırılmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-29",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "Mondros Ateşkes Antlaşması'ndaki 'İtilaf Devletleri güvenliklerini tehdit eden bir durum olursa...' cümlesi neyin göstergesidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anadolu'yu işgal etmek için hazırlanan uydurma hukuki kılıfın"
+        },
+        {
+          "key": "B",
+          "text": "Barışın korunmasının"
+        },
+        {
+          "key": "C",
+          "text": "Sınırların korunmasının"
+        },
+        {
+          "key": "D",
+          "text": "Ticaretin açılmasının"
+        },
+        {
+          "key": "E",
+          "text": "Askeri yardımın"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "7. madde, İtilaf Devletlerinin istedikleri her yeri işgal edebilmelerine hukuki bir kılıf ve bahanedir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-tarih-antlasmalar-lozan-30",
+      "topic_id": "topic-tarih-antlasmalar-lozan",
+      "question_text": "24 Temmuz 1923 Lozan Barış Antlaşması'nın imzalanıp yürürlüğe girmesiyle Türk tarihinde ne resmen sona ermiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saltanat"
+        },
+        {
+          "key": "B",
+          "text": "İtilaf Devletleri'nin Anadolu üzerindeki işgal dönemi ve Sevr antlaşması hayalleri"
+        },
+        {
+          "key": "C",
+          "text": "Cumhuriyet"
+        },
+        {
+          "key": "D",
+          "text": "Hilafet"
+        },
+        {
+          "key": "E",
+          "text": "TBMM"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Lozan Antlaşması ile Sevr Antlaşması tarihin çöp sepetine atılmış, işgaller bitmiş ve yeni Türk devletinin bağımsızlığı dünya tarafından kabul edilmiştir.",
+      "difficulty_level": 2
+    }
+  ]
+}

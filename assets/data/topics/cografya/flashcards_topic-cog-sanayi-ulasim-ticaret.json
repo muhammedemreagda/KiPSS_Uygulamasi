@@ -1,0 +1,56 @@
+{
+  "topic_id": "topic-cog-sanayi-ulasim-ticaret",
+  "flashcard_count": 10,
+  "flashcards": [
+    {
+      "card_number": 1,
+      "title": "Sanayinin Kuruluşunda Ham Maddeye Yakınlık",
+      "body": "Çabuk bozulan ürünlerde fabrika hammadde yanına kurulur. Çay (Rize), Şeker pancarı (İç Anadolu), Konserve/Zeytinyağı (Ege)."
+    },
+    {
+      "card_number": 2,
+      "title": "Sanayide Enerji Kaynağına Yakınlık",
+      "body": "Karabük ve Ereğli Demir-Çelik Fabrikaları taş kömürüne (enerjiye) yakınlık nedeniyle buraya kurulmuştur."
+    },
+    {
+      "card_number": 3,
+      "title": "Sanayide Ulaşıma Yakınlık",
+      "body": "Samsun Bakır İşletmesi ve İzmit İpraş Petrol Rafinerisi hammaddesi dışarıdan geldiği için ULAŞIM/LİMAN kolaylığıyla kurulmuştur."
+    },
+    {
+      "card_number": 4,
+      "title": "Petrol Rafinerilerimiz",
+      "body": "İzmit (İpraş), İzmir (Aliağa), Mersin (Ataş), Kırıkkale (Orta Anadolu) ve Batman (Hammaddeye yakın tek rafineri)."
+    },
+    {
+      "card_number": 5,
+      "title": "Pamuklu Dokuma Sanayii",
+      "body": "Adana, İzmir, Aydın, Denizli, Gaziantep, Kayseri ve İstanbul ön plandadır."
+    },
+    {
+      "card_number": 6,
+      "title": "Otomotiv Sanayii Merkezleri",
+      "body": "Bursa, Kocaeli, Sakarya, İzmir, Aksaray ve Adana ana üretim merkezleridir."
+    },
+    {
+      "card_number": 7,
+      "title": "Demiryolu Ulaşımı Olmayan İllerimiz",
+      "body": "Doğu Karadeniz (Trabzon, Rize, Artvin), Antalya, Muğla, Sinop, Kastamonu, Çanakkale, Hakkari'ye demiryolu ULAŞMAZ."
+    },
+    {
+      "card_number": 8,
+      "title": "En Gelişmiş ve Ucuz Taşıma Türü",
+      "body": "Uluslararası ticarette en ucuz taşıma türü DENİZ YOLU, en pahalı taşıma türü HAVA YOLU'dur."
+    },
+    {
+      "card_number": 9,
+      "title": "Türkiye'nin İhracat (Dış Satım) Ürünleri",
+      "body": "Motorlu kara taşıtları, beyaz eşya, tekstil, fındık, bor, mermer, çimento, krom, kablo."
+    },
+    {
+      "card_number": 10,
+      "title": "Türkiye'nin İthalat (Dış Alım) Ürünleri",
+      "body": "Ham petrol, doğal gaz, ham demir-çelik, elektronik cihazlar, ilaç, iş makinesi, uçak."
+    }
+  ]
+}

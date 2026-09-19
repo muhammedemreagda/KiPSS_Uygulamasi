@@ -1,0 +1,977 @@
+{
+  "topic_id": "topic-mat-yuzde-oran",
+  "title": "Yüzde ve Oran-Orantı Problemleri",
+  "course_id": "course-matematik",
+  "question_count": 30,
+  "quick_note": {
+    "id": "qn-topic-mat-yuzde-oran",
+    "topic_id": "topic-mat-yuzde-oran",
+    "title": "Yüzde ve Oran-Orantı Problemleri Konu Anlatımı & Püf Noktaları",
+    "summary": "KPSS Matematik & Geometri testinde 'Yüzde ve Oran-Orantı Problemleri' konusu, sayısal mantık kurma, pratik işlem yapma ve zamandan kazanma açısından hayati önem taşır.",
+    "content": "Yüzde ve Oran-Orantı Problemleri konusu, KPSS Matematik & Geometri testinde sayısal netlerinizi üst seviyeye çıkaracak temel konulardan biridir.\n\n1. Matematiksel Yaklaşım ve Formül Mantığı:\nYüzde ve Oran-Orantı Problemleri konusunda sorular, doğrudan bilgi ile analitik düşünme yeteneğini birleştirir. Denklemler kurulurken verilerin mantıksal sıraya dizilmesi ve değişkenlerin doğru tanımlanması gerekir.\n\n2. ÖSYM Soru Tipleri ve Dikkat Edilecek Noktalar:\n- Problemlerde verilen metni matematiksel eşitliklere dönüştürürken birim uyumuna (km/saat - m/saniye, gün - saat) dikkat edin.\n- Kesirli veya yüzdeli sorularda küsuratlarla uğraşmamak için tamamına 100x veya paydaların çarpımını kat olarak verin.\n- Geometri sorularında ek çizimler (dik inme, paralel çizme, muhteşem üçlü oluşturma) yapmaktan çekinmeyin.\n\n3. Hızlı Çözüm Taktikleri:\n- Seçenekleri rasyonel şekilde elerken son basamak (birler basamağı) kontrolü veya bölünebilme kurallarından yararlanabilirsiniz.\n- Soru çözümlerinde zaman kazanmak için pratik formülleri kullanın ancak formülün hangi şartlarda geçerli olduğunu unutmayın.",
+    "key_points": [
+      "1. Yüzde ve Oran-Orantı Problemleri konusundaki temel formülleri ve kısa yolları ezberlemek yerine mantığını kavrayın.",
+      "2. Problemlerde bilinmeyen sayısını azaltmak için '100x' veya 'EKOK' alma taktiklerini kullanın.",
+      "3. İşlem hatası yapmamak için adımları kağıda düzenli ve okunaklı yazın.",
+      "4. Geometri sorularında verilen tüm bilgileri (açı, kenar eşitliği) şekil üzerine aktarın.",
+      "5. Zaman yönetimi için soruları çözerken kısa yolları aktif olarak uygulayın."
+    ],
+    "flashcards": [
+      {
+        "card_number": 1,
+        "title": "Bir Sayının Yüzdesini Bulma",
+        "body": "A sayısının %X'i = A . (X / 100) işlemi ile hesaplanır. Örnek: 200'ün %15'i = 200 . 15/100 = 30."
+      },
+      {
+        "card_number": 2,
+        "title": "Yüzde Değişimi Hesaplama",
+        "body": "Artış veya azalış yüzdesi = (Değişim Miktarı / İlk Miktar) . 100 formülüyle bulunur."
+      },
+      {
+        "card_number": 3,
+        "title": "100x Değişken Kabul Etme",
+        "body": "Yüzde problemlerinde bilinmeyen sayıya 'x' yerine '100x' demek küsuratlı işlemlerden kurtarır."
+      },
+      {
+        "card_number": 4,
+        "title": "Üst Üste Yüzde Zam (Bileşik)",
+        "body": "100 TL'lik ürüne %20 zam (120 TL), ardından %10 zam yapılırsa son fiyat 120 + 12 = 132 TL olur."
+      },
+      {
+        "card_number": 5,
+        "title": "Doğru Orantı Tanımı",
+        "body": "İki çokluktan biri artarken diğeri de aynı oranda artıyorsa doğru orantılıdır (a / b = k). Çapraz çarpım yapılır."
+      },
+      {
+        "card_number": 6,
+        "title": "Ters Orantı Tanımı",
+        "body": "İki çokluktan biri artarken diğeri aynı oranda azalıyorsa ters orantılıdır (a . b = k). Yan yana çarpım yapılır."
+      },
+      {
+        "card_number": 7,
+        "title": "Orantı Sabiti (k) Mantığı",
+        "body": "a, b, c sayıları sırasıyla 2, 3, 5 ile orantılı ise a=2k, b=3k, c=5k kabul edilir."
+      },
+      {
+        "card_number": 8,
+        "title": "Aritmetik Ortalama",
+        "body": "Sayıların toplamının sayı adedine bölünmesidir: A.O = (x1 + x2 + ... + xn) / n."
+      },
+      {
+        "card_number": 9,
+        "title": "Geometrik Ortalama",
+        "body": "n adet sayının çarpımının n. dereceden köküdür. İki sayı için G.O = kök(a . b)."
+      },
+      {
+        "card_number": 10,
+        "title": "Karışım Problemleri Yüzdesi",
+        "body": "Saf Madde Miktarı / Toplam Karışım Miktarı = Karışımın Yüzdesi / 100 formülü kullanılır."
+      }
+    ],
+    "source_reference": "2026 ÖSYM Müfredatı & Akademik KPSS Arşivi",
+    "is_verified": true,
+    "read_time_seconds": 180
+  },
+  "questions": [
+    {
+      "id": "q-topic-mat-yuzde-oran-1",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "A ve B değişkenleri ters orantılıdır. A = 12 iken B = 15 olduğuna göre, A = 20 iken B kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        },
+        {
+          "key": "E",
+          "text": "14"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ters orantılı iki çokluğun çarpımı sabittir: A · B = k. Verilen değerlerle orantı sabiti k = 12 · 15 = 180 bulunur. A = 20 iken 20 · B = 180 eşitliğinden B = 9 elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-2",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir sayının %30'unun %40'ı 18 olduğuna göre, bu sayı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "120"
+        },
+        {
+          "key": "B",
+          "text": "150"
+        },
+        {
+          "key": "C",
+          "text": "180"
+        },
+        {
+          "key": "D",
+          "text": "200"
+        },
+        {
+          "key": "E",
+          "text": "240"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Sayı x olsun. Yüzde işlemleri sırasıyla uygulanırsa: x · (30/100) · (40/100) = 18 ⇒ x · (12/100) = 18 olur. Buradan x = 18 · 100 / 12 = 150 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-3",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "a, b ve c sayıları sırasıyla 2, 3 ve 5 ile doğru orantılıdır. a + b + c = 80 olduğuna göre, c - a farkı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "32"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Doğru orantı kuralına göre a = 2k, b = 3k ve c = 5k yazılır. Toplamları 2k + 3k + 5k = 10k = 80 ⇒ k = 8 bulunur. c - a farkı = 5k - 2k = 3k = 3 · 8 = 24 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-4",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Yaş üzüm kurutulduğunda ağırlığının %20'sini kaybetmektedir. Buna göre, 60 kg kuru üzüm elde etmek için kaç kg yaş üzüm gereklidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "68"
+        },
+        {
+          "key": "B",
+          "text": "70"
+        },
+        {
+          "key": "C",
+          "text": "72"
+        },
+        {
+          "key": "D",
+          "text": "75"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Gerekli yaş üzüm miktarı x kg olsun. Kurutulduğunda %20 kayıp oluyorsa geriye %80'i kalır: x · (80/100) = 60 ⇒ x · (4/5) = 60 ⇒ x = 60 · 5 / 4 = 75 kg bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-5",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir sınıftaki kız öğrencilerin sayısının erkek öğrencilerin sayısına oranı 3/5'tir. Sınıftaki erkek öğrencilerin sayısı kız öğrencilerin sayısından 8 fazla olduğuna göre, sınıf mevcudu kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "36"
+        },
+        {
+          "key": "E",
+          "text": "32"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Kızların sayısı K = 3k, erkeklerin sayısı E = 5k olsun. Öğrenci sayıları farkı E - K = 5k - 3k = 2k = 8 ⇒ k = 4 bulunur. Sınıf mevcudu = 3k + 5k = 8k = 8 · 4 = 32 elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-6",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "A sayısı B sayısının %40'ına, B sayısı da C sayısının %50'sine eşittir. Buna göre, A sayısı C sayısının yüzde kaçıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "25"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "35"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "C = 100 birim alınırsa, B sayısı C'nin %50'si olduğundan B = 50 birim olur. A sayısı B'nin %40'ı olduğundan A = 50 · (40/100) = 20 birim olur. C = 100 iken A = 20 olduğundan, A sayısı C sayısının %20'sidir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-7",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir miktar bilye 3, 4 ve 6 yaşlarındaki üç çocuğa yaşlarıyla ters orantılı olarak paylaştırılıyor. En çok bilye alan çocuk 20 bilye aldığına göre, toplam kaç bilye paylaştırılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "45"
+        },
+        {
+          "key": "C",
+          "text": "50"
+        },
+        {
+          "key": "D",
+          "text": "54"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Ters orantı kuralına göre çocukların aldığı bilyeler a, b, c olmak üzere 3a = 4b = 6c = 12k kalıbına eşittir. Buradan a = 4k, b = 3k, c = 2k olur. En çok bilye alan en küçük yaştaki çocuk yani a dır. 4k = 20 ⇒ k = 5 bulunur. Toplam bilye sayısı = 4k + 3k + 2k = 9k = 9 · 5 = 45 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-8",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir dikdörtgenin uzun kenarı %20 artırılıp, kısa kenarı %10 azaltılırsa alanı yüzde kaç değişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "%10 artar"
+        },
+        {
+          "key": "B",
+          "text": "%10 azalır"
+        },
+        {
+          "key": "C",
+          "text": "%8 artar"
+        },
+        {
+          "key": "D",
+          "text": "%8 azalır"
+        },
+        {
+          "key": "E",
+          "text": "Değişmez"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Dikdörtgenin kenarlarını kolaylık olması için 10 birim ve 10 birim kabul edelim. Başlangıçtaki alan = 10 · 10 = 100 birimkare. Uzun kenar %20 artırılırsa 12 birim, kısa kenar %10 azaltılırsa 9 birim olur. Yeni alan = 12 · 9 = 108 birimkare. İlk alan 100 iken yeni alan 108 olduğundan alan %8 artar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-9",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir sınıftaki öğrencilerin %60'ı erkek öğrencidir. Erkek öğrencilerin %25'i gözlüklüdür. Sınıfta gözlüklü erkek öğrenci sayısı 6 olduğuna göre, sınıftaki kız öğrenci sayısı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "15"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        },
+        {
+          "key": "E",
+          "text": "18"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Sınıf mevcuduna 100x diyelim. Erkek öğrenciler = 60x, Kız öğrenciler = 40x olur. Gözlüklü erkek öğrenciler = 60x · (25/100) = 15x. 15x = 6 ⇒ x = 6/15 = 2/5 bulunur. Kız öğrenci sayısı = 40x = 40 · (2/5) = 16 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-10",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "x sayısı y sayısı ile doğru, z sayısı ile ters orantılıdır. x = 4 ve z = 3 iken y = 6 olduğuna göre, x = 5 ve z = 4 iken y kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "9"
+        },
+        {
+          "key": "E",
+          "text": "10"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Bileşik orantı formülü (x · z) / y = k dır. İlk değerlerle k sabiti bulunur: (4 · 3) / 6 = 2. İkinci durumda verilenlerle denklem kurulur: (5 · 4) / y = 2 ⇒ 20 / y = 2 ⇒ y = 10 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-11",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Hangi sayının %40'ının 12 fazlası, aynı sayının %70'ine eşittir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "60"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        },
+        {
+          "key": "E",
+          "text": "90"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Sayı x olsun. Denklem: 0,40x + 12 = 0,70x. Bilinmeyenler bir tarafa çekilirse 12 = 0,70x - 0,40x ⇒ 0,30x = 12 ⇒ (3/10)x = 12 ⇒ x = 12 · 10 / 3 = 40 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-12",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "12 işçinin günde 8 saat çalışarak 15 günde bitirdiği bir işi, aynı nitelikteki 10 işçi günde 6 saat çalışarak kaç günde bitirir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "30"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "İş miktarı sabit olduğundan bileşik orantı denklemi: (İşçi₁ · Saat₁ · Gün₁) = (İşçi₂ · Saat₂ · Gün₂). 12 · 8 · 15 = 10 · 6 · x ⇒ 1440 = 60x ⇒ x = 24 gün olarak bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-13",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir memurun maaşına önce %20 zam, ardından zamlı maaş üzerinden %10 zam yapılıyor. Memurun maaşındaki toplam artış yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "28"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "32"
+        },
+        {
+          "key": "D",
+          "text": "34"
+        },
+        {
+          "key": "E",
+          "text": "35"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Maaşı başlangıçta 100 TL kabul edelim. İlk zamdan sonra: 100 + 20 = 120 TL olur. İkinci zam %10, 120 TL üzerinden yapılır: 120 · (10/100) = 12 TL. Son maaş = 120 + 12 = 132 TL. Başlangıç 100 TL iken son durum 132 TL olduğundan net artış %32 dir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-14",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir torbadaki kırmızı bilyelerin sayısının mavi bilyelerin sayısına oranı 4/7'dir. Torbaya 6 kırmızı bilye eklenip torbadan 3 mavi bilye çıkarıldığında oran 2/3 oluyor. Başlangıçta torbada kaç bilye vardı?",
+      "options": [
+        {
+          "key": "A",
+          "text": "110"
+        },
+        {
+          "key": "B",
+          "text": "120"
+        },
+        {
+          "key": "C",
+          "text": "121"
+        },
+        {
+          "key": "D",
+          "text": "132"
+        },
+        {
+          "key": "E",
+          "text": "143"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Kırmızı bilyeler K = 4x, mavi bilyeler M = 7x olsun. Yapılan değişikliklerle oran: (4x + 6) / (7x - 3) = 2/3 olur. İçler dışlar çarpımı yapılırsa: 3(4x + 6) = 2(7x - 3) ⇒ 12x + 18 = 14x - 6 ⇒ 2x = 24 ⇒ x = 12 bulunur. Başlangıçtaki toplam bilye sayısı = 4x + 7x = 11x = 11 · 12 = 132 elde edilir.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-15",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir ürünün fiyatına %30 indirim yapıldıktan sonra satışların az olduğu görülüp indirimli fiyat üzerinden %20 indirim daha yapılmıştır. İlk fiyata göre toplam indirim yüzde kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "48"
+        },
+        {
+          "key": "C",
+          "text": "46"
+        },
+        {
+          "key": "D",
+          "text": "45"
+        },
+        {
+          "key": "E",
+          "text": "44"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Ürünün ilk fiyatını 100 TL kabul edelim. İlk indirimle fiyat 70 TL olur. İkinci indirim 70 TL üzerinden %20 yapılır: 70 · (20/100) = 14 TL. Son fiyat = 70 - 14 = 56 TL. Toplam indirim miktarı = 100 - 56 = 44 TL yani %44 tür.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-16",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "a/b = 2/3 ve b/c = 4/5 olduğuna göre, (a + c) / b oranı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "23/12"
+        },
+        {
+          "key": "B",
+          "text": "7/4"
+        },
+        {
+          "key": "C",
+          "text": "19/12"
+        },
+        {
+          "key": "D",
+          "text": "5/3"
+        },
+        {
+          "key": "E",
+          "text": "2/1"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Ortak olan b değişkeninin hizasındaki sayılar eşitlenir (3 ve 4 en küçük 12'de eşitlenir). a/b = 8/12 ve b/c = 12/15 olur. Buradan a = 8k, b = 12k ve c = 15k yazılabilir. İstenen oran: (a + c) / b = (8k + 15k) / 12k = 23k / 12k = 23/12 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-17",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir su deposunun %40'ı doludur. Depoya 70 litre su eklendiğinde deponun %75'i dolu hale geliyor. Deponun tamamı kaç litre su alır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "180"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "220"
+        },
+        {
+          "key": "D",
+          "text": "240"
+        },
+        {
+          "key": "E",
+          "text": "250"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Eklenen 70 litre su doluluk oranını %75 - %40 = %35 kadar artırmıştır. Deponun tamamı V olsun. V · (35/100) = 70 ⇒ V · (7/20) = 70 ⇒ V = 70 · 20 / 7 = 200 litre bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-18",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir babanın parası 3 çocuğuna yaşları olan 6, 8 ve 10 ile orantılı olarak paylaştırılıyor. En küçük çocuk 120 TL aldığına göre, dağıtılan toplam para kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "360"
+        },
+        {
+          "key": "B",
+          "text": "420"
+        },
+        {
+          "key": "C",
+          "text": "480"
+        },
+        {
+          "key": "D",
+          "text": "540"
+        },
+        {
+          "key": "E",
+          "text": "600"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Çocukların aldığı paralar 6k, 8k ve 10k dır. En küçük çocuk 6 yaşında olduğundan 6k = 120 TL ⇒ k = 20 TL bulunur. Dağıtılan toplam para = 6k + 8k + 10k = 24k = 24 · 20 = 480 TL elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-19",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir sütçü süte ağırlığının %25'i kadar su eklemektedir. Süte katılan su miktarı elde edilen karışımdaki suyun yüzde kaçıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12,5"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "18"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        },
+        {
+          "key": "E",
+          "text": "25"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "100 birim saf süt olsun. Eklenen su miktarı = 25 birimdir. Oluşan toplam karışım = 100 + 25 = 125 birimdir. Karışımdaki su oranı = (Su miktarı / Toplam karışım) = 25 / 125 = 1/5 tir. 1/5 kesri yüzdeye çevrilirse %20 bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-20",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir sınavda öğrencilerin %80'i başarılı olmıştır. Başarılı olan öğrencilerin %30'u erkektir. Sınıfta başarılı kız öğrenci sayısı 42 olduğuna göre, sınıf mevcudu kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "65"
+        },
+        {
+          "key": "C",
+          "text": "70"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        },
+        {
+          "key": "E",
+          "text": "75"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Sınıf mevcuduna 100x diyelim. Başarılı öğrenciler = 80x. Başarılı öğrencilerin %30'u erkek ise %70'i kız öğrencidir. Başarılı kız öğrenciler = 80x · (70/100) = 56x. 56x = 42 ⇒ x = 42/56 = 3/4 bulunur. Sınıf mevcudu = 100x = 100 · (3/4) = 75 öğrenci elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-21",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir kenar uzunluğu a birim olan bir karenin kenar uzunlukları %30 artırılırsa, bu karenin alanı yüzde kaç artar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "69"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "56"
+        },
+        {
+          "key": "D",
+          "text": "49"
+        },
+        {
+          "key": "E",
+          "text": "30"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Karenin kenarını hesap kolaylığı açısından 10 birim alalım. İlk alan = 10 · 10 = 100 birimkare. Kenarlar %30 artırılırsa yeni kenar = 13 birim olur. Yeni alan = 13 · 13 = 169 birimkare. Başlangıç alanı 100 iken yeni alan 169 olduğu için alan %69 artar.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-22",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "x, y, z sayıları sırasıyla 3, 5, 7 sayıları ile orantılıdır. 2x + y - z = 24 olduğuna göre, x + y + z toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "75"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "105"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "135"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "x = 3k, y = 5k, z = 7k yazılır. Verilen eşitlikte yerine koyulursa: 2(3k) + 5k - 7k = 24 ⇒ 6k + 5k - 7k = 24 ⇒ 4k = 24 ⇒ k = 6 bulunur. x + y + z = 3k + 5k + 7k = 15k = 15 · 6 = 90 elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-23",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Yaş kayısı kurutulduğunda ağırlığının %30'unu kaybetmektedir. Kilosu 14 TL'den alınan yaş kayısı kurutulup satılacaktır. Zarar edilmemesi için kuru kayısının kilosu en az kaç TL'den satılmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "19"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "21"
+        },
+        {
+          "key": "E",
+          "text": "22"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "100 kg yaş kayısı alındığı düşünülsün. Maliyet = 100 kg · 14 TL = 1400 TL. Kurutulunca geriye %70'i yani 70 kg kuru kayısı kalır. Zarar edilmemesi için 70 kg kuru kayısının 1400 TL gelir getirmesi gerekir: 70 · x = 1400 ⇒ x = 20 TL bulunur.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-24",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "A, B ve C maddelerinden oluşan bir karışımdaki madde miktarları A/B = 2/3 ve B/C = 3/4 oranlarındadır. Karışımın toplam ağırlığı 360 gram olduğuna göre, B maddesinden kaç gram vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "160"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Oranlar düzenlendiğinde B her ikisinde de 3 katıdır. Dolayısıyla A = 2k, B = 3k ve C = 4k kabul edilebilir. Toplam ağırlık = 2k + 3k + 4k = 9k = 360 ⇒ k = 40 gram bulunur. B maddesinin ağırlığı = 3k = 3 · 40 = 120 gram elde edilir.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-25",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir mağazadaki ürünlerin fiyatı önce %20 zamlandırılmış, daha sonra zamlı fiyat üzerinden %20 indirim yapılmıştır. İlk duruma göre ürünlerin fiyatındaki değişim nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "%4 artar"
+        },
+        {
+          "key": "B",
+          "text": "%2 artar"
+        },
+        {
+          "key": "C",
+          "text": "Değişmez"
+        },
+        {
+          "key": "D",
+          "text": "%2 azalır"
+        },
+        {
+          "key": "E",
+          "text": "%4 azalır"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Ürün fiyatını başlangıçta 100 TL kabul edelim. %20 zam yapıldığında fiyat 120 TL olur. 120 TL üzerinden %20 indirim yapılırsa: 120 · (20/100) = 24 TL indirim yapılır. Son fiyat = 120 - 24 = 96 TL. Başlangıçta 100 TL olan fiyat son durumda 96 TL olduğu için %4 azalmıştır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-26",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Aynı güçteki 8 usta bir işi 12 günde, aynı güçteki 6 kalfa ise aynı işi 24 günde bitirebilmektedir. Buna göre, 4 usta ile 3 kalfa birlikte aynı işi kaç günde bitirir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Bir ustanın günlük iş yapma hızı u, kalfanın günlük iş yapma hızı k olsun. İş miktarı = 8u · 12 = 96u. Aynı iş = 6k · 24 = 144k. Buradan 96u = 144k ⇒ 2u = 3k ⇒ u = 3v ve k = 2v seçilir. Toplam iş = 96 · (3v) = 288v birimdir. 4 usta + 3 kalfanın toplam günlük hızı = 4(3v) + 3(2v) = 12v + 6v = 18v dir. Bitirme süresi t = 288v / 18v = 16 gün bulunur.",
+      "difficulty_level": 4
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-27",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir tarladaki buğdayın %40'ı birinci gün, kalan buğdayın %50'si ikinci gün biçilmiştir. Geride biçilmeyen 18 dönüm buğday kaldığına göre, tarlanın tamamı kaç dönümdür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "70"
+        },
+        {
+          "key": "D",
+          "text": "75"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Tarlanın tamamı 100x dönüm olsun. 1. gün biçilen = 40x, kalan = 60x. 2. gün biçilen = 60x · (50/100) = 30x. İki gün sonunda biçilen toplam = 40x + 30x = 70x. Kalan tarla = 100x - 70x = 30x. 30x = 18 ⇒ x = 18/30 = 3/5 bulunur. Tarlanın tamamı = 100x = 100 · (3/5) = 60 dönüm elde edilir.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-28",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "a/b = c/d = 3 olduğuna göre, (a + 2c) / (b + 2d) ifadesinin değeri kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "9"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Orantı özelliğine göre bir orantıda paylar kendi arasında belli katsayılarla çarpılıp toplanır, paydalar da aynı katsayılarla çarpılıp toplanırsa orantı sabiti değişmez k kalır. Burada a/b = 3 ve 2c/2d = 3 olduğundan (a + 2c) / (b + 2d) = 3 olarak kalır.",
+      "difficulty_level": 3
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-29",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir fabrikada üretilen ürünlerin %5'i defoludur. Defosuz ürünlerin sayısı 380 olduğuna göre, bu fabrikada toplam kaç ürün üretilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "390"
+        },
+        {
+          "key": "B",
+          "text": "395"
+        },
+        {
+          "key": "C",
+          "text": "398"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        },
+        {
+          "key": "E",
+          "text": "420"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "Ürünlerin %5'i defolu ise %95'i defosuzdur. Toplam ürün sayısı N olsun. N · (95/100) = 380 ⇒ N = 380 · 100 / 95 = 4 · 100 = 400 bulunur.",
+      "difficulty_level": 2
+    },
+    {
+      "id": "q-topic-mat-yuzde-oran-30",
+      "topic_id": "topic-mat-yuzde-oran",
+      "question_text": "Bir boyacı A, B ve C renklerini sırasıyla 2, 3 ve 5 sayıları ile orantılı olarak karıştırıp 500 gramlık bir boya elde ediyor. Karışımda A renginden kaç gram kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "150"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "250"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "100"
+        }
+      ],
+      "correct_option": "E",
+      "explanation": "Doğru orantılı kısımlar A = 2k, B = 3k ve C = 5k dır. Toplam karışım = 2k + 3k + 5k = 10k = 500 gram ⇒ k = 50 gram bulunur. A renginden kullanılan miktar = 2k = 2 · 50 = 100 gram olarak hesaplanır.",
+      "difficulty_level": 2
+    }
+  ]
+}
